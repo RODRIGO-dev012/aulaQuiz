@@ -1,0 +1,700 @@
+[
+  {
+    "id": "sociales",
+    "subject": "Ciencias Sociales",
+    "title": "Estado y ciudadanía en Bolivia",
+    "description": "Explora nuestra democracia, nuestros derechos y la historia que compartimos.",
+    "color": "blue",
+    "grade": "Secundaria · Demostración",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "sociales-1",
+        "topic": "Organización del Estado",
+        "text": "¿Cuántos órganos de poder reconoce la Constitución Política del Estado de Bolivia?",
+        "options": [
+          {
+            "id": "sociales-1-o1",
+            "text": "Cuatro"
+          },
+          {
+            "id": "sociales-1-o2",
+            "text": "Tres"
+          },
+          {
+            "id": "sociales-1-o3",
+            "text": "Dos"
+          },
+          {
+            "id": "sociales-1-o4",
+            "text": "Cinco"
+          }
+        ],
+        "correctOptionId": "sociales-1-o1",
+        "explanation": "Son los órganos Legislativo, Ejecutivo, Judicial y Electoral.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-2",
+        "topic": "Historia política",
+        "text": "¿En qué año se promulgó la actual Constitución Política del Estado de Bolivia?",
+        "options": [
+          {
+            "id": "sociales-2-o1",
+            "text": "2009"
+          },
+          {
+            "id": "sociales-2-o2",
+            "text": "1994"
+          },
+          {
+            "id": "sociales-2-o3",
+            "text": "1982"
+          },
+          {
+            "id": "sociales-2-o4",
+            "text": "2005"
+          }
+        ],
+        "correctOptionId": "sociales-2-o1",
+        "explanation": "La actual Constitución fue promulgada el 7 de febrero de 2009.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-3",
+        "topic": "Democracia",
+        "text": "¿Cuál es una característica fundamental de la democracia?",
+        "options": [
+          {
+            "id": "sociales-3-o1",
+            "text": "La participación ciudadana"
+          },
+          {
+            "id": "sociales-3-o2",
+            "text": "La ausencia de elecciones"
+          },
+          {
+            "id": "sociales-3-o3",
+            "text": "La concentración del poder"
+          },
+          {
+            "id": "sociales-3-o4",
+            "text": "La prohibición del debate"
+          }
+        ],
+        "correctOptionId": "sociales-3-o1",
+        "explanation": "La democracia permite que la ciudadanía participe en las decisiones públicas.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-4",
+        "topic": "Derechos y deberes",
+        "text": "¿Cuál de las siguientes acciones es un deber ciudadano?",
+        "options": [
+          {
+            "id": "sociales-4-o1",
+            "text": "Respetar los derechos de otras personas"
+          },
+          {
+            "id": "sociales-4-o2",
+            "text": "Impedir que otros expresen su opinión"
+          },
+          {
+            "id": "sociales-4-o3",
+            "text": "Discriminar por el idioma"
+          },
+          {
+            "id": "sociales-4-o4",
+            "text": "Desconocer las normas de convivencia"
+          }
+        ],
+        "correctOptionId": "sociales-4-o1",
+        "explanation": "La convivencia democrática requiere respetar los derechos de todas las personas.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-5",
+        "topic": "Organización del Estado",
+        "text": "¿Cuál es una función principal del Órgano Legislativo?",
+        "options": [
+          {
+            "id": "sociales-5-o1",
+            "text": "Aprobar leyes"
+          },
+          {
+            "id": "sociales-5-o2",
+            "text": "Administrar justicia"
+          },
+          {
+            "id": "sociales-5-o3",
+            "text": "Organizar elecciones"
+          },
+          {
+            "id": "sociales-5-o4",
+            "text": "Dirigir las relaciones diplomáticas"
+          }
+        ],
+        "correctOptionId": "sociales-5-o1",
+        "explanation": "El Órgano Legislativo tiene la facultad de aprobar y sancionar leyes.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-6",
+        "topic": "Historia política",
+        "text": "¿Qué ocurrió en Bolivia en octubre de 1982?",
+        "options": [
+          {
+            "id": "sociales-6-o1",
+            "text": "El retorno a un gobierno democrático"
+          },
+          {
+            "id": "sociales-6-o2",
+            "text": "La independencia de Bolivia"
+          },
+          {
+            "id": "sociales-6-o3",
+            "text": "La promulgación de la Constitución de 2009"
+          },
+          {
+            "id": "sociales-6-o4",
+            "text": "La fundación de La Paz"
+          }
+        ],
+        "correctOptionId": "sociales-6-o1",
+        "explanation": "El 10 de octubre de 1982 comenzó el gobierno de Hernán Siles Zuazo, que marcó el retorno a la democracia.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-7",
+        "topic": "Ciudadanía",
+        "text": "¿Qué significa la interculturalidad?",
+        "options": [
+          {
+            "id": "sociales-7-o1",
+            "text": "El diálogo respetuoso entre culturas"
+          },
+          {
+            "id": "sociales-7-o2",
+            "text": "La imposición de una sola cultura"
+          },
+          {
+            "id": "sociales-7-o3",
+            "text": "La separación obligatoria de culturas"
+          },
+          {
+            "id": "sociales-7-o4",
+            "text": "La desaparición de las lenguas originarias"
+          }
+        ],
+        "correctOptionId": "sociales-7-o1",
+        "explanation": "La interculturalidad promueve el diálogo y el respeto entre distintas culturas.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-8",
+        "topic": "Derechos y deberes",
+        "text": "¿Qué derecho permite expresar ideas sin censura previa, respetando los derechos de los demás?",
+        "options": [
+          {
+            "id": "sociales-8-o1",
+            "text": "La libertad de expresión"
+          },
+          {
+            "id": "sociales-8-o2",
+            "text": "El derecho de propiedad"
+          },
+          {
+            "id": "sociales-8-o3",
+            "text": "El derecho al descanso"
+          },
+          {
+            "id": "sociales-8-o4",
+            "text": "El derecho a la salud"
+          }
+        ],
+        "correctOptionId": "sociales-8-o1",
+        "explanation": "La libertad de expresión protege la comunicación de ideas y opiniones.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-9",
+        "topic": "Historia política",
+        "text": "¿Cuál fue una consecuencia de las dictaduras militares en Bolivia?",
+        "options": [
+          {
+            "id": "sociales-9-o1",
+            "text": "La restricción de libertades y la persecución política"
+          },
+          {
+            "id": "sociales-9-o2",
+            "text": "La ampliación continua de libertades democráticas"
+          },
+          {
+            "id": "sociales-9-o3",
+            "text": "La eliminación de las fuerzas armadas"
+          },
+          {
+            "id": "sociales-9-o4",
+            "text": "La desaparición de los conflictos sociales"
+          }
+        ],
+        "correctOptionId": "sociales-9-o1",
+        "explanation": "Los regímenes dictatoriales restringieron libertades democráticas y persiguieron a opositores.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "sociales-10",
+        "topic": "Ciudadanía",
+        "text": "¿Qué acción favorece una convivencia democrática en la escuela?",
+        "options": [
+          {
+            "id": "sociales-10-o1",
+            "text": "Dialogar para resolver desacuerdos"
+          },
+          {
+            "id": "sociales-10-o2",
+            "text": "Excluir a quienes piensan diferente"
+          },
+          {
+            "id": "sociales-10-o3",
+            "text": "Imponer decisiones por la fuerza"
+          },
+          {
+            "id": "sociales-10-o4",
+            "text": "Evitar escuchar a otras personas"
+          }
+        ],
+        "correctOptionId": "sociales-10-o1",
+        "explanation": "El diálogo y la escucha permiten resolver los desacuerdos con respeto.",
+        "shuffleOptions": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "id": "lenguaje",
+    "subject": "Lenguaje",
+    "title": "Palabras que conectan",
+    "description": "Refuerza tu comprensión lectora y descubre el poder del lenguaje.",
+    "color": "purple",
+    "grade": "Secundaria · Demostración",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "lenguaje-1",
+        "topic": "Gramática",
+        "text": "¿Cuál de estas palabras es un verbo?",
+        "options": [
+          {
+            "id": "lenguaje-1-o1",
+            "text": "Aprender"
+          },
+          {
+            "id": "lenguaje-1-o2",
+            "text": "Escuela"
+          },
+          {
+            "id": "lenguaje-1-o3",
+            "text": "Azul"
+          },
+          {
+            "id": "lenguaje-1-o4",
+            "text": "Rápidamente"
+          }
+        ],
+        "correctOptionId": "lenguaje-1-o1",
+        "explanation": "Aprender expresa una acción; por eso es un verbo.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "lenguaje-2",
+        "topic": "Comprensión lectora",
+        "text": "¿Qué es la idea principal de un texto?",
+        "options": [
+          {
+            "id": "lenguaje-2-o1",
+            "text": "La información central que comunica"
+          },
+          {
+            "id": "lenguaje-2-o2",
+            "text": "La palabra más larga"
+          },
+          {
+            "id": "lenguaje-2-o3",
+            "text": "La última oración siempre"
+          },
+          {
+            "id": "lenguaje-2-o4",
+            "text": "El nombre del autor"
+          }
+        ],
+        "correctOptionId": "lenguaje-2-o1",
+        "explanation": "La idea principal resume lo esencial de un texto.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "lenguaje-3",
+        "topic": "Ortografía",
+        "text": "¿Cuál de estas palabras lleva tilde correctamente?",
+        "options": [
+          {
+            "id": "lenguaje-3-o1",
+            "text": "Árbol"
+          },
+          {
+            "id": "lenguaje-3-o2",
+            "text": "Arból"
+          },
+          {
+            "id": "lenguaje-3-o3",
+            "text": "Arbol"
+          },
+          {
+            "id": "lenguaje-3-o4",
+            "text": "Árból"
+          }
+        ],
+        "correctOptionId": "lenguaje-3-o1",
+        "explanation": "Árbol es una palabra llana terminada en una consonante distinta de n o s.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "lenguaje-4",
+        "topic": "Vocabulario",
+        "text": "¿Cuál es un sinónimo de alegre?",
+        "options": [
+          {
+            "id": "lenguaje-4-o1",
+            "text": "Contento"
+          },
+          {
+            "id": "lenguaje-4-o2",
+            "text": "Triste"
+          },
+          {
+            "id": "lenguaje-4-o3",
+            "text": "Enojado"
+          },
+          {
+            "id": "lenguaje-4-o4",
+            "text": "Cansado"
+          }
+        ],
+        "correctOptionId": "lenguaje-4-o1",
+        "explanation": "Contento y alegre expresan una emoción similar.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "lenguaje-5",
+        "topic": "Gramática",
+        "text": "En «La estudiante lee un libro», ¿cuál es el sujeto?",
+        "options": [
+          {
+            "id": "lenguaje-5-o1",
+            "text": "La estudiante"
+          },
+          {
+            "id": "lenguaje-5-o2",
+            "text": "Lee"
+          },
+          {
+            "id": "lenguaje-5-o3",
+            "text": "Un libro"
+          },
+          {
+            "id": "lenguaje-5-o4",
+            "text": "Lee un libro"
+          }
+        ],
+        "correctOptionId": "lenguaje-5-o1",
+        "explanation": "El sujeto es quien realiza la acción: la estudiante.",
+        "shuffleOptions": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "id": "matematicas",
+    "subject": "Matemáticas",
+    "title": "Un reto para tu mente",
+    "description": "Practica números, proporciones y problemas de todos los días.",
+    "color": "green",
+    "grade": "Secundaria · Demostración",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "matematicas-1",
+        "topic": "Aritmética",
+        "text": "¿Cuánto es el 25 % de 80?",
+        "options": [
+          {
+            "id": "matematicas-1-o1",
+            "text": "20"
+          },
+          {
+            "id": "matematicas-1-o2",
+            "text": "25"
+          },
+          {
+            "id": "matematicas-1-o3",
+            "text": "40"
+          },
+          {
+            "id": "matematicas-1-o4",
+            "text": "15"
+          }
+        ],
+        "correctOptionId": "matematicas-1-o1",
+        "explanation": "80 × 0,25 = 20.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "matematicas-2",
+        "topic": "Álgebra",
+        "text": "Si 2x + 4 = 12, ¿cuánto vale x?",
+        "options": [
+          {
+            "id": "matematicas-2-o1",
+            "text": "4"
+          },
+          {
+            "id": "matematicas-2-o2",
+            "text": "6"
+          },
+          {
+            "id": "matematicas-2-o3",
+            "text": "8"
+          },
+          {
+            "id": "matematicas-2-o4",
+            "text": "2"
+          }
+        ],
+        "correctOptionId": "matematicas-2-o1",
+        "explanation": "Restamos 4 y dividimos entre 2: x = 8 / 2 = 4.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "matematicas-3",
+        "topic": "Geometría",
+        "text": "¿Cuál es el área de un rectángulo de 6 cm por 4 cm?",
+        "options": [
+          {
+            "id": "matematicas-3-o1",
+            "text": "24 cm²"
+          },
+          {
+            "id": "matematicas-3-o2",
+            "text": "20 cm²"
+          },
+          {
+            "id": "matematicas-3-o3",
+            "text": "10 cm²"
+          },
+          {
+            "id": "matematicas-3-o4",
+            "text": "12 cm²"
+          }
+        ],
+        "correctOptionId": "matematicas-3-o1",
+        "explanation": "El área se calcula multiplicando base por altura: 6 × 4 = 24 cm².",
+        "shuffleOptions": true
+      },
+      {
+        "id": "matematicas-4",
+        "topic": "Fracciones",
+        "text": "¿A qué fracción equivale 0,5?",
+        "options": [
+          {
+            "id": "matematicas-4-o1",
+            "text": "1/2"
+          },
+          {
+            "id": "matematicas-4-o2",
+            "text": "1/5"
+          },
+          {
+            "id": "matematicas-4-o3",
+            "text": "2/5"
+          },
+          {
+            "id": "matematicas-4-o4",
+            "text": "5/2"
+          }
+        ],
+        "correctOptionId": "matematicas-4-o1",
+        "explanation": "0,5 = 5/10 = 1/2.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "matematicas-5",
+        "topic": "Estadística",
+        "text": "¿Cuál es la media de 2, 4 y 6?",
+        "options": [
+          {
+            "id": "matematicas-5-o1",
+            "text": "4"
+          },
+          {
+            "id": "matematicas-5-o2",
+            "text": "3"
+          },
+          {
+            "id": "matematicas-5-o3",
+            "text": "6"
+          },
+          {
+            "id": "matematicas-5-o4",
+            "text": "12"
+          }
+        ],
+        "correctOptionId": "matematicas-5-o1",
+        "explanation": "La media es (2 + 4 + 6) / 3 = 4.",
+        "shuffleOptions": true
+      }
+    ],
+    "demo": true
+  },
+  {
+    "id": "biologia",
+    "subject": "Biología",
+    "title": "La vida a tu alrededor",
+    "description": "Descubre cómo funcionan los seres vivos y nuestro planeta.",
+    "color": "mint",
+    "grade": "Secundaria · Demostración",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "biologia-1",
+        "topic": "Células",
+        "text": "¿Cuál es la unidad básica de los seres vivos?",
+        "options": [
+          {
+            "id": "biologia-1-o1",
+            "text": "La célula"
+          },
+          {
+            "id": "biologia-1-o2",
+            "text": "El órgano"
+          },
+          {
+            "id": "biologia-1-o3",
+            "text": "El átomo"
+          },
+          {
+            "id": "biologia-1-o4",
+            "text": "El tejido"
+          }
+        ],
+        "correctOptionId": "biologia-1-o1",
+        "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "biologia-2",
+        "topic": "Botánica",
+        "text": "¿Qué proceso permite a las plantas producir alimento usando luz?",
+        "options": [
+          {
+            "id": "biologia-2-o1",
+            "text": "La fotosíntesis"
+          },
+          {
+            "id": "biologia-2-o2",
+            "text": "La digestión"
+          },
+          {
+            "id": "biologia-2-o3",
+            "text": "La evaporación"
+          },
+          {
+            "id": "biologia-2-o4",
+            "text": "La fermentación"
+          }
+        ],
+        "correctOptionId": "biologia-2-o1",
+        "explanation": "En la fotosíntesis se usa energía luminosa para producir materia orgánica.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "biologia-3",
+        "topic": "Ecología",
+        "text": "¿Qué es un ecosistema?",
+        "options": [
+          {
+            "id": "biologia-3-o1",
+            "text": "Los seres vivos y su entorno en interacción"
+          },
+          {
+            "id": "biologia-3-o2",
+            "text": "Solo los animales de un bosque"
+          },
+          {
+            "id": "biologia-3-o3",
+            "text": "Una única especie"
+          },
+          {
+            "id": "biologia-3-o4",
+            "text": "Solo el agua de un lago"
+          }
+        ],
+        "correctOptionId": "biologia-3-o1",
+        "explanation": "Un ecosistema incluye organismos y componentes físicos que interactúan.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "biologia-4",
+        "topic": "Cuerpo humano",
+        "text": "¿Qué órgano bombea la sangre?",
+        "options": [
+          {
+            "id": "biologia-4-o1",
+            "text": "El corazón"
+          },
+          {
+            "id": "biologia-4-o2",
+            "text": "El pulmón"
+          },
+          {
+            "id": "biologia-4-o3",
+            "text": "El estómago"
+          },
+          {
+            "id": "biologia-4-o4",
+            "text": "El hígado"
+          }
+        ],
+        "correctOptionId": "biologia-4-o1",
+        "explanation": "El corazón impulsa la sangre por el sistema circulatorio.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "biologia-5",
+        "topic": "Ecología",
+        "text": "¿Cuál es una fuente de energía renovable?",
+        "options": [
+          {
+            "id": "biologia-5-o1",
+            "text": "La energía solar"
+          },
+          {
+            "id": "biologia-5-o2",
+            "text": "El petróleo"
+          },
+          {
+            "id": "biologia-5-o3",
+            "text": "El carbón"
+          },
+          {
+            "id": "biologia-5-o4",
+            "text": "El gas natural"
+          }
+        ],
+        "correctOptionId": "biologia-5-o1",
+        "explanation": "La energía del Sol se renueva de manera natural.",
+        "shuffleOptions": true
+      }
+    ],
+    "demo": true
+  }
+]

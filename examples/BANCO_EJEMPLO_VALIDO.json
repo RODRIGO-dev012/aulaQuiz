@@ -1,0 +1,40 @@
+{
+  "id": "ejemplo-ciencias-formato",
+  "subject": "Química",
+  "grade": "Secundaria · Ejemplo de formato",
+  "title": "Demostración de notación científica",
+  "description": "Ejemplo técnico, no procede de formularios reales.",
+  "color": "purple",
+  "demo": true,
+  "shuffleQuestions": false,
+  "questions": [
+    {
+      "id": "ejemplo-notacion-1",
+      "topic": "Lectura de notación",
+      "text": "Ejemplo de formato: selecciona la opción que representa agua. Matemáticas: \\(x^2 + \\frac{1}{2}\\). Química: \\(\\ce{H2O}\\). Símbolos: Δ, Ω, CO₂, m/s².",
+      "options": [
+        {
+          "id": "agua",
+          "text": "\\(\\ce{H2O}\\)"
+        },
+        {
+          "id": "oxigeno",
+          "text": "\\(\\ce{O2}\\)"
+        },
+        {
+          "id": "sodio",
+          "text": "\\(\\ce{Na+}\\)"
+        },
+        {
+          "id": "co2",
+          "text": "\\(\\ce{CO2}\\)"
+        }
+      ],
+      "correctOptionId": "agua",
+      "explanation": "Ejemplo de notación: \\(\\ce{2H2 + O2 -> 2H2O}\\). Exponentes y subíndices: \\(a^{2}+x_{1}\\).",
+      "image": "images/ejemplo-molecula.svg",
+      "imageAlt": "Diagrama ilustrativo de una molécula de agua: un oxígeno y dos hidrógenos.",
+      "shuffleOptions": false
+    }
+  ]
+}

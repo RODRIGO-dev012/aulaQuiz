@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sociales-01",
+    "subject": "Ciencias Sociales",
+    "status": "pendiente-de-contenido-real"
+  },
+  {
+    "id": "sociales-02",
+    "subject": "Ciencias Sociales",
+    "status": "pendiente-de-contenido-real"
+  },
+  {
+    "id": "sociales-03",
+    "subject": "Ciencias Sociales",
+    "status": "pendiente-de-contenido-real"
+  },
+  {
+    "id": "sociales-04",
+    "subject": "Ciencias Sociales",
+    "status": "pendiente-de-contenido-real"
+  },
+  {
+    "id": "quimica-01",
+    "subject": "Química",
+    "status": "pendiente-de-contenido-real"
+  },
+  {
+    "id": "fisica-01",
+    "subject": "Física",
+    "status": "pendiente-de-contenido-real"
+  },
+  {
+    "id": "matematicas-01",
+    "subject": "Matemáticas",
+    "status": "pendiente-de-contenido-real"
+  }
+]

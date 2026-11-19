@@ -1,0 +1,31 @@
+﻿node_modules/
+dist/
+*.tsbuildinfo
+.npm-cache/
+artifacts/
+respaldos/
+*.zip
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*
+tokens*
+.codex/
+.agents/
+.aws/
+# Academic source content is private until separately authorized.
+importaciones/
+revisiones/
+src/data/local-review-banks.json
+tests-academic/
+tests-local/
+# Generated public delivery folders are not source repositories.
+publicacion/fuente-*/
+publicacion/paquete-*/
+# Internal evidence/archives and restoration manifests.
+AULAQUIZ_IMPORTACION_SHA256.txt
+INFORME_VALIDACION_ACADEMICA.md
+INFORME_APRENDIZAJE_PROGRESIVO.md
+GUIA_INTERNA_*.md

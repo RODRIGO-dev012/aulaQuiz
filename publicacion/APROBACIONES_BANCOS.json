@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "policy": "La publicación de demostraciones está autorizada por el encargo V1.3 apartado 12. Ningún banco real cuenta todavía con aprobación académica ni autorización de publicación registrada.",
+  "banks": [
+    {
+      "bankId": "sociales",
+      "title": "Estado y ciudadanía en Bolivia",
+      "kind": "demonstration",
+      "questions": 10,
+      "sha256": "ae596995466c60f0350d903e164fc3b25be8fd997215357647a358ed800adb28",
+      "publicationAuthorized": true,
+      "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+      "academicApproval": {
+        "status": "demonstration",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "lenguaje",
+      "title": "Palabras que conectan",
+      "kind": "demonstration",
+      "questions": 5,
+      "sha256": "7c46815ff2ee5385d4d178c99b7141d290758a5e3f60c38dea479e0948f3409f",
+      "publicationAuthorized": true,
+      "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+      "academicApproval": {
+        "status": "demonstration",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "matematicas",
+      "title": "Un reto para tu mente",
+      "kind": "demonstration",
+      "questions": 5,
+      "sha256": "18feef21087f338fb7a15b55d5241b25f3bf137599f642f063b6c34080d38083",
+      "publicationAuthorized": true,
+      "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+      "academicApproval": {
+        "status": "demonstration",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "biologia",
+      "title": "La vida a tu alrededor",
+      "kind": "demonstration",
+      "questions": 5,
+      "sha256": "6ba2c6d913f652eff7fea859981674898ec61eacd2ef7bc434f50c8036c2f935",
+      "publicationAuthorized": true,
+      "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+      "academicApproval": {
+        "status": "demonstration",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "gf-259ab9ed3048",
+      "title": "sociales-banco-03",
+      "kind": "real",
+      "originalQuestions": 51,
+      "sha256": null,
+      "publicationAuthorized": false,
+      "authorizationReference": null,
+      "academicApproval": {
+        "status": "pending",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "gf-6317b9172e26",
+      "title": "sociales-banco-02",
+      "kind": "real",
+      "originalQuestions": 48,
+      "sha256": null,
+      "publicationAuthorized": false,
+      "authorizationReference": null,
+      "academicApproval": {
+        "status": "pending",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "gf-6ca2a0808760",
+      "title": "sociales-banco-01",
+      "kind": "real",
+      "originalQuestions": 30,
+      "sha256": null,
+      "publicationAuthorized": false,
+      "authorizationReference": null,
+      "academicApproval": {
+        "status": "pending",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "gf-2dc6ed6c79f0",
+      "title": "quimica-organica",
+      "kind": "real",
+      "originalQuestions": 100,
+      "sha256": null,
+      "publicationAuthorized": false,
+      "authorizationReference": null,
+      "academicApproval": {
+        "status": "pending",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "gf-f3c68c3faf99",
+      "title": "fisica-electromagnetismo",
+      "kind": "real",
+      "originalQuestions": 100,
+      "sha256": null,
+      "publicationAuthorized": false,
+      "authorizationReference": null,
+      "academicApproval": {
+        "status": "pending",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "gf-ff5ef4c8881d",
+      "title": "matematicas",
+      "kind": "real",
+      "originalQuestions": 100,
+      "sha256": null,
+      "publicationAuthorized": false,
+      "authorizationReference": null,
+      "academicApproval": {
+        "status": "pending",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    },
+    {
+      "bankId": "gf-a49cefa8ffe1",
+      "title": "sociales-banco-04",
+      "kind": "real",
+      "originalQuestions": 46,
+      "sha256": null,
+      "publicationAuthorized": false,
+      "authorizationReference": null,
+      "academicApproval": {
+        "status": "pending",
+        "approvedBy": null,
+        "approvedAt": null,
+        "evidence": null
+      }
+    }
+  ]
+}

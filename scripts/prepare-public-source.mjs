@@ -1,0 +1,26 @@
+﻿import fs from 'node:fs';import path from 'node:path';import crypto from 'node:crypto';
+import {fileURLToPath} from 'node:url';
+import {verifyPublicSources} from './verify-production-content.mjs';
+export function scanPublicSource(root){
+ const problems=[];const files=[];
+ const forbidden=/(^|\/)(node_modules|dist|artifacts|importaciones|revisiones|respaldos|tests-academic|tests-local|\.git|\.codex|\.agents|\.aws)(\/|$)|(^|\/)\.env(\.|$)|local-review-banks\.json$|\.zip$|\.(pem|key)$/i;
+ const tokens=[/\bgh[pousr]_[A-Za-z0-9]{30,}\b/,/\bgithub_pat_[A-Za-z0-9_]{40,}\b/,/\bAKIA[A-Z0-9]{16}\b/,/\bsk-[A-Za-z0-9_-]{24,}\b/,/-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----/,/\bnpm_[A-Za-z0-9]{30,}\b/];
+ function walk(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const full=path.join(dir,e.name),relative=path.relative(root,full).replaceAll('\\','/');if(forbidden.test(relative)){problems.push({file:relative,reason:'ruta privada/no publicable'});continue;}if(e.isSymbolicLink()){problems.push({file:relative,reason:'enlace simbólico'});continue;}if(e.isDirectory()){walk(full);continue;}files.push(relative);if(/\.(ts|tsx|js|mjs|cjs|json|md|html|yml|yaml|css|svg|txt)$/.test(full)||e.name==='.gitignore'){const text=fs.readFileSync(full,'utf8');if(tokens.some(pattern=>pattern.test(text)))problems.push({file:relative,reason:'posible credencial'});}}
+ }walk(root);return {files,problems};
+}
+export function preparePublicSource(root=process.cwd()){
+ verifyPublicSources(root);
+ const stamp=new Date().toISOString().replace(/[-:TZ.]/g,'');const destination=path.join(root,'publicacion','fuente-v1.3-'+stamp);fs.mkdirSync(destination);
+ const files=['package.json','package-lock.json','tsconfig.json','vite.config.ts','index.html','.gitignore','ESQUEMA_BANCO_PREGUNTAS.json','playwright.config.ts','publicacion/APROBACIONES_BANCOS.json','.github/workflows/pages.yml','GUIA_ESTUDIANTES.md','GUIA_ACTUALIZACION_CUESTIONARIOS.md','INFORME_SEGURIDAD_V1_3.md','LISTADO_APROBACIONES_PENDIENTES.md','scripts/serve-dist.mjs','scripts/run-playwright.mjs','scripts/verify-production-content.mjs','scripts/prepare-public-source.mjs'];
+ const dirs=['src','public','examples','tests'];const walk=dir=>fs.readdirSync(path.join(root,dir),{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(`${dir}/${e.name}`):e.isFile()?[`${dir}/${e.name}`]:[]);
+ for(const dir of dirs)files.push(...walk(dir).filter(file=>file!=='src/data/local-review-banks.json'));
+ for(const file of [...new Set(files)]){const source=path.join(root,file);if(!fs.existsSync(source))throw new Error('Falta completar el archivo publicable: '+file);const out=path.join(destination,file);fs.mkdirSync(path.dirname(out),{recursive:true});fs.copyFileSync(source,out);}
+ fs.writeFileSync(path.join(destination,'README.md'),`# AulaQuiz V1.3\n\nAplicación estática de estudio y simulacros. Incluye únicamente demostraciones autorizadas; el progreso se guarda en el navegador. No es un sistema seguro de exámenes oficiales.\n\n## Ejecutar\n\nNode 22.12+ y npm: npm ci, npm run dev. Validar: npm test, npm run typecheck, npm run build, npm run test:e2e.\n\nLa copia pública excluye los bancos académicos pendientes y sus 17 pruebas de contenido privadas, conservadas y ejecutadas en el proyecto original. No se sustituyen por claves inventadas. Las pruebas públicas restantes se ejecutan en Actions. Las herramientas de importación y revisión requieren el proyecto privado original y no se distribuyen aquí.\n\nConsulta GUIA_ESTUDIANTES.md, GUIA_ACTUALIZACION_CUESTIONARIOS.md y el manifiesto publicacion/APROBACIONES_BANCOS.json.\n\n## Publicar\n\nConecta esta carpeta a un repositorio autorizado, rama main. Activa Pages con GitHub Actions y configura la variable AULAQUIZ_PAGES_APPROVED=true. Ejecuta manualmente el flujo marcando confirm_publication. Sin ambas condiciones no se publica. Los enlaces usan parámetros de consulta sobre la página principal, por lo que no requieren rutas SPA adicionales. No hay una URL pública confirmada en esta entrega.\n`);
+ // Remove commands for private tooling from this independently reproducible public checkout.
+ const pkgPath=path.join(destination,'package.json');const pkg=JSON.parse(fs.readFileSync(pkgPath,'utf8'));for(const key of Object.keys(pkg.scripts))if(key.startsWith('import:')||['test:import','test:review','audit:review','prepare:public'].includes(key))delete pkg.scripts[key];fs.writeFileSync(pkgPath,JSON.stringify(pkg,null,2)+'\n');
+ const scan=scanPublicSource(destination);if(scan.problems.length)throw new Error('La fuente preparada contiene archivos o patrones privados: '+JSON.stringify(scan.problems));
+ verifyPublicSources(destination);
+ const manifest=scan.files.map(file=>({file,sha256:crypto.createHash('sha256').update(fs.readFileSync(path.join(destination,file))).digest('hex')}));
+ fs.writeFileSync(path.join(root,'publicacion','ENTREGA_V1_3.json'),JSON.stringify({createdAt:new Date().toISOString(),source:path.relative(root,destination).replaceAll('\\','/'),files:manifest,security:{patternsDetected:0,academicSourcesIncluded:false},repository:null,publicUrl:null},null,2)+'\n');return destination;
+}
+if(process.argv[1]&&path.resolve(process.argv[1]).toLowerCase()===fileURLToPath(import.meta.url).toLowerCase()){try{console.log(preparePublicSource());}catch(error){console.error(error.message);process.exitCode=1;}}
