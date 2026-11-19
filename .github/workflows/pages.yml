@@ -36,7 +36,11 @@ jobs:
         with:
           path: dist
   deploy:
-    if: github.event_name == 'workflow_dispatch' && inputs.confirm_publication && vars.AULAQUIZ_PAGES_APPROVED == 'true' && github.ref == 'refs/heads/main'
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      vars.AULAQUIZ_PAGES_APPROVED == 'true' &&
+      ((github.event_name == 'workflow_dispatch' && inputs.confirm_publication) ||
+       (github.event_name == 'push' && vars.AULAQUIZ_AUTO_DEPLOY == 'true'))
     needs: validate
     runs-on: ubuntu-latest
     permissions:
