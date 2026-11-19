@@ -53,21 +53,17 @@ En el proyecto privado, ejecuta `npm run prepare:public`. Se crea una carpeta nu
 
 Revisa `publicacion/ENTREGA_V1_3.json` y el informe de seguridad. La copia pública tiene sus propios comandos reproducibles de validación; no incluye los comandos que requieren archivos privados. No subas toda la carpeta original ni sus ZIP internos al repositorio público.
 
-## Conectar GitHub y Pages
+## Repositorio y actualizaciones automáticas
 
-La entrega local no tiene un repositorio remoto autorizado ni una URL pública confirmada. El propietario debe proporcionar o conectar su repositorio y autenticarse con su cuenta autorizada. No cambies la visibilidad de un repositorio existente ni utilices force push.
+Repositorio autorizado: [RODRIGO-dev012/aulaQuiz](https://github.com/RODRIGO-dev012/aulaQuiz). Sitio verificado: [AulaQuiz](https://rodrigo-dev012.github.io/aulaQuiz/). El clon saneado local está en publicacion/despliegue-v1.3; no subir la carpeta privada completa.
 
-Dentro de la **carpeta saneada**, configura tu identidad Git real, inicializa la rama `main` si corresponde y conecta la URL autorizada. Revisa los archivos antes de hacer commit y push. No uses nombres, correos ni remotos ficticios como si fueran los del propietario.
+1. Sincronizar el clon con git pull --ff-only y conservar el historial.
+2. Aplicar solo cambios autorizados. Cada banco real necesita aprobación docente, autorización y hash de versión; no incluir pendientes porque pasen pruebas técnicas.
+3. Ejecutar npm ci, npm test, npm run typecheck, npm run build, npm run verify:production y npm run test:e2e en el clon saneado. Revisar git diff y git status.
+4. Hacer commit y git push origin main. La validación y el despliegue son automáticos tras un push normal; los PR solo validan. Revisar validate y deploy en Actions y comprobar el sitio al terminar.
+5. Mantener Pages en GitHub Actions, AULAQUIZ_PAGES_APPROVED=true y AULAQUIZ_AUTO_DEPLOY=true. Para suspender futuras publicaciones automáticas, poner AULAQUIZ_AUTO_DEPLOY=false. No eliminar pruebas para publicar un banco no aprobado.
+6. Alternativa manual: Actions → Validar y publicar AulaQuiz V1.3 → Run workflow → main → confirm_publication=true. Repite la validación completa antes de publicar.
 
-En GitHub:
+La activación de futuros despliegues automáticos fue autorizada expresamente por el propietario. No cambiar visibilidad ni realizar force push. El commit documental de cierre puede omitir CI por no modificar código; los cambios de aplicación deben completar todas las verificaciones. La base relativa ./ y los parámetros en la página principal funcionan bajo /aulaQuiz/ y admiten enlaces directos y recarga.
 
-1. Selecciona **Settings → Pages → GitHub Actions**.
-2. Revisa y protege el entorno `github-pages` según la política del propietario.
-3. Configura la variable del repositorio `AULAQUIZ_PAGES_APPROVED` con valor `true` cuando exista autorización de despliegue.
-4. Ejecuta manualmente **Validar y publicar AulaQuiz V1.3** y marca `confirm_publication`.
-5. El flujo instala con `npm ci`, ejecuta pruebas públicas, TypeScript, build, controles de aprobación/exposición y Playwright. Solo después puede desplegar.
-6. Comprueba la URL real devuelta por el job de Pages, los bancos disponibles, los enlaces compartidos y la persistencia al recargar. No declares un despliegue exitoso solo porque exista el archivo del workflow.
-
-Los pushes y PR ejecutan validaciones, pero no publican automáticamente. El despliegue requiere la invocación manual, la variable de autorización y la rama `main`. Los enlaces usan parámetros de consulta sobre la página principal, evitando rutas internas que necesiten un servidor SPA. `base: './'` mantiene los recursos relativos al subdirectorio del repositorio.
-
-Fuentes oficiales consultadas: [workflows de GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages), [despliegue estático de Vite](https://vite.dev/guide/static-deploy) y [base relativa de Vite 6](https://v6.vite.dev/guide/build#relative-base). Las acciones del workflow están fijadas a commits de las versiones documentadas al preparar esta entrega.
+Referencias: [GitHub Pages con workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages) y [despliegue de Vite](https://vite.dev/guide/static-deploy).

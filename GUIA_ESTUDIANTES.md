@@ -4,7 +4,7 @@ AulaQuiz sirve para estudiar, practicar y realizar simulacros. No es una platafo
 
 ## Ingresar
 
-Abre el enlace confirmado que te entregue tu docente o el propietario. Funciona desde celular, tablet o computadora. Esta entrega todavía no tiene una dirección pública verificada: no uses una dirección de localhost como enlace para otros dispositivos.
+Abre [AulaQuiz](https://rodrigo-dev012.github.io/aulaQuiz/). El enlace está publicado y verificado; puedes usarlo desde celular, tablet o computadora sin que la computadora del propietario esté encendida. No necesitas instalar la aplicación ni iniciar una cuenta remota.
 
 ## Tu perfil y tu progreso
 

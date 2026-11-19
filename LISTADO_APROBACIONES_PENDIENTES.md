@@ -29,12 +29,12 @@ El encargo V1.3, apartado 12, autoriza preparar la publicación con las demostra
 
 - Designar docentes/revisores y confirmar la autorización de uso del material.
 - Aprobar las versiones concretas de cada banco real después de resolver las preguntas pendientes y apartadas.
-- Proporcionar o conectar un repositorio GitHub autorizado y autenticarse. Git está instalado, pero no hay repositorio Git local/remoto configurado y GitHub CLI no está disponible en este entorno.
+- Resuelto: repositorio https://github.com/RODRIGO-dev012/aulaQuiz, cuenta autorizada autenticada y permisos verificados.
 - Configurar una identidad Git real para los commits y revisar el contenido saneado antes de subirlo.
-- Habilitar GitHub Pages, la variable `AULAQUIZ_PAGES_APPROVED` y la ejecución manual autorizada del workflow.
-- Verificar la URL real después del despliegue y compartirla con estudiantes.
+- Resuelto: Pages mediante Actions, variables de autorización y despliegues automático/manual configurados.
+- Resuelto: https://rodrigo-dev012.github.io/aulaQuiz/ verificada mediante Playwright. El propietario puede compartirla con estudiantes.
 
-No hay URL real de repositorio ni sitio público comprobado en esta entrega. Los pasos de aprobación académica de bancos reales no impiden publicar exclusivamente las demostraciones una vez resuelto el acceso autorizado a GitHub.
+La publicación de demostraciones está completada. Las aprobaciones académicas y de reutilización de los bancos reales continúan pendientes y no se deducen de este despliegue.
 
 
 ### Resultado de la segunda lectura V1.3

@@ -28,7 +28,7 @@ El build verifica fuentes antes de compilar y escanea después el artefacto. Blo
 
 `.gitignore` y la preparación por lista blanca excluyen originales, revisiones, bancos locales pendientes, copias personales, capturas/evidencia interna, node_modules, archivos de entorno, claves, tokens, respaldos y ZIP internos. El escáner de fuente pública busca patrones de credenciales y rutas privadas; no registra el contenido de una posible credencial en su informe.
 
-El workflow anterior de publicación automática se reemplazó por un único flujo con validación y publicación manual condicionada a `confirm_publication`, `AULAQUIZ_PAGES_APPROVED=true`, rama `main` y entorno `github-pages`. Los permisos de escritura de Pages e identidad OIDC se limitan al job de despliegue. Las acciones se fijaron a commits tomados de las referencias oficiales de Vite/GitHub.
+El workflow admite actualizaciones automáticas tras push a main únicamente con AULAQUIZ_PAGES_APPROVED=true y AULAQUIZ_AUTO_DEPLOY=true, activadas después de la autorización explícita del propietario. La alternativa manual exige confirm_publication. Ambos caminos dependen del job completo de validación. Los PR no despliegan. Los permisos de Pages/OIDC se limitan al job de despliegue y las acciones permanecen fijadas a commits.
 
 ## Dependencias
 
@@ -44,9 +44,14 @@ Resultado final local: 220 pruebas aprobadas, 0 fallidas; TypeScript y build apr
 
 ## Límites y acciones pendientes
 
-No hay un repositorio remoto ni una URL pública real verificados; por tanto, no se ha comprobado la configuración efectiva del entorno de GitHub ni una ejecución remota de Actions. El propietario debe conectar su repositorio autorizado, autenticarse y revisar los permisos de Pages antes del despliegue.
+Repositorio y URL públicos verificados: https://github.com/RODRIGO-dev012/aulaQuiz y https://rodrigo-dev012.github.io/aulaQuiz/. Actions completó validación y despliegue, incluida la primera actualización automática autorizada. No se registraron credenciales ni se incluyeron archivos privados.
 
 La fuente preparada es una entrega revisable, no una certificación infalible de ausencia de secretos. No se inspeccionaron cuentas privadas ni se extrajeron credenciales del sistema. La aprobación académica y la autorización de reutilización del material real siguen pendientes.
 
 
 Comprobación adicional de la fuente independiente: instalación limpia desde caché, 107 pruebas unitarias públicas, TypeScript, build y 10 recorridos de navegador aprobados. El escaneo de la entrega por lista blanca no detectó patrones de credenciales ni rutas privadas. Estos controles se ejecutaron localmente; no equivalen a una ejecución de GitHub Actions.
+
+
+## Cierre de publicación
+
+La web real aprobó 80 recorridos en cinco tamaños; Actions aprobó 107 unitarias y 80 recorridos y desplegó. Se conservaron las comprobaciones de consola/HTTP, parámetros, perfiles, almacenamiento y exclusión académica. Cuatro demostraciones / 25 preguntas, cero bancos reales. La evidencia interna y las capturas no se incluyen en Git.
