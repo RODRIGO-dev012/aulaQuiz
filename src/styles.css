@@ -17,3 +17,8 @@
 @media(prefers-reduced-motion:reduce){.interactive-options .option:hover:not(:disabled){transform:none}}
 /* V1.3 final contrast adjustments: green remains part of the approved identity. */
 .btn.success{background:linear-gradient(180deg,#168347,#0d6939);color:#fff;border-color:#116c3b}.option-letter{background:#f0edf7;color:#513672}.option.selected .option-letter{background:#7040b5;color:#fff}.option.correct .option-letter{background:#157444;color:#fff}.option.wrong .option-letter{background:#a62f4e;color:#fff}.quiz-tip{color:#655478}.autosave,.gentle-note,.demo-note{font-size:.8125rem;line-height:1.65;color:#63566f}.navigator-summary,.navigator-legend{font-size:.875rem;color:#655478}.question-grid button:not(.current){color:#4e356f}
+
+/* Pages/Linux: let result actions wrap within their tablet grid tracks. */
+.result-buttons{grid-template-columns:repeat(3,minmax(0,1fr))}
+.result-buttons>.btn{min-width:0;white-space:normal;text-align:center}
+@media(max-width:760px){.result-buttons{grid-template-columns:minmax(0,1fr)}}
