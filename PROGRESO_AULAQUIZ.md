@@ -37,3 +37,5 @@ Autorización expresa del propietario para material de práctica con claves prop
 
 
 Cierre local V1.7: 379 casos únicos aprobados (193 unitarios +8 normalizador +80 históricos +90 reales +8 privados), cero fallidos/omitidos finales. Clon saneado 176 unitarios aprobados; 35 recorridos nuevos cubren 475 preguntas y 1.900 alternativas en cada resolución. Las 381 anteriores, 475 originales y 79 apartadas se conservan. Publicación y verificación remota pendientes de registrar al cierre.
+
+Cierre público V1.7: commit aplicación 4188c6a, Actions 44753218333 validate/deploy aprobados. 475 preguntas públicas confirmadas por HTTPS y Playwright (35/35 en cinco resoluciones); JavaScript idéntico al build validado. Línea base final: 379 casos únicos aprobados, sin fallos finales, omisiones ni reintentos; CI público 346. Los 475 originales y 79 apartadas permanecen intactos y privados. Detalles en INFORME_INCORPORACION_V1_7.md; hoja de ruta V2 preparada sin implementar funciones adicionales.

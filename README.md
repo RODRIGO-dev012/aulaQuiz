@@ -36,3 +36,5 @@ Después de validar, commit y push normal a main ejecutan GitHub Actions. Solo s
 No copiar revisiones, originales privados, ZIP, resultados personales, enlaces de puntuaciones, evidencias de Google Forms ni el registro privado de sesión al repositorio. Base relativa ./ compatible con /aulaQuiz/; los enlaces directos no llevan respuestas ni perfiles.
 
 Ver INFORME_INCORPORACION_V1_7.md y HOJA_RUTA_AULAQUIZ_V2.md. La autorización cubre uso educativo de práctica; no implica claves oficiales ni revisión docente exhaustiva.
+
+V1.7 publicada y verificada: [Actions 44753218333](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44753218333), validate/deploy aprobados. 379 casos únicos locales, 346 públicos de CI y 35 recorridos repetidos sobre la URL real. Catálogo confirmado: 475 ejercicios reales +25 demostraciones separadas; 345 literales y 130 adaptados. Ver informe V1.7 para evidencias y límites.

@@ -54,3 +54,12 @@ Cierre de cobertura y autorización de práctica no significan cierre de certifi
 Los 35 recorridos nuevos verificaron las 475 preguntas / 1.900 alternativas en cada una de las cinco resoluciones: 2.375 visualizaciones de preguntas y 9.500 alternativas, sin errores de renderizado, desbordamiento ni fallos de calificación. Las pruebas previas conservaron mezcla, simulacro, refuerzo, nuevas consecutivas, perfiles e historial.
 
 Se corrigió la inferencia TypeScript de un array vacío en un fixture histórico manteniendo el manifiesto de su versión. Cinco pruebas de procesos del clon excedieron el límite de cinco segundos con dos suites de Chrome simultáneas; al repetir aisladas aprobaron las 176, sin cambiar aserciones ni ampliar tiempos. Las cuatro adaptaciones nuevas y el contenido anterior no necesitaron cambios académicos durante la integración. El despliegue y su comprobación pública se registran a continuación al finalizar.
+
+
+## Publicación V1.7 verificada
+
+[Aplicación pública](https://rodrigo-dev012.github.io/aulaQuiz/) y [GitHub Actions 44753218333](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44753218333). Commit de aplicación: 4188c6ab47039bcaec1f8c731169098c9e8f06d7. Validate y deploy finalizaron correctamente; el flujo público ejecuta 346 casos. HTTPS 200 confirma los 475 IDs reales y excluye los 130 originales sustituidos como identificadores completos. JavaScript público idéntico al build validado: SHA-256 19a7ca3b10da451d733c36d521d3fc0f81c2d8694713b124c2cb0374924016d1.
+
+Playwright sobre la URL pública: 35/35 recorridos aprobados en cinco resoluciones, sin fallos, omisiones ni reintentos. Se comprobaron de nuevo las 475 preguntas y 1.900 alternativas en cada resolución, con calificación y agotamiento de nuevas. Las 90 capturas, 35 registros de cobertura y JSON de prueba permanecen en el proyecto privado; no se publican resultados personales ni evidencias de formularios. Estas ejecuciones repiten casos de la suite de 379 y no se suman como pruebas únicas.
+
+Límites técnicos: Chrome/Chromium con resoluciones emuladas; dispositivos físicos y Safari/iOS real pendientes. Vite mantiene un aviso de tamaño del JavaScript principal (809,33 kB; 213,81 kB gzip), sin impedir el build. La optimización se contempla en V2. Continúa pendiente la certificación docente y documental exhaustiva de las claves; se publica únicamente material de práctica propuesto. No se implementaron REA, backend, autenticación remota ni escaneo.
