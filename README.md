@@ -1,6 +1,6 @@
 # AulaQuiz V1.4
 
-[Abrir AulaQuiz](https://rodrigo-dev012.github.io/aulaQuiz/) · [Repositorio](https://github.com/RODRIGO-dev012/aulaQuiz) · [GitHub Actions](https://github.com/RODRIGO-dev012/aulaQuiz/actions)
+[Abrir AulaQuiz](https://rodrigo-dev012.github.io/aulaQuiz/) · [Repositorio](https://github.com/RODRIGO-dev012/aulaQuiz) · [GitHub Actions aprobado](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44664146216)
 
 Herramienta de preparación académica con **7 cuestionarios reales / 301 preguntas**: Química Orgánica 98, Física 98, Matemáticas 93 y Ciencias Sociales N.º 1–4: 2, 4, 4 y 2. Las **claves son propuestas revisadas, no oficiales ni certificadas**. La autorización de reutilización y publicación comunicada por el propietario se registra en publicacion/AUTORIZACION_V1_4.md; no se inventan firmas ni aprobación docente de claves. Las 4 demostraciones / 25 preguntas permanecen en una sección independiente.
 
@@ -35,3 +35,7 @@ Variables autorizadas: AULAQUIZ_PAGES_APPROVED=true y AULAQUIZ_AUTO_DEPLOY=true.
 Vite usa base relativa ./, compatible con /aulaQuiz/. Los enlaces se resuelven en la página principal con parámetros; admiten recarga directa y no contienen perfiles, historial ni respuestas. GitHub Pages sirve la aplicación sin depender de la computadora del propietario.
 
 Ver INFORME_INCORPORACION_V1_4.md, PROGRESO_AULAQUIZ.md y GUIA_ACTUALIZACION_CUESTIONARIOS.md. Las importaciones originales, preguntas apartadas y revisiones privadas no se distribuyen en este repositorio.
+
+Validación de publicación V1.4: Actions final aprobado, commit de aplicación 9add340. HTTP 200 y presencia de las 301 preguntas reales comprobados en la web pública. El informe de incorporación conserva el detalle de pruebas y exclusiones.
+
+Playwright sobre la **URL pública real**: 45/45 casos aprobados en escritorio, laptop, tablet y dos celulares. Capturas e informe detallado disponibles en el proyecto privado, sin publicar datos de estudiantes.

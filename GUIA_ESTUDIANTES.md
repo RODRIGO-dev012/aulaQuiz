@@ -1,6 +1,9 @@
-﻿# Guía de estudiantes — AulaQuiz V1.3
+﻿# Guía de estudiantes — AulaQuiz V1.4
 
 AulaQuiz sirve para estudiar, practicar y realizar simulacros. No es una plataforma de exámenes oficiales con respuestas protegidas.
+
+
+Los siete cuestionarios reales contienen 301 preguntas de práctica con **claves propuestas revisadas, no oficiales ni certificadas**. Las demostraciones están en una sección independiente, accesible con Ver demostraciones. Una puntuación refleja esas claves propuestas y sirve para orientar el estudio.
 
 ## Ingresar
 
