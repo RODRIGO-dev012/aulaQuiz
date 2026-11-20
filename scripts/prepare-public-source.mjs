@@ -10,17 +10,17 @@ export function scanPublicSource(root){
 }
 export function preparePublicSource(root=process.cwd()){
  verifyPublicSources(root);
- const stamp=new Date().toISOString().replace(/[-:TZ.]/g,'');const destination=path.join(root,'publicacion','fuente-v1.4-'+stamp);fs.mkdirSync(destination);
- const files=['package.json','package-lock.json','tsconfig.json','vite.config.ts','index.html','.gitignore','ESQUEMA_BANCO_PREGUNTAS.json','playwright.config.ts','publicacion/APROBACIONES_BANCOS.json','publicacion/AUTORIZACION_V1_4.md','playwright.real.config.ts','scripts/run-real-bank-tests.mjs','.github/workflows/pages.yml','GUIA_ESTUDIANTES.md','GUIA_ACTUALIZACION_CUESTIONARIOS.md','INFORME_SEGURIDAD_V1_3.md','LISTADO_APROBACIONES_PENDIENTES.md','scripts/serve-dist.mjs','scripts/run-playwright.mjs','scripts/verify-production-content.mjs','scripts/prepare-public-source.mjs'];
+ const stamp=new Date().toISOString().replace(/[-:TZ.]/g,'');const destination=path.join(root,'publicacion','fuente-v1.5-'+stamp);fs.mkdirSync(destination);
+ const files=['package.json','package-lock.json','tsconfig.json','vite.config.ts','index.html','.gitignore','ESQUEMA_BANCO_PREGUNTAS.json','playwright.config.ts','publicacion/APROBACIONES_BANCOS.json','publicacion/AUTORIZACION_V1_4.md','publicacion/AUTORIZACION_V1_5.md','playwright.real.config.ts','scripts/run-real-bank-tests.mjs','.github/workflows/pages.yml','GUIA_ESTUDIANTES.md','GUIA_ACTUALIZACION_CUESTIONARIOS.md','INFORME_SEGURIDAD_V1_3.md','LISTADO_APROBACIONES_PENDIENTES.md','scripts/serve-dist.mjs','scripts/run-playwright.mjs','scripts/verify-production-content.mjs','scripts/prepare-public-source.mjs'];
  const dirs=['src','public','examples','tests','tests-real'];const walk=dir=>fs.readdirSync(path.join(root,dir),{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(`${dir}/${e.name}`):e.isFile()?[`${dir}/${e.name}`]:[]);
  for(const dir of dirs)files.push(...walk(dir).filter(file=>file!=='src/data/local-review-banks.json'));
  for(const file of [...new Set(files)]){const source=path.join(root,file);if(!fs.existsSync(source))throw new Error('Falta completar el archivo publicable: '+file);const out=path.join(destination,file);fs.mkdirSync(path.dirname(out),{recursive:true});fs.copyFileSync(source,out);}
- for(const file of ['README.md','PROGRESO_AULAQUIZ.md','INFORME_INCORPORACION_V1_4.md'])fs.copyFileSync(path.join(root,file),path.join(destination,file));
+ for(const file of ['README.md','PROGRESO_AULAQUIZ.md','INFORME_INCORPORACION_V1_5.md'])fs.copyFileSync(path.join(root,file),path.join(destination,file));
  // Remove commands for private tooling from this independently reproducible public checkout.
  const pkgPath=path.join(destination,'package.json');const pkg=JSON.parse(fs.readFileSync(pkgPath,'utf8'));for(const key of Object.keys(pkg.scripts))if(key.startsWith('import:')||['test:import','test:review','audit:review','prepare:public'].includes(key))delete pkg.scripts[key];fs.writeFileSync(pkgPath,JSON.stringify(pkg,null,2)+'\n');
  const scan=scanPublicSource(destination);if(scan.problems.length)throw new Error('La fuente preparada contiene archivos o patrones privados: '+JSON.stringify(scan.problems));
  verifyPublicSources(destination);
  const manifest=scan.files.map(file=>({file,sha256:crypto.createHash('sha256').update(fs.readFileSync(path.join(destination,file))).digest('hex')}));
- fs.writeFileSync(path.join(root,'publicacion','ENTREGA_V1_4.json'),JSON.stringify({createdAt:new Date().toISOString(),source:path.relative(root,destination).replaceAll('\\','/'),files:manifest,security:{patternsDetected:0,authorizedPracticeQuestions:301,pendingAcademicSourcesIncluded:false},repository:null,publicUrl:null},null,2)+'\n');return destination;
+ fs.writeFileSync(path.join(root,'publicacion','ENTREGA_V1_5.json'),JSON.stringify({createdAt:new Date().toISOString(),source:path.relative(root,destination).replaceAll('\\','/'),files:manifest,security:{patternsDetected:0,authorizedPracticeQuestions:381,pendingAcademicSourcesIncluded:false},repository:null,publicUrl:null},null,2)+'\n');return destination;
 }
 if(process.argv[1]&&path.resolve(process.argv[1]).toLowerCase()===fileURLToPath(import.meta.url).toLowerCase()){try{console.log(preparePublicSource());}catch(error){console.error(error.message);process.exitCode=1;}}

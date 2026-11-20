@@ -21,3 +21,7 @@ Corregido desbordamiento de resultados en tablet detectado por Linux, sin altera
 Desplegado 9add340 mediante Actions 44664146216, validate/deploy aprobados con 262 casos públicos. Los 295 casos únicos completos están aprobados; TypeScript/build correctos. HTTPS confirma los 301 IDs reales y excluye los 174 pendientes. Revisión adicional privada: 43 recuperaciones de Sociales, 34 propuestas de corrección y 54 observaciones; requieren revisión/autorización posterior. Originales y 79 apartadas preservados. La comprobación de la URL real aprobó 45/45 recorridos en cinco resoluciones; se guardaron 155 capturas de la versión publicada.
 
 Cierre V1.4: URL pública verificada con Playwright (45/45), sin errores de consola/HTTP/desbordamiento. Informe de incorporación completo y documentación de actualizaciones automáticas actualizada.
+
+## V1.5 — 20/11/2026
+
+381 preguntas autorizadas en siete bancos: 100/100/100/8/31/32/10. Se conservan intactas las 301 anteriores, IDs e historial. Las 36 adaptaciones llevan aviso de material no literal y claves propuestas, no certificadas. Las 94 pendientes y 36 versiones originales sustituidas siguen excluidas. Línea base 295 más 25 casos nuevos: 320 únicos; 287 públicos. Unitarios públicos 152/152, navegador local 55/55, TypeScript, build y control de contenido aprobados. Revisión adicional de Sociales privada, sin ampliar producción. Publicación pendiente de confirmar por CI y Playwright público.

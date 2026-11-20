@@ -2461,6 +2461,56 @@
         ],
         "correctOptionId": "gf-2dc6ed6c79f0-q-635287879-o-68bf4efdbece4e66",
         "shuffleOptions": true
+      },
+      {
+        "id": "gf-2dc6ed6c79f0-q-146771169-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué grupo estructural caracteriza a un éster carboxílico?",
+        "options": [
+          {
+            "id": "gf-2dc6ed6c79f0-q-146771169-correccion-v14-op-1",
+            "text": "R–C(=O)–O–R′, donde R puede ser H o un grupo carbonado y R′ es un grupo carbonado."
+          },
+          {
+            "id": "gf-2dc6ed6c79f0-q-146771169-correccion-v14-op-2",
+            "text": "R–O–R′, sin grupo carbonilo."
+          },
+          {
+            "id": "gf-2dc6ed6c79f0-q-146771169-correccion-v14-op-3",
+            "text": "R–C(=O)–R′, sin enlace C(=O)–O."
+          },
+          {
+            "id": "gf-2dc6ed6c79f0-q-146771169-correccion-v14-op-4",
+            "text": "R–NH₂."
+          }
+        ],
+        "correctOptionId": "gf-2dc6ed6c79f0-q-146771169-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-2dc6ed6c79f0-q-1554104446-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué caracteriza a una molécula con polaridad neta permanente?",
+        "options": [
+          {
+            "id": "gf-2dc6ed6c79f0-q-1554104446-correccion-v14-op-1",
+            "text": "Carece de electrones."
+          },
+          {
+            "id": "gf-2dc6ed6c79f0-q-1554104446-correccion-v14-op-2",
+            "text": "Tiene momento dipolar molecular permanente no nulo."
+          },
+          {
+            "id": "gf-2dc6ed6c79f0-q-1554104446-correccion-v14-op-3",
+            "text": "Siempre posee carga iónica positiva."
+          },
+          {
+            "id": "gf-2dc6ed6c79f0-q-1554104446-correccion-v14-op-4",
+            "text": "Todos sus enlaces deben ser apolares."
+          }
+        ],
+        "correctOptionId": "gf-2dc6ed6c79f0-q-1554104446-correccion-v14-op-2",
+        "shuffleOptions": true
       }
     ]
   },
@@ -4931,6 +4981,56 @@
         ],
         "correctOptionId": "gf-f3c68c3faf99-q-2104620876-o-9e448f36adcacb18",
         "shuffleOptions": true
+      },
+      {
+        "id": "gf-f3c68c3faf99-q-1098875275-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué técnica de imagen médica utiliza campos magnéticos intensos y ondas de radio?",
+        "options": [
+          {
+            "id": "gf-f3c68c3faf99-q-1098875275-correccion-v14-op-1",
+            "text": "Radiografía convencional de rayos X."
+          },
+          {
+            "id": "gf-f3c68c3faf99-q-1098875275-correccion-v14-op-2",
+            "text": "Medición de resistencia eléctrica de la piel."
+          },
+          {
+            "id": "gf-f3c68c3faf99-q-1098875275-correccion-v14-op-3",
+            "text": "Resonancia magnética."
+          },
+          {
+            "id": "gf-f3c68c3faf99-q-1098875275-correccion-v14-op-4",
+            "text": "Termometría de contacto."
+          }
+        ],
+        "correctOptionId": "gf-f3c68c3faf99-q-1098875275-correccion-v14-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-f3c68c3faf99-q-2085249800-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "En corriente continua, un aparato tiene 220 V entre sus terminales y consume 2 A. ¿Qué potencia eléctrica recibe?",
+        "options": [
+          {
+            "id": "gf-f3c68c3faf99-q-2085249800-correccion-v14-op-1",
+            "text": "110 W"
+          },
+          {
+            "id": "gf-f3c68c3faf99-q-2085249800-correccion-v14-op-2",
+            "text": "440 W"
+          },
+          {
+            "id": "gf-f3c68c3faf99-q-2085249800-correccion-v14-op-3",
+            "text": "222 W"
+          },
+          {
+            "id": "gf-f3c68c3faf99-q-2085249800-correccion-v14-op-4",
+            "text": "218 W"
+          }
+        ],
+        "correctOptionId": "gf-f3c68c3faf99-q-2085249800-correccion-v14-op-2",
+        "shuffleOptions": true
       }
     ]
   },
@@ -7315,6 +7415,181 @@
         ],
         "correctOptionId": "gf-ff5ef4c8881d-q-849644320-o-7cfcefeb5eb83917",
         "shuffleOptions": true
+      },
+      {
+        "id": "gf-ff5ef4c8881d-q-1951566662-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "Con r>0, ¿qué ecuación representa una circunferencia de centro (h,k) y radio r?",
+        "options": [
+          {
+            "id": "gf-ff5ef4c8881d-q-1951566662-correccion-v14-op-1",
+            "text": "(x+h)²+(y+k)²=r²"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1951566662-correccion-v14-op-2",
+            "text": "(x−h)²+(y−k)²=r²"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1951566662-correccion-v14-op-3",
+            "text": "(x−h)²−(y−k)²=r²"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1951566662-correccion-v14-op-4",
+            "text": "(x−h)+(y−k)=r²"
+          }
+        ],
+        "correctOptionId": "gf-ff5ef4c8881d-q-1951566662-correccion-v14-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-ff5ef4c8881d-q-1742123623-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Cómo se llama la cuerda de una parábola que pasa por el foco y es perpendicular a su eje de simetría?",
+        "options": [
+          {
+            "id": "gf-ff5ef4c8881d-q-1742123623-correccion-v14-op-1",
+            "text": "Eje focal"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1742123623-correccion-v14-op-2",
+            "text": "Lado recto"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1742123623-correccion-v14-op-3",
+            "text": "Directriz"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1742123623-correccion-v14-op-4",
+            "text": "Radio vector"
+          }
+        ],
+        "correctOptionId": "gf-ff5ef4c8881d-q-1742123623-correccion-v14-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-ff5ef4c8881d-q-1061574763-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Cuál ecuación representa una parábola no degenerada con eje paralelo al eje Y?",
+        "options": [
+          {
+            "id": "gf-ff5ef4c8881d-q-1061574763-correccion-v14-op-1",
+            "text": "x²+y²=1"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1061574763-correccion-v14-op-2",
+            "text": "x²−y²=1"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1061574763-correccion-v14-op-3",
+            "text": "x²−1=0"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1061574763-correccion-v14-op-4",
+            "text": "Ax²+Dx+Ey+F=0, con A≠0 y E≠0"
+          }
+        ],
+        "correctOptionId": "gf-ff5ef4c8881d-q-1061574763-correccion-v14-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-ff5ef4c8881d-q-1527572464-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué condición define una elipse no degenerada con focos distintos F₁,F₂ y semieje mayor a?",
+        "options": [
+          {
+            "id": "gf-ff5ef4c8881d-q-1527572464-correccion-v14-op-1",
+            "text": "PF₁=distancia de P a una recta fija."
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1527572464-correccion-v14-op-2",
+            "text": "PF₁+PF₂=2a, con 2a>F₁F₂."
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1527572464-correccion-v14-op-3",
+            "text": "|PF₁−PF₂|=2a, con 0<2a<F₁F₂."
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-1527572464-correccion-v14-op-4",
+            "text": "PF₁+PF₂=F₁F₂."
+          }
+        ],
+        "correctOptionId": "gf-ff5ef4c8881d-q-1527572464-correccion-v14-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-ff5ef4c8881d-q-2049009552-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué condición define las dos ramas de una hipérbola con focos F₁,F₂?",
+        "options": [
+          {
+            "id": "gf-ff5ef4c8881d-q-2049009552-correccion-v14-op-1",
+            "text": "PF₁+PF₂=2a, con 2a>F₁F₂."
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-2049009552-correccion-v14-op-2",
+            "text": "PF₁=distancia de P a una directriz fija."
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-2049009552-correccion-v14-op-3",
+            "text": "|PF₁−PF₂|=2a, con 0<2a<F₁F₂."
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-2049009552-correccion-v14-op-4",
+            "text": "PF₁+PF₂=F₁F₂."
+          }
+        ],
+        "correctOptionId": "gf-ff5ef4c8881d-q-2049009552-correccion-v14-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-ff5ef4c8881d-q-179503644-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "En una elipse, a es el semieje mayor, b el menor y c la distancia del centro al foco. ¿Qué relación se cumple?",
+        "options": [
+          {
+            "id": "gf-ff5ef4c8881d-q-179503644-correccion-v14-op-1",
+            "text": "a²=b²+c²"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-179503644-correccion-v14-op-2",
+            "text": "a²=b²−c²"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-179503644-correccion-v14-op-3",
+            "text": "a=b+c"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-179503644-correccion-v14-op-4",
+            "text": "a²+b²+c²=0"
+          }
+        ],
+        "correctOptionId": "gf-ff5ef4c8881d-q-179503644-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-ff5ef4c8881d-q-566684169-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "Si a>b>0, ¿qué ecuación representa una elipse de centro (h,k) y eje mayor vertical?",
+        "options": [
+          {
+            "id": "gf-ff5ef4c8881d-q-566684169-correccion-v14-op-1",
+            "text": "(x−h)²/a²+(y−k)²/b²=1"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-566684169-correccion-v14-op-2",
+            "text": "(x−h)²/b²−(y−k)²/a²=1"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-566684169-correccion-v14-op-3",
+            "text": "(x−h)²/a²−(y−k)²/b²=1"
+          },
+          {
+            "id": "gf-ff5ef4c8881d-q-566684169-correccion-v14-op-4",
+            "text": "(x−h)²/b²+(y−k)²/a²=1"
+          }
+        ],
+        "correctOptionId": "gf-ff5ef4c8881d-q-566684169-correccion-v14-op-4",
+        "shuffleOptions": true
       }
     ]
   },
@@ -7377,6 +7652,157 @@
         ],
         "correctOptionId": "gf-6ca2a0808760-q-190587535-o-027f70adb284221c",
         "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-399043942",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Quién es considerado el \"Patiño\" de la Goma en Bolivia?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-399043942-o-46347ec7d02b02b5",
+            "text": "Aniceto Arce por sus inversiones en la minería del norte."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-399043942-o-ea59fdf928fd939b",
+            "text": "Nicolás Suarez empresario prospero en el norte de Bolivia, por la venta de la \"Goma\" en el territorio del Acre."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-399043942-o-19e30ab7501fd41c",
+            "text": "Arturo Posnasky por su aporte tecnológico y científico."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-399043942-o-92a007bf40450974",
+            "text": "Maximiliano Paredes por su liderazgo militar."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-399043942-o-ea59fdf928fd939b",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1301962457",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Quiénes son considerados los 3 empresarios más poderoso en la explotación del mineral de la Plata en Bolivia?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1301962457-o-0b194140fb3f7bc9",
+            "text": "Simón I. Patiño, Mauricio Hochschild y Carlos Víctor Aramayo."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1301962457-o-868de724beaa47d9",
+            "text": "Aniceto Arce, Gregorio Pacheco, Avelino Aramayo"
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1301962457-o-f2cd9c16408a3493",
+            "text": "Ismael Montes, Eliodoro Camacho y Narciso Campero."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1301962457-o-c4dd18989e51bddb",
+            "text": "Arturo Posnasky, Nicolás Suárez y Ladislao Cabrera."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1301962457-o-868de724beaa47d9",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1019305117",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se creó la ONU?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1019305117-o-c52b607c03dfb1cf",
+            "text": "En 1920 tras la culminación de la Primera Guerra Mundial como Liga de las Naciones."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1019305117-o-8f000116679d3dec",
+            "text": "La Conferencia de San Francisco de 1945 que dio origen a la Organización de las Naciones Unidas, con el objetivo de promover la paz y la cooperación entre las naciones. A diferencia de su predecesora, la Sociedad de Naciones, la ONU cuenta con amplios poderes para intervenir en conflictos y ha reunido a la mayoría de los países del mundo."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1019305117-o-c9a563b034cd1a45",
+            "text": "En 1950 durante los acuerdos de paz en Ginebra."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1019305117-o-78f8c566da0b4236",
+            "text": "En 1938 tras la firma del tratado de paz en Buenos Aires."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1019305117-o-8f000116679d3dec",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-2054795197-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué presidentes gobernaron Bolivia durante el periodo del 1/9/1939 al 2/9/1945?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-2054795197-correccion-v14-op-1",
+            "text": "Carlos Quintanilla, Enrique Peñaranda y Gualberto Villarroel."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2054795197-correccion-v14-op-2",
+            "text": "Germán Busch, Daniel Salamanca y Bautista Saavedra."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2054795197-correccion-v14-op-3",
+            "text": "José Manuel Pando e Ismael Montes."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2054795197-correccion-v14-op-4",
+            "text": "Hugo Banzer y Hernán Siles Zuazo."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-2054795197-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-2082364598-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué compensación monetaria estipuló el Tratado de Paz y Amistad de 1904 entre Bolivia y Chile?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-2082364598-correccion-v14-op-1",
+            "text": "300.000 libras esterlinas"
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2082364598-correccion-v14-op-2",
+            "text": "2.000.000 de libras esterlinas"
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2082364598-correccion-v14-op-3",
+            "text": "Ninguna compensación monetaria"
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2082364598-correccion-v14-op-4",
+            "text": "300.000 dólares estadounidenses"
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-2082364598-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-2073733698-correccion-v15",
+        "topic": "Versión corregida V1.5",
+        "text": "¿En qué fecha se firmó el Tratado de Petrópolis entre Bolivia y Brasil?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-2073733698-correccion-v15-op-1",
+            "text": "17 de noviembre de 1903"
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2073733698-correccion-v15-op-2",
+            "text": "12 de diciembre de 1905"
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2073733698-correccion-v15-op-3",
+            "text": "1 de enero de 1900"
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2073733698-correccion-v15-op-4",
+            "text": "21 de julio de 1938"
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-2073733698-correccion-v15-op-1",
+        "shuffleOptions": true,
+        "explanation": "Se limita a la fecha; el tratado de permuta y compensaciones incluyó a Guachalla, Pinilla, Río Branco y Assis Brasil. No se reduce a una compraventa."
       }
     ]
   },
@@ -7489,6 +7915,686 @@
         ],
         "correctOptionId": "gf-6317b9172e26-q-832544048-o-be49f6b86fd05850",
         "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-36509647",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué es el \"Mamertazo\", en la Historia de Bolivia?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-36509647-o-c1939f0e3facc334",
+            "text": "El golpe militar de Villamontes contra el presidente Daniel Salamanca."
+          },
+          {
+            "id": "gf-6317b9172e26-q-36509647-o-ea5bc6230b9e6dbc",
+            "text": "La revuelta popular que terminó con el colgamiento de Gualberto Villarroel."
+          },
+          {
+            "id": "gf-6317b9172e26-q-36509647-o-d859a57a3526f215",
+            "text": "Es un autogolpe desarrollado por el presidente Mamerto Urriolagoitia en 1951, quien se negó a entregar el gobierno al MNR, cuyo ganador era Víctor Paz Estensoro, y entrego a una Junta Militar."
+          },
+          {
+            "id": "gf-6317b9172e26-q-36509647-o-877775e5fef5d222",
+            "text": "La rebelión de los barones del estaño contra las políticas de YPFB."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-36509647-o-d859a57a3526f215",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-865037904",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Durante que Gobierno se desarrolló el primer vuelo de Avión en la Historia de Bolivia?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-865037904-o-29fa2cb3f4b4121e",
+            "text": "Durante el primer gobierno de Ismael Montes en el año 1904."
+          },
+          {
+            "id": "gf-6317b9172e26-q-865037904-o-24ae1d9253a392e5",
+            "text": "En el gobierno de Bautista Saavedra tras la masacre de Jesús de Machaca."
+          },
+          {
+            "id": "gf-6317b9172e26-q-865037904-o-1df84d35149d8a84",
+            "text": "Durante la administración de Daniel Salamanca antes de la guerra del Chaco."
+          },
+          {
+            "id": "gf-6317b9172e26-q-865037904-o-accb78173c1b4f88",
+            "text": "En 1920 por el capitán Donald Hudson quien voló un triplano en la ciudad de La Paz, en el gobierno de José Gutiérrez Guerra."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-865037904-o-accb78173c1b4f88",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-864419740",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Quién fue Apiaguaiki Tupa (personaje en los billetes de 10 bolivianos)?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-864419740-o-04f23a433af7ce7c",
+            "text": "Un tambor mayor que terminó siendo comandante del pueblo de Mohoza."
+          },
+          {
+            "id": "gf-6317b9172e26-q-864419740-o-ca0c2f641a4df5d1",
+            "text": "Fue un líder indígena, que lucho por defender la soberanía y sobre todo la libertad de los habitantes indígenas que originariamente habitaron la zona del Chaco boliviano, dirigió una de las batallas más cruentas del pueblo indígena guaraní por su soberanía e identidad."
+          },
+          {
+            "id": "gf-6317b9172e26-q-864419740-o-e7a77ba54fd66e31",
+            "text": "Un patriota cruceño que luchó junto a Ignacio Warnes en la Batalla de La Florida."
+          },
+          {
+            "id": "gf-6317b9172e26-q-864419740-o-b9160c927e02bf97",
+            "text": "Un explorador indígena que destacó en la batalla de Bahía de 1902."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-864419740-o-ca0c2f641a4df5d1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-2122992519",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿En qué consiste la Ley 700?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-2122992519-o-adeb210b255b7dd1",
+            "text": "La Ley 700, promulgada en Bolivia el 1 de junio de 2015, es la \"Ley para la Defensa de los Animales contra Actos de Crueldad y Maltrato\". Su objetivo principal es prevenir y sancionar actos de violencia, maltrato, crueldad y biocidio (asesinato de animales) cometidos por personas, protegiendo principalmente a los animales domésticos."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2122992519-o-372ae8259bce66f1",
+            "text": "Ley de protección del medio ambiente y recursos forestales."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2122992519-o-83a5ddc58b5829dd",
+            "text": "Ley de control de armas de fuego, municiones y explosivos."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2122992519-o-a4d039e4051a7a3b",
+            "text": "Ley de organizaciones políticas y partidos democráticos."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-2122992519-o-adeb210b255b7dd1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-580500661",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿En qué consiste el \"Corralito\" de Villamontes y la caída de Salamanca?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-580500661-o-0418386b57cb7a20",
+            "text": "Un acuerdo de paz firmado en Buenos Aires que puso fin al Chaco Boreal."
+          },
+          {
+            "id": "gf-6317b9172e26-q-580500661-o-72f13d799f6f6ad2",
+            "text": "La nacionalización de los pozos petroleros de la Standard Oil por David Toro."
+          },
+          {
+            "id": "gf-6317b9172e26-q-580500661-o-d4a7f02679a704b1",
+            "text": "El alzamiento militar que derrocó al presidente Gualberto Villarroel en 1946."
+          },
+          {
+            "id": "gf-6317b9172e26-q-580500661-o-6a98d2addd0b24a0",
+            "text": "le dieron un golpe de Estado al presidente Daniel Salamanca, en el campamento de Villamontes, en pleno conflicto con el Paraguay sus generales colocaron a la presidencia al vicepresidente José Luis Tejada Sorzano."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-580500661-o-6a98d2addd0b24a0",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-2010524834",
+        "topic": "Revisión independiente V1.4",
+        "text": "Durante que Gobiernos de Bolivia se generó la Primera Guerra Mundial (1914-1918)",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-2010524834-o-9376681b1b454a87",
+            "text": "Gobiernos de Daniel Salamanca y Enrique Peñaranda."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2010524834-o-9787d84105f21fa5",
+            "text": "Administraciones de Germán Busch y Carlos Quintanilla."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2010524834-o-65dd23fe62340e55",
+            "text": "Primer gobierno de Ismael Montes y presidencia de Eliodoro Camacho."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2010524834-o-0e7481320c0470a1",
+            "text": "Segundo Gobierno de Ismael Montes () y el gobierno de José Gutiérrez Guerra."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-2010524834-o-0e7481320c0470a1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-258926852",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuál es la obra literaria más destacada de Nataniel Aguirre?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-258926852-o-72bccdec516c2480",
+            "text": "Raza de Bronce y Pueblo enfermo sobre la realidad boliviana."
+          },
+          {
+            "id": "gf-6317b9172e26-q-258926852-o-5a80ac696b587e47",
+            "text": "Loca de Hierro y Ensayos poéticos de crítica social."
+          },
+          {
+            "id": "gf-6317b9172e26-q-258926852-o-caee13458054b1d9",
+            "text": "Matanzas de Yañez e Historia de Bolivia en la época colonial."
+          },
+          {
+            "id": "gf-6317b9172e26-q-258926852-o-1028541df07fdea2",
+            "text": "La Novela Juan de La Rosa (Memorias del último soldado de la independencia)."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-258926852-o-1028541df07fdea2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-463361430",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuál es la Obra literarias más importante escrita por Franz Tamayo?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-463361430-o-b9bfd1b5f4c46185",
+            "text": "Raza de Bronce y Pueblo enfermo sobre la realidad sociológica boliviana."
+          },
+          {
+            "id": "gf-6317b9172e26-q-463361430-o-1fb8c46364b68cdb",
+            "text": "Juan de La Rosa (Memorias del último soldado de la independencia)."
+          },
+          {
+            "id": "gf-6317b9172e26-q-463361430-o-bf299b02d01da4ef",
+            "text": "Creación de la Pedagogía Nacional (1910), una crítica a la educación boliviana que copiaba sistemas educativos de Europa."
+          },
+          {
+            "id": "gf-6317b9172e26-q-463361430-o-3bff181f4c6e219b",
+            "text": "Ensayo poético y Loca de Hierro como obras cumbres."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-463361430-o-bf299b02d01da4ef",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1288962378",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿En qué consiste la Ley 070?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1288962378-o-961738cc0dac070e",
+            "text": "Código penal que sanciona los delitos contra la propiedad intelectual."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1288962378-o-1624cf5d315d69c2",
+            "text": "Ley de telecomunicaciones y tecnologías de información y comunicación."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1288962378-o-73f273417054aa2e",
+            "text": "La Ley N° 070, conocida como la Ley de Educación \"Avelino Siñani - Elizardo Pérez\", promulgada en Bolivia el 20 de diciembre de 2010, es la norma fundamental que rige el sistema educativo plurinacional. Establece una educación descolonizadora, productiva, comunitaria, intercultural y gratuita, obligatoria hasta el bachillerato, con el objetivo de garantizar la formación integral sin discriminación."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1288962378-o-b91a202f6714ab24",
+            "text": "Ley del servicio de salud universal y gratuita para todos los bolivianos."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1288962378-o-73f273417054aa2e",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-42599317",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Quién es Bruno Racua (personaje en los billetes de 50 bolivianos)?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-42599317-o-59cf6cb88d86728e",
+            "text": "Un mariscal venezolano que consolidó la independencia de la República de Bolivia."
+          },
+          {
+            "id": "gf-6317b9172e26-q-42599317-o-0be70b90de0458ce",
+            "text": "Un patriota cruceño que combatió en la Batalla de El Pari junto a Ignacio Warnes."
+          },
+          {
+            "id": "gf-6317b9172e26-q-42599317-o-69bb953a4d0587f0",
+            "text": "Bruno Racua Chimay fue un indígena explorador, combatiente y héroe boliviano que participó durante la guerra del Acre destacándose por su audacia en la batalla de Bahía de 1902."
+          },
+          {
+            "id": "gf-6317b9172e26-q-42599317-o-6ab3925beba3af52",
+            "text": "Un líder indígena conocido como \"El temible Willca\" en el levantamiento de 1899."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-42599317-o-69bb953a4d0587f0",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1402324460",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿En qué consiste la Ley 045?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1402324460-o-b9621ded3d663dc4",
+            "text": "Ley de pensiones y seguridad social para trabajadores jubilados."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1402324460-o-9ea6ff723a1e13c2",
+            "text": "La Ley N° 045, promulgada en Bolivia el 8 de octubre de 2010, es la \"Ley contra el Racismo y toda forma de Discriminación\". Su objetivo es establecer mecanismos para prevenir, atender y sancionar actos racistas o discriminatorios, garantizando la igualdad de oportunidades y derechos de todos los habitantes del Estado Plurinacional de Bolivia."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1402324460-o-8fe086964ec34e32",
+            "text": "Ley de régimen electoral y organización del Tribunal Supremo Electoral."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1402324460-o-571a62b05d431e99",
+            "text": "Ley de inversiones extranjeras y fomento a la industria nacional."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1402324460-o-9ea6ff723a1e13c2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1740882437",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿En qué consiste la Ley 548?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1740882437-o-acd9c8e61dcd77a6",
+            "text": "Ley general del trabajo que regula los derechos de los obreros fabriles."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1740882437-o-2e86a2fd7c82b2f2",
+            "text": "La Ley N° 548, promulgada en 2014, es el Código Niña, Niño y Adolescente de Bolivia. Su objetivo principal es garantizar el ejercicio pleno de los derechos de los menores de 18 años, promoviendo su desarrollo integral en un entorno seguro y estableciendo la corresponsabilidad de la familia, sociedad y Estado."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1740882437-o-50ec3b7af6ec8676",
+            "text": "Ley de tierras y reforma agraria para el desarrollo rural sostenible."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1740882437-o-b38735c902375941",
+            "text": "Ley de municipalidades y gobiernos autónomos locales."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1740882437-o-2e86a2fd7c82b2f2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1201146262",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué presidente de Bolivia Murió Colgado en la Plaza Murillo en La Paz?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1201146262-o-f2f30bad046ead80",
+            "text": "Germán Busch en circunstancias confusas dentro del Palacio Quemado en 1939."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1201146262-o-fb344ae94c7f3ff3",
+            "text": "Daniel Salamanca durante los eventos políticos de la guerra del Chaco."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1201146262-o-d12b43016788d5aa",
+            "text": "Gualberto Villarroel el 21 de julio 1946, un grupo de activistas asaltaron el palacio de Gobierno, asesinaron al presidente y su cuerpo fue lanzado por el balcón y colgado en un farol de la plaza Murillo."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1201146262-o-639e483d1905f693",
+            "text": "Mamerto Urriolagoitia derrocado en el contexto del \"Mamertazo\"."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1201146262-o-d12b43016788d5aa",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1983586629-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Durante qué gobierno ocurrió la sublevación de Jesús de Machaca de marzo de 1921?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1983586629-correccion-v14-op-1",
+            "text": "José Gutiérrez Guerra"
+          },
+          {
+            "id": "gf-6317b9172e26-q-1983586629-correccion-v14-op-2",
+            "text": "Hernando Siles"
+          },
+          {
+            "id": "gf-6317b9172e26-q-1983586629-correccion-v14-op-3",
+            "text": "Bautista Saavedra"
+          },
+          {
+            "id": "gf-6317b9172e26-q-1983586629-correccion-v14-op-4",
+            "text": "Daniel Salamanca"
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1983586629-correccion-v14-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1043208044-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué cuatro modalidades de autonomía regula la tercera parte de la CPE?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1043208044-correccion-v14-op-1",
+            "text": "Departamental, regional, municipal e indígena originaria campesina."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1043208044-correccion-v14-op-2",
+            "text": "Departamental y municipal únicamente."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1043208044-correccion-v14-op-3",
+            "text": "Prefectural, cantonal, militar y escolar."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1043208044-correccion-v14-op-4",
+            "text": "Federal, confederal, monárquica y colonial."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1043208044-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-969841905-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Quién fue Antonio José de Sucre?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-969841905-correccion-v14-op-1",
+            "text": "Militar venezolano conocido como Gran Mariscal de Ayacucho y presidente de Bolivia."
+          },
+          {
+            "id": "gf-6317b9172e26-q-969841905-correccion-v14-op-2",
+            "text": "Caudillo indígena de 1899."
+          },
+          {
+            "id": "gf-6317b9172e26-q-969841905-correccion-v14-op-3",
+            "text": "Empresario del estaño del siglo XX."
+          },
+          {
+            "id": "gf-6317b9172e26-q-969841905-correccion-v14-op-4",
+            "text": "Presidente de Bolivia durante la Guerra del Chaco."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-969841905-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-998040698-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Cuántos títulos tiene la primera parte de la CPE de 2009?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-998040698-correccion-v14-op-1",
+            "text": "Cinco"
+          },
+          {
+            "id": "gf-6317b9172e26-q-998040698-correccion-v14-op-2",
+            "text": "Dos"
+          },
+          {
+            "id": "gf-6317b9172e26-q-998040698-correccion-v14-op-3",
+            "text": "Tres"
+          },
+          {
+            "id": "gf-6317b9172e26-q-998040698-correccion-v14-op-4",
+            "text": "Cuatro"
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-998040698-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-639867210-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué caracterizó principalmente a la Guerra Fría?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-639867210-correccion-v14-op-1",
+            "text": "Guerra declarada entre Estados Unidos y la URSS entre 1939 y 1945."
+          },
+          {
+            "id": "gf-6317b9172e26-q-639867210-correccion-v14-op-2",
+            "text": "Competencia ideológica y geopolítica entre Estados Unidos y la URSS, con carreras armamentista y espacial."
+          },
+          {
+            "id": "gf-6317b9172e26-q-639867210-correccion-v14-op-3",
+            "text": "Exclusivamente un conflicto comercial asiático."
+          },
+          {
+            "id": "gf-6317b9172e26-q-639867210-correccion-v14-op-4",
+            "text": "Una alianza militar entre ambas superpotencias."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-639867210-correccion-v14-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1295827461-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "Según el artículo 12 de la CPE, ¿qué órganos estructuran el poder público?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1295827461-correccion-v14-op-1",
+            "text": "Legislativo, Ejecutivo, Judicial y Electoral."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1295827461-correccion-v14-op-2",
+            "text": "Legislativo, Ejecutivo y Judicial exclusivamente."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1295827461-correccion-v14-op-3",
+            "text": "Central, departamental y municipal."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1295827461-correccion-v14-op-4",
+            "text": "Constituyente, militar y monárquico."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1295827461-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1524028068-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué formas de organización económica reconoce el artículo 306.II de la CPE?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1524028068-correccion-v14-op-1",
+            "text": "Comunitaria, estatal, privada y social cooperativa."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1524028068-correccion-v14-op-2",
+            "text": "Solo estatal y privada."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1524028068-correccion-v14-op-3",
+            "text": "Solo fiscal y bancaria."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1524028068-correccion-v14-op-4",
+            "text": "Únicamente transnacional y municipal."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1524028068-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1544789-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué presidente creó YPFB el 21 de diciembre de 1936?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1544789-correccion-v14-op-1",
+            "text": "Germán Busch"
+          },
+          {
+            "id": "gf-6317b9172e26-q-1544789-correccion-v14-op-2",
+            "text": "Víctor Paz Estenssoro"
+          },
+          {
+            "id": "gf-6317b9172e26-q-1544789-correccion-v14-op-3",
+            "text": "David Toro"
+          },
+          {
+            "id": "gf-6317b9172e26-q-1544789-correccion-v14-op-4",
+            "text": "Hernando Siles"
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1544789-correccion-v14-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-166194999-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué temas abarca la quinta parte de la CPE de 2009?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-166194999-correccion-v14-op-1",
+            "text": "Símbolos patrios exclusivamente."
+          },
+          {
+            "id": "gf-6317b9172e26-q-166194999-correccion-v14-op-2",
+            "text": "Penas máximas exclusivamente."
+          },
+          {
+            "id": "gf-6317b9172e26-q-166194999-correccion-v14-op-3",
+            "text": "Jerarquía normativa y reforma de la Constitución."
+          },
+          {
+            "id": "gf-6317b9172e26-q-166194999-correccion-v14-op-4",
+            "text": "Presupuesto anual exclusivamente."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-166194999-correccion-v14-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1951134155",
+        "topic": "Historia y ciudadanía",
+        "text": "¿Qué hizo Genoveva Ríos (personaje en los billetes de 20 bolivianos)?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1951134155-o-ec4c2b6107742712",
+            "text": "Genoveva Ríos (1865) Según la historia de Bolivia, en febrero de 1879, Ríos, en ese entonces de 14 años de edad, resguardó la bandera boliviana del edificio de la Intendencia de la Policía de Antofagasta, durante la ocupación chilena de ese puerto boliviano, que dio inicio a la Guerra del Pacífico."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1951134155-o-c90afbed852e848b",
+            "text": "Lideró la rebelión indígena de Chayanta contra los abusos de la mita y los tributos."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1951134155-o-8046bbaa27fd6208",
+            "text": "Participó valientemente como combatiente en la batalla de Bahía durante la guerra del Acre."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1951134155-o-859558c0122b800a",
+            "text": "Fue una heroína aymara que acompañó a Túpac Katari en el cerco de La Paz."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1951134155-o-ec4c2b6107742712",
+        "shuffleOptions": true,
+        "explanation": "El BCB identifica el año 1865 y la recuperación de la bandera; SEA documenta la edad, sitio y ocupación."
+      },
+      {
+        "id": "gf-6317b9172e26-q-799891448",
+        "topic": "Historia y ciudadanía",
+        "text": "Describe la Ley 348",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-799891448-o-db73094ee5fa1511",
+            "text": "La Ley N° 348, promulgada el 9 de marzo de 2013, es la norma fundamental en Bolivia para proteger los derechos de las mujeres, estableciendo mecanismos de prevención, atención, protección y sanción de la violencia de género, tipificando el feminicidio y promoviendo una vida libre de violencia en los ámbitos público y privado."
+          },
+          {
+            "id": "gf-6317b9172e26-q-799891448-o-c5d1b2f1eef9df30",
+            "text": "Ley destinada exclusivamente a sancionar la corrupción pública y privada."
+          },
+          {
+            "id": "gf-6317b9172e26-q-799891448-o-a541c9b86027d9f9",
+            "text": "Norma educativa para la descolonización y la enseñanza plurinacional."
+          },
+          {
+            "id": "gf-6317b9172e26-q-799891448-o-eb83386443997850",
+            "text": "Código para la protección integral de niñas, niños y adolescentes."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-799891448-o-db73094ee5fa1511",
+        "shuffleOptions": true,
+        "explanation": "La Ley 348 de 9/3/2013 regula prevención, atención, protección y sanción de violencia; artículo 84 incorpora el feminicidio."
+      },
+      {
+        "id": "gf-6317b9172e26-q-1998230938-correccion-v15",
+        "topic": "Versión corregida V1.5",
+        "text": "¿Por qué se recuerda a Tomás Katari en la historia de Bolivia?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1998230938-correccion-v15-op-1",
+            "text": "Por rescatar una bandera durante la ocupación de Antofagasta."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1998230938-correccion-v15-op-2",
+            "text": "Por denunciar los abusos de las autoridades coloniales y encabezar la resistencia indígena en el norte de Potosí."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1998230938-correccion-v15-op-3",
+            "text": "Por dirigir el levantamiento de Trinidad de 1810."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1998230938-correccion-v15-op-4",
+            "text": "Por comandar fuerzas indígenas durante la Guerra Federal de 1899."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1998230938-correccion-v15-op-2",
+        "shuffleOptions": true,
+        "explanation": "Se elimina el año natal exacto, que las fuentes no tratan siempre con la misma certeza, y se conserva su lucha contra los abusos coloniales."
+      },
+      {
+        "id": "gf-6317b9172e26-q-447400148-correccion-v15",
+        "topic": "Versión corregida V1.5",
+        "text": "¿Quién fue Pablo Zárate Willka?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-447400148-correccion-v15-op-1",
+            "text": "Un combatiente de la Guerra del Pacífico que defendió Antofagasta."
+          },
+          {
+            "id": "gf-6317b9172e26-q-447400148-correccion-v15-op-2",
+            "text": "Un empresario minero del estaño."
+          },
+          {
+            "id": "gf-6317b9172e26-q-447400148-correccion-v15-op-3",
+            "text": "Un líder aymara que luchó por las tierras comunales y encabezó fuerzas indígenas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-447400148-correccion-v15-op-4",
+            "text": "Un dirigente mojeño de las rebeliones de Trinidad."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-447400148-correccion-v15-op-3",
+        "shuffleOptions": true,
+        "explanation": "Se retira la afirmación no plenamente comprobada sobre su formación militar; el BCB confirma su liderazgo aymara y defensa de tierras comunales."
+      },
+      {
+        "id": "gf-6317b9172e26-q-1096505230-correccion-v15",
+        "topic": "Versión corregida V1.5",
+        "text": "¿Cuándo proclamó Mao Zedong la República Popular China?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1096505230-correccion-v15-op-1",
+            "text": "En 1917."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1096505230-correccion-v15-op-2",
+            "text": "En 1939."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1096505230-correccion-v15-op-3",
+            "text": "En 1953."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1096505230-correccion-v15-op-4",
+            "text": "El 1 de octubre de 1949."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1096505230-correccion-v15-op-4",
+        "shuffleOptions": true,
+        "explanation": "Se distingue la proclamación de 1949 de las formulaciones políticas de etapas posteriores."
       }
     ]
   },
@@ -7601,6 +8707,711 @@
         ],
         "correctOptionId": "gf-259ab9ed3048-q-249285971-o-8d05527e6de75fc2",
         "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1011383648",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se fundó la ciudad de Oruro en la colonia?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1011383648-o-68272e268a83e4e8",
+            "text": "Fundada el 1 de noviembre de 1606 por el Lic. Manuel Castro de Padilla. Nombre Español: Villa de San Felipe de Austria. Nombre Indígena: Uru uru."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1011383648-o-1355b61388cb5227",
+            "text": "El 29 de septiembre de 1538 por Gonzalo Pizarro en el altiplano."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1011383648-o-f171c8fb0427d652",
+            "text": "El 26 de febrero de 1560 por Ñuflo de Chávez en las tierras bajas."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1011383648-o-770a96c8399a5ac7",
+            "text": "El 15 de agosto de 1571 por Gerónimo de Osorio en el valle central."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1011383648-o-68272e268a83e4e8",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1909772008",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se fundó la ciudad de La Paz, en la colonia?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1909772008-o-2b1bff0d51684e90",
+            "text": "El 15 de agosto de 1571 por el Capitán Gerónimo de Osorio."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1909772008-o-e5b38d7584c8a3cf",
+            "text": "Fundada el 20 de octubre de 1548, por el capitán Alonso de Mendoza, originalmente en lo que hoy es el pueblo de Laja. - Nombre Español: Nuestra Señora de la Paz. - Nombre Indígena: Chuquiago."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1909772008-o-7c3ec784f8dc8a51",
+            "text": "El 1 de noviembre de 1606 por Manuel Castro de Padilla en Villa de San Felipe de Austria."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1909772008-o-746b64b6db404dbe",
+            "text": "El 11 de junio de 1686 por el padre jesuita Cipriano Barace."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1909772008-o-e5b38d7584c8a3cf",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1495771851",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se creó el departamento de Cochabamba?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1495771851-o-d995f1b9432cb3c4",
+            "text": "El 14 de septiembre de 1810 tras la proclama de independencia."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1495771851-o-f53f2c72155790e7",
+            "text": "El 15 de agosto de 1571 en la época colonial española."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1495771851-o-b007c452dcedaac6",
+            "text": "Creado el 23 de enero de 1826 en el gobierno del Mariscal Antonio José de Sucre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1495771851-o-c8e8aefdccc0c1eb",
+            "text": "El 6 de agosto de 1825 al nacer la vida independiente de la república."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1495771851-o-b007c452dcedaac6",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-147987761",
+        "topic": "Revisión independiente V1.4",
+        "text": "En la geografía de accidentes geográficos ¿Qué son Las mesetas?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-147987761-o-bca73957d20f4383",
+            "text": "Entradas de mar cercadas por tierra con una abertura hacia el océano."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-147987761-o-724fd941bf507b10",
+            "text": "Meseta puede designar, en geografía, a una planicie extensa situada a una cierta altura sobre el nivel del mar. También puede referirse al descanso en que termina un tramo de una escalera. La palabra, como tal, es una forma de diminutivo del vocablo mesa."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-147987761-o-3574a866182fce8b",
+            "text": "Zonas del relieve terrestre que se hallan muy por debajo de las regiones circundantes."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-147987761-o-4456a229752023a3",
+            "text": "Cadenas de islas agrupadas en una porción marítima de dimensiones reducidas."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-147987761-o-724fd941bf507b10",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-2096573876",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué es una península?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-2096573876-o-729a31fcf1dd4367",
+            "text": "hace referencia al fragmento de tierra que está cercado por agua y se conecta con otra tierra de extensión más importante a través de una porción de superficie que es relativamente estrecha."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2096573876-o-a4663b6fc10ac14e",
+            "text": "Una separación natural entre dos mares o canales de navegación fluvial."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2096573876-o-2fe38c6113f596c1",
+            "text": "Un conjunto de islas agrupadas en un espacio marítimo reducido."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2096573876-o-2d84e25447f72e9f",
+            "text": "Una planicie extensa situada a una cierta altura sobre el nivel del mar."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-2096573876-o-729a31fcf1dd4367",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1683982454",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo fue creado el departamento de Chuquisaca?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1683982454-o-2b1e09cf09e14ad1",
+            "text": "El 25 de mayo de 1809 tras los sucesos revolucionarios."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1683982454-o-b007c452dcedaac6",
+            "text": "Creado el 23 de enero de 1826 en el gobierno del Mariscal Antonio José de Sucre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1683982454-o-8f07dc7774a84a69",
+            "text": "El 6 de agosto de 1825 en la Asamblea Deliberante."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1683982454-o-d712c2d7c5fa3ab6",
+            "text": "El 18 de noviembre de 1842 en el gobierno de José Ballivián."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1683982454-o-b007c452dcedaac6",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-379252802",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Quién fue el último líder de la Unión Soviética y qué reformas impulsó?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-379252802-o-e1f02d54ea0f7cc8",
+            "text": "Vladimir Lenin con la Nueva Política Económica (NEP)."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-379252802-o-c1c59405ddb00833",
+            "text": "Iósif Stalin con los planes quinquenales de industrialización."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-379252802-o-7843b8b8d7de4d8b",
+            "text": "Mijail Gorbachov, quien impulsó las reformas de Glástnost (transparencia) y Perestroika (reestructuración económica)."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-379252802-o-a4e2179c450216ba",
+            "text": "Nikita Khrushchev durante la crisis de los misiles en el Caribe."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-379252802-o-7843b8b8d7de4d8b",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1148016437",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se creó el departamento de La Paz?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1148016437-o-b007c452dcedaac6",
+            "text": "Creado el 23 de enero de 1826 en el gobierno del Mariscal Antonio José de Sucre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1148016437-o-b05f7c97d7e580d1",
+            "text": "El 24 de septiembre de 1831 en el gobierno de Andrés de Santa Cruz."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1148016437-o-03b3447027b6b60c",
+            "text": "El 18 de noviembre de 1842 en la administración de José Ballivián."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1148016437-o-520343c894e8ef79",
+            "text": "El 16 de julio de 1809 tras la proclamación de la Junta Tuitiva."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1148016437-o-b007c452dcedaac6",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-54666329",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué significaba la \"Destrucción Mutua Asegurada\" (MAD)?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-54666329-o-180ba4649c7fd1ff",
+            "text": "Un tratado internacional para prohibir totalmente la fabricación de armas convencionales."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-54666329-o-9aa6d430339f4494",
+            "text": "La obligación de desarmar los ejércitos regulares tras una crisis diplomática."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-54666329-o-6ef70e727ce3cac3",
+            "text": "Un pacto de no agresión firmado entre los líderes de la OTAN y el Pacto de Varsovia."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-54666329-o-56a30c212a9057e0",
+            "text": "La teoría de que un ataque nuclear por una superpotencia provocaría una represalia devastadora de la otra, asegurando la aniquilación de ambos, lo que disuadió un ataque directo."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-54666329-o-56a30c212a9057e0",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1171272023",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuál fue el objetivo principal de la intervención de Estados Unidos en la Guerra de Vietnam?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1171272023-o-74abbffc5f602b2d",
+            "text": "Apoyar la expansión del comunismo en el sudeste asiático."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1171272023-o-2cd242cadb2e782e",
+            "text": "El objetivo principal de EE. UU. fue la contención del comunismo, intentando evitar que Vietnam del Sur cayera bajo el control de Vietnam del Norte comunista."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1171272023-o-1c54478c895e7e00",
+            "text": "Controlar los yacimientos de petróleo ubicados en la península de Indochina."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1171272023-o-b4f3d78c82f3f82b",
+            "text": "Establecer una colonia comercial administrada por la metrópoli norteamericana."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1171272023-o-2cd242cadb2e782e",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-367998857",
+        "topic": "Revisión independiente V1.4",
+        "text": "En la geografía de accidentes geográficos ¿Qué son las depresiones?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-367998857-o-7841d91d59ea5c20",
+            "text": "Planicies extensas ubicadas a gran altura sobre el nivel medio del mar."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-367998857-o-81d9cef839c017b5",
+            "text": "Porciones de tierra cercadas por agua unidas por un istmo estrecho."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-367998857-o-30778546e1bfdcd9",
+            "text": "Es una zona del relieve terrestre situada a una altura inferior que las regiones circundantes. Las depresiones pueden ser de tamaño y origen muy variados, desde cubetas de algunos metros de diámetro hasta grandes estructuras de escala continental."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-367998857-o-92195806b8537fec",
+            "text": "Canales naturales de paso obligatorio situados entre dos masas de agua."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-367998857-o-30778546e1bfdcd9",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-629550571",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se creó el departamento de Potosí?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-629550571-o-b007c452dcedaac6",
+            "text": "Creado el 23 de enero de 1826 en el gobierno del Mariscal Antonio José de Sucre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-629550571-o-f7dd7b6628c908c7",
+            "text": "El 5 de septiembre de 1826 en el gobierno del mismo Mariscal de Ayacucho."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-629550571-o-b597ba9577d5b1ce",
+            "text": "El 24 de septiembre de 1831 por Andrés de Santa Cruz y Calahumana."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-629550571-o-45dc5560b2128db8",
+            "text": "El 18 de noviembre de 1842 durante la gestión de José Ballivián."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-629550571-o-b007c452dcedaac6",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-413941294",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué es un archipiélago?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-413941294-o-2fe0dcb98b7bfbe1",
+            "text": "Un fragmento de tierra cercado por agua conectado a una extensión mayor."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-413941294-o-184026707e8e7140",
+            "text": "Conjunto de islas agrupadas en una porción marítima relativamente pequeña, o sea, no demasiado distantes las unas de las otras, aunque suelen ser muy numerosas. Además de islas propiamente dichas, en los archipiélagos puede haber también otro tipo de islotes, cayos y arrecifes."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-413941294-o-97b0729104d29d8b",
+            "text": "Una porción amplia del océano encerrada por puntas de tierra o cabos."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-413941294-o-455f335f0d392396",
+            "text": "Una zona del relieve terrestre situada a una altura inferior que las regiones circundantes."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-413941294-o-184026707e8e7140",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1054258762",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué fue la \"Carrera Espacial\"?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1054258762-o-6e829e7f541b3f55",
+            "text": "La exploración científica conjunta de la atmósfera terrestre realizada por la ONU."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1054258762-o-60608e7195c3b88a",
+            "text": "La competencia entre EE. UU. y la URSS por lograr hitos en la exploración espacial (como el Sputnik o la llegada a la Luna), demostrando superioridad tecnológica y científica."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1054258762-o-aa27d3d22c82b0bc",
+            "text": "Un programa de satélites comerciales dedicado exclusivamente a las telecomunicaciones globales."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1054258762-o-e32cc62ffd6e230b",
+            "text": "La colonización pacífica de los planetas vecinos liderada por potencias neutrales."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1054258762-o-60608e7195c3b88a",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-155243791",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿En qué consiste la revolución Nacional 1952?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-155243791-o-4e2233328c114a3d",
+            "text": "La Revolución Nacional de Bolivia de 1952 fue un proceso de transformación estructural iniciado el 9 de abril por el Movimiento Nacionalista Revolucionario (MNR), que derrocó a la oligarquía minero-feudal. Este levantamiento popular implementó el voto universal, la nacionalización de las minas, la reforma agraria y la reforma educativa, cambiando radicalmente el sistema político y social del país."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-155243791-o-c3f4f2f934b08bcc",
+            "text": "Un conflicto bélico internacional para recuperar los territorios perdidos en el Litoral."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-155243791-o-3e62935649c83fe4",
+            "text": "Una rebelión indígena liderada por Túpac Katari contra el sistema de tributos coloniales."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-155243791-o-3d9ab4aef601e9ef",
+            "text": "Un proceso de industrialización impulsado por los barones del estaño en el siglo XX."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-155243791-o-4e2233328c114a3d",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-299709635",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué evento marcó el fin de la Guerra Fría?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-299709635-o-bb834149e4e1c64a",
+            "text": "La disolución de la Unión Soviética en diciembre de 1991, aunque la caída del Muro de Berlín en 1989 es a menudo vista como el inicio de su fin."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-299709635-o-d17fe28326cfab01",
+            "text": "La firma del armisticio en la península de Corea en 1953."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-299709635-o-07caefd03252c83a",
+            "text": "La creación de la Organización de las Naciones Unidas en 1945."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-299709635-o-0bc61513127eb697",
+            "text": "La implementación de la Doctrina Truman en Europa occidental."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-299709635-o-bb834149e4e1c64a",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-781133905",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se creó el departamento de Santa Cruz?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-781133905-o-b007c452dcedaac6",
+            "text": "Creado el 23 de enero de 1826 en el gobierno del Mariscal Antonio José de Sucre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-781133905-o-85a25ba67250f1f6",
+            "text": "El 24 de septiembre de 1810 en plena lucha independentista."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-781133905-o-f234deb77a4b6387",
+            "text": "El 18 de noviembre de 1842 en la presidencia de José Ballivián."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-781133905-o-686c1fd7898726fd",
+            "text": "El 24 de septiembre de 1938 bajo el régimen de Germán Busch."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-781133905-o-b007c452dcedaac6",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1371699631",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo se creó el departamento de Tarija?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1371699631-o-a06833789418145b",
+            "text": "Creado el 24 de septiembre de 1831 en el gobierno del Mariscal Andrés de Santa Cruz."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1371699631-o-a0aca1dd0fdcee48",
+            "text": "El 23 de enero de 1826 bajo la administración de Antonio José de Sucre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1371699631-o-830bef28cd62db0c",
+            "text": "El 18 de noviembre de 1842 durante la presidencia de José Ballivián."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1371699631-o-542af07a1090f1ac",
+            "text": "El 24 de septiembre de 1938 en el gobierno de Germán Busch."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1371699631-o-a06833789418145b",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-2077911231",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué representaba el Muro de Berlín?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-2077911231-o-a0faa3b157dabca5",
+            "text": "Una fortificación militar construida para defender la ciudad de ataques externos."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2077911231-o-3717527f079f3370",
+            "text": "La frontera oficial entre la Alemania reunificada y los países neutrales de Europa."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2077911231-o-1a861bb1e96f0e5f",
+            "text": "Construido en 1961, fue el símbolo físico y más potente de la división ideológica entre el Este (comunista) y el Oeste (capitalista) durante la Guerra Fría, separando Berlín oriental y occidental."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2077911231-o-dde1923b9efb821d",
+            "text": "Una barrera comercial destinada a proteger la economía del bloque soviético."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-2077911231-o-1a861bb1e96f0e5f",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-81062139",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Qué evento se considera el inicio simbólico de la Guerra Fría?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-81062139-o-fd153c6ceaec1d64",
+            "text": "La firma del Tratado de Versalles al finalizar la Primera Guerra Mundial."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-81062139-o-17fc10d572a839fd",
+            "text": "La Revolución Cubana y el derrocamiento de la dictadura en 1959."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-81062139-o-ebece2137f6658ad",
+            "text": "La caída del Muro de Berlín en noviembre de 1989."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-81062139-o-ed1330ecb2e5ab43",
+            "text": "La Doctrina Truman (1947), que marcó la política de contención del comunismo por parte de EE. UU."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-81062139-o-ed1330ecb2e5ab43",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-749432795-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿En qué fecha se fundó originalmente Santa Cruz de la Sierra por Ñuflo de Chaves?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-749432795-correccion-v14-op-1",
+            "text": "26 de febrero de 1561"
+          },
+          {
+            "id": "gf-259ab9ed3048-q-749432795-correccion-v14-op-2",
+            "text": "24 de septiembre de 1810"
+          },
+          {
+            "id": "gf-259ab9ed3048-q-749432795-correccion-v14-op-3",
+            "text": "11 de junio de 1686"
+          },
+          {
+            "id": "gf-259ab9ed3048-q-749432795-correccion-v14-op-4",
+            "text": "9 de febrero de 1906"
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-749432795-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1322998902-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué distingue una guerra por poderes o proxy?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1322998902-correccion-v14-op-1",
+            "text": "Empleo nuclear directo obligatorio entre las potencias."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1322998902-correccion-v14-op-2",
+            "text": "Exclusivamente aranceles comerciales."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1322998902-correccion-v14-op-3",
+            "text": "Apoyo de potencias externas a actores enfrentados; no excluye otros tipos de intervención o episodios directos."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1322998902-correccion-v14-op-4",
+            "text": "Una manifestación pacífica sin actores armados."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1322998902-correccion-v14-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-2051232791-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "En geografía costera, ¿qué es un golfo?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-2051232791-correccion-v14-op-1",
+            "text": "Una amplia entrada del mar en la costa."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2051232791-correccion-v14-op-2",
+            "text": "Un canal artificial exclusivamente."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2051232791-correccion-v14-op-3",
+            "text": "Un conjunto de islas."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2051232791-correccion-v14-op-4",
+            "text": "Una depresión continental sin contacto con el mar."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-2051232791-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1277049714",
+        "topic": "Historia y ciudadanía",
+        "text": "¿Cuándo se creó el departamento de Oruro?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1277049714-o-928bfbf20095de7d",
+            "text": "Creado el 5 de septiembre de 1826 en el gobierno del Mariscal Antonio José de Sucre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1277049714-o-6dd6c430a9d01556",
+            "text": "El 23 de enero de 1826 junto con los departamentos fundacionales."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1277049714-o-2bb69525882ae110",
+            "text": "El 24 de septiembre de 1831 por mandato de Andrés de Santa Cruz."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1277049714-o-d56788b8b43811cb",
+            "text": "El 18 de noviembre de 1842 en el periodo de José Ballivián."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1277049714-o-928bfbf20095de7d",
+        "shuffleOptions": true,
+        "explanation": "Ley de 5/9/1826 erige Oruro como departamento, promulgada por Sucre."
+      },
+      {
+        "id": "gf-259ab9ed3048-q-57150565",
+        "topic": "Historia y ciudadanía",
+        "text": "¿Cuándo se creó el departamento del Beni?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-57150565-o-2965476cb580b126",
+            "text": "Creado el 18 de noviembre de 1842 en el Gobierno del Gral. José Ballivian y Segurola."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-57150565-o-32f21e745881a577",
+            "text": "El 23 de enero de 1826 junto con los primeros departamentos de Bolivia."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-57150565-o-1720f6c4c3ccaa05",
+            "text": "El 24 de septiembre de 1938 por decreto del presidente Germán Busch."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-57150565-o-950832e40e0c4ce8",
+            "text": "El 11 de junio de 1686 durante la consolidación de las misiones jesuíticas."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-57150565-o-2965476cb580b126",
+        "shuffleOptions": true,
+        "explanation": "El gobierno departamental y la Contraloría confirman creación el 18/11/1842 por José Ballivián."
+      },
+      {
+        "id": "gf-259ab9ed3048-q-500555908",
+        "topic": "Historia y ciudadanía",
+        "text": "¿Quiénes fueron los principales bandos enfrentados en la Guerra de Corea y quiénes los apoyaban?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-500555908-o-c63cece47cd6fe62",
+            "text": "Los principales bandos fueron Corea del Norte (comunista), apoyada por la Unión Soviética y China, contra Corea del Sur (capitalista), apoyada principalmente por Estados Unidos y las Naciones Unidas."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-500555908-o-b2760cda0b0cd79f",
+            "text": "Corea del Sur apoyada por el bloque soviético frente a Corea del Norte respaldada por la OTAN."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-500555908-o-9ddb14a0cdf367e7",
+            "text": "Tropas chinas y estadounidenses combatiendo conjuntamente contra fuerzas neutrales."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-500555908-o-3fe47899387bfcfa",
+            "text": "El ejército de Vietnam del Norte frente a las milicias aliadas del sur."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-500555908-o-c63cece47cd6fe62",
+        "shuffleOptions": true,
+        "explanation": "Corea del Norte tuvo apoyo soviético y chino; Corea del Sur, de Estados Unidos y fuerzas bajo mandato de la ONU."
+      },
+      {
+        "id": "gf-259ab9ed3048-q-187887977-correccion-v15",
+        "topic": "Versión corregida V1.5",
+        "text": "¿En qué año y por quién fue fundada la misión de la Santísima Trinidad, actual capital del Beni?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-187887977-correccion-v15-op-1",
+            "text": "En 1686, por Cipriano Barace."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-187887977-correccion-v15-op-2",
+            "text": "En 1561, por Ñuflo de Chaves."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-187887977-correccion-v15-op-3",
+            "text": "En 1906, por Enrique Cornejo."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-187887977-correccion-v15-op-4",
+            "text": "En 1831, por Andrés de Santa Cruz."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-187887977-correccion-v15-op-1",
+        "shuffleOptions": true,
+        "explanation": "Se conserva el año y fundador respaldados por el municipio; las fuentes discrepan sobre el día exacto, por lo que no se exige memorizarlo."
+      },
+      {
+        "id": "gf-259ab9ed3048-q-229122527-correccion-v15",
+        "topic": "Versión corregida V1.5",
+        "text": "¿Cuál fue el resultado del armisticio de 1953 en la Guerra de Corea?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-229122527-correccion-v15-op-1",
+            "text": "La reunificación de Corea bajo un único gobierno."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-229122527-correccion-v15-op-2",
+            "text": "La desaparición de ambos Estados por referéndum."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-229122527-correccion-v15-op-3",
+            "text": "La anexión de Corea del Sur a China."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-229122527-correccion-v15-op-4",
+            "text": "El cese de hostilidades y la continuidad de la división, con una línea de demarcación cercana al paralelo 38 y sin tratado de paz formal."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-229122527-correccion-v15-op-4",
+        "shuffleOptions": true,
+        "explanation": "La línea militar de demarcación no coincide exactamente con el paralelo 38. El armisticio detuvo las hostilidades, sin concluir un tratado de paz."
       }
     ]
   },
@@ -7663,6 +9474,208 @@
         ],
         "correctOptionId": "gf-a49cefa8ffe1-q-1200209351-o-2c521834ad2ebbf6",
         "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-676674268",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿Cuándo inicia y termina el cuarto gobierno de Víctor Paz Estensoro?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-676674268-o-897848b2cf0890ce",
+            "text": "Inicia en 1952 y termina en 1956 tras la revolución nacional."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-676674268-o-01d4ef84f01fa95e",
+            "text": "Inicia en 1960 y termina en 1964 antes del golpe militar de Barrientos."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-676674268-o-73d23f840ec822ab",
+            "text": "Inicia en 1985 y termina en 1989, fue uno de los presidentes más Longevos en la historia de Bolivia"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-676674268-o-1443baca2245e2c8",
+            "text": "Inicia en 1993 y termina en 1997 con la capitalización de empresas."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-676674268-o-73d23f840ec822ab",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1390917429",
+        "topic": "Revisión independiente V1.4",
+        "text": "¿En qué consiste los crimines de la calle Harrington?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1390917429-o-583fc1c0fccd8e49",
+            "text": "El fusilamiento de prisioneros de guerra durante el conflicto bélico del Chaco."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1390917429-o-9a5ba6f8062c42c4",
+            "text": "La masacre de la calle Harrington ocurrió el 15 de enero de 1981, cuando efectivos paramilitares de la dictadura de Luis Garcia Meza Tejada torturaron y terminaron con la vida de 8 dirigentes del Movimiento de Izquierda Revolucionario (MIR), en la calle Harrington de la zona de Sopocachi en la ciudad de La Paz, Bolivia."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1390917429-o-305f0b9c39f968b6",
+            "text": "El asalto a las bóvedas del Banco Central ejecutado por células guerrilleras urbanas."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1390917429-o-28344942ff9e1926",
+            "text": "El atentado dinamitero contra las instalaciones de los partidos políticos opositores."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1390917429-o-9a5ba6f8062c42c4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-366432959-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué salida institucional siguió al bloqueo de la elección presidencial congresal de 1979?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-366432959-correccion-v14-op-1",
+            "text": "Presidencia interina de Wálter Guevara y convocatoria a nuevas elecciones."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-366432959-correccion-v14-op-2",
+            "text": "Victoria presidencial de Banzer por mayoría absoluta popular."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-366432959-correccion-v14-op-3",
+            "text": "Suspensión definitiva de las elecciones nacionales."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-366432959-correccion-v14-op-4",
+            "text": "Nombramiento de Guevara por una elección municipal."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-366432959-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-2021661548-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "Usando exclusivamente 3.019.031 y 4.613.486 habitantes, ¿qué aumento porcentual resulta respecto de la primera cifra?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-2021661548-correccion-v14-op-1",
+            "text": "35%"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2021661548-correccion-v14-op-2",
+            "text": "Aproximadamente 52,81%"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2021661548-correccion-v14-op-3",
+            "text": "15%"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2021661548-correccion-v14-op-4",
+            "text": "0%"
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-2021661548-correccion-v14-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-2083473207-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿En qué fecha El Alto fue elevado a rango de ciudad mediante la Ley 1014?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-2083473207-correccion-v14-op-1",
+            "text": "26 de septiembre de 1988"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2083473207-correccion-v14-op-2",
+            "text": "6 de marzo de 1985"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2083473207-correccion-v14-op-3",
+            "text": "6 de agosto de 1825"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2083473207-correccion-v14-op-4",
+            "text": "24 de septiembre de 1938"
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-2083473207-correccion-v14-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1712672441-correccion-v14",
+        "topic": "Propuesta de corrección V1.4",
+        "text": "¿Qué presidente militar entregó el mando a Hernán Siles Zuazo en octubre de 1982?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1712672441-correccion-v14-op-1",
+            "text": "René Barrientos"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1712672441-correccion-v14-op-2",
+            "text": "Hugo Banzer"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1712672441-correccion-v14-op-3",
+            "text": "Juan Pereda"
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1712672441-correccion-v14-op-4",
+            "text": "Guido Vildoso"
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1712672441-correccion-v14-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-2081416065",
+        "topic": "Historia y ciudadanía",
+        "text": "¿Quién fue y que hizo Marcelo Quiroga Santa Cruz?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-2081416065-o-c82c13fad2151305",
+            "text": "Un militar golpista que derrocó al presidente constitucional Walter Guevara Arze."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2081416065-o-4132aabf10e06dea",
+            "text": "Un empresario minero que monopolizó la exportación de plata y estaño en el sur."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2081416065-o-3ccbeb93db3d3a98",
+            "text": "Marcelo Quiroga Santa Cruz (Cochabamba, Bolivia; 13 de marzo de 1931 - La Paz, Bolivia; muere el 17 de julio de 1980, por un golpe de Estado) fue un político, líder socialista, escritor y docente universitario boliviano."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2081416065-o-6579a88d1fe71a8f",
+            "text": "Un diplomático que negoció los límites territoriales definitivos con el Paraguay."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-2081416065-o-3ccbeb93db3d3a98",
+        "shuffleOptions": true,
+        "explanation": "Fecha y lugar de nacimiento, actividad literaria/docente y muerte durante el golpe de 1980 coinciden con las referencias biográficas; no se afirma que se hayan recuperado los restos."
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-114371103-correccion-v15",
+        "topic": "Versión corregida V1.5",
+        "text": "Según la Ley 1551 de Participación Popular de 1994, ¿qué criterio se aplicaba para distribuir la coparticipación tributaria entre municipios?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-114371103-correccion-v15-op-1",
+            "text": "La extensión territorial de cada municipio."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-114371103-correccion-v15-op-2",
+            "text": "El número de habitantes de cada jurisdicción municipal."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-114371103-correccion-v15-op-3",
+            "text": "La cantidad de empresas privadas de cada municipio."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-114371103-correccion-v15-op-4",
+            "text": "La distribución igualitaria sin considerar la población."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-114371103-correccion-v15-op-2",
+        "shuffleOptions": true,
+        "explanation": "El artículo 21 establece distribución de la coparticipación por habitantes, no de la totalidad de los fondos municipales."
       }
     ]
   }
