@@ -37,3 +37,5 @@ Vite usa base relativa ./, compatible con /aulaQuiz/. Los enlaces se resuelven e
 Ver INFORME_INCORPORACION_V1_5.md, PROGRESO_AULAQUIZ.md y GUIA_ACTUALIZACION_CUESTIONARIOS.md. Las importaciones originales, preguntas apartadas y revisiones privadas no se distribuyen en este repositorio.
 
 Las 301 preguntas de V1.4 conservan sus identificadores y contenido. De las 80 incorporaciones, 44 son recuperaciones sin cambios y 36 son adaptaciones de estudio, identificadas en la pregunta: no reproducen literalmente el formulario. Las claves siguen siendo propuestas revisadas, no oficiales ni certificadas. Las nuevas recuperaciones de Sociales preparadas durante V1.5 permanecen privadas y requieren aprobación posterior.
+
+Publicación V1.5 verificada: [Actions 44687103582](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44687103582), aplicación 60ea6df. 287 pruebas públicas de CI y 55 recorridos sobre la URL pública aprobados. Catálogo confirmado: 381 reales + 25 demostraciones separadas. Ver INFORME_INCORPORACION_V1_5.md.

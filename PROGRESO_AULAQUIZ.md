@@ -25,3 +25,5 @@ Cierre V1.4: URL pública verificada con Playwright (45/45), sin errores de cons
 ## V1.5 — 20/11/2026
 
 381 preguntas autorizadas en siete bancos: 100/100/100/8/31/32/10. Se conservan intactas las 301 anteriores, IDs e historial. Las 36 adaptaciones llevan aviso de material no literal y claves propuestas, no certificadas. Las 94 pendientes y 36 versiones originales sustituidas siguen excluidas. Línea base 295 más 25 casos nuevos: 320 únicos; 287 públicos. Unitarios públicos 152/152, navegador local 55/55, TypeScript, build y control de contenido aprobados. Revisión adicional de Sociales privada, sin ampliar producción. Publicación pendiente de confirmar por CI y Playwright público.
+
+Cierre V1.5: 320 casos únicos aprobados, sin fallos finales; CI público 287 y web pública 55/55. Actions 44687103582 y Pages aprobados. Se mantienen 381 preguntas autorizadas y los IDs históricos. Capturas e informes completos conservados en el proyecto privado. Las recuperaciones académicas adicionales permanecen fuera de producción.

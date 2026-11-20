@@ -23,3 +23,21 @@ TypeScript y build aprobados localmente. Vite mantiene el aviso de tamaño del b
 Se publica únicamente desde publicacion/despliegue-v1.3. El flujo existente instala, prueba, comprueba TypeScript, compila, verifica contenido y despliega solo si todo aprueba. No se copian revisiones privadas, ZIP ni registros pendientes. Base /aulaQuiz/ y mismo enlace público.
 
 La revisión académica adicional se entrega en un paquete privado independiente y no aumenta las 381 publicadas. No se añaden funcionalidades ajenas a esta fase. El resultado final de CI y de la verificación pública se adjunta después del despliegue.
+
+## Evidencia de ejecución
+
+- Root: 169/169 unitarios; normalizador 8/8; revisión local 8/8; históricos 80/80; bancos reales 55/55. Total 320 casos únicos, conservando los 295 anteriores.
+- Clon saneado: 152/152 unitarios, TypeScript y build aprobados. La primera ejecución simultánea con navegador agotó el límite de cinco segundos en diez pruebas de procesos; al repetir sin esa carga, pasaron las 152 sin cambiar aserciones ni ampliar tiempos.
+- [GitHub Actions 44687103582](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44687103582): 152 unitarios + 80 históricos + 55 reales = 287 públicos, sin fallos; validate y deploy exitosos. Commit desplegado: 60ea6df929cb370e2937ce2a19fb39c0c1767b0b.
+- HTTPS público 200; los 381 IDs presentes, ninguno de los 94 pendientes ni 36 originales sustituidos como identificadores completos. JavaScript público idéntico por SHA-256 al build del clon: ef99c4ae2f2e7ff8754296e3b00c91553e338294152dc39d0c61fb6b8096ed40.
+- Cero grupos de enunciados idénticos normalizados entre los siete bancos. Se preservaron los 60 archivos originales protegidos del inventario; solo cambió el catálogo autorizado de producción.
+
+Los 55 recorridos públicos terminaron satisfactoriamente.
+
+## Verificación pública final
+
+[Aplicación pública](https://rodrigo-dev012.github.io/aulaQuiz/) y [repositorio](https://github.com/RODRIGO-dev012/aulaQuiz). [Actions aprobado](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44687103582), commit de aplicación 60ea6df. Playwright sobre la URL pública: 55/55 aprobados, sin fallos, omisiones ni reintentos; cinco resoluciones. Se comprobaron además cinco recorridos de refuerzo con capturas y comparación del ID de la pregunta incorrecta. No se detectaron errores de consola, HTTP ni desbordamientos.
+
+190 capturas públicas: artifacts/v1.5/capturas-publicadas/{1920x1080,1366x768,768x1024,390x844,360x800}/. Índice visual: artifacts/v1.5/GALERIA_CAPTURAS_PUBLICADAS.html. Las 180 capturas locales se conservan aparte en capturas-locales. Los JSON de Playwright y RESULTADO_FINAL.json guardan evidencia, sin sumar ejecuciones repetidas como casos únicos.
+
+Limitaciones: pruebas en Chrome/Chromium con resoluciones emuladas, sin dispositivos físicos ni Safari/iOS real; bundle principal con aviso de tamaño. Las claves continúan propuestas, no oficiales ni certificadas. La revisión privada adicional no se publica. No hay bloqueos técnicos de despliegue.
