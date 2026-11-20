@@ -1,42 +1,18 @@
-﻿# Aprobaciones pendientes — AulaQuiz V1.3
+# Aprobaciones y exclusiones — V1.4
 
-Fecha: 19 de noviembre de 2026.
+El propietario confirmó la autorización docente de reutilización y autorizó publicar 301 candidatas como material de práctica con claves propuestas no oficiales. Esta comunicación no certifica académicamente las claves. El manifiesto vincula la autorización a los IDs y SHA-256 exactos y al documento AUTORIZACION_V1_4.md.
 
-## Situación actual
+| Banco | Publicadas autorizadas | Originales fuera de producción |
+|---|---:|---:|
+| Química Orgánica | 98 | 2 |
+| Física | 98 | 2 |
+| Matemáticas | 93 | 7 |
+| Sociales N.º 1 | 2 | 28 |
+| Sociales N.º 2 | 4 | 44 |
+| Sociales N.º 3 | 4 | 47 |
+| Sociales N.º 4 | 2 | 44 |
+| Total | 301 | 174 |
 
-No existe una aprobación académica humana registrada para los bancos reales. Las 396 claves son propuestas, no oficiales. Superar pruebas técnicas no habilita su publicación. Se conserva la partición anterior de 396 propuestas y 79 apartadas; los nuevos hallazgos son observaciones adicionales y no modifican los originales.
+Las 174 excluidas incluyen las 79 apartadas inicialmente; los conjuntos no se suman. Las 475 originales y todas las observaciones se conservan en el proyecto privado. Las recuperaciones de Sociales y las correcciones derivadas requieren revisión y autorización posterior antes de incorporarse. No se publican automáticamente.
 
-| Banco original | Preguntas | Propuestas previas | Apartadas previas | Aprobación académica | Publicación real |
-|---|---:|---:|---:|---|---|
-| Ciencias Sociales N.º 1 | 30 | 10 | 20 | Pendiente | No autorizada en manifiesto |
-| Ciencias Sociales N.º 2 | 48 | 30 | 18 | Pendiente | No autorizada en manifiesto |
-| Ciencias Sociales N.º 3 | 51 | 39 | 12 | Pendiente | No autorizada en manifiesto |
-| Ciencias Sociales N.º 4 | 46 | 21 | 25 | Pendiente | No autorizada en manifiesto |
-| Química Orgánica | 100 | 100 | 0 | Pendiente | No autorizada en manifiesto |
-| Física | 100 | 100 | 0 | Pendiente | No autorizada en manifiesto |
-| Matemáticas | 100 | 96 | 4 | Pendiente | No autorizada en manifiesto |
-| **Total** | **475** | **396** | **79** | **475 sin aprobación registrada** | **0 preguntas reales habilitadas** |
-
-Para cada versión se necesita confirmar derechos de reutilización/publicación, resolver todas las observaciones y obtener aprobación docente de las preguntas y claves incluidas. El registro requiere responsable humano, fecha, evidencia, autorización de publicación y hash de la versión exacta.
-
-Los IDs, fuentes, numeración, alternativas, observaciones previas y evaluación individual nueva se conservan de forma privada en `revisiones/v1.3/`. El listado por pregunta se entrega junto al informe académico; no forma parte del repositorio público.
-
-## Demostraciones
-
-El encargo V1.3, apartado 12, autoriza preparar la publicación con las demostraciones existentes cuando no hay aprobación de bancos reales. El manifiesto registra cuatro bancos de demostración, 25 preguntas. Esta autorización no se extiende a los bancos reales ni equivale a una certificación académica oficial.
-
-## Intervención necesaria del propietario
-
-- Designar docentes/revisores y confirmar la autorización de uso del material.
-- Aprobar las versiones concretas de cada banco real después de resolver las preguntas pendientes y apartadas.
-- Resuelto: repositorio https://github.com/RODRIGO-dev012/aulaQuiz, cuenta autorizada autenticada y permisos verificados.
-- Configurar una identidad Git real para los commits y revisar el contenido saneado antes de subirlo.
-- Resuelto: Pages mediante Actions, variables de autorización y despliegues automático/manual configurados.
-- Resuelto: https://rodrigo-dev012.github.io/aulaQuiz/ verificada mediante Playwright. El propietario puede compartirla con estudiantes.
-
-La publicación de demostraciones está completada. Las aprobaciones académicas y de reutilización de los bancos reales continúan pendientes y no se deducen de este despliegue.
-
-
-### Resultado de la segunda lectura V1.3
-
-329 decisiones específicas; 146 preguntas de Sociales permanecen pendientes de contraste completo. Se detectaron 11 alertas nuevas fuera de las 79 apartadas originales. Las 475 preguntas mantienen aprobación humana pendiente. El listado individual con IDs y clasificación está en revisiones/v1.3/APROBACIONES_PENDIENTES_POR_PREGUNTA.csv y REVISION_INDEPENDIENTE_475.json, conservados únicamente en el proyecto privado. No se cambió la partición original ni se activaron claves nuevas.
+Las 4 demostraciones / 25 preguntas conservan autorización separada. No existen firmas docentes ni claves oficiales registradas.

@@ -20,8 +20,8 @@ export function mastery(lastCorrect:boolean):LearningState { return lastCorrect?
 export function questionLearning(bank:Bank,attempts:Attempt[]):Map<string,QuestionLearning> {
  const version=bankVersion(bank);const records=new Map<string,QuestionLearning>(bank.questions.map(q=>[q.id,{questionId:q.id,bankId:bank.id,bankVersion:version,presented:0,answered:0,correct:0,incorrect:0,omitted:0,state:'new'}]));
  // Deduplicate attempt IDs defensively. Each question contributes at most once per attempt.
- const unique=[...new Map(attempts.map(a=>[a.id,a])).values()].filter(a=>a.bankId===bank.id&&a.bankVersion===version);
- for(const a of unique){for(const q of a.questions){const r=records.get(q.id);if(!r)continue;if(!a.presented||a.presented.includes(q.id))r.presented++;const date=[a.finishedAt??a.startedAt,...Object.values(a.confirmedAt??{})].sort().at(-1)!;if(!r.lastAttemptAt||Date.parse(date)>Date.parse(r.lastAttemptAt))r.lastAttemptAt=date;
+ const unique=[...new Map(attempts.map(a=>[a.id,a])).values()].filter(a=>a.bankId===bank.id);
+ for(const a of unique){for(const q of a.questions){const r=records.get(q.id);if(!r)continue;if(a.bankVersion!==version){const current=bank.questions.find(item=>item.id===q.id)!;if(bankVersion({...bank,questions:[q]})!==bankVersion({...bank,questions:[current]}))continue;}if(!a.presented||a.presented.includes(q.id))r.presented++;const date=[a.finishedAt??a.startedAt,...Object.values(a.confirmedAt??{})].sort().at(-1)!;if(!r.lastAttemptAt||Date.parse(date)>Date.parse(r.lastAttemptAt))r.lastAttemptAt=date;
   const answer=a.answers[q.id];if(answer&&(a.finishedAt||a.confirmed.includes(q.id))){const correct=answer===q.correctOptionId;r.answered++;if(correct)r.correct++;else r.incorrect++;const at=a.confirmedAt?.[q.id]??a.finishedAt??a.startedAt;
    if(!r.lastConfirmedAt||Date.parse(at)>Date.parse(r.lastConfirmedAt)){r.lastConfirmedAt=at;r.lastAnswer=answer;r.state=mastery(correct);}
   }else if(a.finishedAt&&!answer)r.omitted++;
