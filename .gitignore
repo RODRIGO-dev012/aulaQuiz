@@ -1,4 +1,4 @@
-﻿node_modules/
+node_modules/
 dist/
 *.tsbuildinfo
 .npm-cache/
@@ -34,3 +34,8 @@ GUIA_INTERNA_*.md
 INFORME_REVISION_SOCIALES_V1_4.md
 PROPUESTAS_CORRECCION_V1_4.md
 publicacion/despliegue-*/
+
+# Private score links and recovery records
+ENLACES_RESULTADOS.json
+ESTADO_SESION.md
+AULAQUIZ_CONTRASTE_GOOGLE_FORMS*

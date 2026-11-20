@@ -1,8 +1,8 @@
-﻿import {test,expect,type Page} from '@playwright/test';import fs from 'node:fs';
+import {test,expect,type Page} from '@playwright/test';import fs from 'node:fs';
 import {createAttempt} from '../src/engine';import {bankVersion,finishLearningAttempt} from '../src/learning';
 const banks=JSON.parse(fs.readFileSync('src/data/real-banks.json','utf8'));const demos=JSON.parse(fs.readFileSync('src/data/banks.json','utf8'));const meta=JSON.parse(fs.readFileSync('src/data/practice-release.json','utf8'));
 const active=(p:Page)=>p.evaluate(()=>JSON.parse(localStorage.getItem('aulaquiz-active')!));
-async function shot(p:Page,name:string,project:string){await p.mouse.move(0,0);await p.screenshot({path:`artifacts/v1.5/capturas/${project}/${name}.png`,fullPage:!name.includes('configuracion')&&!name.includes('compartir'),animations:'disabled'});expect(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1)).toBe(true);}
+async function shot(p:Page,name:string,project:string){await p.mouse.move(0,0);await p.screenshot({path:`artifacts/v1.7/capturas/${project}/${name}.png`,fullPage:!name.includes('configuracion')&&!name.includes('compartir'),animations:'disabled'});expect(await p.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1)).toBe(true);}
 async function open(p:Page,bank:any){await p.goto('./?bank='+bank.id);await expect(p.getByRole('dialog')).toBeVisible();}
 async function start(p:Page){await p.getByRole('button',{name:'¡Comenzar mi reto!',exact:true}).click();await expect(p.locator('.option')).toHaveCount(4);}
 async function finish(p:Page){await p.getByRole('button',{name:'Finalizar intento',exact:true}).click();await expect(p.getByRole('dialog')).toBeVisible();await p.getByRole('button',{name:'Ver mis resultados',exact:true}).click();await expect(p.getByRole('heading',{name:'Resultados y revisión',exact:true})).toBeVisible();}

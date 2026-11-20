@@ -7803,6 +7803,557 @@
         "correctOptionId": "gf-6ca2a0808760-q-2073733698-correccion-v15-op-1",
         "shuffleOptions": true,
         "explanation": "Se limita a la fecha; el tratado de permuta y compensaciones incluyó a Guachalla, Pinilla, Río Branco y Assis Brasil. No se reduce a una compraventa."
+      },
+      {
+        "id": "gf-6ca2a0808760-q-2124844267-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué presidente inauguró el ferrocarril que llegó a Oruro desde Antofagasta en 1892?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-2124844267-adaptacion-v16-o1",
+            "text": "Aniceto Arce."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2124844267-adaptacion-v16-o2",
+            "text": "Gregorio Pacheco."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2124844267-adaptacion-v16-o3",
+            "text": "Ismael Montes."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2124844267-adaptacion-v16-o4",
+            "text": "José Manuel Pando."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-2124844267-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-8512677-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué país invadió Alemania el 1 de septiembre de 1939, desencadenando la Segunda Guerra Mundial en Europa?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-8512677-adaptacion-v16-o1",
+            "text": "Bélgica."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-8512677-adaptacion-v16-o2",
+            "text": "Polonia."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-8512677-adaptacion-v16-o3",
+            "text": "Grecia."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-8512677-adaptacion-v16-o4",
+            "text": "Noruega."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-8512677-adaptacion-v16-o2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-425110446-propuesta-v15-ef19a9b9b3",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Aproximadamente cuántas personas judías fueron asesinadas en el Holocausto?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-425110446-propuesta-v15-ef19a9b9b3-op-1",
+            "text": "Seis mil."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-425110446-propuesta-v15-ef19a9b9b3-op-2",
+            "text": "Sesenta mil."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-425110446-propuesta-v15-ef19a9b9b3-op-3",
+            "text": "Seiscientas."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-425110446-propuesta-v15-ef19a9b9b3-op-4",
+            "text": "Seis millones."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-425110446-propuesta-v15-ef19a9b9b3-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-138851167-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué presidente boliviano estuvo al mando de las fuerzas que protagonizaron la retirada de Camarones en 1879?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-138851167-adaptacion-v16-o1",
+            "text": "Ismael Montes."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-138851167-adaptacion-v16-o2",
+            "text": "Hilarión Daza."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-138851167-adaptacion-v16-o3",
+            "text": "José María de Achá."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-138851167-adaptacion-v16-o4",
+            "text": "Narciso Campero."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-138851167-adaptacion-v16-o2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1911815075-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "Según la investigación sobre los inicios del automóvil en Bolivia publicada en Fuentes (2019), ¿qué empresario poseía el vehículo documentado en Oruro en agosto de 1904?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1911815075-adaptacion-v16-o1",
+            "text": "Arturo Posnansky."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1911815075-adaptacion-v16-o2",
+            "text": "Agapito Aguayo."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1911815075-adaptacion-v16-o3",
+            "text": "Alfred W. Barber."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1911815075-adaptacion-v16-o4",
+            "text": "Jorge Wilstermann."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1911815075-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1522000721-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha se aprobó mediante referéndum el proyecto de Constitución boliviana promulgado en febrero de 2009?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1522000721-adaptacion-v16-o1",
+            "text": "6 de diciembre de 2009."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1522000721-adaptacion-v16-o2",
+            "text": "7 de febrero de 2009."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1522000721-adaptacion-v16-o3",
+            "text": "25 de enero de 2009."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1522000721-adaptacion-v16-o4",
+            "text": "22 de enero de 2010."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1522000721-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1498678576-propuesta-v15-5dad715302",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué ciudad reconoce como capital de Bolivia el artículo 6 de la Constitución de 2009?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1498678576-propuesta-v15-5dad715302-op-1",
+            "text": "Oruro."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1498678576-propuesta-v15-5dad715302-op-2",
+            "text": "Trinidad."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1498678576-propuesta-v15-5dad715302-op-3",
+            "text": "Cobija."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1498678576-propuesta-v15-5dad715302-op-4",
+            "text": "Sucre."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1498678576-propuesta-v15-5dad715302-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1539268014-propuesta-v15-6aec20008f",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué ciudad se utilizó por primera vez una bomba atómica contra una población en guerra, el 6 de agosto de 1945?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1539268014-propuesta-v15-6aec20008f-op-1",
+            "text": "Tokio."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1539268014-propuesta-v15-6aec20008f-op-2",
+            "text": "Kioto."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1539268014-propuesta-v15-6aec20008f-op-3",
+            "text": "Hiroshima."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1539268014-propuesta-v15-6aec20008f-op-4",
+            "text": "Nagasaki."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1539268014-propuesta-v15-6aec20008f-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1392075452-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿De qué pueblo indígena proviene la expresión Abya Yala, hoy utilizada para nombrar América?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1392075452-adaptacion-v16-o1",
+            "text": "Mapuche."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1392075452-adaptacion-v16-o2",
+            "text": "Guna (también escrito cuna)."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1392075452-adaptacion-v16-o3",
+            "text": "Aymara."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1392075452-adaptacion-v16-o4",
+            "text": "Quechua."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1392075452-adaptacion-v16-o2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1938749158-propuesta-v15-d4203760f1",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha se firmó en Buenos Aires el Tratado de Paz, Amistad y Límites entre Bolivia y Paraguay?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1938749158-propuesta-v15-d4203760f1-op-1",
+            "text": "12 de junio de 1935."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1938749158-propuesta-v15-d4203760f1-op-2",
+            "text": "17 de noviembre de 1903."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1938749158-propuesta-v15-d4203760f1-op-3",
+            "text": "20 de octubre de 1904."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1938749158-propuesta-v15-d4203760f1-op-4",
+            "text": "21 de julio de 1938."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1938749158-propuesta-v15-d4203760f1-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-270343380-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué región quedó incorporada a Brasil mediante el Tratado de Petrópolis de 1903?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-270343380-adaptacion-v16-o1",
+            "text": "Altiplano de Oruro."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-270343380-adaptacion-v16-o2",
+            "text": "Chaco Boreal."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-270343380-adaptacion-v16-o3",
+            "text": "Acre."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-270343380-adaptacion-v16-o4",
+            "text": "Litoral de Atacama."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-270343380-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1819149302-propuesta-v15-1733f3123e",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Quién presidía Bolivia al comenzar la Guerra del Chaco en 1932?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1819149302-propuesta-v15-1733f3123e-op-1",
+            "text": "Hugo Banzer."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1819149302-propuesta-v15-1733f3123e-op-2",
+            "text": "Daniel Salamanca."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1819149302-propuesta-v15-1733f3123e-op-3",
+            "text": "Aniceto Arce."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1819149302-propuesta-v15-1733f3123e-op-4",
+            "text": "José Manuel Pando."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1819149302-propuesta-v15-1733f3123e-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-100858632-propuesta-v15-5389206e4b",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿A qué personaje homenajeaba el nombre inicial de la república que dio origen a Bolivia?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-100858632-propuesta-v15-5389206e4b-op-1",
+            "text": "Simón Bolívar."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-100858632-propuesta-v15-5389206e4b-op-2",
+            "text": "Alejo Calatayud."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-100858632-propuesta-v15-5389206e4b-op-3",
+            "text": "Eustaquio Méndez."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-100858632-propuesta-v15-5389206e4b-op-4",
+            "text": "Pedro Ignacio Muiba."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-100858632-propuesta-v15-5389206e4b-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-2058955466-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha se libró la batalla del Alto de la Alianza o de Tacna?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-2058955466-adaptacion-v16-o1",
+            "text": "14 de febrero de 1879."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2058955466-adaptacion-v16-o2",
+            "text": "23 de marzo de 1879."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2058955466-adaptacion-v16-o3",
+            "text": "20 de octubre de 1904."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2058955466-adaptacion-v16-o4",
+            "text": "26 de mayo de 1880."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-2058955466-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-81538868-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué impuesto sobre el salitre exportado aprobó Bolivia antes del estallido de la Guerra del Pacífico?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-81538868-adaptacion-v16-o1",
+            "text": "Diez centavos por quintal."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-81538868-adaptacion-v16-o2",
+            "text": "Veinte centavos por quintal."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-81538868-adaptacion-v16-o3",
+            "text": "Un centavo por quintal."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-81538868-adaptacion-v16-o4",
+            "text": "Cien centavos por quintal."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-81538868-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1785737628-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué pareja de defensores se recuerda por su actuación boliviana en Calama en 1879?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1785737628-adaptacion-v16-o1",
+            "text": "Eduardo Abaroa y Ladislao Cabrera."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1785737628-adaptacion-v16-o2",
+            "text": "Simón Bolívar y Antonio José de Sucre."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1785737628-adaptacion-v16-o3",
+            "text": "Daniel Salamanca y Manuel Marzana."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1785737628-adaptacion-v16-o4",
+            "text": "Nicolás Suárez y Bruno Racua."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1785737628-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1751240572-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha se firmó el Acta de Independencia de Bolivia en 1825?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1751240572-adaptacion-v16-o1",
+            "text": "9 de diciembre."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1751240572-adaptacion-v16-o2",
+            "text": "16 de julio."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1751240572-adaptacion-v16-o3",
+            "text": "6 de agosto."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1751240572-adaptacion-v16-o4",
+            "text": "25 de mayo."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1751240572-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-2078514706-propuesta-v15-c5c415868f",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Cuáles fueron las tres principales potencias del Eje en la Segunda Guerra Mundial?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-2078514706-propuesta-v15-c5c415868f-op-1",
+            "text": "Bolivia, Paraguay y Perú."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2078514706-propuesta-v15-c5c415868f-op-2",
+            "text": "Alemania, Italia y Japón."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2078514706-propuesta-v15-c5c415868f-op-3",
+            "text": "Reino Unido, Estados Unidos y Unión Soviética."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-2078514706-propuesta-v15-c5c415868f-op-4",
+            "text": "Canadá, México y Australia."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-2078514706-propuesta-v15-c5c415868f-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-230632064-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué centinela boliviano destacó por alertar a las fuerzas durante el combate de Riosinho, según la documentación legislativa de homenaje?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-230632064-adaptacion-v16-o1",
+            "text": "José Santos Vargas."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-230632064-adaptacion-v16-o2",
+            "text": "Eduardo Abaroa."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-230632064-adaptacion-v16-o3",
+            "text": "Maximiliano Paredes."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-230632064-adaptacion-v16-o4",
+            "text": "Manuel Marzana."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-230632064-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-29174680-propuesta-v15-5097cba76d",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Entre qué años se desarrolló la Guerra del Chaco entre Bolivia y Paraguay?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-29174680-propuesta-v15-5097cba76d-op-1",
+            "text": "1879–1883."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-29174680-propuesta-v15-5097cba76d-op-2",
+            "text": "1899–1903."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-29174680-propuesta-v15-5097cba76d-op-3",
+            "text": "1914–1918."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-29174680-propuesta-v15-5097cba76d-op-4",
+            "text": "1932–1935."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-29174680-propuesta-v15-5097cba76d-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-645973361-propuesta-v15-421314efa1",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué superficie territorial de Bolivia consigna el INE en sus aspectos geográficos?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-645973361-propuesta-v15-421314efa1-op-1",
+            "text": "10.985 km²."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-645973361-propuesta-v15-421314efa1-op-2",
+            "text": "10.985.810 km²."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-645973361-propuesta-v15-421314efa1-op-3",
+            "text": "1.098.581 km²."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-645973361-propuesta-v15-421314efa1-op-4",
+            "text": "109.858 km²."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-645973361-propuesta-v15-421314efa1-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6ca2a0808760-q-1337425198-adaptacion-v17",
+        "topic": "Versión adaptada de estudio V1.7",
+        "text": "¿Cuántas muertes civiles y militares estima el National WWII Museum para la Unión Soviética durante la Segunda Guerra Mundial?",
+        "options": [
+          {
+            "id": "gf-6ca2a0808760-q-1337425198-adaptacion-v17-o1",
+            "text": "Aproximadamente 450 mil."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1337425198-adaptacion-v17-o2",
+            "text": "Aproximadamente 24 millones."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1337425198-adaptacion-v17-o3",
+            "text": "Aproximadamente 2 millones."
+          },
+          {
+            "id": "gf-6ca2a0808760-q-1337425198-adaptacion-v17-o4",
+            "text": "Aproximadamente 100 mil."
+          }
+        ],
+        "correctOptionId": "gf-6ca2a0808760-q-1337425198-adaptacion-v17-o2",
+        "explanation": "La tabla del National WWII Museum estima 24 millones de muertes totales soviéticas. Las estimaciones varían entre fuentes; no se afirma que sea una cifra definitiva.",
+        "shuffleOptions": true
       }
     ]
   },
@@ -8595,6 +9146,432 @@
         "correctOptionId": "gf-6317b9172e26-q-1096505230-correccion-v15-op-4",
         "shuffleOptions": true,
         "explanation": "Se distingue la proclamación de 1949 de las formulaciones políticas de etapas posteriores."
+      },
+      {
+        "id": "gf-6317b9172e26-q-1068311851-propuesta-v15-abe430a108",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué escritor boliviano publicó Pueblo enfermo en 1909?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1068311851-propuesta-v15-abe430a108-op-1",
+            "text": "Alcides Arguedas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1068311851-propuesta-v15-abe430a108-op-2",
+            "text": "Adela Zamudio."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1068311851-propuesta-v15-abe430a108-op-3",
+            "text": "Gabriel René Moreno."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1068311851-propuesta-v15-abe430a108-op-4",
+            "text": "José Santos Vargas."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1068311851-propuesta-v15-abe430a108-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1111066537-propuesta-v15-8251ed9c6e",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué líder aymara, conocido como Julián Apaza, encabezó cercos a La Paz junto a Bartolina Sisa?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1111066537-propuesta-v15-8251ed9c6e-op-1",
+            "text": "Simón Bolívar."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1111066537-propuesta-v15-8251ed9c6e-op-2",
+            "text": "Antonio José de Sucre."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1111066537-propuesta-v15-8251ed9c6e-op-3",
+            "text": "José Santos Vargas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1111066537-propuesta-v15-8251ed9c6e-op-4",
+            "text": "Tupak Katari."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1111066537-propuesta-v15-8251ed9c6e-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-623296216-propuesta-v15-ca38f4b502",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué lideresa independentista combatió junto a Manuel Ascencio Padilla?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-623296216-propuesta-v15-ca38f4b502-op-1",
+            "text": "Adela Zamudio."
+          },
+          {
+            "id": "gf-6317b9172e26-q-623296216-propuesta-v15-ca38f4b502-op-2",
+            "text": "Genoveva Ríos."
+          },
+          {
+            "id": "gf-6317b9172e26-q-623296216-propuesta-v15-ca38f4b502-op-3",
+            "text": "Juana Azurduy."
+          },
+          {
+            "id": "gf-6317b9172e26-q-623296216-propuesta-v15-ca38f4b502-op-4",
+            "text": "Bartolina Sisa."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-623296216-propuesta-v15-ca38f4b502-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1334546935-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué lideresa aymara participó en los cercos a La Paz de 1781 junto a Tupak Katari?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1334546935-adaptacion-v16-o1",
+            "text": "Genoveva Ríos."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1334546935-adaptacion-v16-o2",
+            "text": "Juana Azurduy."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1334546935-adaptacion-v16-o3",
+            "text": "Bartolina Sisa."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1334546935-adaptacion-v16-o4",
+            "text": "Adela Zamudio."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1334546935-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1920303802-propuesta-v15-27cc60ee53",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué artesano platero encabezó una rebelión en Cochabamba en 1730?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1920303802-propuesta-v15-27cc60ee53-op-1",
+            "text": "Alejo Calatayud."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1920303802-propuesta-v15-27cc60ee53-op-2",
+            "text": "José Santos Vargas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1920303802-propuesta-v15-27cc60ee53-op-3",
+            "text": "Manuel Marzana."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1920303802-propuesta-v15-27cc60ee53-op-4",
+            "text": "Luis de Fuentes y Vargas."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1920303802-propuesta-v15-27cc60ee53-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-512342710-propuesta-v15-f8d147cc0d",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Quién es autora del poema Nacer hombre?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-512342710-propuesta-v15-f8d147cc0d-op-1",
+            "text": "Juana Azurduy."
+          },
+          {
+            "id": "gf-6317b9172e26-q-512342710-propuesta-v15-f8d147cc0d-op-2",
+            "text": "Bartolina Sisa."
+          },
+          {
+            "id": "gf-6317b9172e26-q-512342710-propuesta-v15-f8d147cc0d-op-3",
+            "text": "Genoveva Ríos."
+          },
+          {
+            "id": "gf-6317b9172e26-q-512342710-propuesta-v15-f8d147cc0d-op-4",
+            "text": "Adela Zamudio."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-512342710-propuesta-v15-f8d147cc0d-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1053041630-propuesta-v15-122fcdb4f2",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha lleva la Ley boliviana 004, denominada Marcelo Quiroga Santa Cruz?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1053041630-propuesta-v15-122fcdb4f2-op-1",
+            "text": "31 de marzo de 2010."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1053041630-propuesta-v15-122fcdb4f2-op-2",
+            "text": "7 de julio de 1994."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1053041630-propuesta-v15-122fcdb4f2-op-3",
+            "text": "18 de octubre de 1996."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1053041630-propuesta-v15-122fcdb4f2-op-4",
+            "text": "19 de julio de 1988."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1053041630-propuesta-v15-122fcdb4f2-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-645044833-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha instituyó el Decreto Supremo 0405 de 2010 como día de la fundación del Estado Plurinacional?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-645044833-adaptacion-v16-o1",
+            "text": "25 de enero de cada año."
+          },
+          {
+            "id": "gf-6317b9172e26-q-645044833-adaptacion-v16-o2",
+            "text": "7 de febrero de cada año."
+          },
+          {
+            "id": "gf-6317b9172e26-q-645044833-adaptacion-v16-o3",
+            "text": "22 de enero de cada año."
+          },
+          {
+            "id": "gf-6317b9172e26-q-645044833-adaptacion-v16-o4",
+            "text": "6 de agosto de cada año."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-645044833-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-849812571-propuesta-v15-08bcee5bb2",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué combatiente de la independencia, conocido como Tambor Vargas, escribió un diario de aquella lucha?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-849812571-propuesta-v15-08bcee5bb2-op-1",
+            "text": "Daniel Salamanca."
+          },
+          {
+            "id": "gf-6317b9172e26-q-849812571-propuesta-v15-08bcee5bb2-op-2",
+            "text": "José Santos Vargas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-849812571-propuesta-v15-08bcee5bb2-op-3",
+            "text": "Manuel Marzana."
+          },
+          {
+            "id": "gf-6317b9172e26-q-849812571-propuesta-v15-08bcee5bb2-op-4",
+            "text": "Hugo Banzer."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-849812571-propuesta-v15-08bcee5bb2-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1768664501-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Quién escribió Últimos días coloniales en el Alto Perú?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1768664501-adaptacion-v16-o1",
+            "text": "Gabriel René Moreno."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1768664501-adaptacion-v16-o2",
+            "text": "Franz Tamayo."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1768664501-adaptacion-v16-o3",
+            "text": "Alcides Arguedas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1768664501-adaptacion-v16-o4",
+            "text": "Nataniel Aguirre."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1768664501-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-2011658893-propuesta-v15-cc3c9ab823",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué ciudad nació Simón Bolívar en 1783?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-2011658893-propuesta-v15-cc3c9ab823-op-1",
+            "text": "La Paz."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2011658893-propuesta-v15-cc3c9ab823-op-2",
+            "text": "Caracas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2011658893-propuesta-v15-cc3c9ab823-op-3",
+            "text": "Cumaná."
+          },
+          {
+            "id": "gf-6317b9172e26-q-2011658893-propuesta-v15-cc3c9ab823-op-4",
+            "text": "Sucre."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-2011658893-propuesta-v15-cc3c9ab823-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-941927955-propuesta-v15-ff0fb4d5e1",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué apellidos se asocian a los tres principales barones del estaño boliviano?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-941927955-propuesta-v15-ff0fb4d5e1-op-1",
+            "text": "Katari, Sisa y Muiba."
+          },
+          {
+            "id": "gf-6317b9172e26-q-941927955-propuesta-v15-ff0fb4d5e1-op-2",
+            "text": "Bolívar, Sucre y Padilla."
+          },
+          {
+            "id": "gf-6317b9172e26-q-941927955-propuesta-v15-ff0fb4d5e1-op-3",
+            "text": "Salamanca, Marzana y Kundt."
+          },
+          {
+            "id": "gf-6317b9172e26-q-941927955-propuesta-v15-ff0fb4d5e1-op-4",
+            "text": "Patiño, Hochschild y Aramayo."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-941927955-propuesta-v15-ff0fb4d5e1-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-881012012-propuesta-v15-47777705f0",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué guerrillero, cantor y poeta era conocido como Cañoto?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-881012012-propuesta-v15-47777705f0-op-1",
+            "text": "Pedro Ignacio Muiba."
+          },
+          {
+            "id": "gf-6317b9172e26-q-881012012-propuesta-v15-47777705f0-op-2",
+            "text": "José Manuel Baca."
+          },
+          {
+            "id": "gf-6317b9172e26-q-881012012-propuesta-v15-47777705f0-op-3",
+            "text": "José Santos Vargas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-881012012-propuesta-v15-47777705f0-op-4",
+            "text": "Alejo Calatayud."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-881012012-propuesta-v15-47777705f0-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1735694122-propuesta-v15-75588e5e3e",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué guerrillero tarijeño conocido como Moto Méndez participó en La Tablada?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1735694122-propuesta-v15-75588e5e3e-op-1",
+            "text": "José Santos Vargas."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1735694122-propuesta-v15-75588e5e3e-op-2",
+            "text": "Manuel Marzana."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1735694122-propuesta-v15-75588e5e3e-op-3",
+            "text": "Daniel Salamanca."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1735694122-propuesta-v15-75588e5e3e-op-4",
+            "text": "Eustaquio Méndez."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1735694122-propuesta-v15-75588e5e3e-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-481890611-propuesta-v15-fa73d7ab60",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué líder mojeño-trinitario encabezó rebeliones contra las instituciones coloniales?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-481890611-propuesta-v15-fa73d7ab60-op-1",
+            "text": "Antonio José de Sucre."
+          },
+          {
+            "id": "gf-6317b9172e26-q-481890611-propuesta-v15-fa73d7ab60-op-2",
+            "text": "Alejo Calatayud."
+          },
+          {
+            "id": "gf-6317b9172e26-q-481890611-propuesta-v15-fa73d7ab60-op-3",
+            "text": "Pedro Ignacio Muiba."
+          },
+          {
+            "id": "gf-6317b9172e26-q-481890611-propuesta-v15-fa73d7ab60-op-4",
+            "text": "Simón Bolívar."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-481890611-propuesta-v15-fa73d7ab60-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-1211523738-propuesta-v15-d7bf4276f2",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué militar boliviano comandó la defensa de Boquerón en 1932?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-1211523738-propuesta-v15-d7bf4276f2-op-1",
+            "text": "José Manuel Pando."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1211523738-propuesta-v15-d7bf4276f2-op-2",
+            "text": "Manuel Marzana."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1211523738-propuesta-v15-d7bf4276f2-op-3",
+            "text": "Aniceto Arce."
+          },
+          {
+            "id": "gf-6317b9172e26-q-1211523738-propuesta-v15-d7bf4276f2-op-4",
+            "text": "Hugo Banzer."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-1211523738-propuesta-v15-d7bf4276f2-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-6317b9172e26-q-46923547-adaptacion-v17",
+        "topic": "Versión adaptada de estudio V1.7",
+        "text": "¿Quién sucedió a Carlos Quintanilla en la presidencia de Bolivia en 1940, durante la Segunda Guerra Mundial?",
+        "options": [
+          {
+            "id": "gf-6317b9172e26-q-46923547-adaptacion-v17-o1",
+            "text": "Gualberto Villarroel."
+          },
+          {
+            "id": "gf-6317b9172e26-q-46923547-adaptacion-v17-o2",
+            "text": "Daniel Salamanca."
+          },
+          {
+            "id": "gf-6317b9172e26-q-46923547-adaptacion-v17-o3",
+            "text": "Enrique Peñaranda."
+          },
+          {
+            "id": "gf-6317b9172e26-q-46923547-adaptacion-v17-o4",
+            "text": "Mamerto Urriolagoitia."
+          }
+        ],
+        "correctOptionId": "gf-6317b9172e26-q-46923547-adaptacion-v17-o3",
+        "explanation": "Enrique Peñaranda ganó las elecciones de 1940 y sucedió a Carlos Quintanilla. Germán Busch murió en agosto de 1939, antes de la fecha convencional de inicio de la guerra en Europa.",
+        "shuffleOptions": true
       }
     ]
   },
@@ -9412,6 +10389,483 @@
         "correctOptionId": "gf-259ab9ed3048-q-229122527-correccion-v15-op-4",
         "shuffleOptions": true,
         "explanation": "La línea militar de demarcación no coincide exactamente con el paralelo 38. El armisticio detuvo las hostilidades, sin concluir un tratado de paz."
+      },
+      {
+        "id": "gf-259ab9ed3048-q-836631705-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha se conmemora el levantamiento de Oruro de 1781?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-836631705-adaptacion-v16-o1",
+            "text": "10 de febrero."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-836631705-adaptacion-v16-o2",
+            "text": "16 de julio."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-836631705-adaptacion-v16-o3",
+            "text": "10 de noviembre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-836631705-adaptacion-v16-o4",
+            "text": "14 de septiembre."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-836631705-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-2019163216-propuesta-v15-c23d45d28b",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha cayó Saigón ante el ejército norvietnamita, al final de la guerra?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-2019163216-propuesta-v15-c23d45d28b-op-1",
+            "text": "6 de agosto de 1945."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2019163216-propuesta-v15-c23d45d28b-op-2",
+            "text": "30 de abril de 1975."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2019163216-propuesta-v15-c23d45d28b-op-3",
+            "text": "27 de julio de 1953."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2019163216-propuesta-v15-c23d45d28b-op-4",
+            "text": "1 de septiembre de 1939."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-2019163216-propuesta-v15-c23d45d28b-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-437414011-propuesta-v15-e67af078c7",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha corresponde a la batalla de La Tablada en Tarija?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-437414011-propuesta-v15-e67af078c7-op-1",
+            "text": "15 de abril de 1817."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-437414011-propuesta-v15-e67af078c7-op-2",
+            "text": "14 de septiembre de 1810."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-437414011-propuesta-v15-e67af078c7-op-3",
+            "text": "16 de julio de 1809."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-437414011-propuesta-v15-e67af078c7-op-4",
+            "text": "25 de mayo de 1809."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-437414011-propuesta-v15-e67af078c7-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-2019635242-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha corresponde al levantamiento potosino que depuso al gobernador español Francisco de Paula Sanz?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-2019635242-adaptacion-v16-o1",
+            "text": "15 de abril de 1817."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2019635242-adaptacion-v16-o2",
+            "text": "25 de mayo de 1809."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2019635242-adaptacion-v16-o3",
+            "text": "10 de noviembre de 1810."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-2019635242-adaptacion-v16-o4",
+            "text": "16 de julio de 1809."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-2019635242-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1485698955-propuesta-v15-8a3ac82118",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha ocurrió el levantamiento de La Paz asociado a la Junta Tuitiva?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1485698955-propuesta-v15-8a3ac82118-op-1",
+            "text": "14 de septiembre de 1810."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1485698955-propuesta-v15-8a3ac82118-op-2",
+            "text": "15 de abril de 1817."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1485698955-propuesta-v15-8a3ac82118-op-3",
+            "text": "16 de julio de 1809."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1485698955-propuesta-v15-8a3ac82118-op-4",
+            "text": "25 de mayo de 1809."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1485698955-propuesta-v15-8a3ac82118-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1680625429-propuesta-v15-8b5e7e8cc9",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha tuvo lugar la insurrección de Cochabamba encabezada por Rivero y Arze?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1680625429-propuesta-v15-8b5e7e8cc9-op-1",
+            "text": "25 de mayo de 1809."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1680625429-propuesta-v15-8b5e7e8cc9-op-2",
+            "text": "15 de abril de 1817."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1680625429-propuesta-v15-8b5e7e8cc9-op-3",
+            "text": "14 de septiembre de 1810."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1680625429-propuesta-v15-8b5e7e8cc9-op-4",
+            "text": "16 de julio de 1809."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1680625429-propuesta-v15-8b5e7e8cc9-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1630797874-propuesta-v15-1665c4dda6",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha de fundación de Tarija por Luis de Fuentes y Vargas consigna su gobierno municipal?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1630797874-propuesta-v15-1665c4dda6-op-1",
+            "text": "26 de febrero de 1561."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1630797874-propuesta-v15-1665c4dda6-op-2",
+            "text": "9 de febrero de 1906."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1630797874-propuesta-v15-1665c4dda6-op-3",
+            "text": "4 de julio de 1574."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1630797874-propuesta-v15-1665c4dda6-op-4",
+            "text": "15 de agosto de 1571."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1630797874-propuesta-v15-1665c4dda6-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1006769290-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha sitúa el Ministerio de Educación la primera fundación de la Villa de Oropesa, actual Cochabamba?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1006769290-adaptacion-v16-o1",
+            "text": "20 de octubre de 1548."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1006769290-adaptacion-v16-o2",
+            "text": "1 de noviembre de 1606."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1006769290-adaptacion-v16-o3",
+            "text": "4 de julio de 1574."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1006769290-adaptacion-v16-o4",
+            "text": "15 de agosto de 1571."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1006769290-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1584271216-propuesta-v15-e1c701f807",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha de creación del departamento de Pando recoge su Gaceta Oficial?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1584271216-propuesta-v15-e1c701f807-op-1",
+            "text": "24 de septiembre de 1938."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1584271216-propuesta-v15-e1c701f807-op-2",
+            "text": "11 de octubre de 1902."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1584271216-propuesta-v15-e1c701f807-op-3",
+            "text": "6 de agosto de 1825."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1584271216-propuesta-v15-e1c701f807-op-4",
+            "text": "18 de noviembre de 1842."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1584271216-propuesta-v15-e1c701f807-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-37174417-propuesta-v15-67d3b32dd0",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué describe un estrecho geográfico?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-37174417-propuesta-v15-67d3b32dd0-op-1",
+            "text": "Una extensión terrestre que conecta dos continentes y no comunica aguas."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-37174417-propuesta-v15-67d3b32dd0-op-2",
+            "text": "Una montaña aislada completamente de otras elevaciones."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-37174417-propuesta-v15-67d3b32dd0-op-3",
+            "text": "Una cuenca cerrada sin conexión con el mar."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-37174417-propuesta-v15-67d3b32dd0-op-4",
+            "text": "Un paso angosto de agua entre dos tierras que comunica un mar con otro."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-37174417-propuesta-v15-67d3b32dd0-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1090808347-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué dos superpotencias encabezaron los principales bloques enfrentados durante la Guerra Fría?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1090808347-adaptacion-v16-o1",
+            "text": "Francia y Reino Unido."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1090808347-adaptacion-v16-o2",
+            "text": "Alemania e Italia."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1090808347-adaptacion-v16-o3",
+            "text": "China y Japón."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1090808347-adaptacion-v16-o4",
+            "text": "Estados Unidos y la Unión Soviética."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1090808347-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-723516532-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué yacimiento de plata explica el auge de la ciudad colonial de Potosí?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-723516532-adaptacion-v16-o1",
+            "text": "Cerro Tunari."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-723516532-adaptacion-v16-o2",
+            "text": "Cerro San Pedro."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-723516532-adaptacion-v16-o3",
+            "text": "Cerro Sillajhuay."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-723516532-adaptacion-v16-o4",
+            "text": "Cerro Rico."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-723516532-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1790552498-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Con qué país negoció Bolivia el convenio de cooperación técnica del Punto Cuarto, firmado en 1953?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1790552498-adaptacion-v16-o1",
+            "text": "Estados Unidos."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1790552498-adaptacion-v16-o2",
+            "text": "Unión Soviética."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1790552498-adaptacion-v16-o3",
+            "text": "Francia."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1790552498-adaptacion-v16-o4",
+            "text": "Japón."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1790552498-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1817722571-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué conjunto reúne tres revoluciones del siglo XX estudiadas comparativamente en América Latina?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1817722571-adaptacion-v16-o1",
+            "text": "Francesa (1789), rusa (1917) y china (1949)."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1817722571-adaptacion-v16-o2",
+            "text": "Industrial británica, francesa y rusa."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1817722571-adaptacion-v16-o3",
+            "text": "Mexicana (1910), cubana (1959) y sandinista (1979)."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1817722571-adaptacion-v16-o4",
+            "text": "Mexicana (1910), francesa (1789) y rusa (1917)."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1817722571-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1953550462-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha se fundó Puerto Bahía, hoy ciudad de Cobija?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1953550462-adaptacion-v16-o1",
+            "text": "18 de noviembre de 1842."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1953550462-adaptacion-v16-o2",
+            "text": "15 de agosto de 1571."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1953550462-adaptacion-v16-o3",
+            "text": "24 de septiembre de 1938."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1953550462-adaptacion-v16-o4",
+            "text": "9 de febrero de 1906."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1953550462-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1473758503-propuesta-v15-c3d363cdae",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha se conmemora por el levantamiento independentista de Santa Cruz de 1810?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1473758503-propuesta-v15-c3d363cdae-op-1",
+            "text": "16 de julio."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1473758503-propuesta-v15-c3d363cdae-op-2",
+            "text": "15 de abril."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1473758503-propuesta-v15-c3d363cdae-op-3",
+            "text": "24 de septiembre."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1473758503-propuesta-v15-c3d363cdae-op-4",
+            "text": "25 de mayo."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1473758503-propuesta-v15-c3d363cdae-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1655616027-propuesta-v15-036da21079",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha corresponde al levantamiento de Chuquisaca de 1809?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1655616027-propuesta-v15-036da21079-op-1",
+            "text": "15 de abril."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1655616027-propuesta-v15-036da21079-op-2",
+            "text": "25 de mayo."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1655616027-propuesta-v15-036da21079-op-3",
+            "text": "16 de julio."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1655616027-propuesta-v15-036da21079-op-4",
+            "text": "14 de septiembre."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1655616027-propuesta-v15-036da21079-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-969865830-adaptacion-v17",
+        "topic": "Versión adaptada de estudio V1.7",
+        "text": "¿Quién asumió la presidencia de Bolivia después del Mamertazo de 1951?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-969865830-adaptacion-v17-o1",
+            "text": "Víctor Paz Estenssoro."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-969865830-adaptacion-v17-o2",
+            "text": "Enrique Hertzog."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-969865830-adaptacion-v17-o3",
+            "text": "Hernán Siles Zuazo."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-969865830-adaptacion-v17-o4",
+            "text": "Hugo Ballivián."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-969865830-adaptacion-v17-o4",
+        "explanation": "Después del autogolpe, las Fuerzas Armadas colocaron en la presidencia al general Hugo Ballivián.",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-259ab9ed3048-q-1566827237-adaptacion-v17",
+        "topic": "Versión adaptada de estudio V1.7",
+        "text": "¿Con qué nombre colonial se conoce a la actual ciudad de Sucre, según la UNESCO?",
+        "options": [
+          {
+            "id": "gf-259ab9ed3048-q-1566827237-adaptacion-v17-o1",
+            "text": "Ciudad de la Plata de la Nueva Toledo."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1566827237-adaptacion-v17-o2",
+            "text": "Villa de San Felipe de Austria."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1566827237-adaptacion-v17-o3",
+            "text": "Villa Imperial de Potosí."
+          },
+          {
+            "id": "gf-259ab9ed3048-q-1566827237-adaptacion-v17-o4",
+            "text": "Nuestra Señora de La Paz."
+          }
+        ],
+        "correctOptionId": "gf-259ab9ed3048-q-1566827237-adaptacion-v17-o1",
+        "explanation": "La UNESCO identifica la ciudad histórica de Sucre con el nombre colonial Ciudad de la Plata de la Nueva Toledo, y sitúa su fundación española en 1538.",
+        "shuffleOptions": true
       }
     ]
   },
@@ -9676,6 +11130,906 @@
         "correctOptionId": "gf-a49cefa8ffe1-q-114371103-correccion-v15-op-2",
         "shuffleOptions": true,
         "explanation": "El artículo 21 establece distribución de la coparticipación por habitantes, no de la totalidad de los fondos municipales."
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-266098162-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Cuál de estas empresas estatales bolivianas de telecomunicaciones fue capitalizada durante la década de 1990?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-266098162-adaptacion-v16-o1",
+            "text": "Yacimientos de Litio Bolivianos."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-266098162-adaptacion-v16-o2",
+            "text": "Banco Central de Bolivia."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-266098162-adaptacion-v16-o3",
+            "text": "COMIBOL."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-266098162-adaptacion-v16-o4",
+            "text": "ENTEL."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-266098162-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-934668124-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué decisión política permitió concluir anticipadamente el mandato de Hernán Siles Zuazo en 1985?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-934668124-adaptacion-v16-o1",
+            "text": "Transferir el poder a una junta militar permanente."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-934668124-adaptacion-v16-o2",
+            "text": "Acortar su mandato y convocar elecciones generales."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-934668124-adaptacion-v16-o3",
+            "text": "Disolver definitivamente el Congreso."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-934668124-adaptacion-v16-o4",
+            "text": "Prorrogar su mandato por cinco años."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-934668124-adaptacion-v16-o2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-315491111-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué expresidente fundó Acción Democrática Nacionalista (ADN) en 1979?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-315491111-adaptacion-v16-o1",
+            "text": "Jaime Paz Zamora."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-315491111-adaptacion-v16-o2",
+            "text": "Hernán Siles Zuazo."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-315491111-adaptacion-v16-o3",
+            "text": "Víctor Paz Estenssoro."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-315491111-adaptacion-v16-o4",
+            "text": "Hugo Banzer Suárez."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-315491111-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1063165879-propuesta-v15-2e4e100b9b",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué hecho ocurrido el 14 de febrero de 1879 se recuerda al hablar del centenario de la pérdida del litoral boliviano?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1063165879-propuesta-v15-2e4e100b9b-op-1",
+            "text": "La firma del Tratado de Petrópolis."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1063165879-propuesta-v15-2e4e100b9b-op-2",
+            "text": "La batalla de Boquerón."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1063165879-propuesta-v15-2e4e100b9b-op-3",
+            "text": "La firma del Tratado de Paz del Chaco."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1063165879-propuesta-v15-2e4e100b9b-op-4",
+            "text": "La ocupación chilena de Antofagasta."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1063165879-propuesta-v15-2e4e100b9b-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-58634588-propuesta-v15-4999116034",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué año se celebraron las elecciones argentinas que permitieron volver a la democracia tras la dictadura instalada en 1976?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-58634588-propuesta-v15-4999116034-op-1",
+            "text": "1976."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-58634588-propuesta-v15-4999116034-op-2",
+            "text": "1994."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-58634588-propuesta-v15-4999116034-op-3",
+            "text": "1983."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-58634588-propuesta-v15-4999116034-op-4",
+            "text": "1986."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-58634588-propuesta-v15-4999116034-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-555675416-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué dirigente encabezaba a la COB durante las movilizaciones de trabajadores contra el gobierno de la UDP?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-555675416-adaptacion-v16-o1",
+            "text": "Marcelo Quiroga Santa Cruz."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-555675416-adaptacion-v16-o2",
+            "text": "Hugo Banzer Suárez."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-555675416-adaptacion-v16-o3",
+            "text": "Juan Lechín Oquendo."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-555675416-adaptacion-v16-o4",
+            "text": "Daniel Salamanca."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-555675416-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1755284528-propuesta-v15-1782936906",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "Según la Defensoría del Pueblo, ¿qué día fue asesinado Luis Espinal, después de ser secuestrado la noche anterior?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1755284528-propuesta-v15-1782936906-op-1",
+            "text": "22 de marzo de 1980."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1755284528-propuesta-v15-1782936906-op-2",
+            "text": "21 de marzo de 1979."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1755284528-propuesta-v15-1782936906-op-3",
+            "text": "17 de julio de 1980."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1755284528-propuesta-v15-1782936906-op-4",
+            "text": "10 de octubre de 1982."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1755284528-propuesta-v15-1782936906-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1068630100-propuesta-v15-2ce26de356",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha corresponde a la Ley 1715 del Servicio Nacional de Reforma Agraria?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1068630100-propuesta-v15-2ce26de356-op-1",
+            "text": "7 de julio de 1994."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1068630100-propuesta-v15-2ce26de356-op-2",
+            "text": "31 de marzo de 2010."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1068630100-propuesta-v15-2ce26de356-op-3",
+            "text": "19 de julio de 1988."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1068630100-propuesta-v15-2ce26de356-op-4",
+            "text": "18 de octubre de 1996."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1068630100-propuesta-v15-2ce26de356-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1504931662-propuesta-v15-49b7c447dd",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué dirigente del MIR fue elegido presidente por el Congreso en 1989?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1504931662-propuesta-v15-49b7c447dd-op-1",
+            "text": "Gonzalo Sánchez de Lozada."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1504931662-propuesta-v15-49b7c447dd-op-2",
+            "text": "Víctor Paz Estenssoro."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1504931662-propuesta-v15-49b7c447dd-op-3",
+            "text": "Jaime Paz Zamora."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1504931662-propuesta-v15-49b7c447dd-op-4",
+            "text": "Hugo Banzer."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1504931662-propuesta-v15-49b7c447dd-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-362140777-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué militar desplazó a Hugo Banzer del poder en julio de 1978 tras la anulación de las elecciones?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-362140777-adaptacion-v16-o1",
+            "text": "Celso Torrelio."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-362140777-adaptacion-v16-o2",
+            "text": "Alberto Natusch Busch."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-362140777-adaptacion-v16-o3",
+            "text": "Guido Vildoso."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-362140777-adaptacion-v16-o4",
+            "text": "Juan Pereda Asbún."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-362140777-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1745953148-propuesta-v15-f18b11baa0",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha corresponde a la Ley boliviana 1544 de Capitalización?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1745953148-propuesta-v15-f18b11baa0-op-1",
+            "text": "19 de julio de 1988."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1745953148-propuesta-v15-f18b11baa0-op-2",
+            "text": "18 de octubre de 1996."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1745953148-propuesta-v15-f18b11baa0-op-3",
+            "text": "21 de marzo de 1994."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1745953148-propuesta-v15-f18b11baa0-op-4",
+            "text": "24 de abril de 1992."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1745953148-propuesta-v15-f18b11baa0-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-2005508543-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué país concedió a Bolivia el uso de una zona franca turística en el litoral de Ilo en los acuerdos de 1992?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-2005508543-adaptacion-v16-o1",
+            "text": "Argentina."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2005508543-adaptacion-v16-o2",
+            "text": "Brasil."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2005508543-adaptacion-v16-o3",
+            "text": "Perú."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2005508543-adaptacion-v16-o4",
+            "text": "Chile."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-2005508543-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-823118449-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué enfermedad motivó la renuncia de Hugo Banzer a la presidencia en 2001?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-823118449-adaptacion-v16-o1",
+            "text": "Malaria."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-823118449-adaptacion-v16-o2",
+            "text": "Fiebre amarilla."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-823118449-adaptacion-v16-o3",
+            "text": "Cáncer."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-823118449-adaptacion-v16-o4",
+            "text": "Tuberculosis."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-823118449-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1027586166-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué cargo ejerció Luis Arce Gómez en el régimen de Luis García Meza?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1027586166-adaptacion-v16-o1",
+            "text": "Vicepresidente electo."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1027586166-adaptacion-v16-o2",
+            "text": "Ministro del Interior."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1027586166-adaptacion-v16-o3",
+            "text": "Ministro de Educación."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1027586166-adaptacion-v16-o4",
+            "text": "Presidente constitucional."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1027586166-adaptacion-v16-o2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-231943676-propuesta-v15-511364285f",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Quién ocupó la presidencia interina de Bolivia entre 1979 y 1980, después de Natusch?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-231943676-propuesta-v15-511364285f-op-1",
+            "text": "Lidia Gueiler."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-231943676-propuesta-v15-511364285f-op-2",
+            "text": "Bartolina Sisa."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-231943676-propuesta-v15-511364285f-op-3",
+            "text": "Juana Azurduy."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-231943676-propuesta-v15-511364285f-op-4",
+            "text": "Adela Zamudio."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-231943676-propuesta-v15-511364285f-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1291217580-propuesta-v15-87c48d48c1",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué norma abrogó expresamente la Ley 1565 de Reforma Educativa?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1291217580-propuesta-v15-87c48d48c1-op-1",
+            "text": "La Ley 1008 de 19 de julio de 1988."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1291217580-propuesta-v15-87c48d48c1-op-2",
+            "text": "La Constitución de 1826."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1291217580-propuesta-v15-87c48d48c1-op-3",
+            "text": "La Ley 1715 de 18 de octubre de 1996."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1291217580-propuesta-v15-87c48d48c1-op-4",
+            "text": "La Ley 070 de 20 de diciembre de 2010."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1291217580-propuesta-v15-87c48d48c1-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-535581696-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué sector laboral fue especialmente afectado por la relocalización de mediados de los años ochenta en Bolivia?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-535581696-adaptacion-v16-o1",
+            "text": "Trabajadores de la minería estatal."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-535581696-adaptacion-v16-o2",
+            "text": "Pilotos de aviación comercial."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-535581696-adaptacion-v16-o3",
+            "text": "Docentes de universidades privadas."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-535581696-adaptacion-v16-o4",
+            "text": "Personal diplomático."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-535581696-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1990502264-propuesta-v15-30b949ff26",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué año comenzó el mandato constitucional de Hugo Banzer que terminó en 2001?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1990502264-propuesta-v15-30b949ff26-op-1",
+            "text": "1989."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1990502264-propuesta-v15-30b949ff26-op-2",
+            "text": "1997."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1990502264-propuesta-v15-30b949ff26-op-3",
+            "text": "1971."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1990502264-propuesta-v15-30b949ff26-op-4",
+            "text": "1982."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1990502264-propuesta-v15-30b949ff26-op-2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-197826517-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué reclamaba principalmente la Marcha por la Vida de los mineros en 1986?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-197826517-adaptacion-v16-o1",
+            "text": "Defender sus empleos frente a la relocalización."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-197826517-adaptacion-v16-o2",
+            "text": "Crear una nueva moneda nacional."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-197826517-adaptacion-v16-o3",
+            "text": "Privatizar las escuelas públicas."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-197826517-adaptacion-v16-o4",
+            "text": "Trasladar la capital a Oruro."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-197826517-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1504104968-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué militar ocupó la presidencia de Bolivia durante apenas 16 días en noviembre de 1979, según la cronología del INE?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1504104968-adaptacion-v16-o1",
+            "text": "Alberto Natusch Busch."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1504104968-adaptacion-v16-o2",
+            "text": "Hugo Banzer."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1504104968-adaptacion-v16-o3",
+            "text": "Guido Vildoso."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1504104968-adaptacion-v16-o4",
+            "text": "Celso Torrelio."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1504104968-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1466770028-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué general asumió la presidencia tras la junta militar que sucedió a Luis García Meza en 1981?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1466770028-adaptacion-v16-o1",
+            "text": "Hernán Siles Zuazo."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1466770028-adaptacion-v16-o2",
+            "text": "Hugo Banzer Suárez."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1466770028-adaptacion-v16-o3",
+            "text": "Jaime Paz Zamora."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1466770028-adaptacion-v16-o4",
+            "text": "Celso Torrelio Villa."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1466770028-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1942867481-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué reivindicación central planteó la huelga de hambre iniciada por mujeres mineras en diciembre de 1977?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1942867481-adaptacion-v16-o1",
+            "text": "Prohibición de las elecciones."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1942867481-adaptacion-v16-o2",
+            "text": "Supresión de los sindicatos."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1942867481-adaptacion-v16-o3",
+            "text": "Privatización de COMIBOL."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1942867481-adaptacion-v16-o4",
+            "text": "Amnistía general y libertad sindical."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1942867481-adaptacion-v16-o4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1989793493-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué presidente boliviano fue secuestrado en junio de 1984 durante un intento fallido de golpe?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1989793493-adaptacion-v16-o1",
+            "text": "Hugo Banzer Suárez."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1989793493-adaptacion-v16-o2",
+            "text": "Jaime Paz Zamora."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1989793493-adaptacion-v16-o3",
+            "text": "Hernán Siles Zuazo."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1989793493-adaptacion-v16-o4",
+            "text": "Víctor Paz Estenssoro."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1989793493-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1419725305-propuesta-v15-609e0679b5",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "Según el Ministerio de Justicia francés, ¿en qué año comenzó la instrucción judicial que desembocó en el proceso contra Klaus Barbie?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1419725305-propuesta-v15-609e0679b5-op-1",
+            "text": "1983."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1419725305-propuesta-v15-609e0679b5-op-2",
+            "text": "1975."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1419725305-propuesta-v15-609e0679b5-op-3",
+            "text": "1987."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1419725305-propuesta-v15-609e0679b5-op-4",
+            "text": "1993."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1419725305-propuesta-v15-609e0679b5-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1735456248-propuesta-v15-33c49ab2ad",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿De qué año es la Ley 1330 de Privatización, fechada el 24 de abril?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1735456248-propuesta-v15-33c49ab2ad-op-1",
+            "text": "1982."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1735456248-propuesta-v15-33c49ab2ad-op-2",
+            "text": "2009."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1735456248-propuesta-v15-33c49ab2ad-op-3",
+            "text": "2010."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1735456248-propuesta-v15-33c49ab2ad-op-4",
+            "text": "1992."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1735456248-propuesta-v15-33c49ab2ad-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1258122724-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué periodo corresponde al mandato presidencial de Jaime Paz Zamora?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1258122724-adaptacion-v16-o1",
+            "text": "1982–1985."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1258122724-adaptacion-v16-o2",
+            "text": "1993–1997."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1258122724-adaptacion-v16-o3",
+            "text": "1989–1993."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1258122724-adaptacion-v16-o4",
+            "text": "1985–1989."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1258122724-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1538980417-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué exministro boliviano fue detenido en Argentina en 1983 a petición de un fiscal estadounidense que lo acusaba de tráfico de drogas?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1538980417-adaptacion-v16-o1",
+            "text": "Luis Arce Gómez."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1538980417-adaptacion-v16-o2",
+            "text": "Juan Pereda Asbún."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1538980417-adaptacion-v16-o3",
+            "text": "Alberto Natusch Busch."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1538980417-adaptacion-v16-o4",
+            "text": "Wálter Guevara Arze."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1538980417-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-155279588-propuesta-v15-3c571a4309",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué presidentes suscribieron la Declaración de Charaña del 8 de febrero de 1975?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-155279588-propuesta-v15-3c571a4309-op-1",
+            "text": "Hugo Banzer y Augusto Pinochet."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-155279588-propuesta-v15-3c571a4309-op-2",
+            "text": "Hernán Siles y Salvador Allende."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-155279588-propuesta-v15-3c571a4309-op-3",
+            "text": "Jaime Paz Zamora y Alberto Fujimori."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-155279588-propuesta-v15-3c571a4309-op-4",
+            "text": "Víctor Paz Estenssoro y Patricio Aylwin."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-155279588-propuesta-v15-3c571a4309-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1156581831-propuesta-v15-1da03ce464",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Quién acompañó a Gonzalo Sánchez de Lozada como candidato a vicepresidente de la alianza MNR-MRTKL en 1993?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1156581831-propuesta-v15-1da03ce464-op-1",
+            "text": "Jaime Paz Zamora."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1156581831-propuesta-v15-1da03ce464-op-2",
+            "text": "Juan Lechín."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1156581831-propuesta-v15-1da03ce464-op-3",
+            "text": "Hugo Banzer."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1156581831-propuesta-v15-1da03ce464-op-4",
+            "text": "Víctor Hugo Cárdenas."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1156581831-propuesta-v15-1da03ce464-op-4",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1381728018-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué grave fenómeno económico caracterizó los últimos años del gobierno de la UDP (1982–1985)?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1381728018-adaptacion-v16-o1",
+            "text": "Hiperinflación."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1381728018-adaptacion-v16-o2",
+            "text": "Deflación prolongada."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1381728018-adaptacion-v16-o3",
+            "text": "Superávit comercial permanente."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1381728018-adaptacion-v16-o4",
+            "text": "Estabilidad general de precios."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1381728018-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-373440433-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué político boliviano sobrevivió al siniestro de una avioneta ocurrido el 2 de junio de 1980 durante la campaña electoral?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-373440433-adaptacion-v16-o1",
+            "text": "Hugo Banzer Suárez."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-373440433-adaptacion-v16-o2",
+            "text": "Jaime Paz Zamora."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-373440433-adaptacion-v16-o3",
+            "text": "Hernán Siles Zuazo."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-373440433-adaptacion-v16-o4",
+            "text": "Víctor Paz Estenssoro."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-373440433-adaptacion-v16-o2",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-2054289694-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué militar derrocó al presidente interino Wálter Guevara Arze el 1 de noviembre de 1979?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-2054289694-adaptacion-v16-o1",
+            "text": "Alberto Natusch Busch."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2054289694-adaptacion-v16-o2",
+            "text": "Celso Torrelio."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2054289694-adaptacion-v16-o3",
+            "text": "Juan Pereda Asbún."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-2054289694-adaptacion-v16-o4",
+            "text": "Guido Vildoso."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-2054289694-adaptacion-v16-o1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-635515884-propuesta-v15-946fb65339",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿En qué fecha se adoptó la resolución OEA AG/RES.426 sobre el acceso de Bolivia al Pacífico?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-635515884-propuesta-v15-946fb65339-op-1",
+            "text": "8 de febrero de 1975."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-635515884-propuesta-v15-946fb65339-op-2",
+            "text": "20 de octubre de 1904."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-635515884-propuesta-v15-946fb65339-op-3",
+            "text": "31 de octubre de 1979."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-635515884-propuesta-v15-946fb65339-op-4",
+            "text": "1 de noviembre de 1980."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-635515884-propuesta-v15-946fb65339-op-3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-1176011455-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué concesión de servicios motivó las protestas conocidas como Guerra del Agua de Cochabamba en 2000?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-1176011455-adaptacion-v16-o1",
+            "text": "La de la minería estatal a COMIBOL."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1176011455-adaptacion-v16-o2",
+            "text": "La del transporte ferroviario a ENFE."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1176011455-adaptacion-v16-o3",
+            "text": "La del agua potable al consorcio Aguas del Tunari."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-1176011455-adaptacion-v16-o4",
+            "text": "La de la electricidad a ENDE."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-1176011455-adaptacion-v16-o3",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-718027412-propuesta-v15-6f1247a790",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué fecha lleva la Ley 1008 del Régimen de la Coca y Sustancias Controladas?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-718027412-propuesta-v15-6f1247a790-op-1",
+            "text": "19 de julio de 1988."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-718027412-propuesta-v15-6f1247a790-op-2",
+            "text": "7 de julio de 1994."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-718027412-propuesta-v15-6f1247a790-op-3",
+            "text": "18 de octubre de 1996."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-718027412-propuesta-v15-6f1247a790-op-4",
+            "text": "31 de marzo de 2010."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-718027412-propuesta-v15-6f1247a790-op-1",
+        "shuffleOptions": true
+      },
+      {
+        "id": "gf-a49cefa8ffe1-q-84976707-adaptacion-v16",
+        "topic": "Versión adaptada de estudio V1.6",
+        "text": "¿Qué dos candidatos protagonizaron el estrecho resultado electoral boliviano de 1979 que desembocó en un bloqueo congresal?",
+        "options": [
+          {
+            "id": "gf-a49cefa8ffe1-q-84976707-adaptacion-v16-o1",
+            "text": "Hugo Banzer y Jaime Paz Zamora."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-84976707-adaptacion-v16-o2",
+            "text": "Hernán Siles Zuazo y Víctor Paz Estenssoro."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-84976707-adaptacion-v16-o3",
+            "text": "Gonzalo Sánchez de Lozada y Víctor Hugo Cárdenas."
+          },
+          {
+            "id": "gf-a49cefa8ffe1-q-84976707-adaptacion-v16-o4",
+            "text": "Juan Pereda y Guido Vildoso."
+          }
+        ],
+        "correctOptionId": "gf-a49cefa8ffe1-q-84976707-adaptacion-v16-o2",
+        "shuffleOptions": true
       }
     ]
   }

@@ -1,10 +1,14 @@
-# AulaQuiz V1.5
+# AulaQuiz V1.7
 
 [Abrir AulaQuiz](https://rodrigo-dev012.github.io/aulaQuiz/) · [Repositorio](https://github.com/RODRIGO-dev012/aulaQuiz)
 
-Herramienta de preparación académica con **7 cuestionarios reales / 381 preguntas**: Química Orgánica 100, Física 100, Matemáticas 100 y Ciencias Sociales N.º 1–4: 8, 31, 32 y 10. Las **claves son propuestas revisadas, no oficiales ni certificadas**. La autorización de reutilización y publicación comunicada por el propietario se registra en publicacion/AUTORIZACION_V1_5.md; no se inventan firmas ni aprobación docente de claves. Las 4 demostraciones / 25 preguntas permanecen en una sección independiente.
+Siete cuestionarios de práctica con **475 preguntas**: Química Orgánica 100, Física 100, Matemáticas 100 y Ciencias Sociales N.º 1–4: 30, 48, 51 y 46. Las claves son **propuestas, no oficiales ni certificadas**. Hay 345 ejercicios literales y 130 adaptaciones identificadas en pantalla como material de estudio. Las cuatro demostraciones / 25 preguntas se muestran por separado.
 
-Perfiles, intentos, resultados y progreso se conservan exclusivamente en ese navegador/dispositivo. No hay autenticación remota ni sincronización. Se mantienen práctica/simulacro, cronómetro, cantidades personalizadas/todas, mezcla independiente de preguntas y alternativas, nuevas/refuerzo/progresivo, revisión, estadísticas, vistas clásica/interactiva y enlaces directos/WhatsApp. Compartir abre un enlace; no envía mensajes automáticamente. Las claves estáticas son inspeccionables: esta plataforma sirve para estudiar.
+V1.7 conserva las 381 preguntas V1.5 con sus IDs, textos, alternativas y claves sin cambios, y añade 94 adaptaciones. Los siete IDs de banco permanecen. Los perfiles, resultados históricos y el aprendizaje de preguntas idénticas se conservan en el navegador; una adaptación tiene ID propio y no hereda dominio del original.
+
+Incluye práctica y simulacro, cronómetro opcional, cantidad personalizada o banco completo, mezcla independiente de preguntas y alternativas, selección de nuevas/refuerzo/progresivo, historial, estadísticas, vistas clásica/interactiva y copia personal JSON. Dos intentos de preguntas nuevas no repiten las ya respondidas; el agotamiento pide una decisión explícita.
+
+Los datos personales se guardan exclusivamente en este navegador/dispositivo; no hay cuentas remotas ni sincronización. Exportar el progreso permite conservar una copia. Compartir abre un enlace, sin enviar mensajes automáticamente. Las claves del sitio estático son inspeccionables: AulaQuiz sirve para estudiar.
 
 ## Ejecutar y validar
 
@@ -21,21 +25,14 @@ npm run verify:production
 npm run dev
 ~~~
 
-La fuente pública ejecuta 152 pruebas unitarias, 80 recorridos históricos con sus datos de demostración originales y 55 recorridos adicionales sobre los 381 contenidos reales de producción (cinco tamaños: 1920×1080, 1366×768, 768×1024, 390×844 y 360×800). Las pruebas históricas usan --mode baseline en artifacts/baseline-dist; **dist siempre contiene la compilación real autorizada**. El proyecto privado conserva también las 17 pruebas académicas, 8 del normalizador y 8 de la revisión local: línea base V1.4 de 295 + 25 casos nuevos = 320 casos únicos. No se suman repeticiones entre entornos.
+Las pruebas históricas conservan fixtures de sus versiones. El catálogo de producción permanece en dist; el ejecutor histórico compila su fixture en artifacts/baseline-dist. Playwright comprueba 1920×1080, 1366×768, 768×1024, 390×844 y 360×800. La suite V1.7 recorre las 475 preguntas y sus cuatro alternativas en cada resolución, además de los recorridos anteriores de modos, perfiles y persistencia.
 
-## Actualizar automáticamente
+## Publicar actualizaciones
 
-1. Trabajar exclusivamente en este clon saneado. Ejecutar git pull --ff-only antes de modificarlo; no copiar todo el proyecto privado ni sus ZIP.
-2. Revisar cambios, pruebas y contenido. Cada banco requiere autorización de su versión exacta y hash en publicacion/APROBACIONES_BANCOS.json. No basta modificar un hash: las 94 pendientes y las 36 versiones originales sustituidas están bloqueadas; la autorización abarca exactamente los 381 IDs candidatos.
-3. Hacer commit y git push origin main. Actions instala dependencias, ejecuta las 287 pruebas públicas, comprueba TypeScript, compila y verifica contenido. Solo al aprobar todo despliega en GitHub Pages.
-4. Comprobar validate/deploy y la URL pública real. Los pull requests validan sin publicar. Nunca usar force push ni desactivar controles para resolver un fallo.
+Trabajar en el clon saneado publicacion/despliegue-v1.3. Antes de cambiarlo, ejecutar git pull --ff-only; revisar los cambios y el alcance exacto autorizado en publicacion/APROBACIONES_BANCOS.json y publicacion/AUTORIZACION_V1_7.md. No basta actualizar un hash: la autorización vincula versión, IDs y contenido propuesto sin inventar certificación docente.
 
-Variables autorizadas: AULAQUIZ_PAGES_APPROVED=true y AULAQUIZ_AUTO_DEPLOY=true. Para suspender futuros despliegues automáticos, cambiar la segunda a false. Sigue disponible la ejecución manual con confirm_publication=true. [skip ci] se reserva para documentación posterior a una validación: nunca cambios de aplicación.
+Después de validar, commit y push normal a main ejecutan GitHub Actions. Solo se despliega si validate aprueba y se mantienen las variables AULAQUIZ_PAGES_APPROVED=true y AULAQUIZ_AUTO_DEPLOY=true. Los pull requests validan sin publicar. No usar force push ni desactivar controles para solucionar fallos. Verificar Actions y la URL real después de publicar.
 
-Vite usa base relativa ./, compatible con /aulaQuiz/. Los enlaces se resuelven en la página principal con parámetros; admiten recarga directa y no contienen perfiles, historial ni respuestas. GitHub Pages sirve la aplicación sin depender de la computadora del propietario.
+No copiar revisiones, originales privados, ZIP, resultados personales, enlaces de puntuaciones, evidencias de Google Forms ni el registro privado de sesión al repositorio. Base relativa ./ compatible con /aulaQuiz/; los enlaces directos no llevan respuestas ni perfiles.
 
-Ver INFORME_INCORPORACION_V1_5.md, PROGRESO_AULAQUIZ.md y GUIA_ACTUALIZACION_CUESTIONARIOS.md. Las importaciones originales, preguntas apartadas y revisiones privadas no se distribuyen en este repositorio.
-
-Las 301 preguntas de V1.4 conservan sus identificadores y contenido. De las 80 incorporaciones, 44 son recuperaciones sin cambios y 36 son adaptaciones de estudio, identificadas en la pregunta: no reproducen literalmente el formulario. Las claves siguen siendo propuestas revisadas, no oficiales ni certificadas. Las nuevas recuperaciones de Sociales preparadas durante V1.5 permanecen privadas y requieren aprobación posterior.
-
-Publicación V1.5 verificada: [Actions 44687103582](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44687103582), aplicación 60ea6df. 287 pruebas públicas de CI y 55 recorridos sobre la URL pública aprobados. Catálogo confirmado: 381 reales + 25 demostraciones separadas. Ver INFORME_INCORPORACION_V1_5.md.
+Ver INFORME_INCORPORACION_V1_7.md y HOJA_RUTA_AULAQUIZ_V2.md. La autorización cubre uso educativo de práctica; no implica claves oficiales ni revisión docente exhaustiva.

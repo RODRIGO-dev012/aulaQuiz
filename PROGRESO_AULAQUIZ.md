@@ -27,3 +27,13 @@ Cierre V1.4: URL pública verificada con Playwright (45/45), sin errores de cons
 381 preguntas autorizadas en siete bancos: 100/100/100/8/31/32/10. Se conservan intactas las 301 anteriores, IDs e historial. Las 36 adaptaciones llevan aviso de material no literal y claves propuestas, no certificadas. Las 94 pendientes y 36 versiones originales sustituidas siguen excluidas. Línea base 295 más 25 casos nuevos: 320 únicos; 287 públicos. Unitarios públicos 152/152, navegador local 55/55, TypeScript, build y control de contenido aprobados. Revisión adicional de Sociales privada, sin ampliar producción. Publicación pendiente de confirmar por CI y Playwright público.
 
 Cierre V1.5: 320 casos únicos aprobados, sin fallos finales; CI público 287 y web pública 55/55. Actions 44687103582 y Pages aprobados. Se mantienen 381 preguntas autorizadas y los IDs históricos. Capturas e informes completos conservados en el proyecto privado. Las recuperaciones académicas adicionales permanecen fuera de producción.
+
+
+## V1.7 — cierre de cobertura, 20/11/2026
+
+Partida pública V1.5 comprobada. Paquete final con once hashes internos coincidentes: 475 ejercicios / 1.900 alternativas; Química, Física y Matemáticas 100 cada uno, Sociales 30/48/51/46. Se conservan idénticas las 381 preguntas V1.5 y se añaden 94 adaptaciones. Catálogo final: 345 literales y 130 adaptadas, con aviso visible, cobertura de un ejercicio por original y siete IDs de banco conservados. Originales y 79 apartadas intactos en revisión privada.
+
+Autorización expresa del propietario para material de práctica con claves propuestas, no oficiales ni certificadas; no se inventa aprobación docente. Cuatro adaptaciones nuevas contrastadas con National WWII Museum, INE y UNESCO. Sin duplicados exactos; solapamientos temáticos documentados. Comparación de Forms privada, sin cambiar claves únicamente por aceptación. Pruebas y despliegue en curso, cierre documentado en INFORME_INCORPORACION_V1_7.md. Hoja de ruta V2 preparada sin implementar servicios ajenos al alcance.
+
+
+Cierre local V1.7: 379 casos únicos aprobados (193 unitarios +8 normalizador +80 históricos +90 reales +8 privados), cero fallidos/omitidos finales. Clon saneado 176 unitarios aprobados; 35 recorridos nuevos cubren 475 preguntas y 1.900 alternativas en cada resolución. Las 381 anteriores, 475 originales y 79 apartadas se conservan. Publicación y verificación remota pendientes de registrar al cierre.

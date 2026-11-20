@@ -3,49 +3,49 @@
     "label": "Química Orgánica",
     "questions": 100,
     "status": "proposed-reviewed-not-official",
-    "sourceFileSha256": "45afcb96c3da77d8d6d393837d4569bce56a0e5422a59574145e6a37ad3dcb20",
-    "releaseVersion": "1.5"
+    "sourceFileSha256": "bb4a1877e2ed1279528e33ecfddf4835093ff4984b01bc4c8532408d1b126351",
+    "releaseVersion": "1.7"
   },
   "gf-f3c68c3faf99": {
     "label": "Física",
     "questions": 100,
     "status": "proposed-reviewed-not-official",
-    "sourceFileSha256": "0746a2417ffce76c1958943644de2565e9a22f59881fa7a1285b63d1dc05f6c9",
-    "releaseVersion": "1.5"
+    "sourceFileSha256": "308947af71154bc1fe5cba49d525a635f20576b7d63e5259a854646d5d8def10",
+    "releaseVersion": "1.7"
   },
   "gf-ff5ef4c8881d": {
     "label": "Matemáticas",
     "questions": 100,
     "status": "proposed-reviewed-not-official",
-    "sourceFileSha256": "e619da8f6c9fcaf183e31eb8cf9cab2b00c71c33664f1928a569c292bdcc45c7",
-    "releaseVersion": "1.5"
+    "sourceFileSha256": "72513dd74be08b6b9ca6526b2ba23070bcd4dcfd3e060801ec10a0909069122a",
+    "releaseVersion": "1.7"
   },
   "gf-6ca2a0808760": {
     "label": "Ciencias Sociales N.º 1",
-    "questions": 8,
+    "questions": 30,
     "status": "proposed-reviewed-not-official",
-    "sourceFileSha256": "84fbbc573e961a1506e75f6f46ab5c016b73bd1674dffdc7faa63af98a821db5",
-    "releaseVersion": "1.5"
+    "sourceFileSha256": "772d1c632d718cc441ccc40fc5d6cfb9a3f2b22b297e674fa2364e38be289548",
+    "releaseVersion": "1.7"
   },
   "gf-6317b9172e26": {
     "label": "Ciencias Sociales N.º 2",
-    "questions": 31,
+    "questions": 48,
     "status": "proposed-reviewed-not-official",
-    "sourceFileSha256": "da4ea572220dedba2d542ef191714925ec26b87c2a3d6d01f197180e54e886cc",
-    "releaseVersion": "1.5"
+    "sourceFileSha256": "16966b4217df71fb894809482acbb5b58f210998644a69d9832674c912c56d32",
+    "releaseVersion": "1.7"
   },
   "gf-259ab9ed3048": {
     "label": "Ciencias Sociales N.º 3",
-    "questions": 32,
+    "questions": 51,
     "status": "proposed-reviewed-not-official",
-    "sourceFileSha256": "11ef7dee95eb2db33acbb0456d2fa8d13c449b1d981c3f74cc365cd55f393be6",
-    "releaseVersion": "1.5"
+    "sourceFileSha256": "380f17ed63f468a533cad638763adf34c59116098f768cedc853ef208b0090c9",
+    "releaseVersion": "1.7"
   },
   "gf-a49cefa8ffe1": {
     "label": "Ciencias Sociales N.º 4",
-    "questions": 10,
+    "questions": 46,
     "status": "proposed-reviewed-not-official",
-    "sourceFileSha256": "62914b56c6e143559fdf1f1c4407bc5aa0f8c3085499928ef45f3786c4b11911",
-    "releaseVersion": "1.5"
+    "sourceFileSha256": "313898c8f4d7d0494b6ae7502f1e31e2b039bf8f6769a74d0b07397ec40b8bde",
+    "releaseVersion": "1.7"
   }
 }
