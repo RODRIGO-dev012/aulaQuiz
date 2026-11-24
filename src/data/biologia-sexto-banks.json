@@ -4,7 +4,7 @@
     "subject": "Biología",
     "grade": "Sexto de Secundaria",
     "title": "Biología — Sexto de Secundaria — Formulario 1",
-    "description": "Revisión preliminar para ensayo local. Claves propuestas, no oficiales ni certificadas; publicación pendiente de autorización.",
+    "description": "Revisión preliminar. Claves propuestas, no oficiales ni certificadas académicamente.",
     "color": "green",
     "shuffleQuestions": true,
     "questions": [
@@ -633,30 +633,6 @@
         "correctOptionId": "BIO-F1-030-A"
       },
       {
-        "id": "BIO-F1-031",
-        "topic": "Biología",
-        "text": "¿Qué nombre corresponde a esta descripción del material? «Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño.»",
-        "options": [
-          {
-            "id": "BIO-F1-031-A",
-            "text": "Diagnóstico imagenológico"
-          },
-          {
-            "id": "BIO-F1-031-B",
-            "text": "Maniobra de Heimlich"
-          },
-          {
-            "id": "BIO-F1-031-C",
-            "text": "Medicina tradicional"
-          },
-          {
-            "id": "BIO-F1-031-D",
-            "text": "Primeros auxilios"
-          }
-        ],
-        "correctOptionId": "BIO-F1-031-B"
-      },
-      {
         "id": "BIO-F1-032",
         "topic": "Biología",
         "text": "«Organismo que posee dos alelos diferentes para un mismo gen.» ¿Cuál es la identificación correcta?",
@@ -823,30 +799,6 @@
           }
         ],
         "correctOptionId": "BIO-F1-039-D"
-      },
-      {
-        "id": "BIO-F1-040",
-        "topic": "Biología",
-        "text": "«Era geológica caracterizada por una gran diversificación de formas de vida y por importantes cambios en los ecosistemas del planeta.» ¿Cuál es la identificación correcta?",
-        "options": [
-          {
-            "id": "BIO-F1-040-A",
-            "text": "Especiación"
-          },
-          {
-            "id": "BIO-F1-040-B",
-            "text": "Paleozoico"
-          },
-          {
-            "id": "BIO-F1-040-C",
-            "text": "Lamarckismo"
-          },
-          {
-            "id": "BIO-F1-040-D",
-            "text": "Cenozoico"
-          }
-        ],
-        "correctOptionId": "BIO-F1-040-B"
       },
       {
         "id": "BIO-F1-041",
@@ -2127,7 +2079,7 @@
     "subject": "Biología",
     "grade": "Sexto de Secundaria",
     "title": "Biología — Sexto de Secundaria — Formulario 2",
-    "description": "Revisión preliminar para ensayo local. Claves propuestas, no oficiales ni certificadas; publicación pendiente de autorización.",
+    "description": "Revisión preliminar. Claves propuestas, no oficiales ni certificadas académicamente.",
     "color": "green",
     "shuffleQuestions": true,
     "questions": [
@@ -2322,30 +2274,6 @@
           }
         ],
         "correctOptionId": "BIO-F2-010-B"
-      },
-      {
-        "id": "BIO-F2-012",
-        "topic": "Biología",
-        "text": "¿Qué descripción corresponde específicamente a «Paleozoico» y no a los otros conceptos del mismo tema?",
-        "options": [
-          {
-            "id": "BIO-F2-012-A",
-            "text": "Síntesis desarrollada entre 1930 y 1950 que integra selección natural con genética y sostiene que la variación heredable depende de mutación y recombinación."
-          },
-          {
-            "id": "BIO-F2-012-B",
-            "text": "Era geológica caracterizada por una gran diversificación de formas de vida y por importantes cambios en los ecosistemas del planeta."
-          },
-          {
-            "id": "BIO-F2-012-C",
-            "text": "Proceso ubicado por el material en una historia geológica de miles de millones de años en la que el planeta atravesó cambios físicos y químicos profundos."
-          },
-          {
-            "id": "BIO-F2-012-D",
-            "text": "Era geológica posterior al Mesozoico en la que se diversificaron ampliamente mamíferos y otros grupos actuales."
-          }
-        ],
-        "correctOptionId": "BIO-F2-012-B"
       },
       {
         "id": "BIO-F2-013",
@@ -3642,30 +3570,6 @@
           }
         ],
         "correctOptionId": "BIO-F2-069-D"
-      },
-      {
-        "id": "BIO-F2-070",
-        "topic": "Biología",
-        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Maniobra de Heimlich», ¿qué respuesta estaría respaldada por el material?",
-        "options": [
-          {
-            "id": "BIO-F2-070-A",
-            "text": "Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño."
-          },
-          {
-            "id": "BIO-F2-070-B",
-            "text": "Métodos que obtienen imágenes del interior del cuerpo, como radiografía, tomografía, resonancia, ecografía, endoscopia o mamografía."
-          },
-          {
-            "id": "BIO-F2-070-C",
-            "text": "Conjunto de conocimientos y prácticas ancestrales de distintas culturas para prevenir, diagnosticar y tratar problemas de salud mediante recursos naturales y saberes comunitarios."
-          },
-          {
-            "id": "BIO-F2-070-D",
-            "text": "Atención inicial que se presta a una persona lesionada o enferma para proteger la vida, evitar complicaciones y favorecer su traslado o atención médica."
-          }
-        ],
-        "correctOptionId": "BIO-F2-070-A"
       },
       {
         "id": "BIO-F2-072",

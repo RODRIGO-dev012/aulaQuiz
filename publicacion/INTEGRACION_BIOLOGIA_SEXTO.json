@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "baselineCommit": "820fb12e4517a3b38b85d1c578be258d7e420376",
-  "publicationAuthorized": false,
+  "publicationAuthorized": true,
   "academicStatus": "preliminary-proposed-not-certified",
   "sourceFileSha256": "c1ce813e33d6d7cc4ea31db31d171ab20a5c5e14a04491b44730038b599f1f20",
   "exclusionsFileSha256": "c2afb6b80f09af5fda71902e53bdfb95967dc3018a3c5a801ccfe86054c3226f",
@@ -118,37 +118,41 @@
     "BIO-F1-076",
     "BIO-F2-035",
     "BIO-F1-077",
-    "BIO-F2-008"
+    "BIO-F2-008",
+    "BIO-F1-040",
+    "BIO-F1-031",
+    "BIO-F2-070",
+    "BIO-F2-012"
   ],
   "banks": [
     {
       "bankId": "biologia-sexto-f1",
-      "questions": 88,
-      "sha256": "bbda6c2e8de9de35104ff450ea0c02adb52ae670991e08c53933d6178b19a4e5"
+      "questions": 86,
+      "sha256": "8d40e5ebf71d776184e15b7e30f53443b99ff38701d913b254af2ce571580e10"
     },
     {
       "bankId": "biologia-sexto-f2",
-      "questions": 88,
-      "sha256": "3881422743dad548cf25e333502bd789bc30b9a533bf3a0b1c1d063819d6ac77"
+      "questions": 86,
+      "sha256": "22af941be5d0c53c8f4d3a4057c44bab6649049ac588a51d77a1657b2839e11f"
     }
   ],
   "answerDistribution": [
     {
-      "B": 23,
+      "B": 21,
       "A": 22,
       "D": 20,
       "C": 23
     },
     {
       "D": 20,
-      "A": 28,
+      "A": 27,
       "C": 19,
-      "B": 21
+      "B": 20
     }
   ],
   "longestIdenticalKeyRun": [
-    3,
-    5
+    5,
+    4
   ],
   "exactDuplicates": [],
   "similarityMethod": "Jaccard >=0.55 o respuesta propuesta idéntica; candidatos, no duplicados semánticos certificados.",
@@ -292,14 +296,6 @@
     {
       "ids": [
         "BIO-F2-001",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-001",
         "BIO-F2-073"
       ],
       "jaccard": 0.85,
@@ -341,14 +337,6 @@
       "ids": [
         "BIO-F2-003",
         "BIO-F2-004"
-      ],
-      "jaccard": 0.722,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-003",
-        "BIO-F2-012"
       ],
       "jaccard": 0.722,
       "sameAnswer": false
@@ -471,14 +459,6 @@
         "BIO-F2-084"
       ],
       "jaccard": 0.684,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-004",
-        "BIO-F2-012"
-      ],
-      "jaccard": 0.867,
       "sameAnswer": false
     },
     {
@@ -1036,14 +1016,6 @@
     {
       "ids": [
         "BIO-F2-007",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.75,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-007",
         "BIO-F2-073"
       ],
       "jaccard": 0.708,
@@ -1189,14 +1161,6 @@
       "ids": [
         "BIO-F2-009",
         "BIO-F2-069"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-009",
-        "BIO-F2-070"
       ],
       "jaccard": 0.81,
       "sameAnswer": false
@@ -1391,126 +1355,6 @@
         "BIO-F2-100"
       ],
       "jaccard": 0.769,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-018"
-      ],
-      "jaccard": 0.813,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-021"
-      ],
-      "jaccard": 0.867,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-022"
-      ],
-      "jaccard": 0.813,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-026"
-      ],
-      "jaccard": 0.813,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-029"
-      ],
-      "jaccard": 0.813,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-034"
-      ],
-      "jaccard": 0.813,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-040"
-      ],
-      "jaccard": 0.765,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-047"
-      ],
-      "jaccard": 0.684,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-050"
-      ],
-      "jaccard": 0.867,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-051"
-      ],
-      "jaccard": 0.722,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-055"
-      ],
-      "jaccard": 0.867,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-056"
-      ],
-      "jaccard": 0.813,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-061"
-      ],
-      "jaccard": 0.765,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-076"
-      ],
-      "jaccard": 0.867,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-012",
-        "BIO-F2-084"
-      ],
-      "jaccard": 0.813,
       "sameAnswer": false
     },
     {
@@ -2172,14 +2016,6 @@
     {
       "ids": [
         "BIO-F2-016",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.773,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-016",
         "BIO-F2-073"
       ],
       "jaccard": 0.81,
@@ -2309,14 +2145,6 @@
       "ids": [
         "BIO-F2-017",
         "BIO-F2-069"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-017",
-        "BIO-F2-070"
       ],
       "jaccard": 0.81,
       "sameAnswer": false
@@ -3421,14 +3249,6 @@
       "ids": [
         "BIO-F2-027",
         "BIO-F2-069"
-      ],
-      "jaccard": 0.773,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-027",
-        "BIO-F2-070"
       ],
       "jaccard": 0.773,
       "sameAnswer": false
@@ -4532,14 +4352,6 @@
     {
       "ids": [
         "BIO-F2-038",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-038",
         "BIO-F2-073"
       ],
       "jaccard": 0.85,
@@ -4837,14 +4649,6 @@
       "ids": [
         "BIO-F2-041",
         "BIO-F2-069"
-      ],
-      "jaccard": 0.75,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-041",
-        "BIO-F2-070"
       ],
       "jaccard": 0.75,
       "sameAnswer": false
@@ -5620,14 +5424,6 @@
     {
       "ids": [
         "BIO-F2-049",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.818,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-049",
         "BIO-F2-073"
       ],
       "jaccard": 0.773,
@@ -5988,14 +5784,6 @@
     {
       "ids": [
         "BIO-F2-054",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.818,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-054",
         "BIO-F2-073"
       ],
       "jaccard": 0.773,
@@ -6133,14 +5921,6 @@
       "ids": [
         "BIO-F2-057",
         "BIO-F2-069"
-      ],
-      "jaccard": 0.773,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-057",
-        "BIO-F2-070"
       ],
       "jaccard": 0.773,
       "sameAnswer": false
@@ -6300,14 +6080,6 @@
     {
       "ids": [
         "BIO-F2-059",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-059",
         "BIO-F2-073"
       ],
       "jaccard": 0.85,
@@ -6373,14 +6145,6 @@
       "ids": [
         "BIO-F2-060",
         "BIO-F2-069"
-      ],
-      "jaccard": 0.68,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-060",
-        "BIO-F2-070"
       ],
       "jaccard": 0.68,
       "sameAnswer": false
@@ -6620,14 +6384,6 @@
     {
       "ids": [
         "BIO-F2-064",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-064",
         "BIO-F2-073"
       ],
       "jaccard": 0.85,
@@ -6740,14 +6496,6 @@
     {
       "ids": [
         "BIO-F2-066",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.818,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-066",
         "BIO-F2-073"
       ],
       "jaccard": 0.773,
@@ -6789,14 +6537,6 @@
       "ids": [
         "BIO-F2-067",
         "BIO-F2-069"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-067",
-        "BIO-F2-070"
       ],
       "jaccard": 0.81,
       "sameAnswer": false
@@ -6924,14 +6664,6 @@
     {
       "ids": [
         "BIO-F2-069",
-        "BIO-F2-070"
-      ],
-      "jaccard": 0.818,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-069",
         "BIO-F2-073"
       ],
       "jaccard": 0.773,
@@ -6964,46 +6696,6 @@
     {
       "ids": [
         "BIO-F2-069",
-        "BIO-F2-097"
-      ],
-      "jaccard": 0.773,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-070",
-        "BIO-F2-073"
-      ],
-      "jaccard": 0.773,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-070",
-        "BIO-F2-083"
-      ],
-      "jaccard": 0.81,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-070",
-        "BIO-F2-087"
-      ],
-      "jaccard": 0.773,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-070",
-        "BIO-F2-092"
-      ],
-      "jaccard": 0.75,
-      "sameAnswer": false
-    },
-    {
-      "ids": [
-        "BIO-F2-070",
         "BIO-F2-097"
       ],
       "jaccard": 0.773,
@@ -7625,5 +7317,1157 @@
       "jaccard": 0.714,
       "sameAnswer": false
     }
-  ]
+  ],
+  "authorizationScope": "172-biologia-sexto-v1.7",
+  "integrationReference": "6240bb95fc395c01d98bf3b09ea0ba64488c9880",
+  "preservedPublicationManifest": {
+    "version": 1,
+    "policy": "660 owner-authorized practice exercises in nine real banks; preliminary proposed keys, not official or academically certified.",
+    "banks": [
+      {
+        "bankId": "sociales",
+        "title": "Estado y ciudadanía en Bolivia",
+        "kind": "demonstration",
+        "questions": 10,
+        "sha256": "ae596995466c60f0350d903e164fc3b25be8fd997215357647a358ed800adb28",
+        "publicationAuthorized": true,
+        "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+        "academicApproval": {
+          "status": "demonstration",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        }
+      },
+      {
+        "bankId": "lenguaje",
+        "title": "Palabras que conectan",
+        "kind": "demonstration",
+        "questions": 5,
+        "sha256": "7c46815ff2ee5385d4d178c99b7141d290758a5e3f60c38dea479e0948f3409f",
+        "publicationAuthorized": true,
+        "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+        "academicApproval": {
+          "status": "demonstration",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        }
+      },
+      {
+        "bankId": "matematicas",
+        "title": "Un reto para tu mente",
+        "kind": "demonstration",
+        "questions": 5,
+        "sha256": "18feef21087f338fb7a15b55d5241b25f3bf137599f642f063b6c34080d38083",
+        "publicationAuthorized": true,
+        "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+        "academicApproval": {
+          "status": "demonstration",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        }
+      },
+      {
+        "bankId": "biologia",
+        "title": "La vida a tu alrededor",
+        "kind": "demonstration",
+        "questions": 5,
+        "sha256": "6ba2c6d913f652eff7fea859981674898ec61eacd2ef7bc434f50c8036c2f935",
+        "publicationAuthorized": true,
+        "authorizationReference": "Encargo del propietario: AULAQUIZ V1.3, apartado 12; demostraciones existentes del proyecto.",
+        "academicApproval": {
+          "status": "demonstration",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        }
+      },
+      {
+        "bankId": "gf-2dc6ed6c79f0",
+        "title": "Cuestionario de Química Orgánica",
+        "kind": "real",
+        "questions": 100,
+        "sha256": "5bd51f9569ae3887f6c705d1be4b16e999a65838ad3ae4a7fa968ea75af4bfb5",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_V1_7.md; autorización expresa del propietario de 20/11/2026",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_V1_5.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "475-candidates-v1.7",
+          "evidenceSha256": "d4b9b7a736de8080f67b1fe3df37c144632a19bf03a94235e8161abcf21029eb"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "reviewed-as-practice-proposed-not-certified",
+        "candidateQuestionIds": [
+          "gf-2dc6ed6c79f0-q-1146766624",
+          "gf-2dc6ed6c79f0-q-473233054",
+          "gf-2dc6ed6c79f0-q-873517314",
+          "gf-2dc6ed6c79f0-q-956954938",
+          "gf-2dc6ed6c79f0-q-851501887",
+          "gf-2dc6ed6c79f0-q-949807953",
+          "gf-2dc6ed6c79f0-q-970713075",
+          "gf-2dc6ed6c79f0-q-1060504535",
+          "gf-2dc6ed6c79f0-q-165870389",
+          "gf-2dc6ed6c79f0-q-64718612",
+          "gf-2dc6ed6c79f0-q-17155514",
+          "gf-2dc6ed6c79f0-q-609047057",
+          "gf-2dc6ed6c79f0-q-1053060664",
+          "gf-2dc6ed6c79f0-q-331826707",
+          "gf-2dc6ed6c79f0-q-1878395373",
+          "gf-2dc6ed6c79f0-q-906597013",
+          "gf-2dc6ed6c79f0-q-48789387",
+          "gf-2dc6ed6c79f0-q-1906649970",
+          "gf-2dc6ed6c79f0-q-1093287920",
+          "gf-2dc6ed6c79f0-q-1590602211",
+          "gf-2dc6ed6c79f0-q-478556338",
+          "gf-2dc6ed6c79f0-q-1774054879",
+          "gf-2dc6ed6c79f0-q-752782804",
+          "gf-2dc6ed6c79f0-q-1866909541",
+          "gf-2dc6ed6c79f0-q-1697080613",
+          "gf-2dc6ed6c79f0-q-1216785000",
+          "gf-2dc6ed6c79f0-q-644644150",
+          "gf-2dc6ed6c79f0-q-731775559",
+          "gf-2dc6ed6c79f0-q-572420332",
+          "gf-2dc6ed6c79f0-q-406037183",
+          "gf-2dc6ed6c79f0-q-1279969039",
+          "gf-2dc6ed6c79f0-q-1143381679",
+          "gf-2dc6ed6c79f0-q-1029527671",
+          "gf-2dc6ed6c79f0-q-1154902336",
+          "gf-2dc6ed6c79f0-q-1134405197",
+          "gf-2dc6ed6c79f0-q-375513985",
+          "gf-2dc6ed6c79f0-q-132418311",
+          "gf-2dc6ed6c79f0-q-1616136359",
+          "gf-2dc6ed6c79f0-q-1164263396",
+          "gf-2dc6ed6c79f0-q-1630792772",
+          "gf-2dc6ed6c79f0-q-674949142",
+          "gf-2dc6ed6c79f0-q-1093835500",
+          "gf-2dc6ed6c79f0-q-1971301082",
+          "gf-2dc6ed6c79f0-q-252212823",
+          "gf-2dc6ed6c79f0-q-676338377",
+          "gf-2dc6ed6c79f0-q-1021179956",
+          "gf-2dc6ed6c79f0-q-1007502471",
+          "gf-2dc6ed6c79f0-q-2009052391",
+          "gf-2dc6ed6c79f0-q-118750659",
+          "gf-2dc6ed6c79f0-q-1979183385",
+          "gf-2dc6ed6c79f0-q-706426027",
+          "gf-2dc6ed6c79f0-q-884264622",
+          "gf-2dc6ed6c79f0-q-1012894901",
+          "gf-2dc6ed6c79f0-q-872608994",
+          "gf-2dc6ed6c79f0-q-909076364",
+          "gf-2dc6ed6c79f0-q-649310239",
+          "gf-2dc6ed6c79f0-q-298796198",
+          "gf-2dc6ed6c79f0-q-883455185",
+          "gf-2dc6ed6c79f0-q-1168638809",
+          "gf-2dc6ed6c79f0-q-2077202040",
+          "gf-2dc6ed6c79f0-q-1224197950",
+          "gf-2dc6ed6c79f0-q-928385026",
+          "gf-2dc6ed6c79f0-q-970558034",
+          "gf-2dc6ed6c79f0-q-1455441376",
+          "gf-2dc6ed6c79f0-q-1262158542",
+          "gf-2dc6ed6c79f0-q-673058840",
+          "gf-2dc6ed6c79f0-q-1168759549",
+          "gf-2dc6ed6c79f0-q-780557097",
+          "gf-2dc6ed6c79f0-q-1589175580",
+          "gf-2dc6ed6c79f0-q-571178092",
+          "gf-2dc6ed6c79f0-q-1820346413",
+          "gf-2dc6ed6c79f0-q-1223967355",
+          "gf-2dc6ed6c79f0-q-1703972785",
+          "gf-2dc6ed6c79f0-q-1197800254",
+          "gf-2dc6ed6c79f0-q-1989457885",
+          "gf-2dc6ed6c79f0-q-2073702469",
+          "gf-2dc6ed6c79f0-q-455605827",
+          "gf-2dc6ed6c79f0-q-520305171",
+          "gf-2dc6ed6c79f0-q-1898265448",
+          "gf-2dc6ed6c79f0-q-2144836731",
+          "gf-2dc6ed6c79f0-q-858758932",
+          "gf-2dc6ed6c79f0-q-901326929",
+          "gf-2dc6ed6c79f0-q-1142334063",
+          "gf-2dc6ed6c79f0-q-1701220998",
+          "gf-2dc6ed6c79f0-q-1243835276",
+          "gf-2dc6ed6c79f0-q-490070057",
+          "gf-2dc6ed6c79f0-q-600286161",
+          "gf-2dc6ed6c79f0-q-1058833278",
+          "gf-2dc6ed6c79f0-q-1036622037",
+          "gf-2dc6ed6c79f0-q-619641511",
+          "gf-2dc6ed6c79f0-q-1280052551",
+          "gf-2dc6ed6c79f0-q-694970365",
+          "gf-2dc6ed6c79f0-q-1790485231",
+          "gf-2dc6ed6c79f0-q-1417576352",
+          "gf-2dc6ed6c79f0-q-315625813",
+          "gf-2dc6ed6c79f0-q-1319183006",
+          "gf-2dc6ed6c79f0-q-649685770",
+          "gf-2dc6ed6c79f0-q-635287879",
+          "gf-2dc6ed6c79f0-q-146771169-correccion-v14",
+          "gf-2dc6ed6c79f0-q-1554104446-correccion-v14"
+        ]
+      },
+      {
+        "bankId": "gf-f3c68c3faf99",
+        "title": "Cuestionario Física",
+        "kind": "real",
+        "questions": 100,
+        "sha256": "2b3c056ae9a0bb485870c36b14ea353aded4d87a27bb3a51d0b506bab92f641f",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_V1_7.md; autorización expresa del propietario de 20/11/2026",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_V1_5.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "475-candidates-v1.7",
+          "evidenceSha256": "d4b9b7a736de8080f67b1fe3df37c144632a19bf03a94235e8161abcf21029eb"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "reviewed-as-practice-proposed-not-certified",
+        "candidateQuestionIds": [
+          "gf-f3c68c3faf99-q-538695100",
+          "gf-f3c68c3faf99-q-1899262878",
+          "gf-f3c68c3faf99-q-1699607062",
+          "gf-f3c68c3faf99-q-595827056",
+          "gf-f3c68c3faf99-q-436127462",
+          "gf-f3c68c3faf99-q-898745099",
+          "gf-f3c68c3faf99-q-1212577271",
+          "gf-f3c68c3faf99-q-85681835",
+          "gf-f3c68c3faf99-q-1379374491",
+          "gf-f3c68c3faf99-q-1873912939",
+          "gf-f3c68c3faf99-q-695195329",
+          "gf-f3c68c3faf99-q-1733021920",
+          "gf-f3c68c3faf99-q-1384356508",
+          "gf-f3c68c3faf99-q-595036088",
+          "gf-f3c68c3faf99-q-274217044",
+          "gf-f3c68c3faf99-q-86957727",
+          "gf-f3c68c3faf99-q-672203459",
+          "gf-f3c68c3faf99-q-587793031",
+          "gf-f3c68c3faf99-q-1256501193",
+          "gf-f3c68c3faf99-q-294330263",
+          "gf-f3c68c3faf99-q-1746639692",
+          "gf-f3c68c3faf99-q-1490001330",
+          "gf-f3c68c3faf99-q-851771343",
+          "gf-f3c68c3faf99-q-1641044898",
+          "gf-f3c68c3faf99-q-322494126",
+          "gf-f3c68c3faf99-q-1971401441",
+          "gf-f3c68c3faf99-q-1172173299",
+          "gf-f3c68c3faf99-q-288534020",
+          "gf-f3c68c3faf99-q-1116119512",
+          "gf-f3c68c3faf99-q-223725739",
+          "gf-f3c68c3faf99-q-1116350839",
+          "gf-f3c68c3faf99-q-1490962776",
+          "gf-f3c68c3faf99-q-1375630468",
+          "gf-f3c68c3faf99-q-258301806",
+          "gf-f3c68c3faf99-q-1784981293",
+          "gf-f3c68c3faf99-q-819891593",
+          "gf-f3c68c3faf99-q-588757841",
+          "gf-f3c68c3faf99-q-1302470360",
+          "gf-f3c68c3faf99-q-685969002",
+          "gf-f3c68c3faf99-q-1332700253",
+          "gf-f3c68c3faf99-q-800552381",
+          "gf-f3c68c3faf99-q-176665554",
+          "gf-f3c68c3faf99-q-442514832",
+          "gf-f3c68c3faf99-q-1757665165",
+          "gf-f3c68c3faf99-q-2112969673",
+          "gf-f3c68c3faf99-q-1852202541",
+          "gf-f3c68c3faf99-q-15165237",
+          "gf-f3c68c3faf99-q-1101065216",
+          "gf-f3c68c3faf99-q-1875081589",
+          "gf-f3c68c3faf99-q-1964443637",
+          "gf-f3c68c3faf99-q-243944683",
+          "gf-f3c68c3faf99-q-1214583408",
+          "gf-f3c68c3faf99-q-1138277753",
+          "gf-f3c68c3faf99-q-461691793",
+          "gf-f3c68c3faf99-q-902373823",
+          "gf-f3c68c3faf99-q-1473004382",
+          "gf-f3c68c3faf99-q-284438032",
+          "gf-f3c68c3faf99-q-1531200383",
+          "gf-f3c68c3faf99-q-2011862062",
+          "gf-f3c68c3faf99-q-1754208826",
+          "gf-f3c68c3faf99-q-1160013716",
+          "gf-f3c68c3faf99-q-801329361",
+          "gf-f3c68c3faf99-q-1691761760",
+          "gf-f3c68c3faf99-q-432704888",
+          "gf-f3c68c3faf99-q-2026441435",
+          "gf-f3c68c3faf99-q-1183927026",
+          "gf-f3c68c3faf99-q-416842150",
+          "gf-f3c68c3faf99-q-1204563911",
+          "gf-f3c68c3faf99-q-554438788",
+          "gf-f3c68c3faf99-q-929652516",
+          "gf-f3c68c3faf99-q-1828296126",
+          "gf-f3c68c3faf99-q-2106572111",
+          "gf-f3c68c3faf99-q-2078619703",
+          "gf-f3c68c3faf99-q-737395141",
+          "gf-f3c68c3faf99-q-1216387084",
+          "gf-f3c68c3faf99-q-988352753",
+          "gf-f3c68c3faf99-q-26326923",
+          "gf-f3c68c3faf99-q-1845485793",
+          "gf-f3c68c3faf99-q-2012087057",
+          "gf-f3c68c3faf99-q-1957267145",
+          "gf-f3c68c3faf99-q-753366198",
+          "gf-f3c68c3faf99-q-1516218163",
+          "gf-f3c68c3faf99-q-935076348",
+          "gf-f3c68c3faf99-q-2122797226",
+          "gf-f3c68c3faf99-q-591044463",
+          "gf-f3c68c3faf99-q-1250414841",
+          "gf-f3c68c3faf99-q-1015534194",
+          "gf-f3c68c3faf99-q-832944025",
+          "gf-f3c68c3faf99-q-209268647",
+          "gf-f3c68c3faf99-q-1274097571",
+          "gf-f3c68c3faf99-q-2086905858",
+          "gf-f3c68c3faf99-q-1124392658",
+          "gf-f3c68c3faf99-q-1164831565",
+          "gf-f3c68c3faf99-q-304764504",
+          "gf-f3c68c3faf99-q-1864199095",
+          "gf-f3c68c3faf99-q-2065364612",
+          "gf-f3c68c3faf99-q-1592591793",
+          "gf-f3c68c3faf99-q-2104620876",
+          "gf-f3c68c3faf99-q-1098875275-correccion-v14",
+          "gf-f3c68c3faf99-q-2085249800-correccion-v14"
+        ]
+      },
+      {
+        "bankId": "gf-ff5ef4c8881d",
+        "title": "BANCO DE PREGUNTAS MATEMÁTICA",
+        "kind": "real",
+        "questions": 100,
+        "sha256": "0217c8fd54f3c86924e88e32eab58d7b4714de4cf1019847fe4bc2b504a181cb",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_V1_7.md; autorización expresa del propietario de 20/11/2026",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_V1_5.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "475-candidates-v1.7",
+          "evidenceSha256": "d4b9b7a736de8080f67b1fe3df37c144632a19bf03a94235e8161abcf21029eb"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "reviewed-as-practice-proposed-not-certified",
+        "candidateQuestionIds": [
+          "gf-ff5ef4c8881d-q-716721821",
+          "gf-ff5ef4c8881d-q-1411152180",
+          "gf-ff5ef4c8881d-q-768825550",
+          "gf-ff5ef4c8881d-q-1610511188",
+          "gf-ff5ef4c8881d-q-307956243",
+          "gf-ff5ef4c8881d-q-233758844",
+          "gf-ff5ef4c8881d-q-1097289363",
+          "gf-ff5ef4c8881d-q-280883308",
+          "gf-ff5ef4c8881d-q-826139498",
+          "gf-ff5ef4c8881d-q-450627031",
+          "gf-ff5ef4c8881d-q-107159224",
+          "gf-ff5ef4c8881d-q-1091430102",
+          "gf-ff5ef4c8881d-q-337507134",
+          "gf-ff5ef4c8881d-q-86944420",
+          "gf-ff5ef4c8881d-q-314143888",
+          "gf-ff5ef4c8881d-q-1160006910",
+          "gf-ff5ef4c8881d-q-1460232558",
+          "gf-ff5ef4c8881d-q-817304909",
+          "gf-ff5ef4c8881d-q-1077369877",
+          "gf-ff5ef4c8881d-q-1097155314",
+          "gf-ff5ef4c8881d-q-806666220",
+          "gf-ff5ef4c8881d-q-2030993250",
+          "gf-ff5ef4c8881d-q-436503477",
+          "gf-ff5ef4c8881d-q-1222253287",
+          "gf-ff5ef4c8881d-q-71896303",
+          "gf-ff5ef4c8881d-q-1509561891",
+          "gf-ff5ef4c8881d-q-1616321047",
+          "gf-ff5ef4c8881d-q-1325594605",
+          "gf-ff5ef4c8881d-q-406989192",
+          "gf-ff5ef4c8881d-q-2058800544",
+          "gf-ff5ef4c8881d-q-766056134",
+          "gf-ff5ef4c8881d-q-1895057205",
+          "gf-ff5ef4c8881d-q-2036587999",
+          "gf-ff5ef4c8881d-q-581312291",
+          "gf-ff5ef4c8881d-q-340842670",
+          "gf-ff5ef4c8881d-q-1618663916",
+          "gf-ff5ef4c8881d-q-688972200",
+          "gf-ff5ef4c8881d-q-357652461",
+          "gf-ff5ef4c8881d-q-492589916",
+          "gf-ff5ef4c8881d-q-1941633561",
+          "gf-ff5ef4c8881d-q-865388132",
+          "gf-ff5ef4c8881d-q-1631468973",
+          "gf-ff5ef4c8881d-q-800384327",
+          "gf-ff5ef4c8881d-q-304298239",
+          "gf-ff5ef4c8881d-q-832829310",
+          "gf-ff5ef4c8881d-q-1617205802",
+          "gf-ff5ef4c8881d-q-1401958184",
+          "gf-ff5ef4c8881d-q-2105682661",
+          "gf-ff5ef4c8881d-q-684168344",
+          "gf-ff5ef4c8881d-q-279714566",
+          "gf-ff5ef4c8881d-q-785459976",
+          "gf-ff5ef4c8881d-q-1729386639",
+          "gf-ff5ef4c8881d-q-189862004",
+          "gf-ff5ef4c8881d-q-1188259243",
+          "gf-ff5ef4c8881d-q-1973994629",
+          "gf-ff5ef4c8881d-q-457629375",
+          "gf-ff5ef4c8881d-q-1997346457",
+          "gf-ff5ef4c8881d-q-335927185",
+          "gf-ff5ef4c8881d-q-1146725591",
+          "gf-ff5ef4c8881d-q-611215486",
+          "gf-ff5ef4c8881d-q-77827278",
+          "gf-ff5ef4c8881d-q-898580534",
+          "gf-ff5ef4c8881d-q-1275155490",
+          "gf-ff5ef4c8881d-q-739925623",
+          "gf-ff5ef4c8881d-q-1321564426",
+          "gf-ff5ef4c8881d-q-1223691463",
+          "gf-ff5ef4c8881d-q-624529075",
+          "gf-ff5ef4c8881d-q-1316501259",
+          "gf-ff5ef4c8881d-q-1667945588",
+          "gf-ff5ef4c8881d-q-176546301",
+          "gf-ff5ef4c8881d-q-2049839030",
+          "gf-ff5ef4c8881d-q-1358733998",
+          "gf-ff5ef4c8881d-q-548485898",
+          "gf-ff5ef4c8881d-q-1709733272",
+          "gf-ff5ef4c8881d-q-997320691",
+          "gf-ff5ef4c8881d-q-1270605541",
+          "gf-ff5ef4c8881d-q-382070767",
+          "gf-ff5ef4c8881d-q-148565200",
+          "gf-ff5ef4c8881d-q-345975188",
+          "gf-ff5ef4c8881d-q-907899531",
+          "gf-ff5ef4c8881d-q-911477305",
+          "gf-ff5ef4c8881d-q-2126377746",
+          "gf-ff5ef4c8881d-q-868454690",
+          "gf-ff5ef4c8881d-q-951494548",
+          "gf-ff5ef4c8881d-q-38589303",
+          "gf-ff5ef4c8881d-q-1195700614",
+          "gf-ff5ef4c8881d-q-2013708186",
+          "gf-ff5ef4c8881d-q-1521035850",
+          "gf-ff5ef4c8881d-q-1973641403",
+          "gf-ff5ef4c8881d-q-785955366",
+          "gf-ff5ef4c8881d-q-2136430053",
+          "gf-ff5ef4c8881d-q-223116578",
+          "gf-ff5ef4c8881d-q-849644320",
+          "gf-ff5ef4c8881d-q-1951566662-correccion-v14",
+          "gf-ff5ef4c8881d-q-1742123623-correccion-v14",
+          "gf-ff5ef4c8881d-q-1061574763-correccion-v14",
+          "gf-ff5ef4c8881d-q-1527572464-correccion-v14",
+          "gf-ff5ef4c8881d-q-2049009552-correccion-v14",
+          "gf-ff5ef4c8881d-q-179503644-correccion-v14",
+          "gf-ff5ef4c8881d-q-566684169-correccion-v14"
+        ]
+      },
+      {
+        "bankId": "gf-6ca2a0808760",
+        "title": "Banco de Preguntas - Historia, Geografía y Educación Cívica (Sexto de Secundaria)",
+        "kind": "real",
+        "questions": 30,
+        "sha256": "b24624b89b36151462bc6a9bdc886bcfb71ebd0870f64d82820b1c861b878243",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_V1_7.md; autorización expresa del propietario de 20/11/2026",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_V1_5.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "475-candidates-v1.7",
+          "evidenceSha256": "d4b9b7a736de8080f67b1fe3df37c144632a19bf03a94235e8161abcf21029eb"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "reviewed-as-practice-proposed-not-certified",
+        "candidateQuestionIds": [
+          "gf-6ca2a0808760-q-387105965",
+          "gf-6ca2a0808760-q-190587535",
+          "gf-6ca2a0808760-q-399043942",
+          "gf-6ca2a0808760-q-1301962457",
+          "gf-6ca2a0808760-q-1019305117",
+          "gf-6ca2a0808760-q-2054795197-correccion-v14",
+          "gf-6ca2a0808760-q-2082364598-correccion-v14",
+          "gf-6ca2a0808760-q-2073733698-correccion-v15",
+          "gf-6ca2a0808760-q-2124844267-adaptacion-v16",
+          "gf-6ca2a0808760-q-8512677-adaptacion-v16",
+          "gf-6ca2a0808760-q-425110446-propuesta-v15-ef19a9b9b3",
+          "gf-6ca2a0808760-q-138851167-adaptacion-v16",
+          "gf-6ca2a0808760-q-1911815075-adaptacion-v16",
+          "gf-6ca2a0808760-q-1522000721-adaptacion-v16",
+          "gf-6ca2a0808760-q-1498678576-propuesta-v15-5dad715302",
+          "gf-6ca2a0808760-q-1539268014-propuesta-v15-6aec20008f",
+          "gf-6ca2a0808760-q-1392075452-adaptacion-v16",
+          "gf-6ca2a0808760-q-1938749158-propuesta-v15-d4203760f1",
+          "gf-6ca2a0808760-q-270343380-adaptacion-v16",
+          "gf-6ca2a0808760-q-1819149302-propuesta-v15-1733f3123e",
+          "gf-6ca2a0808760-q-100858632-propuesta-v15-5389206e4b",
+          "gf-6ca2a0808760-q-2058955466-adaptacion-v16",
+          "gf-6ca2a0808760-q-81538868-adaptacion-v16",
+          "gf-6ca2a0808760-q-1785737628-adaptacion-v16",
+          "gf-6ca2a0808760-q-1751240572-adaptacion-v16",
+          "gf-6ca2a0808760-q-2078514706-propuesta-v15-c5c415868f",
+          "gf-6ca2a0808760-q-230632064-adaptacion-v16",
+          "gf-6ca2a0808760-q-29174680-propuesta-v15-5097cba76d",
+          "gf-6ca2a0808760-q-645973361-propuesta-v15-421314efa1",
+          "gf-6ca2a0808760-q-1337425198-adaptacion-v17"
+        ]
+      },
+      {
+        "bankId": "gf-6317b9172e26",
+        "title": "Banco de Preguntas N° 2 - Historia, Geografía y Educación Cívica (6° de Secundaria)",
+        "kind": "real",
+        "questions": 48,
+        "sha256": "ce7af1ca5b45bcccf96b6056103959ed05c108d0bb80a6511a5712b59297bf87",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_V1_7.md; autorización expresa del propietario de 20/11/2026",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_V1_5.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "475-candidates-v1.7",
+          "evidenceSha256": "d4b9b7a736de8080f67b1fe3df37c144632a19bf03a94235e8161abcf21029eb"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "reviewed-as-practice-proposed-not-certified",
+        "candidateQuestionIds": [
+          "gf-6317b9172e26-q-1451386418",
+          "gf-6317b9172e26-q-1068630066",
+          "gf-6317b9172e26-q-832376769",
+          "gf-6317b9172e26-q-832544048",
+          "gf-6317b9172e26-q-36509647",
+          "gf-6317b9172e26-q-865037904",
+          "gf-6317b9172e26-q-864419740",
+          "gf-6317b9172e26-q-2122992519",
+          "gf-6317b9172e26-q-580500661",
+          "gf-6317b9172e26-q-2010524834",
+          "gf-6317b9172e26-q-258926852",
+          "gf-6317b9172e26-q-463361430",
+          "gf-6317b9172e26-q-1288962378",
+          "gf-6317b9172e26-q-42599317",
+          "gf-6317b9172e26-q-1402324460",
+          "gf-6317b9172e26-q-1740882437",
+          "gf-6317b9172e26-q-1201146262",
+          "gf-6317b9172e26-q-1983586629-correccion-v14",
+          "gf-6317b9172e26-q-1043208044-correccion-v14",
+          "gf-6317b9172e26-q-969841905-correccion-v14",
+          "gf-6317b9172e26-q-998040698-correccion-v14",
+          "gf-6317b9172e26-q-639867210-correccion-v14",
+          "gf-6317b9172e26-q-1295827461-correccion-v14",
+          "gf-6317b9172e26-q-1524028068-correccion-v14",
+          "gf-6317b9172e26-q-1544789-correccion-v14",
+          "gf-6317b9172e26-q-166194999-correccion-v14",
+          "gf-6317b9172e26-q-1951134155",
+          "gf-6317b9172e26-q-799891448",
+          "gf-6317b9172e26-q-1998230938-correccion-v15",
+          "gf-6317b9172e26-q-447400148-correccion-v15",
+          "gf-6317b9172e26-q-1096505230-correccion-v15",
+          "gf-6317b9172e26-q-1068311851-propuesta-v15-abe430a108",
+          "gf-6317b9172e26-q-1111066537-propuesta-v15-8251ed9c6e",
+          "gf-6317b9172e26-q-623296216-propuesta-v15-ca38f4b502",
+          "gf-6317b9172e26-q-1334546935-adaptacion-v16",
+          "gf-6317b9172e26-q-1920303802-propuesta-v15-27cc60ee53",
+          "gf-6317b9172e26-q-512342710-propuesta-v15-f8d147cc0d",
+          "gf-6317b9172e26-q-1053041630-propuesta-v15-122fcdb4f2",
+          "gf-6317b9172e26-q-645044833-adaptacion-v16",
+          "gf-6317b9172e26-q-849812571-propuesta-v15-08bcee5bb2",
+          "gf-6317b9172e26-q-1768664501-adaptacion-v16",
+          "gf-6317b9172e26-q-2011658893-propuesta-v15-cc3c9ab823",
+          "gf-6317b9172e26-q-941927955-propuesta-v15-ff0fb4d5e1",
+          "gf-6317b9172e26-q-881012012-propuesta-v15-47777705f0",
+          "gf-6317b9172e26-q-1735694122-propuesta-v15-75588e5e3e",
+          "gf-6317b9172e26-q-481890611-propuesta-v15-fa73d7ab60",
+          "gf-6317b9172e26-q-1211523738-propuesta-v15-d7bf4276f2",
+          "gf-6317b9172e26-q-46923547-adaptacion-v17"
+        ]
+      },
+      {
+        "bankId": "gf-259ab9ed3048",
+        "title": "Banco de Preguntas N° 3 - Historia, Geografía y Educación Cívica (6° de Secundaria)",
+        "kind": "real",
+        "questions": 51,
+        "sha256": "de58ba57943a420b15552802af3068c97270b5666cba6f19994011161fc8ce5a",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_V1_7.md; autorización expresa del propietario de 20/11/2026",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_V1_5.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "475-candidates-v1.7",
+          "evidenceSha256": "d4b9b7a736de8080f67b1fe3df37c144632a19bf03a94235e8161abcf21029eb"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "reviewed-as-practice-proposed-not-certified",
+        "candidateQuestionIds": [
+          "gf-259ab9ed3048-q-110237848",
+          "gf-259ab9ed3048-q-40114359",
+          "gf-259ab9ed3048-q-729781931",
+          "gf-259ab9ed3048-q-249285971",
+          "gf-259ab9ed3048-q-1011383648",
+          "gf-259ab9ed3048-q-1909772008",
+          "gf-259ab9ed3048-q-1495771851",
+          "gf-259ab9ed3048-q-147987761",
+          "gf-259ab9ed3048-q-2096573876",
+          "gf-259ab9ed3048-q-1683982454",
+          "gf-259ab9ed3048-q-379252802",
+          "gf-259ab9ed3048-q-1148016437",
+          "gf-259ab9ed3048-q-54666329",
+          "gf-259ab9ed3048-q-1171272023",
+          "gf-259ab9ed3048-q-367998857",
+          "gf-259ab9ed3048-q-629550571",
+          "gf-259ab9ed3048-q-413941294",
+          "gf-259ab9ed3048-q-1054258762",
+          "gf-259ab9ed3048-q-155243791",
+          "gf-259ab9ed3048-q-299709635",
+          "gf-259ab9ed3048-q-781133905",
+          "gf-259ab9ed3048-q-1371699631",
+          "gf-259ab9ed3048-q-2077911231",
+          "gf-259ab9ed3048-q-81062139",
+          "gf-259ab9ed3048-q-749432795-correccion-v14",
+          "gf-259ab9ed3048-q-1322998902-correccion-v14",
+          "gf-259ab9ed3048-q-2051232791-correccion-v14",
+          "gf-259ab9ed3048-q-1277049714",
+          "gf-259ab9ed3048-q-57150565",
+          "gf-259ab9ed3048-q-500555908",
+          "gf-259ab9ed3048-q-187887977-correccion-v15",
+          "gf-259ab9ed3048-q-229122527-correccion-v15",
+          "gf-259ab9ed3048-q-836631705-adaptacion-v16",
+          "gf-259ab9ed3048-q-2019163216-propuesta-v15-c23d45d28b",
+          "gf-259ab9ed3048-q-437414011-propuesta-v15-e67af078c7",
+          "gf-259ab9ed3048-q-2019635242-adaptacion-v16",
+          "gf-259ab9ed3048-q-1485698955-propuesta-v15-8a3ac82118",
+          "gf-259ab9ed3048-q-1680625429-propuesta-v15-8b5e7e8cc9",
+          "gf-259ab9ed3048-q-1630797874-propuesta-v15-1665c4dda6",
+          "gf-259ab9ed3048-q-1006769290-adaptacion-v16",
+          "gf-259ab9ed3048-q-1584271216-propuesta-v15-e1c701f807",
+          "gf-259ab9ed3048-q-37174417-propuesta-v15-67d3b32dd0",
+          "gf-259ab9ed3048-q-1090808347-adaptacion-v16",
+          "gf-259ab9ed3048-q-723516532-adaptacion-v16",
+          "gf-259ab9ed3048-q-1790552498-adaptacion-v16",
+          "gf-259ab9ed3048-q-1817722571-adaptacion-v16",
+          "gf-259ab9ed3048-q-1953550462-adaptacion-v16",
+          "gf-259ab9ed3048-q-1473758503-propuesta-v15-c3d363cdae",
+          "gf-259ab9ed3048-q-1655616027-propuesta-v15-036da21079",
+          "gf-259ab9ed3048-q-969865830-adaptacion-v17",
+          "gf-259ab9ed3048-q-1566827237-adaptacion-v17"
+        ]
+      },
+      {
+        "bankId": "gf-a49cefa8ffe1",
+        "title": "Banco de Preguntas N° 4 - Dictaduras y Democracia en Bolivia (6° de Secundaria)",
+        "kind": "real",
+        "questions": 46,
+        "sha256": "791597c7fdf35c3fb34db07cbe70857d6dc2a088d76957ba584bb3ca2d793ece",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_V1_7.md; autorización expresa del propietario de 20/11/2026",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_V1_5.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "475-candidates-v1.7",
+          "evidenceSha256": "d4b9b7a736de8080f67b1fe3df37c144632a19bf03a94235e8161abcf21029eb"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "reviewed-as-practice-proposed-not-certified",
+        "candidateQuestionIds": [
+          "gf-a49cefa8ffe1-q-1293552551",
+          "gf-a49cefa8ffe1-q-1200209351",
+          "gf-a49cefa8ffe1-q-676674268",
+          "gf-a49cefa8ffe1-q-1390917429",
+          "gf-a49cefa8ffe1-q-366432959-correccion-v14",
+          "gf-a49cefa8ffe1-q-2021661548-correccion-v14",
+          "gf-a49cefa8ffe1-q-2083473207-correccion-v14",
+          "gf-a49cefa8ffe1-q-1712672441-correccion-v14",
+          "gf-a49cefa8ffe1-q-2081416065",
+          "gf-a49cefa8ffe1-q-114371103-correccion-v15",
+          "gf-a49cefa8ffe1-q-266098162-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-934668124-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-315491111-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1063165879-propuesta-v15-2e4e100b9b",
+          "gf-a49cefa8ffe1-q-58634588-propuesta-v15-4999116034",
+          "gf-a49cefa8ffe1-q-555675416-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1755284528-propuesta-v15-1782936906",
+          "gf-a49cefa8ffe1-q-1068630100-propuesta-v15-2ce26de356",
+          "gf-a49cefa8ffe1-q-1504931662-propuesta-v15-49b7c447dd",
+          "gf-a49cefa8ffe1-q-362140777-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1745953148-propuesta-v15-f18b11baa0",
+          "gf-a49cefa8ffe1-q-2005508543-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-823118449-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1027586166-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-231943676-propuesta-v15-511364285f",
+          "gf-a49cefa8ffe1-q-1291217580-propuesta-v15-87c48d48c1",
+          "gf-a49cefa8ffe1-q-535581696-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1990502264-propuesta-v15-30b949ff26",
+          "gf-a49cefa8ffe1-q-197826517-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1504104968-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1466770028-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1942867481-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1989793493-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1419725305-propuesta-v15-609e0679b5",
+          "gf-a49cefa8ffe1-q-1735456248-propuesta-v15-33c49ab2ad",
+          "gf-a49cefa8ffe1-q-1258122724-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-1538980417-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-155279588-propuesta-v15-3c571a4309",
+          "gf-a49cefa8ffe1-q-1156581831-propuesta-v15-1da03ce464",
+          "gf-a49cefa8ffe1-q-1381728018-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-373440433-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-2054289694-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-635515884-propuesta-v15-946fb65339",
+          "gf-a49cefa8ffe1-q-1176011455-adaptacion-v16",
+          "gf-a49cefa8ffe1-q-718027412-propuesta-v15-6f1247a790",
+          "gf-a49cefa8ffe1-q-84976707-adaptacion-v16"
+        ]
+      },
+      {
+        "bankId": "lengua-sexto-f1",
+        "title": "Lengua Castellana — Sexto de Secundaria — Formulario 1",
+        "kind": "real",
+        "questions": 95,
+        "sha256": "a8e54ca49a70e9f33db5fdbbaf2ca3e8338d76ae79929953187c5ec3ed45d23c",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md; owner express authorization 2026-11-23",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "185-lengua-sexto-v1.7",
+          "evidenceSha256": "d52fb32bb82a0c4bb0d95f607b7e14aa98d7f6cabf759dd5e53a6e11c904cd00"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "preliminary-review-proposed-not-certified",
+        "candidateQuestionIds": [
+          "F1-001",
+          "F1-002",
+          "F1-003",
+          "F1-004",
+          "F1-005",
+          "F1-006",
+          "F1-007",
+          "F1-008",
+          "F1-009",
+          "F1-010",
+          "F1-011",
+          "F1-012",
+          "F1-013",
+          "F1-014",
+          "F1-015",
+          "F1-016",
+          "F1-017",
+          "F1-018",
+          "F1-019",
+          "F1-020",
+          "F1-021",
+          "F1-022",
+          "F1-024",
+          "F1-025",
+          "F1-026",
+          "F1-027",
+          "F1-028",
+          "F1-029",
+          "F1-030",
+          "F1-031",
+          "F1-032",
+          "F1-033",
+          "F1-034",
+          "F1-035",
+          "F1-036",
+          "F1-037",
+          "F1-038",
+          "F1-039",
+          "F1-040",
+          "F1-041",
+          "F1-042",
+          "F1-043",
+          "F1-044",
+          "F1-046",
+          "F1-047",
+          "F1-048",
+          "F1-049",
+          "F1-050",
+          "F1-051",
+          "F1-052",
+          "F1-053",
+          "F1-054",
+          "F1-055",
+          "F1-056",
+          "F1-057",
+          "F1-058",
+          "F1-059",
+          "F1-060",
+          "F1-061",
+          "F1-062",
+          "F1-064",
+          "F1-065",
+          "F1-066",
+          "F1-067",
+          "F1-068",
+          "F1-069",
+          "F1-070",
+          "F1-071",
+          "F1-072",
+          "F1-074",
+          "F1-075",
+          "F1-076",
+          "F1-077",
+          "F1-078",
+          "F1-079",
+          "F1-080",
+          "F1-081",
+          "F1-082",
+          "F1-084",
+          "F1-085",
+          "F1-086",
+          "F1-087",
+          "F1-088",
+          "F1-089",
+          "F1-090",
+          "F1-091",
+          "F1-092",
+          "F1-093",
+          "F1-094",
+          "F1-095",
+          "F1-096",
+          "F1-097",
+          "F1-098",
+          "F1-099",
+          "F1-100"
+        ]
+      },
+      {
+        "bankId": "lengua-sexto-f2",
+        "title": "Lengua Castellana — Sexto de Secundaria — Formulario 2",
+        "kind": "real",
+        "questions": 90,
+        "sha256": "cf837da9b08764cd8cac0c93220f60755c9b445ecf8e7be1a03590d286da3d0c",
+        "publicationAuthorized": true,
+        "authorizationReference": "publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md; owner express authorization 2026-11-23",
+        "publicationBasis": "owner-authorized-practice-proposed-keys",
+        "reuseAuthorization": {
+          "status": "declared-by-owner",
+          "evidence": "publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md"
+        },
+        "practiceAuthorization": {
+          "status": "authorized",
+          "scope": "185-lengua-sexto-v1.7",
+          "evidenceSha256": "d52fb32bb82a0c4bb0d95f607b7e14aa98d7f6cabf759dd5e53a6e11c904cd00"
+        },
+        "academicApproval": {
+          "status": "not-certified",
+          "approvedBy": null,
+          "approvedAt": null,
+          "evidence": null
+        },
+        "reviewStatus": "preliminary-review-proposed-not-certified",
+        "candidateQuestionIds": [
+          "F2-001",
+          "F2-002",
+          "F2-003",
+          "F2-004",
+          "F2-006",
+          "F2-007",
+          "F2-008",
+          "F2-009",
+          "F2-010",
+          "F2-011",
+          "F2-012",
+          "F2-013",
+          "F2-014",
+          "F2-015",
+          "F2-016",
+          "F2-017",
+          "F2-018",
+          "F2-019",
+          "F2-020",
+          "F2-021",
+          "F2-022",
+          "F2-023",
+          "F2-024",
+          "F2-025",
+          "F2-026",
+          "F2-027",
+          "F2-029",
+          "F2-030",
+          "F2-032",
+          "F2-033",
+          "F2-035",
+          "F2-036",
+          "F2-037",
+          "F2-038",
+          "F2-039",
+          "F2-040",
+          "F2-041",
+          "F2-042",
+          "F2-043",
+          "F2-044",
+          "F2-045",
+          "F2-046",
+          "F2-047",
+          "F2-048",
+          "F2-049",
+          "F2-050",
+          "F2-051",
+          "F2-052",
+          "F2-053",
+          "F2-054",
+          "F2-055",
+          "F2-056",
+          "F2-057",
+          "F2-058",
+          "F2-059",
+          "F2-060",
+          "F2-061",
+          "F2-062",
+          "F2-063",
+          "F2-065",
+          "F2-066",
+          "F2-067",
+          "F2-068",
+          "F2-070",
+          "F2-072",
+          "F2-073",
+          "F2-074",
+          "F2-075",
+          "F2-078",
+          "F2-079",
+          "F2-080",
+          "F2-081",
+          "F2-082",
+          "F2-083",
+          "F2-084",
+          "F2-085",
+          "F2-086",
+          "F2-087",
+          "F2-088",
+          "F2-089",
+          "F2-090",
+          "F2-091",
+          "F2-092",
+          "F2-093",
+          "F2-094",
+          "F2-095",
+          "F2-096",
+          "F2-097",
+          "F2-099",
+          "F2-100"
+        ]
+      }
+    ],
+    "excludedQuestionIds": [
+      "F1-023",
+      "F1-045",
+      "F1-063",
+      "F1-073",
+      "F1-083",
+      "F2-005",
+      "F2-028",
+      "F2-031",
+      "F2-034",
+      "F2-064",
+      "F2-069",
+      "F2-071",
+      "F2-076",
+      "F2-077",
+      "F2-098"
+    ],
+    "supersededOriginalQuestionIds": [
+      "gf-f3c68c3faf99-q-1098875275",
+      "gf-f3c68c3faf99-q-2085249800",
+      "gf-ff5ef4c8881d-q-1951566662",
+      "gf-ff5ef4c8881d-q-1742123623",
+      "gf-ff5ef4c8881d-q-1061574763",
+      "gf-ff5ef4c8881d-q-1527572464",
+      "gf-ff5ef4c8881d-q-2049009552",
+      "gf-ff5ef4c8881d-q-179503644",
+      "gf-ff5ef4c8881d-q-566684169",
+      "gf-2dc6ed6c79f0-q-146771169",
+      "gf-2dc6ed6c79f0-q-1554104446",
+      "gf-6ca2a0808760-q-2054795197",
+      "gf-6ca2a0808760-q-2082364598",
+      "gf-6ca2a0808760-q-2073733698",
+      "gf-6ca2a0808760-q-2124844267",
+      "gf-6ca2a0808760-q-8512677",
+      "gf-6ca2a0808760-q-425110446",
+      "gf-6ca2a0808760-q-138851167",
+      "gf-6ca2a0808760-q-1911815075",
+      "gf-6ca2a0808760-q-1522000721",
+      "gf-6ca2a0808760-q-1498678576",
+      "gf-6ca2a0808760-q-1539268014",
+      "gf-6ca2a0808760-q-1392075452",
+      "gf-6ca2a0808760-q-1938749158",
+      "gf-6ca2a0808760-q-270343380",
+      "gf-6ca2a0808760-q-1819149302",
+      "gf-6ca2a0808760-q-100858632",
+      "gf-6ca2a0808760-q-2058955466",
+      "gf-6ca2a0808760-q-81538868",
+      "gf-6ca2a0808760-q-1785737628",
+      "gf-6ca2a0808760-q-1751240572",
+      "gf-6ca2a0808760-q-2078514706",
+      "gf-6ca2a0808760-q-230632064",
+      "gf-6ca2a0808760-q-29174680",
+      "gf-6ca2a0808760-q-645973361",
+      "gf-6ca2a0808760-q-1337425198",
+      "gf-6317b9172e26-q-1983586629",
+      "gf-6317b9172e26-q-1043208044",
+      "gf-6317b9172e26-q-969841905",
+      "gf-6317b9172e26-q-998040698",
+      "gf-6317b9172e26-q-639867210",
+      "gf-6317b9172e26-q-1295827461",
+      "gf-6317b9172e26-q-1524028068",
+      "gf-6317b9172e26-q-1544789",
+      "gf-6317b9172e26-q-166194999",
+      "gf-6317b9172e26-q-1998230938",
+      "gf-6317b9172e26-q-447400148",
+      "gf-6317b9172e26-q-1096505230",
+      "gf-6317b9172e26-q-1068311851",
+      "gf-6317b9172e26-q-1111066537",
+      "gf-6317b9172e26-q-623296216",
+      "gf-6317b9172e26-q-1334546935",
+      "gf-6317b9172e26-q-1920303802",
+      "gf-6317b9172e26-q-512342710",
+      "gf-6317b9172e26-q-1053041630",
+      "gf-6317b9172e26-q-645044833",
+      "gf-6317b9172e26-q-849812571",
+      "gf-6317b9172e26-q-1768664501",
+      "gf-6317b9172e26-q-2011658893",
+      "gf-6317b9172e26-q-941927955",
+      "gf-6317b9172e26-q-881012012",
+      "gf-6317b9172e26-q-1735694122",
+      "gf-6317b9172e26-q-481890611",
+      "gf-6317b9172e26-q-1211523738",
+      "gf-6317b9172e26-q-46923547",
+      "gf-259ab9ed3048-q-749432795",
+      "gf-259ab9ed3048-q-1322998902",
+      "gf-259ab9ed3048-q-2051232791",
+      "gf-259ab9ed3048-q-187887977",
+      "gf-259ab9ed3048-q-229122527",
+      "gf-259ab9ed3048-q-836631705",
+      "gf-259ab9ed3048-q-2019163216",
+      "gf-259ab9ed3048-q-437414011",
+      "gf-259ab9ed3048-q-2019635242",
+      "gf-259ab9ed3048-q-1485698955",
+      "gf-259ab9ed3048-q-1680625429",
+      "gf-259ab9ed3048-q-1630797874",
+      "gf-259ab9ed3048-q-1006769290",
+      "gf-259ab9ed3048-q-1584271216",
+      "gf-259ab9ed3048-q-37174417",
+      "gf-259ab9ed3048-q-1090808347",
+      "gf-259ab9ed3048-q-723516532",
+      "gf-259ab9ed3048-q-1790552498",
+      "gf-259ab9ed3048-q-1817722571",
+      "gf-259ab9ed3048-q-1953550462",
+      "gf-259ab9ed3048-q-1473758503",
+      "gf-259ab9ed3048-q-1655616027",
+      "gf-259ab9ed3048-q-969865830",
+      "gf-259ab9ed3048-q-1566827237",
+      "gf-a49cefa8ffe1-q-366432959",
+      "gf-a49cefa8ffe1-q-2021661548",
+      "gf-a49cefa8ffe1-q-2083473207",
+      "gf-a49cefa8ffe1-q-1712672441",
+      "gf-a49cefa8ffe1-q-114371103",
+      "gf-a49cefa8ffe1-q-266098162",
+      "gf-a49cefa8ffe1-q-934668124",
+      "gf-a49cefa8ffe1-q-315491111",
+      "gf-a49cefa8ffe1-q-1063165879",
+      "gf-a49cefa8ffe1-q-58634588",
+      "gf-a49cefa8ffe1-q-555675416",
+      "gf-a49cefa8ffe1-q-1755284528",
+      "gf-a49cefa8ffe1-q-1068630100",
+      "gf-a49cefa8ffe1-q-1504931662",
+      "gf-a49cefa8ffe1-q-362140777",
+      "gf-a49cefa8ffe1-q-1745953148",
+      "gf-a49cefa8ffe1-q-2005508543",
+      "gf-a49cefa8ffe1-q-823118449",
+      "gf-a49cefa8ffe1-q-1027586166",
+      "gf-a49cefa8ffe1-q-231943676",
+      "gf-a49cefa8ffe1-q-1291217580",
+      "gf-a49cefa8ffe1-q-535581696",
+      "gf-a49cefa8ffe1-q-1990502264",
+      "gf-a49cefa8ffe1-q-197826517",
+      "gf-a49cefa8ffe1-q-1504104968",
+      "gf-a49cefa8ffe1-q-1466770028",
+      "gf-a49cefa8ffe1-q-1942867481",
+      "gf-a49cefa8ffe1-q-1989793493",
+      "gf-a49cefa8ffe1-q-1419725305",
+      "gf-a49cefa8ffe1-q-1735456248",
+      "gf-a49cefa8ffe1-q-1258122724",
+      "gf-a49cefa8ffe1-q-1538980417",
+      "gf-a49cefa8ffe1-q-155279588",
+      "gf-a49cefa8ffe1-q-1156581831",
+      "gf-a49cefa8ffe1-q-1381728018",
+      "gf-a49cefa8ffe1-q-373440433",
+      "gf-a49cefa8ffe1-q-2054289694",
+      "gf-a49cefa8ffe1-q-635515884",
+      "gf-a49cefa8ffe1-q-1176011455",
+      "gf-a49cefa8ffe1-q-718027412",
+      "gf-a49cefa8ffe1-q-84976707"
+    ]
+  },
+  "additionalExclusions": [
+    {
+      "id": "BIO-F1-040",
+      "reason": "Definición geológica demasiado general para distinguir Paleozoico de Cenozoico; exclusión preventiva autorizada por el propietario.",
+      "sourceQuestionSha256": "09ab90402908d05bb8daff3ba73bf5d0d21039ae72f8a59aedc47288015388d1"
+    },
+    {
+      "id": "BIO-F1-031",
+      "reason": "Definición genérica de Heimlich que compite con Primeros auxilios y no delimita su alcance; exclusión preventiva autorizada.",
+      "sourceQuestionSha256": "c35ad0288ae9171d7a2eb3573290a7c42bd3159c85a800f7e3ae578cbf8d23ec"
+    },
+    {
+      "id": "BIO-F2-070",
+      "reason": "Definición de Heimlich sin delimitar edad ni consciencia; exclusión preventiva del par de primeros auxilios autorizada.",
+      "sourceQuestionSha256": "4016beda5824d16a203ac3519e7bd4c867eecc04cbdcd46206d468f97b4a1488"
+    },
+    {
+      "id": "BIO-F2-012",
+      "reason": "Exclusión preventiva del par del concepto Paleozoico, por consistencia con BIO-F1-040 y autorización expresa del propietario.",
+      "sourceQuestionSha256": "99596dd41375c615d91a7158b6ba5a379f8259dbd9cca1e6056e30a86638d669"
+    }
+  ],
+  "excludedRecordsLocation": "revisiones/biologia-sexto/EXCLUSIONES_ADICIONALES.json (privado, ignorado); originales también conservados en la entrada y commit 6240bb9"
 }

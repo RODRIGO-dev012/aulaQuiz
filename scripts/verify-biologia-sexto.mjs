@@ -4,14 +4,19 @@ const sha=v=>crypto.createHash('sha256').update(v).digest('hex');
 export function verifyBiologiaSources(root=process.cwd()){
  const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
  const record=read('publicacion/INTEGRACION_BIOLOGIA_SEXTO.json'),banks=read('src/data/biologia-sexto-banks.json');
- assert.equal(record.publicationAuthorized,false,'Biología sigue pendiente de autorización');
+ assert.equal(record.version,2);assert.equal(record.publicationAuthorized,true);assert.equal(record.authorizationScope,'172-biologia-sexto-v1.7');
  assert.equal(record.academicStatus,'preliminary-proposed-not-certified');
- assert.equal(record.excludedQuestionIds.length,24);assert.equal(new Set(record.excludedQuestionIds).size,24);
- for(const f of record.preservedFiles)assert.equal(sha(fs.readFileSync(path.join(root,f.path),'utf8').replace(/\r\n/g,'\n')),f.lfSha256,'Archivo anterior alterado: '+f.path);
+ assert.equal(record.excludedQuestionIds.length,28);assert.equal(new Set(record.excludedQuestionIds).size,28);
+ assert.deepEqual(record.additionalExclusions.map(x=>x.id),['BIO-F1-040','BIO-F1-031','BIO-F2-070','BIO-F2-012']);
+ const manifest=read('publicacion/APROBACIONES_BANCOS.json');
+ const priorManifest={...manifest,banks:manifest.banks.filter(b=>!b.bankId.startsWith('biologia-sexto-')),excludedQuestionIds:manifest.excludedQuestionIds.filter(id=>!id.startsWith('BIO-'))};
+ assert.deepEqual(priorManifest,record.preservedPublicationManifest,'Aprobaciones anteriores alteradas');
+ for(const f of record.preservedFiles.filter(f=>f.path!=='publicacion/APROBACIONES_BANCOS.json'))assert.equal(sha(fs.readFileSync(path.join(root,f.path),'utf8').replace(/\r\n/g,'\n')),f.lfSha256,'Archivo anterior alterado: '+f.path);
+ assert(record.excludedQuestionIds.every(id=>manifest.excludedQuestionIds.includes(id)),'Faltan exclusiones de Biología en el manifiesto');
  const old=['src/data/real-banks.json','src/data/lengua-sexto-banks.json'].flatMap(read);
  assert.equal(old.length,9);assert.equal(old.flatMap(b=>b.questions).length,660);
  assert.deepEqual(old.map(b=>({bankId:b.id,questions:b.questions.length,sha256:sha(JSON.stringify(b))})),record.preservedBanks);
- assert.deepEqual(banks.map(b=>b.id),['biologia-sexto-f1','biologia-sexto-f2']);assert.deepEqual(banks.map(b=>b.questions.length),[88,88]);
+ assert.deepEqual(banks.map(b=>b.id),['biologia-sexto-f1','biologia-sexto-f2']);assert.deepEqual(banks.map(b=>b.questions.length),[86,86]);
  const validate=new Ajv().compile(read('ESQUEMA_BANCO_PREGUNTAS.json'));
  for(const b of banks){assert(validate(b),JSON.stringify(validate.errors));assert.equal(sha(JSON.stringify(b)),record.banks.find(r=>r.bankId===b.id)?.sha256,'Biología distinta de la validada');}
  const ids=new Set(),options=new Set();

@@ -1,6 +1,7 @@
-// Run only against the explicit local Biology build.
+// Authorized 172-question Biology release; runs locally and against the public URL.
 import {test,expect} from '@playwright/test';import fs from 'node:fs';
 import {createAttempt} from '../src/engine';import {bankVersion,finishLearningAttempt} from '../src/learning';
+const evidence=process.env.AULAQUIZ_PUBLIC_URL?'artifacts/biologia-publicacion/production':'artifacts/biologia-publicacion/local';
 const banks=JSON.parse(fs.readFileSync('src/data/biologia-sexto-banks.json','utf8'));
 const old=[...JSON.parse(fs.readFileSync('src/data/real-banks.json','utf8')),...JSON.parse(fs.readFileSync('src/data/lengua-sexto-banks.json','utf8'))];
 test.beforeEach(async({page})=>{const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));page.on('console',m=>{if(m.type()==='error')errors.push(m.text());});page.on('response',r=>{if(r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});(page as any).errors=errors;});
@@ -14,7 +15,7 @@ for(const bank of banks)for(const mode of ['practice','exam'])test(`${bank.id}: 
  const start=await page.evaluate(()=>JSON.parse(localStorage.getItem('aulaquiz-active')!));expect(start.questions).toHaveLength(bank.questions.length);
  // Read the presented order after the real shuffle; compare IDs AND associated texts to the source.
  for(const q of start.questions){const src=bank.questions.find((s:any)=>s.id===q.id);expect(q.correctOptionId).toBe(src.correctOptionId);expect(q.options.slice().sort((a:any,b:any)=>a.id.localeCompare(b.id))).toEqual(src.options.slice().sort((a:any,b:any)=>a.id.localeCompare(b.id)));}
- await page.screenshot({path:`artifacts/biologia-sexto/${info.project.name}/${bank.id}-${mode}-inicio.png`,fullPage:true});
+ await page.screenshot({path:`${evidence}/${info.project.name}/${bank.id}-${mode}-inicio.png`,fullPage:true});
  const results=await page.evaluate(async({questions,mode})=>{
   const frame=()=>new Promise<void>(resolve=>requestAnimationFrame(()=>resolve()));const norm=(s:string)=>s.replace(/\s+/g,' ').trim();const out=[];
   for(let i=0;i<questions.length;i++){
@@ -33,9 +34,9 @@ for(const bank of banks)for(const mode of ['practice','exam'])test(`${bank.id}: 
  expect(results.filter(r=>!r.text||!r.options||!r.sequence||!r.answer||r.overflow||!r.confirmed)).toEqual([]);
  await page.reload();const restored=await page.evaluate(()=>JSON.parse(localStorage.getItem('aulaquiz-active')!));expect(restored.id).toBe(start.id);expect(Object.keys(restored.answers)).toHaveLength(bank.questions.length);await page.getByRole('button',{name:'Continuar',exact:true}).click();
  await page.getByRole('button',{name:'Finalizar intento',exact:true}).click();await page.getByRole('button',{name:'Ver mis resultados',exact:true}).click();await expect(page.locator('.result-award strong')).toHaveText('100%');
- await page.screenshot({path:`artifacts/biologia-sexto/${info.project.name}/${bank.id}-${mode}-resultado.png`,fullPage:true});
+ await page.screenshot({path:`${evidence}/${info.project.name}/${bank.id}-${mode}-resultado.png`,fullPage:true});
  await page.goto('./?bank='+bank.id);await page.locator('#selection-policy').selectOption('new');await expect(page.locator('.eligibility-note')).toContainText('0 nuevas');await expect(page.getByRole('button',{name:'¡Comenzar mi reto!',exact:true})).toBeDisabled();
- fs.mkdirSync(`artifacts/biologia-sexto/${info.project.name}`,{recursive:true});fs.writeFileSync(`artifacts/biologia-sexto/${info.project.name}/${bank.id}-${mode}-cobertura.json`,JSON.stringify(results,null,2));
+ fs.mkdirSync(`${evidence}/${info.project.name}`,{recursive:true});fs.writeFileSync(`${evidence}/${info.project.name}/${bank.id}-${mode}-cobertura.json`,JSON.stringify(results,null,2));
 });
 test('catálogo de once bancos y progreso de los nueve anteriores intacto tras Biología',async({page})=>{
  const previous=old.map(b=>{const a=createAttempt(b,1,'exam',false);a.answers[a.questions[0].id]=a.questions[0].correctOptionId;return {...finishLearningAttempt(a),profileId:'guest',bankVersion:bankVersion(b)};});
