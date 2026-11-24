@@ -38,7 +38,25 @@ Evidencias locales ignoradas: `artifacts/lengua-publicacion/unit-prepublish.json
 
 ## Publicación y verificación pública
 
-Pendiente de ejecutar después de aprobar las comprobaciones previas. Se registrarán commit, ejecución de Actions y resultados reales de Playwright contra `https://rodrigo-dev012.github.io/aulaQuiz/`.
+Publicación completada. Commit de código publicado: **`7d227db2257559b4a67b8c9fdefed275df0de10c`**. Se integró `feature/lengua-sexto` en `main` mediante fast-forward después de verificar de nuevo el remoto y se realizó push normal, sin conflictos ni sobrescritura de cambios remotos.
+
+[GitHub Actions 45302082709](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/45302082709): ejecución completada con resultado **success**, tanto `validate` como `deploy`. El despliegue terminó el 23/11/2026 a las 21:20:47 de America/La_Paz (24/11/2026 01:20:47 UTC), mediante el workflow de Pages existente.
+
+URL pública: **https://rodrigo-dev012.github.io/aulaQuiz/**. La página y sus recursos respondieron HTTP 200. Los tres recursos JavaScript/CSS principales publicados coinciden byte por byte con la compilación local validada. Se verificaron los 660 IDs en el artefacto público y la ausencia de las 15 preguntas excluidas.
+
+Playwright headless contra la URL pública: **30/30 recorridos aprobados, cero fallos y cero omitidos**. Se ejecutaron 25 recorridos de Lengua y cinco de catálogo/progreso anterior, en los cinco tamaños indicados en la verificación previa. Se comprobó:
+
+- Disponibilidad de los nueve bancos reales y separación de las cuatro demostraciones.
+- Ambos formularios completos en práctica y simulacro: 95 y 90 preguntas; 1.850 presentaciones de preguntas nuevas en total entre modos y tamaños.
+- Textos y opciones, mezcla de alternativas, numeración, puntuación del 100 % con respuestas correctas y del 0 % con errores/omisiones.
+- Reanudación tras recargar y conservación de resultados y progreso de perfiles anteriores sintéticos.
+- Ausencia de errores JavaScript, consola, HTTP/404 y desbordamiento horizontal durante los recorridos.
+
+Se utilizó `AULAQUIZ_PUBLIC_URL=https://rodrigo-dev012.github.io/aulaQuiz/` con `npm run test:e2e:real -- lengua-sexto.spec.ts --workers=2` y `npm run test:e2e:real -- real-banks.spec.ts --grep=prioritario --workers=2`, con reporteros y directorios de salida específicos. No se abrieron ventanas visibles.
+
+Evidencias locales ignoradas en `artifacts/lengua-publicacion/`: `actions-run-final.json`, `actions-jobs-final.json`, `live-artifact.json`, `browser-production-lengua.json`, `browser-production-catalog.json` y `final-publication-validation.json`. La verificación consolidada terminó el 24/11/2026 a las 01:28:40 UTC. No quedan incidencias funcionales detectadas pendientes; siguen vigentes los límites académicos y de dispositivos indicados abajo.
+
+Cierre documental: 24/11/2026. El informe y README se guardan en un commit posterior de documentación con `[skip ci]`; el código desplegado y la ejecución de Pages identificados arriba corresponden a `7d227db`.
 
 ## Fuente oficial y futuras actualizaciones
 

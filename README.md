@@ -1,5 +1,7 @@
 # AulaQuiz V1.7
 
+Publicación de Lengua completada y verificada: [Actions 45302082709](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/45302082709), `validate` y `deploy` aprobados. Código publicado `7d227db`; 191 pruebas unitarias y 30 recorridos headless sobre la URL pública aprobados. Ver [informe de publicación](INFORME_PUBLICACION_LENGUA_SEXTO.md) para resultados, recuperación y límites.
+
 Versión integrada: **660 preguntas reales / 9 bancos** (475 existentes + Lengua Castellana Sexto F1: 95 y F2: 90). Se conservan aparte las 25 demostraciones. Ver `INFORME_PUBLICACION_LENGUA_SEXTO.md`, `INFORME_INTEGRACION_LENGUA_SEXTO.md` y `publicacion/REVISION_SIMILITUD_LENGUA_SEXTO.md`. Las claves nuevas proceden de revisión preliminar, no de certificación docente.
 
 La publicación de los 185 ejercicios adicionales fue autorizada expresamente el 23/11/2026. El alcance, IDs, hashes y límites están registrados en `publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md` y `APROBACIONES_BANCOS.json`. `npm run build` y `npm run verify:production` exigen esa autorización exacta; no certifican académicamente las claves. `build:local` es un alias del mismo control de producción.
@@ -43,4 +45,4 @@ No copiar revisiones, originales privados, ZIP, resultados personales, enlaces d
 
 Ver INFORME_INCORPORACION_V1_7.md y HOJA_RUTA_AULAQUIZ_V2.md. La autorización cubre uso educativo de práctica; no implica claves oficiales ni revisión docente exhaustiva.
 
-V1.7 publicada y verificada: [Actions 44753218333](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44753218333), validate/deploy aprobados. 379 casos únicos locales, 346 públicos de CI y 35 recorridos repetidos sobre la URL real. Catálogo confirmado: 475 ejercicios reales +25 demostraciones separadas; 345 literales y 130 adaptados. Ver informe V1.7 para evidencias y límites.
+Antecedente histórico, anterior a Lengua: [Actions 44753218333](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/44753218333), validate/deploy aprobados para la publicación de 475 ejercicios reales +25 demostraciones separadas (345 literales y 130 adaptados). Aquella validación incluyó 379 casos únicos locales, 346 públicos de CI y 35 recorridos sobre la URL real. Ver informe V1.7 para sus evidencias y límites; el catálogo actual y sus pruebas figuran al inicio de este README.
