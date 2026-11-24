@@ -1,0 +1,7629 @@
+{
+  "version": 1,
+  "baselineCommit": "820fb12e4517a3b38b85d1c578be258d7e420376",
+  "publicationAuthorized": false,
+  "academicStatus": "preliminary-proposed-not-certified",
+  "sourceFileSha256": "c1ce813e33d6d7cc4ea31db31d171ab20a5c5e14a04491b44730038b599f1f20",
+  "exclusionsFileSha256": "c2afb6b80f09af5fda71902e53bdfb95967dc3018a3c5a801ccfe86054c3226f",
+  "preservedFiles": [
+    {
+      "path": "src/data/real-banks.json",
+      "sha256": "bdf8bd6fd7d0420886472d37f35c95a38a2a2c9f6a800e7dd1813a31b1e96b59",
+      "lfSha256": "bdf8bd6fd7d0420886472d37f35c95a38a2a2c9f6a800e7dd1813a31b1e96b59"
+    },
+    {
+      "path": "src/data/lengua-sexto-banks.json",
+      "sha256": "3eee0d24fa2666f003477f2b72b5c2e6580491a57c77e6b84999a423bb5a1bbf",
+      "lfSha256": "94ed245a50ea615a80dd9bd470afd97632c2200fbccdd612ca9c2698e61d57ab"
+    },
+    {
+      "path": "src/data/banks.json",
+      "sha256": "4d5c2cbd0cfbf77f329c1da32c6ce61979bd031e6ac58d2ae22a6386c32fd271",
+      "lfSha256": "4d5c2cbd0cfbf77f329c1da32c6ce61979bd031e6ac58d2ae22a6386c32fd271"
+    },
+    {
+      "path": "src/engine.ts",
+      "sha256": "ba2593f53b44e4ea79eb8adfa50e483eb7b56fba26392b6b8c50f64cbdf3a236",
+      "lfSha256": "ba2593f53b44e4ea79eb8adfa50e483eb7b56fba26392b6b8c50f64cbdf3a236"
+    },
+    {
+      "path": "src/learning.ts",
+      "sha256": "5cbb8fe9f911f84490ff57e3355bb176c7854ce8e368ff612acaa08b2f404873",
+      "lfSha256": "fa6e9b77cef93991a2bb2490b70937acdc0175aeff6bbbae8f77c5dec24cca8b"
+    },
+    {
+      "path": "src/useLearning.ts",
+      "sha256": "39bd54f162bc99a6056e23b5c8a59eef9a70adcef4ff8b2e81a3f796750140c1",
+      "lfSha256": "3aa521f457883a726130032a28463fd03b017f076eea618f4ad0e57e661cb9c1"
+    },
+    {
+      "path": "src/progress-io.ts",
+      "sha256": "933b001dd841b3071af8ada80a688decba5092e5c0eaa5860aaa8d135889eedc",
+      "lfSha256": "8dddfda6f33b695267c4df1273e4d402c6ad0ffbaac30b96310746eed9bf2e99"
+    },
+    {
+      "path": "publicacion/APROBACIONES_BANCOS.json",
+      "sha256": "75eed1ab4bdf02051c131a56c51d1e3b368033b52d6744d3760c1e935d85b778",
+      "lfSha256": "4fe833ff6a8e8c5e99d08896d5df386935e0fd36ae8f07028edf3b3e8f62832d"
+    }
+  ],
+  "preservedBanks": [
+    {
+      "bankId": "gf-2dc6ed6c79f0",
+      "questions": 100,
+      "sha256": "5bd51f9569ae3887f6c705d1be4b16e999a65838ad3ae4a7fa968ea75af4bfb5"
+    },
+    {
+      "bankId": "gf-f3c68c3faf99",
+      "questions": 100,
+      "sha256": "2b3c056ae9a0bb485870c36b14ea353aded4d87a27bb3a51d0b506bab92f641f"
+    },
+    {
+      "bankId": "gf-ff5ef4c8881d",
+      "questions": 100,
+      "sha256": "0217c8fd54f3c86924e88e32eab58d7b4714de4cf1019847fe4bc2b504a181cb"
+    },
+    {
+      "bankId": "gf-6ca2a0808760",
+      "questions": 30,
+      "sha256": "b24624b89b36151462bc6a9bdc886bcfb71ebd0870f64d82820b1c861b878243"
+    },
+    {
+      "bankId": "gf-6317b9172e26",
+      "questions": 48,
+      "sha256": "ce7af1ca5b45bcccf96b6056103959ed05c108d0bb80a6511a5712b59297bf87"
+    },
+    {
+      "bankId": "gf-259ab9ed3048",
+      "questions": 51,
+      "sha256": "de58ba57943a420b15552802af3068c97270b5666cba6f19994011161fc8ce5a"
+    },
+    {
+      "bankId": "gf-a49cefa8ffe1",
+      "questions": 46,
+      "sha256": "791597c7fdf35c3fb34db07cbe70857d6dc2a088d76957ba584bb3ca2d793ece"
+    },
+    {
+      "bankId": "lengua-sexto-f1",
+      "questions": 95,
+      "sha256": "a8e54ca49a70e9f33db5fdbbaf2ca3e8338d76ae79929953187c5ec3ed45d23c"
+    },
+    {
+      "bankId": "lengua-sexto-f2",
+      "questions": 90,
+      "sha256": "cf837da9b08764cd8cac0c93220f60755c9b445ecf8e7be1a03590d286da3d0c"
+    }
+  ],
+  "excludedQuestionIds": [
+    "BIO-F1-006",
+    "BIO-F2-002",
+    "BIO-F1-011",
+    "BIO-F2-074",
+    "BIO-F1-016",
+    "BIO-F2-086",
+    "BIO-F1-027",
+    "BIO-F2-019",
+    "BIO-F1-033",
+    "BIO-F2-071",
+    "BIO-F1-042",
+    "BIO-F2-081",
+    "BIO-F1-047",
+    "BIO-F2-036",
+    "BIO-F1-055",
+    "BIO-F2-082",
+    "BIO-F1-065",
+    "BIO-F2-099",
+    "BIO-F1-070",
+    "BIO-F2-011",
+    "BIO-F1-076",
+    "BIO-F2-035",
+    "BIO-F1-077",
+    "BIO-F2-008"
+  ],
+  "banks": [
+    {
+      "bankId": "biologia-sexto-f1",
+      "questions": 88,
+      "sha256": "bbda6c2e8de9de35104ff450ea0c02adb52ae670991e08c53933d6178b19a4e5"
+    },
+    {
+      "bankId": "biologia-sexto-f2",
+      "questions": 88,
+      "sha256": "3881422743dad548cf25e333502bd789bc30b9a533bf3a0b1c1d063819d6ac77"
+    }
+  ],
+  "answerDistribution": [
+    {
+      "B": 23,
+      "A": 22,
+      "D": 20,
+      "C": 23
+    },
+    {
+      "D": 20,
+      "A": 28,
+      "C": 19,
+      "B": 21
+    }
+  ],
+  "longestIdenticalKeyRun": [
+    3,
+    5
+  ],
+  "exactDuplicates": [],
+  "similarityMethod": "Jaccard >=0.55 o respuesta propuesta idéntica; candidatos, no duplicados semánticos certificados.",
+  "similarityCandidates": [
+    {
+      "ids": [
+        "BIO-F1-061",
+        "BIO-F1-073"
+      ],
+      "jaccard": 0.571,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-007"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-009"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-016"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-017"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-027"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-038"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-041"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-001",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-004"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-012"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-018"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-021"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-022"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-026"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-029"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.737,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.591,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.7,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.737,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-003",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-012"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-018"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-021"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-022"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-026"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-029"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-004",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-006"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-010"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-020"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-023"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-024"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-028"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-031"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-005",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-010"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-020"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-023"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-024"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-028"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-031"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-045"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-006",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-009"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-016"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-017"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-027"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-038"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-041"
+      ],
+      "jaccard": 0.692,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.63,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.76,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-007",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-016"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-017"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-027"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-038"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-041"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-009",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-020"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-023"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-024"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-028"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-031"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-045"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.917,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.917,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-010",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-018"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-021"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-022"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-026"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-029"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-012",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-014"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-015"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-025"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-030"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-032"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-033"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-037"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-013",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-015"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-025"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-030"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-032"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-033"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-037"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-014",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-025"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-030"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-032"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-033"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-037"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-015",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-017"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-027"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-038"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-041"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-016",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-027"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-038"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-041"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-017",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-021"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-022"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-026"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-029"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.65,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-018",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-023"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-024"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-028"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-031"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-045"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-020",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-022"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-026"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-029"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-021",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-026"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-029"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.65,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-022",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-024"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-028"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-031"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-045"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-023",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-028"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-031"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-045"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-024",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-030"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-032"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-033"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-037"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-025",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-029"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.65,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-026",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-038"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-041"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-027",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-031"
+      ],
+      "jaccard": 0.857,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-045"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.611,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-028",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-034"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.65,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-029",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-032"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-033"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-037"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.923,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-030",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-043"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-045"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.611,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-031",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-033"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-037"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-032",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-037"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-033",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-040"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.65,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-034",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-039"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.611,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.579,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.579,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-037",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-041"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-038",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-042"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-039",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-047"
+      ],
+      "jaccard": 0.619,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.737,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.778,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-040",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.824,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-049"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.63,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.692,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-041",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-044"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-042",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.579,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.667,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-043",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-046"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-044",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-048"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.625,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-045",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-053"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-046",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-047",
+        "BIO-F2-050"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-047",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.591,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-047",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-047",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.65,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-047",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.619,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-047",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-047",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.65,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-052"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-048",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-054"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.68,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.905,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-049",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-050",
+        "BIO-F2-051"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-050",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-050",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-050",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-050",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-050",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-051",
+        "BIO-F2-055"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-051",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-051",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.737,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-051",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-051",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.684,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-058"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-052",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-062"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-053",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-057"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.68,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-054",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-055",
+        "BIO-F2-056"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-055",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-055",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.867,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-055",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-056",
+        "BIO-F2-061"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-056",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-056",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-059"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-057",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-063"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.588,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-058",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.556,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-060"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-059",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-064"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.68,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.68,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.68,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.63,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-060",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-061",
+        "BIO-F2-076"
+      ],
+      "jaccard": 0.765,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-061",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.722,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-068"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.611,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.611,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-062",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-065"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-063",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-066"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-064",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-065",
+        "BIO-F2-072"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-065",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-065",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-065",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-065",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-065",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-065",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-067"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-066",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-067",
+        "BIO-F2-069"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-067",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-067",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-067",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.895,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-067",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-067",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-067",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-078"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-068",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-069",
+        "BIO-F2-070"
+      ],
+      "jaccard": 0.818,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-069",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-069",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-069",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-069",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-069",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-070",
+        "BIO-F2-073"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-070",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-070",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-070",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.75,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-070",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.773,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-072",
+        "BIO-F2-075"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-072",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-072",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-072",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-072",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-072",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-073",
+        "BIO-F2-083"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-073",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-073",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-073",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-075",
+        "BIO-F2-077"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-075",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-075",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-075",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-075",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-076",
+        "BIO-F2-084"
+      ],
+      "jaccard": 0.813,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-077",
+        "BIO-F2-080"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-077",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-077",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-077",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-079"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.579,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-078",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-085"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-079",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-080",
+        "BIO-F2-094"
+      ],
+      "jaccard": 0.833,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-080",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-080",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-083",
+        "BIO-F2-087"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-083",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.739,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-083",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.85,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-085",
+        "BIO-F2-088"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-085",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-085",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-085",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-085",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.647,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-085",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-085",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.688,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-087",
+        "BIO-F2-092"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-087",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.81,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-088",
+        "BIO-F2-089"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-088",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-088",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-088",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-088",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-088",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-089",
+        "BIO-F2-090"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-089",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-089",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-089",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-089",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-090",
+        "BIO-F2-091"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-090",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-090",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-090",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-091",
+        "BIO-F2-093"
+      ],
+      "jaccard": 0.733,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-091",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-091",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-092",
+        "BIO-F2-097"
+      ],
+      "jaccard": 0.708,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-093",
+        "BIO-F2-095"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-093",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.786,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-094",
+        "BIO-F2-098"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-094",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.769,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-095",
+        "BIO-F2-096"
+      ],
+      "jaccard": 0.846,
+      "sameAnswer": false
+    },
+    {
+      "ids": [
+        "BIO-F2-098",
+        "BIO-F2-100"
+      ],
+      "jaccard": 0.714,
+      "sameAnswer": false
+    }
+  ]
+}

@@ -42,7 +42,7 @@ test('catálogo de nueve bancos y perfil V1.7 intacto después de practicar Leng
  const store={version:2,currentProfileId:'guest',profiles:[{id:'guest',name:'Estudiante V1.7',createdAt:'2026-01-01T00:00:00Z',attempts:[done],activeId:null}]};
  await page.goto('./');await page.evaluate(s=>localStorage.setItem('aulaquiz-learning-v2',JSON.stringify(s)),store);await page.reload();
  await expect(page.getByRole('button',{name:'Cambiar perfil',exact:true})).toContainText('Estudiante V1.7');
- await page.getByRole('button',{name:'Ver todas',exact:true}).click();await expect(page.locator('.bank-card')).toHaveCount(9);
+ await page.getByRole('button',{name:'Ver todas',exact:true}).click();await expect(page.locator('.bank-card')).toHaveCount(process.env.AULAQUIZ_BIOLOGIA_LOCAL?11:9);
  for(const b of banks)await expect(page.locator('.bank-card').filter({hasText:b.title})).toContainText(`${b.questions.length} preguntas`);
  await page.goto('./?bank='+banks[0].id);await page.getByLabel('Cantidad personalizada',{exact:true}).fill('2');await page.locator('.mode-options button').filter({hasText:'Simulacro'}).click();await page.getByRole('button',{name:'¡Comenzar mi reto!',exact:true}).click();
  const active=await page.evaluate(()=>JSON.parse(localStorage.getItem('aulaquiz-active')!));const q=active.questions[0];await page.locator('.option').nth(q.options.findIndex((o:any)=>o.id!==q.correctOptionId)).click();

@@ -1,5 +1,7 @@
 # AulaQuiz V1.7
 
+Propuesta local en `feature/biologia-sexto`: Biología Sexto, 88+88 preguntas; ensayo de **836 preguntas reales / 11 bancos / 6 materias**. Publicación pendiente y tres ítems requieren revisión. Ver [integración](INFORME_INTEGRACION_BIOLOGIA_SEXTO.md), [pruebas](RESULTADO_PRUEBAS_BIOLOGIA.md) y [plan de publicación](PLAN_PUBLICACION_BIOLOGIA.md). `npm run build:biologia-local` genera el ensayo en `artifacts/biologia-dist`; la compilación normal conserva los 660 ejercicios autorizados y excluye Biología.
+
 Publicación de Lengua completada y verificada: [Actions 45302082709](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/45302082709), `validate` y `deploy` aprobados. Código publicado `7d227db`; 191 pruebas unitarias y 30 recorridos headless sobre la URL pública aprobados. Ver [informe de publicación](INFORME_PUBLICACION_LENGUA_SEXTO.md) para resultados, recuperación y límites.
 
 Versión integrada: **660 preguntas reales / 9 bancos** (475 existentes + Lengua Castellana Sexto F1: 95 y F2: 90). Se conservan aparte las 25 demostraciones. Ver `INFORME_PUBLICACION_LENGUA_SEXTO.md`, `INFORME_INTEGRACION_LENGUA_SEXTO.md` y `publicacion/REVISION_SIMILITUD_LENGUA_SEXTO.md`. Las claves nuevas proceden de revisión preliminar, no de certificación docente.

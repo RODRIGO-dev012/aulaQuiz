@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "build:local": "npm run build",
+    "build:biologia-local": "tsc -b && node scripts/verify-production-content.mjs --source-only --biologia-local && vite build --mode biologia-local && node scripts/verify-production-content.mjs --biologia-local",
+    "test:e2e:biologia-local": "node scripts/run-real-bank-tests.mjs --biologia-local",
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && node scripts/verify-production-content.mjs --source-only && vite build && node scripts/verify-production-content.mjs",
     "preview": "vite preview --host 0.0.0.0",

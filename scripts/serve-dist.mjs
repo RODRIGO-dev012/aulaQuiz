@@ -1,7 +1,7 @@
 ﻿import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
-const directory=process.env.AULAQUIZ_TEST_DIST??'dist';if(!['dist','artifacts/baseline-dist'].includes(directory))throw Error('Directorio de pruebas no permitido');const root=path.resolve(directory);
+const directory=process.env.AULAQUIZ_TEST_DIST??'dist';if(!['dist','artifacts/baseline-dist','artifacts/biologia-dist'].includes(directory))throw Error('Directorio de pruebas no permitido');const root=path.resolve(directory);
 const mime={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.svg':'image/svg+xml','.png':'image/png','.woff2':'font/woff2','.woff':'font/woff','.ttf':'font/ttf'};
 export const server=http.createServer((req,res)=>{
  const url=new URL(req.url,'http://localhost');

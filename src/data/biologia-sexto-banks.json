@@ -1,0 +1,4248 @@
+[
+  {
+    "id": "biologia-sexto-f1",
+    "subject": "Biología",
+    "grade": "Sexto de Secundaria",
+    "title": "Biología — Sexto de Secundaria — Formulario 1",
+    "description": "Revisión preliminar para ensayo local. Claves propuestas, no oficiales ni certificadas; publicación pendiente de autorización.",
+    "color": "green",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "BIO-F1-001",
+        "topic": "Biología",
+        "text": "«Elemento utilizado para transportar un fragmento de ADN durante un proceso de recombinación artificial, como un plásmido en una bacteria.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-001-A",
+            "text": "ADN recombinante"
+          },
+          {
+            "id": "BIO-F1-001-B",
+            "text": "Vector de clonación"
+          },
+          {
+            "id": "BIO-F1-001-C",
+            "text": "Consideraciones éticas de la clonación"
+          },
+          {
+            "id": "BIO-F1-001-D",
+            "text": "Clonación terapéutica"
+          }
+        ],
+        "correctOptionId": "BIO-F1-001-B"
+      },
+      {
+        "id": "BIO-F1-002",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Genotipo híbrido para un solo rasgo o carácter, representado en el material con un ejemplo como Aa.»",
+        "options": [
+          {
+            "id": "BIO-F1-002-A",
+            "text": "Monohíbrido"
+          },
+          {
+            "id": "BIO-F1-002-B",
+            "text": "Duplicación cromosómica"
+          },
+          {
+            "id": "BIO-F1-002-C",
+            "text": "Homocigoto"
+          },
+          {
+            "id": "BIO-F1-002-D",
+            "text": "Hemofilia"
+          }
+        ],
+        "correctOptionId": "BIO-F1-002-A"
+      },
+      {
+        "id": "BIO-F1-003",
+        "topic": "Biología",
+        "text": "«Manipulación deliberada del material genético de organismos vivos para introducir nuevos rasgos o modificar características existentes.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-003-A",
+            "text": "Ingeniería genética"
+          },
+          {
+            "id": "BIO-F1-003-B",
+            "text": "Consideraciones éticas de la clonación"
+          },
+          {
+            "id": "BIO-F1-003-C",
+            "text": "Biorremediación"
+          },
+          {
+            "id": "BIO-F1-003-D",
+            "text": "Biotecnología roja"
+          }
+        ],
+        "correctOptionId": "BIO-F1-003-A"
+      },
+      {
+        "id": "BIO-F1-004",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Enfermedad viral transmitida por Aedes aegypti, asociada a fiebre leve, erupción, cefalea, dolores articulares y conjuntivitis no purulenta.»",
+        "options": [
+          {
+            "id": "BIO-F1-004-A",
+            "text": "Contagio indirecto"
+          },
+          {
+            "id": "BIO-F1-004-B",
+            "text": "Dengue"
+          },
+          {
+            "id": "BIO-F1-004-C",
+            "text": "Chikungunya"
+          },
+          {
+            "id": "BIO-F1-004-D",
+            "text": "Zika"
+          }
+        ],
+        "correctOptionId": "BIO-F1-004-D"
+      },
+      {
+        "id": "BIO-F1-005",
+        "topic": "Biología",
+        "text": "«Conjunto de prácticas que buscan que los alimentos sean seguros para consumo mediante higiene, temperatura adecuada, cocción y prevención de contaminación cruzada.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-005-A",
+            "text": "Contagio directo"
+          },
+          {
+            "id": "BIO-F1-005-B",
+            "text": "Influenza"
+          },
+          {
+            "id": "BIO-F1-005-C",
+            "text": "Resistencia a los antimicrobianos"
+          },
+          {
+            "id": "BIO-F1-005-D",
+            "text": "Inocuidad alimentaria"
+          }
+        ],
+        "correctOptionId": "BIO-F1-005-D"
+      },
+      {
+        "id": "BIO-F1-007",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Hábitos modificables como consumo de tabaco, inactividad física, dieta poco saludable y uso nocivo de alcohol que aumentan el riesgo de ENT.»",
+        "options": [
+          {
+            "id": "BIO-F1-007-A",
+            "text": "Cáncer"
+          },
+          {
+            "id": "BIO-F1-007-B",
+            "text": "Enfermedades respiratorias crónicas"
+          },
+          {
+            "id": "BIO-F1-007-C",
+            "text": "Factores de riesgo metabólicos"
+          },
+          {
+            "id": "BIO-F1-007-D",
+            "text": "Factores de riesgo conductuales"
+          }
+        ],
+        "correctOptionId": "BIO-F1-007-D"
+      },
+      {
+        "id": "BIO-F1-008",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Alteración del número cromosómico en la que existe un cromosoma extra respecto del par esperado.»",
+        "options": [
+          {
+            "id": "BIO-F1-008-A",
+            "text": "Síndrome de Marfan"
+          },
+          {
+            "id": "BIO-F1-008-B",
+            "text": "Trisomía"
+          },
+          {
+            "id": "BIO-F1-008-C",
+            "text": "Codones UAA, UAG y UGA"
+          },
+          {
+            "id": "BIO-F1-008-D",
+            "text": "Polidactilia"
+          }
+        ],
+        "correctOptionId": "BIO-F1-008-B"
+      },
+      {
+        "id": "BIO-F1-009",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Transmisión de una enfermedad infecciosa mediante contacto cercano o intercambio directo de agentes entre una persona infectada y otra susceptible.»",
+        "options": [
+          {
+            "id": "BIO-F1-009-A",
+            "text": "Zika"
+          },
+          {
+            "id": "BIO-F1-009-B",
+            "text": "Contagio directo"
+          },
+          {
+            "id": "BIO-F1-009-C",
+            "text": "Chikungunya"
+          },
+          {
+            "id": "BIO-F1-009-D",
+            "text": "Contagio indirecto"
+          }
+        ],
+        "correctOptionId": "BIO-F1-009-B"
+      },
+      {
+        "id": "BIO-F1-010",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Alteración en la que se pierde un fragmento de ADN de un cromosoma.»",
+        "options": [
+          {
+            "id": "BIO-F1-010-A",
+            "text": "Primera ley de Mendel o uniformidad"
+          },
+          {
+            "id": "BIO-F1-010-B",
+            "text": "Deleción cromosómica"
+          },
+          {
+            "id": "BIO-F1-010-C",
+            "text": "Cromosoma"
+          },
+          {
+            "id": "BIO-F1-010-D",
+            "text": "Herencia"
+          }
+        ],
+        "correctOptionId": "BIO-F1-010-B"
+      },
+      {
+        "id": "BIO-F1-012",
+        "topic": "Biología",
+        "text": "«Alteración en la que una parte de un cromosoma se rompe y se une a otro cromosoma.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-012-A",
+            "text": "Translocación cromosómica"
+          },
+          {
+            "id": "BIO-F1-012-B",
+            "text": "Daltonismo"
+          },
+          {
+            "id": "BIO-F1-012-C",
+            "text": "Segunda ley de Mendel o segregación"
+          },
+          {
+            "id": "BIO-F1-012-D",
+            "text": "Hemofilia"
+          }
+        ],
+        "correctOptionId": "BIO-F1-012-A"
+      },
+      {
+        "id": "BIO-F1-013",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Proceso en el que no hay fusión de gametos y los descendientes son muy similares al progenitor, salvo pequeñas variaciones por mutaciones espontáneas.»",
+        "options": [
+          {
+            "id": "BIO-F1-013-A",
+            "text": "Biotecnología negra"
+          },
+          {
+            "id": "BIO-F1-013-B",
+            "text": "Comité Nacional de Bioseguridad de Bolivia"
+          },
+          {
+            "id": "BIO-F1-013-C",
+            "text": "Reproducción asexual y variabilidad genética"
+          },
+          {
+            "id": "BIO-F1-013-D",
+            "text": "Consideraciones éticas de la clonación"
+          }
+        ],
+        "correctOptionId": "BIO-F1-013-C"
+      },
+      {
+        "id": "BIO-F1-014",
+        "topic": "Biología",
+        "text": "«Enfermedad viral transmitida principalmente por el mosquito Aedes aegypti y que puede evolucionar a formas graves o hemorrágicas.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-014-A",
+            "text": "Dengue"
+          },
+          {
+            "id": "BIO-F1-014-B",
+            "text": "Contagio indirecto"
+          },
+          {
+            "id": "BIO-F1-014-C",
+            "text": "COVID-19"
+          },
+          {
+            "id": "BIO-F1-014-D",
+            "text": "Chikungunya"
+          }
+        ],
+        "correctOptionId": "BIO-F1-014-A"
+      },
+      {
+        "id": "BIO-F1-015",
+        "topic": "Biología",
+        "text": "«Era geológica posterior al Mesozoico en la que se diversificaron ampliamente mamíferos y otros grupos actuales.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-015-A",
+            "text": "Teoría creacionista"
+          },
+          {
+            "id": "BIO-F1-015-B",
+            "text": "Precámbrico"
+          },
+          {
+            "id": "BIO-F1-015-C",
+            "text": "Paleozoico"
+          },
+          {
+            "id": "BIO-F1-015-D",
+            "text": "Cenozoico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-015-D"
+      },
+      {
+        "id": "BIO-F1-017",
+        "topic": "Biología",
+        "text": "«Intercambio de segmentos de ADN entre cromosomas homólogos durante la meiosis que genera nuevas combinaciones genéticas.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-017-A",
+            "text": "Clonación"
+          },
+          {
+            "id": "BIO-F1-017-B",
+            "text": "Clonación reproductiva"
+          },
+          {
+            "id": "BIO-F1-017-C",
+            "text": "Crossing-over"
+          },
+          {
+            "id": "BIO-F1-017-D",
+            "text": "OGM"
+          }
+        ],
+        "correctOptionId": "BIO-F1-017-C"
+      },
+      {
+        "id": "BIO-F1-018",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Evaluación de beneficios y posibles daños sociales, ambientales, culturales y humanos antes de aplicar tecnologías de clonación.»",
+        "options": [
+          {
+            "id": "BIO-F1-018-A",
+            "text": "Recombinación genética sexual"
+          },
+          {
+            "id": "BIO-F1-018-B",
+            "text": "Reproducción asexual y variabilidad genética"
+          },
+          {
+            "id": "BIO-F1-018-C",
+            "text": "Vector de clonación"
+          },
+          {
+            "id": "BIO-F1-018-D",
+            "text": "Consideraciones éticas de la clonación"
+          }
+        ],
+        "correctOptionId": "BIO-F1-018-D"
+      },
+      {
+        "id": "BIO-F1-019",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Enfoque que combina alimentación equilibrada, actividad física regular, evitar tabaco y alcohol, detección temprana, educación y políticas públicas de salud.»",
+        "options": [
+          {
+            "id": "BIO-F1-019-A",
+            "text": "Enfermedades respiratorias crónicas"
+          },
+          {
+            "id": "BIO-F1-019-B",
+            "text": "Prevención de ENT"
+          },
+          {
+            "id": "BIO-F1-019-C",
+            "text": "Factores de riesgo conductuales"
+          },
+          {
+            "id": "BIO-F1-019-D",
+            "text": "Enfermedades cardiovasculares"
+          }
+        ],
+        "correctOptionId": "BIO-F1-019-B"
+      },
+      {
+        "id": "BIO-F1-020",
+        "topic": "Biología",
+        "text": "«Cambios como hipertensión, sobrepeso u obesidad, hiperglucemia e hiperlipidemia que aumentan el riesgo de enfermedades no transmisibles.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-020-A",
+            "text": "Factores de riesgo metabólicos"
+          },
+          {
+            "id": "BIO-F1-020-B",
+            "text": "Factores de riesgo conductuales"
+          },
+          {
+            "id": "BIO-F1-020-C",
+            "text": "Alzheimer"
+          },
+          {
+            "id": "BIO-F1-020-D",
+            "text": "Cáncer"
+          }
+        ],
+        "correctOptionId": "BIO-F1-020-A"
+      },
+      {
+        "id": "BIO-F1-021",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Infección viral respiratoria que se propaga con facilidad por tos o estornudos y puede causar fiebre, dolor muscular y malestar general.»",
+        "options": [
+          {
+            "id": "BIO-F1-021-A",
+            "text": "Chikungunya"
+          },
+          {
+            "id": "BIO-F1-021-B",
+            "text": "Contagio indirecto"
+          },
+          {
+            "id": "BIO-F1-021-C",
+            "text": "Influenza"
+          },
+          {
+            "id": "BIO-F1-021-D",
+            "text": "Contagio directo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-021-C"
+      },
+      {
+        "id": "BIO-F1-022",
+        "topic": "Biología",
+        "text": "«Proceso por el cual los individuos mejor adaptados tienen mayor probabilidad de sobrevivir, reproducirse y dejar descendencia.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-022-A",
+            "text": "Paleozoico"
+          },
+          {
+            "id": "BIO-F1-022-B",
+            "text": "Generación espontánea"
+          },
+          {
+            "id": "BIO-F1-022-C",
+            "text": "Selección natural"
+          },
+          {
+            "id": "BIO-F1-022-D",
+            "text": "Formación del planeta Tierra"
+          }
+        ],
+        "correctOptionId": "BIO-F1-022-C"
+      },
+      {
+        "id": "BIO-F1-023",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Teoría evolutiva que explica cambios mediante uso y desuso de órganos y herencia de caracteres adquiridos.»",
+        "options": [
+          {
+            "id": "BIO-F1-023-A",
+            "text": "Lamarckismo"
+          },
+          {
+            "id": "BIO-F1-023-B",
+            "text": "Teoría de los coacervados de Oparin"
+          },
+          {
+            "id": "BIO-F1-023-C",
+            "text": "Teoría creacionista"
+          },
+          {
+            "id": "BIO-F1-023-D",
+            "text": "Selección natural"
+          }
+        ],
+        "correctOptionId": "BIO-F1-023-A"
+      },
+      {
+        "id": "BIO-F1-024",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Uso de seres vivos o partes de ellos para desarrollar productos y procesos útiles en medicina, agricultura, industria e investigación.»",
+        "options": [
+          {
+            "id": "BIO-F1-024-A",
+            "text": "Clonación reproductiva"
+          },
+          {
+            "id": "BIO-F1-024-B",
+            "text": "Recombinación genética sexual"
+          },
+          {
+            "id": "BIO-F1-024-C",
+            "text": "Biotecnología roja"
+          },
+          {
+            "id": "BIO-F1-024-D",
+            "text": "Biotecnología"
+          }
+        ],
+        "correctOptionId": "BIO-F1-024-D"
+      },
+      {
+        "id": "BIO-F1-025",
+        "topic": "Biología",
+        "text": "«Anomalía cromosómica identificada como trisomía 13 y asociada a múltiples defectos y grave retraso del desarrollo.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-025-A",
+            "text": "Código genético"
+          },
+          {
+            "id": "BIO-F1-025-B",
+            "text": "Codón AUG"
+          },
+          {
+            "id": "BIO-F1-025-C",
+            "text": "Polidactilia"
+          },
+          {
+            "id": "BIO-F1-025-D",
+            "text": "Síndrome de Patau"
+          }
+        ],
+        "correctOptionId": "BIO-F1-025-D"
+      },
+      {
+        "id": "BIO-F1-026",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Síntesis desarrollada entre 1930 y 1950 que integra selección natural con genética y sostiene que la variación heredable depende de mutación y recombinación.»",
+        "options": [
+          {
+            "id": "BIO-F1-026-A",
+            "text": "Teoría creacionista"
+          },
+          {
+            "id": "BIO-F1-026-B",
+            "text": "Generación espontánea"
+          },
+          {
+            "id": "BIO-F1-026-C",
+            "text": "Teoría sintética de la evolución"
+          },
+          {
+            "id": "BIO-F1-026-D",
+            "text": "Lamarckismo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-026-C"
+      },
+      {
+        "id": "BIO-F1-028",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Anomalía cromosómica identificada como trisomía 18 y asociada a malformaciones y graves problemas de desarrollo.»",
+        "options": [
+          {
+            "id": "BIO-F1-028-A",
+            "text": "Síndrome de Edwards"
+          },
+          {
+            "id": "BIO-F1-028-B",
+            "text": "Síndrome de Turner"
+          },
+          {
+            "id": "BIO-F1-028-C",
+            "text": "Síndrome de Klinefelter"
+          },
+          {
+            "id": "BIO-F1-028-D",
+            "text": "Trisomía"
+          }
+        ],
+        "correctOptionId": "BIO-F1-028-A"
+      },
+      {
+        "id": "BIO-F1-029",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen.»",
+        "options": [
+          {
+            "id": "BIO-F1-029-A",
+            "text": "Deriva genética"
+          },
+          {
+            "id": "BIO-F1-029-B",
+            "text": "Formación del planeta Tierra"
+          },
+          {
+            "id": "BIO-F1-029-C",
+            "text": "Teoría de los coacervados de Oparin"
+          },
+          {
+            "id": "BIO-F1-029-D",
+            "text": "Generación espontánea"
+          }
+        ],
+        "correctOptionId": "BIO-F1-029-A"
+      },
+      {
+        "id": "BIO-F1-030",
+        "topic": "Biología",
+        "text": "«Conjunto de conocimientos y prácticas ancestrales de distintas culturas para prevenir, diagnosticar y tratar problemas de salud mediante recursos naturales y saberes comunitarios.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-030-A",
+            "text": "Medicina tradicional"
+          },
+          {
+            "id": "BIO-F1-030-B",
+            "text": "Maniobra de Heimlich"
+          },
+          {
+            "id": "BIO-F1-030-C",
+            "text": "Diagnóstico de laboratorio"
+          },
+          {
+            "id": "BIO-F1-030-D",
+            "text": "Medicina natural"
+          }
+        ],
+        "correctOptionId": "BIO-F1-030-A"
+      },
+      {
+        "id": "BIO-F1-031",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño.»",
+        "options": [
+          {
+            "id": "BIO-F1-031-A",
+            "text": "Diagnóstico imagenológico"
+          },
+          {
+            "id": "BIO-F1-031-B",
+            "text": "Maniobra de Heimlich"
+          },
+          {
+            "id": "BIO-F1-031-C",
+            "text": "Medicina tradicional"
+          },
+          {
+            "id": "BIO-F1-031-D",
+            "text": "Primeros auxilios"
+          }
+        ],
+        "correctOptionId": "BIO-F1-031-B"
+      },
+      {
+        "id": "BIO-F1-032",
+        "topic": "Biología",
+        "text": "«Organismo que posee dos alelos diferentes para un mismo gen.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-032-A",
+            "text": "Heterocigoto"
+          },
+          {
+            "id": "BIO-F1-032-B",
+            "text": "Segunda ley de Mendel o segregación"
+          },
+          {
+            "id": "BIO-F1-032-C",
+            "text": "Herencia"
+          },
+          {
+            "id": "BIO-F1-032-D",
+            "text": "Genotipo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-032-A"
+      },
+      {
+        "id": "BIO-F1-034",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Tripletes del ARNm que actúan como señales de parada de la síntesis de proteínas.»",
+        "options": [
+          {
+            "id": "BIO-F1-034-A",
+            "text": "Codones UAA, UAG y UGA"
+          },
+          {
+            "id": "BIO-F1-034-B",
+            "text": "Síndrome de Klinefelter"
+          },
+          {
+            "id": "BIO-F1-034-C",
+            "text": "Codón AUG"
+          },
+          {
+            "id": "BIO-F1-034-D",
+            "text": "Polidactilia"
+          }
+        ],
+        "correctOptionId": "BIO-F1-034-A"
+      },
+      {
+        "id": "BIO-F1-035",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Gran etapa geológica muy antigua asociada con los primeros procesos de formación terrestre y las formas de vida más simples.»",
+        "options": [
+          {
+            "id": "BIO-F1-035-A",
+            "text": "Teoría creacionista"
+          },
+          {
+            "id": "BIO-F1-035-B",
+            "text": "Lamarckismo"
+          },
+          {
+            "id": "BIO-F1-035-C",
+            "text": "Paleozoico"
+          },
+          {
+            "id": "BIO-F1-035-D",
+            "text": "Precámbrico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-035-D"
+      },
+      {
+        "id": "BIO-F1-036",
+        "topic": "Biología",
+        "text": "«Teoría que explica la evolución mediante selección natural, supervivencia diferencial y herencia de variaciones favorables.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-036-A",
+            "text": "Selección natural"
+          },
+          {
+            "id": "BIO-F1-036-B",
+            "text": "Especiación"
+          },
+          {
+            "id": "BIO-F1-036-C",
+            "text": "Precámbrico"
+          },
+          {
+            "id": "BIO-F1-036-D",
+            "text": "Darwinismo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-036-D"
+      },
+      {
+        "id": "BIO-F1-037",
+        "topic": "Biología",
+        "text": "«Alteración en la que una parte de un cromosoma se copia de manera anormal.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-037-A",
+            "text": "Deleción cromosómica"
+          },
+          {
+            "id": "BIO-F1-037-B",
+            "text": "Hemofilia"
+          },
+          {
+            "id": "BIO-F1-037-C",
+            "text": "Duplicación cromosómica"
+          },
+          {
+            "id": "BIO-F1-037-D",
+            "text": "Alelo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-037-C"
+      },
+      {
+        "id": "BIO-F1-038",
+        "topic": "Biología",
+        "text": "«Enfermedad respiratoria causada por SARS-CoV-2, transmitida principalmente por partículas expulsadas al hablar, cantar o toser.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-038-A",
+            "text": "Contagio indirecto"
+          },
+          {
+            "id": "BIO-F1-038-B",
+            "text": "Zika"
+          },
+          {
+            "id": "BIO-F1-038-C",
+            "text": "COVID-19"
+          },
+          {
+            "id": "BIO-F1-038-D",
+            "text": "Chikungunya"
+          }
+        ],
+        "correctOptionId": "BIO-F1-038-C"
+      },
+      {
+        "id": "BIO-F1-039",
+        "topic": "Biología",
+        "text": "«Antigua propuesta según la cual la vida podía surgir de manera espontánea a partir de materia no viva.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-039-A",
+            "text": "Teoría creacionista"
+          },
+          {
+            "id": "BIO-F1-039-B",
+            "text": "Selección natural"
+          },
+          {
+            "id": "BIO-F1-039-C",
+            "text": "Cenozoico"
+          },
+          {
+            "id": "BIO-F1-039-D",
+            "text": "Generación espontánea"
+          }
+        ],
+        "correctOptionId": "BIO-F1-039-D"
+      },
+      {
+        "id": "BIO-F1-040",
+        "topic": "Biología",
+        "text": "«Era geológica caracterizada por una gran diversificación de formas de vida y por importantes cambios en los ecosistemas del planeta.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-040-A",
+            "text": "Especiación"
+          },
+          {
+            "id": "BIO-F1-040-B",
+            "text": "Paleozoico"
+          },
+          {
+            "id": "BIO-F1-040-C",
+            "text": "Lamarckismo"
+          },
+          {
+            "id": "BIO-F1-040-D",
+            "text": "Cenozoico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-040-B"
+      },
+      {
+        "id": "BIO-F1-041",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Capacidad adquirida por microorganismos para sobrevivir a medicamentos antes eficaces, favorecida por uso inadecuado o excesivo de antimicrobianos.»",
+        "options": [
+          {
+            "id": "BIO-F1-041-A",
+            "text": "Resistencia a los antimicrobianos"
+          },
+          {
+            "id": "BIO-F1-041-B",
+            "text": "Chikungunya"
+          },
+          {
+            "id": "BIO-F1-041-C",
+            "text": "Contagio directo"
+          },
+          {
+            "id": "BIO-F1-041-D",
+            "text": "Zika"
+          }
+        ],
+        "correctOptionId": "BIO-F1-041-A"
+      },
+      {
+        "id": "BIO-F1-043",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «El VIH ataca glóbulos blancos y debilita el sistema inmunológico; puede evolucionar a SIDA y se transmite por determinados fluidos corporales y de madre a hijo.»",
+        "options": [
+          {
+            "id": "BIO-F1-043-A",
+            "text": "Influenza"
+          },
+          {
+            "id": "BIO-F1-043-B",
+            "text": "Contagio directo"
+          },
+          {
+            "id": "BIO-F1-043-C",
+            "text": "VIH/SIDA"
+          },
+          {
+            "id": "BIO-F1-043-D",
+            "text": "Inocuidad alimentaria"
+          }
+        ],
+        "correctOptionId": "BIO-F1-043-C"
+      },
+      {
+        "id": "BIO-F1-044",
+        "topic": "Biología",
+        "text": "«Uso de microorganismos para descomponer contaminantes y eliminar toxinas, contribuyendo a recuperar ecosistemas afectados.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-044-A",
+            "text": "Clonación reproductiva"
+          },
+          {
+            "id": "BIO-F1-044-B",
+            "text": "Biorremediación"
+          },
+          {
+            "id": "BIO-F1-044-C",
+            "text": "Consideraciones éticas de la clonación"
+          },
+          {
+            "id": "BIO-F1-044-D",
+            "text": "Clonación terapéutica"
+          }
+        ],
+        "correctOptionId": "BIO-F1-044-B"
+      },
+      {
+        "id": "BIO-F1-045",
+        "topic": "Biología",
+        "text": "«Atención que prioriza limpieza, control del sangrado y cobertura adecuada, evitando prácticas que aumenten la contaminación o el daño.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-045-A",
+            "text": "Diagnóstico imagenológico"
+          },
+          {
+            "id": "BIO-F1-045-B",
+            "text": "Diagnóstico de laboratorio"
+          },
+          {
+            "id": "BIO-F1-045-C",
+            "text": "Tratamiento inicial de heridas"
+          },
+          {
+            "id": "BIO-F1-045-D",
+            "text": "Maniobra de Heimlich"
+          }
+        ],
+        "correctOptionId": "BIO-F1-045-C"
+      },
+      {
+        "id": "BIO-F1-046",
+        "topic": "Biología",
+        "text": "«Biotecnología sanitaria relacionada con prevención, diagnóstico, medicamentos, terapias y aplicaciones médicas.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-046-A",
+            "text": "Biotecnología"
+          },
+          {
+            "id": "BIO-F1-046-B",
+            "text": "Biotecnología roja"
+          },
+          {
+            "id": "BIO-F1-046-C",
+            "text": "Vector de clonación"
+          },
+          {
+            "id": "BIO-F1-046-D",
+            "text": "Transgénico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-046-B"
+      },
+      {
+        "id": "BIO-F1-048",
+        "topic": "Biología",
+        "text": "«Aneuploidía que afecta a mujeres por ausencia total o parcial de un cromosoma X en el par sexual.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-048-A",
+            "text": "Amniocentesis"
+          },
+          {
+            "id": "BIO-F1-048-B",
+            "text": "Código genético"
+          },
+          {
+            "id": "BIO-F1-048-C",
+            "text": "Codones UAA, UAG y UGA"
+          },
+          {
+            "id": "BIO-F1-048-D",
+            "text": "Síndrome de Turner"
+          }
+        ],
+        "correctOptionId": "BIO-F1-048-D"
+      },
+      {
+        "id": "BIO-F1-049",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «La descendencia del cruce de dos líneas puras presenta uniformidad en genotipo y fenotipo en la primera generación filial.»",
+        "options": [
+          {
+            "id": "BIO-F1-049-A",
+            "text": "Duplicación cromosómica"
+          },
+          {
+            "id": "BIO-F1-049-B",
+            "text": "Daltonismo"
+          },
+          {
+            "id": "BIO-F1-049-C",
+            "text": "Primera ley de Mendel o uniformidad"
+          },
+          {
+            "id": "BIO-F1-049-D",
+            "text": "Translocación cromosómica"
+          }
+        ],
+        "correctOptionId": "BIO-F1-049-C"
+      },
+      {
+        "id": "BIO-F1-050",
+        "topic": "Biología",
+        "text": "«Genotipo híbrido para dos rasgos o caracteres, representado en el material con un ejemplo como AaBb.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-050-A",
+            "text": "Dihíbrido"
+          },
+          {
+            "id": "BIO-F1-050-B",
+            "text": "Fenotipo"
+          },
+          {
+            "id": "BIO-F1-050-C",
+            "text": "Genotipo"
+          },
+          {
+            "id": "BIO-F1-050-D",
+            "text": "Herencia ligada al sexo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-050-A"
+      },
+      {
+        "id": "BIO-F1-051",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Hipótesis que propone que la vida o sus precursores pudieron llegar a la Tierra desde el espacio.»",
+        "options": [
+          {
+            "id": "BIO-F1-051-A",
+            "text": "Panspermia"
+          },
+          {
+            "id": "BIO-F1-051-B",
+            "text": "Deriva genética"
+          },
+          {
+            "id": "BIO-F1-051-C",
+            "text": "Selección natural"
+          },
+          {
+            "id": "BIO-F1-051-D",
+            "text": "Mesozoico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-051-A"
+      },
+      {
+        "id": "BIO-F1-052",
+        "topic": "Biología",
+        "text": "«Proceso evolutivo mediante el cual se originan nuevas especies a partir de poblaciones que acumulan diferencias y aislamiento.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-052-A",
+            "text": "Mesozoico"
+          },
+          {
+            "id": "BIO-F1-052-B",
+            "text": "Especiación"
+          },
+          {
+            "id": "BIO-F1-052-C",
+            "text": "Panspermia"
+          },
+          {
+            "id": "BIO-F1-052-D",
+            "text": "Formación del planeta Tierra"
+          }
+        ],
+        "correctOptionId": "BIO-F1-052-B"
+      },
+      {
+        "id": "BIO-F1-053",
+        "topic": "Biología",
+        "text": "«Alteración genética que produce uno o más dedos adicionales en manos o pies.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-053-A",
+            "text": "Síndrome de Turner"
+          },
+          {
+            "id": "BIO-F1-053-B",
+            "text": "Monosomía"
+          },
+          {
+            "id": "BIO-F1-053-C",
+            "text": "Polidactilia"
+          },
+          {
+            "id": "BIO-F1-053-D",
+            "text": "Síndrome de Down"
+          }
+        ],
+        "correctOptionId": "BIO-F1-053-C"
+      },
+      {
+        "id": "BIO-F1-054",
+        "topic": "Biología",
+        "text": "«Estructura compacta del núcleo de células eucariotas formada por ADN e histonas y que contiene genes.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-054-A",
+            "text": "Segunda ley de Mendel o segregación"
+          },
+          {
+            "id": "BIO-F1-054-B",
+            "text": "Cromosoma"
+          },
+          {
+            "id": "BIO-F1-054-C",
+            "text": "Árbol genealógico"
+          },
+          {
+            "id": "BIO-F1-054-D",
+            "text": "Daltonismo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-054-B"
+      },
+      {
+        "id": "BIO-F1-056",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Explicación del origen de la vida basada en la acción de un ser creador o divino.»",
+        "options": [
+          {
+            "id": "BIO-F1-056-A",
+            "text": "Selección natural"
+          },
+          {
+            "id": "BIO-F1-056-B",
+            "text": "Formación del planeta Tierra"
+          },
+          {
+            "id": "BIO-F1-056-C",
+            "text": "Deriva genética"
+          },
+          {
+            "id": "BIO-F1-056-D",
+            "text": "Teoría creacionista"
+          }
+        ],
+        "correctOptionId": "BIO-F1-056-D"
+      },
+      {
+        "id": "BIO-F1-057",
+        "topic": "Biología",
+        "text": "«Transmisión de condiciones genéticas vinculadas a los cromosomas sexuales, especialmente al cromosoma X según los ejemplos del material.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-057-A",
+            "text": "Locus"
+          },
+          {
+            "id": "BIO-F1-057-B",
+            "text": "Herencia ligada al sexo"
+          },
+          {
+            "id": "BIO-F1-057-C",
+            "text": "Duplicación cromosómica"
+          },
+          {
+            "id": "BIO-F1-057-D",
+            "text": "Inversión cromosómica"
+          }
+        ],
+        "correctOptionId": "BIO-F1-057-B"
+      },
+      {
+        "id": "BIO-F1-058",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Área biotecnológica vinculada con alimentos y procesos de producción alimentaria.»",
+        "options": [
+          {
+            "id": "BIO-F1-058-A",
+            "text": "ADN recombinante"
+          },
+          {
+            "id": "BIO-F1-058-B",
+            "text": "Clonación terapéutica"
+          },
+          {
+            "id": "BIO-F1-058-C",
+            "text": "Reproducción asexual y variabilidad genética"
+          },
+          {
+            "id": "BIO-F1-058-D",
+            "text": "Biotecnología amarilla"
+          }
+        ],
+        "correctOptionId": "BIO-F1-058-D"
+      },
+      {
+        "id": "BIO-F1-059",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Condición en varones con 47 cromosomas y constitución sexual XXY, frecuentemente asociada a baja producción de células sexuales.»",
+        "options": [
+          {
+            "id": "BIO-F1-059-A",
+            "text": "Síndrome de Edwards"
+          },
+          {
+            "id": "BIO-F1-059-B",
+            "text": "Síndrome de Turner"
+          },
+          {
+            "id": "BIO-F1-059-C",
+            "text": "Síndrome de Klinefelter"
+          },
+          {
+            "id": "BIO-F1-059-D",
+            "text": "Monosomía"
+          }
+        ],
+        "correctOptionId": "BIO-F1-059-C"
+      },
+      {
+        "id": "BIO-F1-060",
+        "topic": "Biología",
+        "text": "«Enfermedad neurodegenerativa que deteriora progresivamente funciones cognitivas, especialmente memoria, orientación y capacidad para resolver tareas cotidianas.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-060-A",
+            "text": "Alzheimer"
+          },
+          {
+            "id": "BIO-F1-060-B",
+            "text": "Cáncer"
+          },
+          {
+            "id": "BIO-F1-060-C",
+            "text": "Enfermedades respiratorias crónicas"
+          },
+          {
+            "id": "BIO-F1-060-D",
+            "text": "Factores de riesgo conductuales"
+          }
+        ],
+        "correctOptionId": "BIO-F1-060-A"
+      },
+      {
+        "id": "BIO-F1-061",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Conjunto de características observables de un organismo, como apariencia física o comportamiento.»",
+        "options": [
+          {
+            "id": "BIO-F1-061-A",
+            "text": "Locus"
+          },
+          {
+            "id": "BIO-F1-061-B",
+            "text": "Tercera ley de Mendel o herencia independiente"
+          },
+          {
+            "id": "BIO-F1-061-C",
+            "text": "Fenotipo"
+          },
+          {
+            "id": "BIO-F1-061-D",
+            "text": "Genoma"
+          }
+        ],
+        "correctOptionId": "BIO-F1-061-C"
+      },
+      {
+        "id": "BIO-F1-062",
+        "topic": "Biología",
+        "text": "«Cambio en la secuencia de nucleótidos del ADN que puede afectar genes, proteínas y características del organismo.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-062-A",
+            "text": "Alelo"
+          },
+          {
+            "id": "BIO-F1-062-B",
+            "text": "Mutación"
+          },
+          {
+            "id": "BIO-F1-062-C",
+            "text": "Deleción cromosómica"
+          },
+          {
+            "id": "BIO-F1-062-D",
+            "text": "Gen"
+          }
+        ],
+        "correctOptionId": "BIO-F1-062-B"
+      },
+      {
+        "id": "BIO-F1-063",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Representación gráfica que organiza la genealogía y muestra relaciones entre antepasados y descendientes de una persona.»",
+        "options": [
+          {
+            "id": "BIO-F1-063-A",
+            "text": "Herencia ligada al sexo"
+          },
+          {
+            "id": "BIO-F1-063-B",
+            "text": "Genoma"
+          },
+          {
+            "id": "BIO-F1-063-C",
+            "text": "Duplicación cromosómica"
+          },
+          {
+            "id": "BIO-F1-063-D",
+            "text": "Árbol genealógico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-063-D"
+      },
+      {
+        "id": "BIO-F1-064",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Área de la biotecnología relacionada con agricultura y mejoramiento de plantas, incluida la ingeniería genética vegetal.»",
+        "options": [
+          {
+            "id": "BIO-F1-064-A",
+            "text": "Clonación reproductiva"
+          },
+          {
+            "id": "BIO-F1-064-B",
+            "text": "Biotecnología amarilla"
+          },
+          {
+            "id": "BIO-F1-064-C",
+            "text": "Biotecnología verde"
+          },
+          {
+            "id": "BIO-F1-064-D",
+            "text": "Transgénico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-064-C"
+      },
+      {
+        "id": "BIO-F1-066",
+        "topic": "Biología",
+        "text": "«Proceso ubicado por el material en una historia geológica de miles de millones de años en la que el planeta atravesó cambios físicos y químicos profundos.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-066-A",
+            "text": "Precámbrico"
+          },
+          {
+            "id": "BIO-F1-066-B",
+            "text": "Formación del planeta Tierra"
+          },
+          {
+            "id": "BIO-F1-066-C",
+            "text": "Panspermia"
+          },
+          {
+            "id": "BIO-F1-066-D",
+            "text": "Teoría de los coacervados de Oparin"
+          }
+        ],
+        "correctOptionId": "BIO-F1-066-B"
+      },
+      {
+        "id": "BIO-F1-067",
+        "topic": "Biología",
+        "text": "«Triplete del ARNm que el material identifica como señal de inicio de la traducción.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-067-A",
+            "text": "Monosomía"
+          },
+          {
+            "id": "BIO-F1-067-B",
+            "text": "Síndrome de Turner"
+          },
+          {
+            "id": "BIO-F1-067-C",
+            "text": "Codón AUG"
+          },
+          {
+            "id": "BIO-F1-067-D",
+            "text": "Síndrome de Klinefelter"
+          }
+        ],
+        "correctOptionId": "BIO-F1-067-C"
+      },
+      {
+        "id": "BIO-F1-068",
+        "topic": "Biología",
+        "text": "«Unidad de información hereditaria situada en el ADN que contiene instrucciones para la síntesis de una molécula, generalmente una proteína.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-068-A",
+            "text": "Gen"
+          },
+          {
+            "id": "BIO-F1-068-B",
+            "text": "Primera ley de Mendel o uniformidad"
+          },
+          {
+            "id": "BIO-F1-068-C",
+            "text": "Homocigoto"
+          },
+          {
+            "id": "BIO-F1-068-D",
+            "text": "Genética"
+          }
+        ],
+        "correctOptionId": "BIO-F1-068-A"
+      },
+      {
+        "id": "BIO-F1-069",
+        "topic": "Biología",
+        "text": "«Clonación orientada a producir células o tejidos específicos para tratamiento, no a desarrollar un organismo completo.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-069-A",
+            "text": "Clonación terapéutica"
+          },
+          {
+            "id": "BIO-F1-069-B",
+            "text": "OGM"
+          },
+          {
+            "id": "BIO-F1-069-C",
+            "text": "Ingeniería genética"
+          },
+          {
+            "id": "BIO-F1-069-D",
+            "text": "Biotecnología amarilla"
+          }
+        ],
+        "correctOptionId": "BIO-F1-069-A"
+      },
+      {
+        "id": "BIO-F1-071",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Métodos que analizan muestras biológicas mediante técnicas como análisis de sangre, orina, coprología, biopsia o serología.»",
+        "options": [
+          {
+            "id": "BIO-F1-071-A",
+            "text": "Primeros auxilios"
+          },
+          {
+            "id": "BIO-F1-071-B",
+            "text": "Maniobra de Heimlich"
+          },
+          {
+            "id": "BIO-F1-071-C",
+            "text": "Medicina tradicional"
+          },
+          {
+            "id": "BIO-F1-071-D",
+            "text": "Diagnóstico de laboratorio"
+          }
+        ],
+        "correctOptionId": "BIO-F1-071-D"
+      },
+      {
+        "id": "BIO-F1-072",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Era geológica conocida por el predominio de grandes reptiles y por transformaciones que precedieron al desarrollo de grupos modernos.»",
+        "options": [
+          {
+            "id": "BIO-F1-072-A",
+            "text": "Cenozoico"
+          },
+          {
+            "id": "BIO-F1-072-B",
+            "text": "Mesozoico"
+          },
+          {
+            "id": "BIO-F1-072-C",
+            "text": "Formación del planeta Tierra"
+          },
+          {
+            "id": "BIO-F1-072-D",
+            "text": "Panspermia"
+          }
+        ],
+        "correctOptionId": "BIO-F1-072-B"
+      },
+      {
+        "id": "BIO-F1-073",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Conjunto completo del ADN de un organismo.»",
+        "options": [
+          {
+            "id": "BIO-F1-073-A",
+            "text": "Inversión cromosómica"
+          },
+          {
+            "id": "BIO-F1-073-B",
+            "text": "Tercera ley de Mendel o herencia independiente"
+          },
+          {
+            "id": "BIO-F1-073-C",
+            "text": "Genoma"
+          },
+          {
+            "id": "BIO-F1-073-D",
+            "text": "Fenotipo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-073-C"
+      },
+      {
+        "id": "BIO-F1-074",
+        "topic": "Biología",
+        "text": "«Área encargada de aspectos legales, normativos y de regulación vinculados con la biotecnología.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-074-A",
+            "text": "Consideraciones éticas de la clonación"
+          },
+          {
+            "id": "BIO-F1-074-B",
+            "text": "Crossing-over"
+          },
+          {
+            "id": "BIO-F1-074-C",
+            "text": "Biotecnología púrpura"
+          },
+          {
+            "id": "BIO-F1-074-D",
+            "text": "Biorremediación"
+          }
+        ],
+        "correctOptionId": "BIO-F1-074-C"
+      },
+      {
+        "id": "BIO-F1-075",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Proceso por el cual rasgos, características e información genética se transmiten de una generación a otra.»",
+        "options": [
+          {
+            "id": "BIO-F1-075-A",
+            "text": "Mutación"
+          },
+          {
+            "id": "BIO-F1-075-B",
+            "text": "Translocación cromosómica"
+          },
+          {
+            "id": "BIO-F1-075-C",
+            "text": "Herencia"
+          },
+          {
+            "id": "BIO-F1-075-D",
+            "text": "Genoma"
+          }
+        ],
+        "correctOptionId": "BIO-F1-075-C"
+      },
+      {
+        "id": "BIO-F1-078",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Anomalía cromosómica identificada en el material como trisomía 21.»",
+        "options": [
+          {
+            "id": "BIO-F1-078-A",
+            "text": "Mutación CCR5 y resistencia al VIH"
+          },
+          {
+            "id": "BIO-F1-078-B",
+            "text": "Síndrome de Down"
+          },
+          {
+            "id": "BIO-F1-078-C",
+            "text": "Amniocentesis"
+          },
+          {
+            "id": "BIO-F1-078-D",
+            "text": "Codón AUG"
+          }
+        ],
+        "correctOptionId": "BIO-F1-078-B"
+      },
+      {
+        "id": "BIO-F1-079",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Instancia creada en 1997 para minimizar riesgos y prevenir impactos negativos de los OGM sobre salud humana, ambiente y diversidad biológica.»",
+        "options": [
+          {
+            "id": "BIO-F1-079-A",
+            "text": "Ingeniería genética"
+          },
+          {
+            "id": "BIO-F1-079-B",
+            "text": "Clonación"
+          },
+          {
+            "id": "BIO-F1-079-C",
+            "text": "Comité Nacional de Bioseguridad de Bolivia"
+          },
+          {
+            "id": "BIO-F1-079-D",
+            "text": "Biotecnología negra"
+          }
+        ],
+        "correctOptionId": "BIO-F1-079-C"
+      },
+      {
+        "id": "BIO-F1-080",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Conjunto de reglas por el que los codones del ARNm determinan la secuencia de aminoácidos durante la síntesis de proteínas.»",
+        "options": [
+          {
+            "id": "BIO-F1-080-A",
+            "text": "Síndrome de Klinefelter"
+          },
+          {
+            "id": "BIO-F1-080-B",
+            "text": "Síndrome de Marfan"
+          },
+          {
+            "id": "BIO-F1-080-C",
+            "text": "Trisomía"
+          },
+          {
+            "id": "BIO-F1-080-D",
+            "text": "Código genético"
+          }
+        ],
+        "correctOptionId": "BIO-F1-080-D"
+      },
+      {
+        "id": "BIO-F1-081",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Enfoque que busca estimular capacidades curativas del organismo mediante recursos naturales y terapias alternativas, sin limitarse a una cultura particular.»",
+        "options": [
+          {
+            "id": "BIO-F1-081-A",
+            "text": "Primeros auxilios"
+          },
+          {
+            "id": "BIO-F1-081-B",
+            "text": "Medicina natural"
+          },
+          {
+            "id": "BIO-F1-081-C",
+            "text": "Diagnóstico imagenológico"
+          },
+          {
+            "id": "BIO-F1-081-D",
+            "text": "Diagnóstico de laboratorio"
+          }
+        ],
+        "correctOptionId": "BIO-F1-081-B"
+      },
+      {
+        "id": "BIO-F1-082",
+        "topic": "Biología",
+        "text": "«Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-082-A",
+            "text": "Especiación"
+          },
+          {
+            "id": "BIO-F1-082-B",
+            "text": "Teoría de los coacervados de Oparin"
+          },
+          {
+            "id": "BIO-F1-082-C",
+            "text": "Deriva genética"
+          },
+          {
+            "id": "BIO-F1-082-D",
+            "text": "Cenozoico"
+          }
+        ],
+        "correctOptionId": "BIO-F1-082-B"
+      },
+      {
+        "id": "BIO-F1-083",
+        "topic": "Biología",
+        "text": "«Métodos que obtienen imágenes del interior del cuerpo, como radiografía, tomografía, resonancia, ecografía, endoscopia o mamografía.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-083-A",
+            "text": "Tratamiento inicial de heridas"
+          },
+          {
+            "id": "BIO-F1-083-B",
+            "text": "Diagnóstico de laboratorio"
+          },
+          {
+            "id": "BIO-F1-083-C",
+            "text": "Diagnóstico imagenológico"
+          },
+          {
+            "id": "BIO-F1-083-D",
+            "text": "Primeros auxilios"
+          }
+        ],
+        "correctOptionId": "BIO-F1-083-C"
+      },
+      {
+        "id": "BIO-F1-084",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Una de las variantes de un gen que puede influir en la forma en que se manifiesta una característica.»",
+        "options": [
+          {
+            "id": "BIO-F1-084-A",
+            "text": "Fenotipo"
+          },
+          {
+            "id": "BIO-F1-084-B",
+            "text": "Alelo"
+          },
+          {
+            "id": "BIO-F1-084-C",
+            "text": "Hemofilia"
+          },
+          {
+            "id": "BIO-F1-084-D",
+            "text": "Heterocigoto"
+          }
+        ],
+        "correctOptionId": "BIO-F1-084-B"
+      },
+      {
+        "id": "BIO-F1-085",
+        "topic": "Biología",
+        "text": "«Transmisión en la que intervienen objetos, alimentos, agua, aire, vectores u otros medios que transportan al agente infeccioso.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-085-A",
+            "text": "Zika"
+          },
+          {
+            "id": "BIO-F1-085-B",
+            "text": "Inocuidad alimentaria"
+          },
+          {
+            "id": "BIO-F1-085-C",
+            "text": "Contagio indirecto"
+          },
+          {
+            "id": "BIO-F1-085-D",
+            "text": "Chikungunya"
+          }
+        ],
+        "correctOptionId": "BIO-F1-085-C"
+      },
+      {
+        "id": "BIO-F1-086",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Trastorno del tejido conectivo vinculado a mutaciones del gen FBN1 y asociado a extremidades largas y riesgos cardiovasculares.»",
+        "options": [
+          {
+            "id": "BIO-F1-086-A",
+            "text": "Codón AUG"
+          },
+          {
+            "id": "BIO-F1-086-B",
+            "text": "Síndrome de Marfan"
+          },
+          {
+            "id": "BIO-F1-086-C",
+            "text": "Síndrome de Edwards"
+          },
+          {
+            "id": "BIO-F1-086-D",
+            "text": "Síndrome de Klinefelter"
+          }
+        ],
+        "correctOptionId": "BIO-F1-086-B"
+      },
+      {
+        "id": "BIO-F1-087",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Organismo cuyo material genético ha sido alterado mediante técnicas de ingeniería genética para modificar o incorporar características específicas.»",
+        "options": [
+          {
+            "id": "BIO-F1-087-A",
+            "text": "Ingeniería genética"
+          },
+          {
+            "id": "BIO-F1-087-B",
+            "text": "OGM"
+          },
+          {
+            "id": "BIO-F1-087-C",
+            "text": "Biotecnología"
+          },
+          {
+            "id": "BIO-F1-087-D",
+            "text": "Biotecnología púrpura"
+          }
+        ],
+        "correctOptionId": "BIO-F1-087-B"
+      },
+      {
+        "id": "BIO-F1-088",
+        "topic": "Biología",
+        "text": "«Proceso mediante el cual se crea una copia genéticamente idéntica de un organismo, célula o molécula.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-088-A",
+            "text": "Reproducción asexual y variabilidad genética"
+          },
+          {
+            "id": "BIO-F1-088-B",
+            "text": "Biotecnología negra"
+          },
+          {
+            "id": "BIO-F1-088-C",
+            "text": "Vector de clonación"
+          },
+          {
+            "id": "BIO-F1-088-D",
+            "text": "Clonación"
+          }
+        ],
+        "correctOptionId": "BIO-F1-088-D"
+      },
+      {
+        "id": "BIO-F1-089",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Área relacionada con prevención y control de riesgos de guerra biológica y usos dañinos de agentes biológicos.»",
+        "options": [
+          {
+            "id": "BIO-F1-089-A",
+            "text": "Biotecnología negra"
+          },
+          {
+            "id": "BIO-F1-089-B",
+            "text": "Comité Nacional de Bioseguridad de Bolivia"
+          },
+          {
+            "id": "BIO-F1-089-C",
+            "text": "Ingeniería genética"
+          },
+          {
+            "id": "BIO-F1-089-D",
+            "text": "Clonación reproductiva"
+          }
+        ],
+        "correctOptionId": "BIO-F1-089-A"
+      },
+      {
+        "id": "BIO-F1-090",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Organización de cromosomas utilizada para identificar anomalías cromosómicas mediante observación y ordenamiento de pares homólogos.»",
+        "options": [
+          {
+            "id": "BIO-F1-090-A",
+            "text": "Codón AUG"
+          },
+          {
+            "id": "BIO-F1-090-B",
+            "text": "Trisomía"
+          },
+          {
+            "id": "BIO-F1-090-C",
+            "text": "Amniocentesis"
+          },
+          {
+            "id": "BIO-F1-090-D",
+            "text": "Cariotipo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-090-D"
+      },
+      {
+        "id": "BIO-F1-091",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Atención inicial que se presta a una persona lesionada o enferma para proteger la vida, evitar complicaciones y favorecer su traslado o atención médica.»",
+        "options": [
+          {
+            "id": "BIO-F1-091-A",
+            "text": "Tratamiento inicial de heridas"
+          },
+          {
+            "id": "BIO-F1-091-B",
+            "text": "Primeros auxilios"
+          },
+          {
+            "id": "BIO-F1-091-C",
+            "text": "Diagnóstico de laboratorio"
+          },
+          {
+            "id": "BIO-F1-091-D",
+            "text": "Medicina natural"
+          }
+        ],
+        "correctOptionId": "BIO-F1-091-B"
+      },
+      {
+        "id": "BIO-F1-092",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Producción de un individuo genéticamente idéntico mediante transferencia nuclear a un óvulo enucleado y posterior implantación del embrión.»",
+        "options": [
+          {
+            "id": "BIO-F1-092-A",
+            "text": "Clonación"
+          },
+          {
+            "id": "BIO-F1-092-B",
+            "text": "Biotecnología púrpura"
+          },
+          {
+            "id": "BIO-F1-092-C",
+            "text": "Clonación reproductiva"
+          },
+          {
+            "id": "BIO-F1-092-D",
+            "text": "Crossing-over"
+          }
+        ],
+        "correctOptionId": "BIO-F1-092-C"
+      },
+      {
+        "id": "BIO-F1-093",
+        "topic": "Biología",
+        "text": "«Trastornos del corazón y los vasos sanguíneos asociados a factores como colesterol alto, mala alimentación, sedentarismo, alcohol y tabaquismo.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-093-A",
+            "text": "Enfermedades cardiovasculares"
+          },
+          {
+            "id": "BIO-F1-093-B",
+            "text": "Enfermedades no transmisibles"
+          },
+          {
+            "id": "BIO-F1-093-C",
+            "text": "Alzheimer"
+          },
+          {
+            "id": "BIO-F1-093-D",
+            "text": "Enfermedades respiratorias crónicas"
+          }
+        ],
+        "correctOptionId": "BIO-F1-093-A"
+      },
+      {
+        "id": "BIO-F1-094",
+        "topic": "Biología",
+        "text": "«Alteración del número cromosómico en la que falta uno de los miembros de un par de cromosomas.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-094-A",
+            "text": "Síndrome de Down"
+          },
+          {
+            "id": "BIO-F1-094-B",
+            "text": "Trisomía"
+          },
+          {
+            "id": "BIO-F1-094-C",
+            "text": "Monosomía"
+          },
+          {
+            "id": "BIO-F1-094-D",
+            "text": "Polidactilia"
+          }
+        ],
+        "correctOptionId": "BIO-F1-094-C"
+      },
+      {
+        "id": "BIO-F1-095",
+        "topic": "Biología",
+        "text": "«Posición específica de un cromosoma donde se encuentra un gen determinado.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-095-A",
+            "text": "Homocigoto"
+          },
+          {
+            "id": "BIO-F1-095-B",
+            "text": "Primera ley de Mendel o uniformidad"
+          },
+          {
+            "id": "BIO-F1-095-C",
+            "text": "Genoma"
+          },
+          {
+            "id": "BIO-F1-095-D",
+            "text": "Locus"
+          }
+        ],
+        "correctOptionId": "BIO-F1-095-D"
+      },
+      {
+        "id": "BIO-F1-096",
+        "topic": "Biología",
+        "text": "¿Qué nombre corresponde a esta descripción del material? «Alteración en la que un fragmento se rompe, se invierte y vuelve a insertarse en el cromosoma.»",
+        "options": [
+          {
+            "id": "BIO-F1-096-A",
+            "text": "Inversión cromosómica"
+          },
+          {
+            "id": "BIO-F1-096-B",
+            "text": "Dihíbrido"
+          },
+          {
+            "id": "BIO-F1-096-C",
+            "text": "Tercera ley de Mendel o herencia independiente"
+          },
+          {
+            "id": "BIO-F1-096-D",
+            "text": "Locus"
+          }
+        ],
+        "correctOptionId": "BIO-F1-096-A"
+      },
+      {
+        "id": "BIO-F1-097",
+        "topic": "Biología",
+        "text": "«Afecciones de larga duración que dañan vías respiratorias o pulmones, como asma, EPOC e hipertensión pulmonar.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-097-A",
+            "text": "Enfermedades respiratorias crónicas"
+          },
+          {
+            "id": "BIO-F1-097-B",
+            "text": "Cáncer"
+          },
+          {
+            "id": "BIO-F1-097-C",
+            "text": "Alzheimer"
+          },
+          {
+            "id": "BIO-F1-097-D",
+            "text": "Enfermedades cardiovasculares"
+          }
+        ],
+        "correctOptionId": "BIO-F1-097-A"
+      },
+      {
+        "id": "BIO-F1-098",
+        "topic": "Biología",
+        "text": "«Rama de la biología que estudia la herencia biológica, las variaciones y la transmisión de caracteres entre generaciones, con especial atención a los genes y al ADN.» ¿A qué concepto, proceso o acontecimiento corresponde según el PDF?",
+        "options": [
+          {
+            "id": "BIO-F1-098-A",
+            "text": "Genética"
+          },
+          {
+            "id": "BIO-F1-098-B",
+            "text": "Heterocigoto"
+          },
+          {
+            "id": "BIO-F1-098-C",
+            "text": "Monohíbrido"
+          },
+          {
+            "id": "BIO-F1-098-D",
+            "text": "Alelo"
+          }
+        ],
+        "correctOptionId": "BIO-F1-098-A"
+      },
+      {
+        "id": "BIO-F1-099",
+        "topic": "Biología",
+        "text": "«Ejemplo en el que una mutación del gen CCR5 puede aumentar la resistencia frente a la entrada del VIH en ciertas células del sistema inmunológico.» ¿Cuál es la identificación correcta?",
+        "options": [
+          {
+            "id": "BIO-F1-099-A",
+            "text": "Síndrome de Patau"
+          },
+          {
+            "id": "BIO-F1-099-B",
+            "text": "Codón AUG"
+          },
+          {
+            "id": "BIO-F1-099-C",
+            "text": "Síndrome de Klinefelter"
+          },
+          {
+            "id": "BIO-F1-099-D",
+            "text": "Mutación CCR5 y resistencia al VIH"
+          }
+        ],
+        "correctOptionId": "BIO-F1-099-D"
+      },
+      {
+        "id": "BIO-F1-100",
+        "topic": "Biología",
+        "text": "Según el PDF, ¿qué opción identifica esta característica? «Organismo que posee dos copias idénticas de un gen específico, una heredada de cada progenitor.»",
+        "options": [
+          {
+            "id": "BIO-F1-100-A",
+            "text": "Deleción cromosómica"
+          },
+          {
+            "id": "BIO-F1-100-B",
+            "text": "Homocigoto"
+          },
+          {
+            "id": "BIO-F1-100-C",
+            "text": "Cromosoma"
+          },
+          {
+            "id": "BIO-F1-100-D",
+            "text": "Tercera ley de Mendel o herencia independiente"
+          }
+        ],
+        "correctOptionId": "BIO-F1-100-B"
+      }
+    ]
+  },
+  {
+    "id": "biologia-sexto-f2",
+    "subject": "Biología",
+    "grade": "Sexto de Secundaria",
+    "title": "Biología — Sexto de Secundaria — Formulario 2",
+    "description": "Revisión preliminar para ensayo local. Claves propuestas, no oficiales ni certificadas; publicación pendiente de autorización.",
+    "color": "green",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "BIO-F2-001",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Mesozoico», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-001-A",
+            "text": "Era geológica caracterizada por una gran diversificación de formas de vida y por importantes cambios en los ecosistemas del planeta."
+          },
+          {
+            "id": "BIO-F2-001-B",
+            "text": "Proceso por el cual los individuos mejor adaptados tienen mayor probabilidad de sobrevivir, reproducirse y dejar descendencia."
+          },
+          {
+            "id": "BIO-F2-001-C",
+            "text": "Síntesis desarrollada entre 1930 y 1950 que integra selección natural con genética y sostiene que la variación heredable depende de mutación y recombinación."
+          },
+          {
+            "id": "BIO-F2-001-D",
+            "text": "Era geológica conocida por el predominio de grandes reptiles y por transformaciones que precedieron al desarrollo de grupos modernos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-001-D"
+      },
+      {
+        "id": "BIO-F2-003",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Factores de riesgo metabólicos» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-003-A",
+            "text": "Enfermedad neurodegenerativa que deteriora progresivamente funciones cognitivas, especialmente memoria, orientación y capacidad para resolver tareas cotidianas."
+          },
+          {
+            "id": "BIO-F2-003-B",
+            "text": "Afecciones de larga duración que dañan vías respiratorias o pulmones, como asma, EPOC e hipertensión pulmonar."
+          },
+          {
+            "id": "BIO-F2-003-C",
+            "text": "Trastornos del corazón y los vasos sanguíneos asociados a factores como colesterol alto, mala alimentación, sedentarismo, alcohol y tabaquismo."
+          },
+          {
+            "id": "BIO-F2-003-D",
+            "text": "Cambios como hipertensión, sobrepeso u obesidad, hiperglucemia e hiperlipidemia que aumentan el riesgo de enfermedades no transmisibles."
+          }
+        ],
+        "correctOptionId": "BIO-F2-003-D"
+      },
+      {
+        "id": "BIO-F2-004",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Locus» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-004-A",
+            "text": "Posición específica de un cromosoma donde se encuentra un gen determinado."
+          },
+          {
+            "id": "BIO-F2-004-B",
+            "text": "Unidad de información hereditaria situada en el ADN que contiene instrucciones para la síntesis de una molécula, generalmente una proteína."
+          },
+          {
+            "id": "BIO-F2-004-C",
+            "text": "Alteración en la que una parte de un cromosoma se rompe y se une a otro cromosoma."
+          },
+          {
+            "id": "BIO-F2-004-D",
+            "text": "Organismo que posee dos alelos diferentes para un mismo gen."
+          }
+        ],
+        "correctOptionId": "BIO-F2-004-A"
+      },
+      {
+        "id": "BIO-F2-005",
+        "topic": "Biología",
+        "text": "En relación con «Resistencia a los antimicrobianos», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-005-A",
+            "text": "Enfermedad viral transmitida principalmente por Aedes aegypti y Aedes albopictus, sin vacuna ni tratamiento antiviral específico según el material."
+          },
+          {
+            "id": "BIO-F2-005-B",
+            "text": "Enfermedad respiratoria causada por SARS-CoV-2, transmitida principalmente por partículas expulsadas al hablar, cantar o toser."
+          },
+          {
+            "id": "BIO-F2-005-C",
+            "text": "Capacidad adquirida por microorganismos para sobrevivir a medicamentos antes eficaces, favorecida por uso inadecuado o excesivo de antimicrobianos."
+          },
+          {
+            "id": "BIO-F2-005-D",
+            "text": "Enfermedad viral transmitida por Aedes aegypti, asociada a fiebre leve, erupción, cefalea, dolores articulares y conjuntivitis no purulenta."
+          }
+        ],
+        "correctOptionId": "BIO-F2-005-C"
+      },
+      {
+        "id": "BIO-F2-006",
+        "topic": "Biología",
+        "text": "En relación con «Teoría creacionista», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-006-A",
+            "text": "Proceso por el cual los individuos mejor adaptados tienen mayor probabilidad de sobrevivir, reproducirse y dejar descendencia."
+          },
+          {
+            "id": "BIO-F2-006-B",
+            "text": "Explicación del origen de la vida basada en la acción de un ser creador o divino."
+          },
+          {
+            "id": "BIO-F2-006-C",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          },
+          {
+            "id": "BIO-F2-006-D",
+            "text": "Era geológica posterior al Mesozoico en la que se diversificaron ampliamente mamíferos y otros grupos actuales."
+          }
+        ],
+        "correctOptionId": "BIO-F2-006-B"
+      },
+      {
+        "id": "BIO-F2-007",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Teoría sintética de la evolución», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-007-A",
+            "text": "Teoría que explica la evolución mediante selección natural, supervivencia diferencial y herencia de variaciones favorables."
+          },
+          {
+            "id": "BIO-F2-007-B",
+            "text": "Síntesis desarrollada entre 1930 y 1950 que integra selección natural con genética y sostiene que la variación heredable depende de mutación y recombinación."
+          },
+          {
+            "id": "BIO-F2-007-C",
+            "text": "Era geológica caracterizada por una gran diversificación de formas de vida y por importantes cambios en los ecosistemas del planeta."
+          },
+          {
+            "id": "BIO-F2-007-D",
+            "text": "Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados."
+          }
+        ],
+        "correctOptionId": "BIO-F2-007-B"
+      },
+      {
+        "id": "BIO-F2-009",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Monohíbrido», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-009-A",
+            "text": "Alteración en la que una parte de un cromosoma se copia de manera anormal."
+          },
+          {
+            "id": "BIO-F2-009-B",
+            "text": "Genotipo híbrido para un solo rasgo o carácter, representado en el material con un ejemplo como Aa."
+          },
+          {
+            "id": "BIO-F2-009-C",
+            "text": "Condición genética ligada al cromosoma X caracterizada por problemas de coagulación y hemorragias frecuentes."
+          },
+          {
+            "id": "BIO-F2-009-D",
+            "text": "En la segunda generación filial los factores hereditarios se separan y reparten entre gametos, apareciendo diferentes fenotipos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-009-B"
+      },
+      {
+        "id": "BIO-F2-010",
+        "topic": "Biología",
+        "text": "En relación con «Biotecnología», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-010-A",
+            "text": "Área de la biotecnología relacionada con agricultura y mejoramiento de plantas, incluida la ingeniería genética vegetal."
+          },
+          {
+            "id": "BIO-F2-010-B",
+            "text": "Uso de seres vivos o partes de ellos para desarrollar productos y procesos útiles en medicina, agricultura, industria e investigación."
+          },
+          {
+            "id": "BIO-F2-010-C",
+            "text": "Biotecnología sanitaria relacionada con prevención, diagnóstico, medicamentos, terapias y aplicaciones médicas."
+          },
+          {
+            "id": "BIO-F2-010-D",
+            "text": "Área biotecnológica vinculada con alimentos y procesos de producción alimentaria."
+          }
+        ],
+        "correctOptionId": "BIO-F2-010-B"
+      },
+      {
+        "id": "BIO-F2-012",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Paleozoico» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-012-A",
+            "text": "Síntesis desarrollada entre 1930 y 1950 que integra selección natural con genética y sostiene que la variación heredable depende de mutación y recombinación."
+          },
+          {
+            "id": "BIO-F2-012-B",
+            "text": "Era geológica caracterizada por una gran diversificación de formas de vida y por importantes cambios en los ecosistemas del planeta."
+          },
+          {
+            "id": "BIO-F2-012-C",
+            "text": "Proceso ubicado por el material en una historia geológica de miles de millones de años en la que el planeta atravesó cambios físicos y químicos profundos."
+          },
+          {
+            "id": "BIO-F2-012-D",
+            "text": "Era geológica posterior al Mesozoico en la que se diversificaron ampliamente mamíferos y otros grupos actuales."
+          }
+        ],
+        "correctOptionId": "BIO-F2-012-B"
+      },
+      {
+        "id": "BIO-F2-013",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Cromosoma» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-013-A",
+            "text": "Alteración en la que se pierde un fragmento de ADN de un cromosoma."
+          },
+          {
+            "id": "BIO-F2-013-B",
+            "text": "En la segunda generación filial los factores hereditarios se separan y reparten entre gametos, apareciendo diferentes fenotipos."
+          },
+          {
+            "id": "BIO-F2-013-C",
+            "text": "Estructura compacta del núcleo de células eucariotas formada por ADN e histonas y que contiene genes."
+          },
+          {
+            "id": "BIO-F2-013-D",
+            "text": "Genotipo híbrido para dos rasgos o caracteres, representado en el material con un ejemplo como AaBb."
+          }
+        ],
+        "correctOptionId": "BIO-F2-013-C"
+      },
+      {
+        "id": "BIO-F2-014",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Codón AUG» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-014-A",
+            "text": "Triplete del ARNm que el material identifica como señal de inicio de la traducción."
+          },
+          {
+            "id": "BIO-F2-014-B",
+            "text": "Aneuploidía que afecta a mujeres por ausencia total o parcial de un cromosoma X en el par sexual."
+          },
+          {
+            "id": "BIO-F2-014-C",
+            "text": "Anomalía cromosómica identificada en el material como trisomía 21."
+          },
+          {
+            "id": "BIO-F2-014-D",
+            "text": "Organización de cromosomas utilizada para identificar anomalías cromosómicas mediante observación y ordenamiento de pares homólogos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-014-A"
+      },
+      {
+        "id": "BIO-F2-015",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Síndrome de Patau» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-015-A",
+            "text": "Ejemplo en el que una mutación del gen CCR5 puede aumentar la resistencia frente a la entrada del VIH en ciertas células del sistema inmunológico."
+          },
+          {
+            "id": "BIO-F2-015-B",
+            "text": "Anomalía cromosómica identificada como trisomía 13 y asociada a múltiples defectos y grave retraso del desarrollo."
+          },
+          {
+            "id": "BIO-F2-015-C",
+            "text": "Condición en varones con 47 cromosomas y constitución sexual XXY, frecuentemente asociada a baja producción de células sexuales."
+          },
+          {
+            "id": "BIO-F2-015-D",
+            "text": "Anomalía cromosómica identificada como trisomía 18 y asociada a malformaciones y graves problemas de desarrollo."
+          }
+        ],
+        "correctOptionId": "BIO-F2-015-B"
+      },
+      {
+        "id": "BIO-F2-016",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Biotecnología amarilla», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-016-A",
+            "text": "Área biotecnológica vinculada con alimentos y procesos de producción alimentaria."
+          },
+          {
+            "id": "BIO-F2-016-B",
+            "text": "Producción de un individuo genéticamente idéntico mediante transferencia nuclear a un óvulo enucleado y posterior implantación del embrión."
+          },
+          {
+            "id": "BIO-F2-016-C",
+            "text": "Mezcla de material genético de dos progenitores que, durante la meiosis y el crossing-over, genera nuevas combinaciones y alta variabilidad."
+          },
+          {
+            "id": "BIO-F2-016-D",
+            "text": "Área de la biotecnología relacionada con agricultura y mejoramiento de plantas, incluida la ingeniería genética vegetal."
+          }
+        ],
+        "correctOptionId": "BIO-F2-016-A"
+      },
+      {
+        "id": "BIO-F2-017",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Influenza», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-017-A",
+            "text": "Enfermedad viral transmitida principalmente por el mosquito Aedes aegypti y que puede evolucionar a formas graves o hemorrágicas."
+          },
+          {
+            "id": "BIO-F2-017-B",
+            "text": "El VIH ataca glóbulos blancos y debilita el sistema inmunológico; puede evolucionar a SIDA y se transmite por determinados fluidos corporales y de madre a hijo."
+          },
+          {
+            "id": "BIO-F2-017-C",
+            "text": "Infección viral respiratoria que se propaga con facilidad por tos o estornudos y puede causar fiebre, dolor muscular y malestar general."
+          },
+          {
+            "id": "BIO-F2-017-D",
+            "text": "Enfermedad respiratoria causada por SARS-CoV-2, transmitida principalmente por partículas expulsadas al hablar, cantar o toser."
+          }
+        ],
+        "correctOptionId": "BIO-F2-017-C"
+      },
+      {
+        "id": "BIO-F2-018",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «COVID-19» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-018-A",
+            "text": "Transmisión en la que intervienen objetos, alimentos, agua, aire, vectores u otros medios que transportan al agente infeccioso."
+          },
+          {
+            "id": "BIO-F2-018-B",
+            "text": "Enfermedad viral transmitida principalmente por el mosquito Aedes aegypti y que puede evolucionar a formas graves o hemorrágicas."
+          },
+          {
+            "id": "BIO-F2-018-C",
+            "text": "Enfermedad respiratoria causada por SARS-CoV-2, transmitida principalmente por partículas expulsadas al hablar, cantar o toser."
+          },
+          {
+            "id": "BIO-F2-018-D",
+            "text": "Transmisión de una enfermedad infecciosa mediante contacto cercano o intercambio directo de agentes entre una persona infectada y otra susceptible."
+          }
+        ],
+        "correctOptionId": "BIO-F2-018-C"
+      },
+      {
+        "id": "BIO-F2-020",
+        "topic": "Biología",
+        "text": "En relación con «Primeros auxilios», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-020-A",
+            "text": "Atención inicial que se presta a una persona lesionada o enferma para proteger la vida, evitar complicaciones y favorecer su traslado o atención médica."
+          },
+          {
+            "id": "BIO-F2-020-B",
+            "text": "Conjunto de conocimientos y prácticas ancestrales de distintas culturas para prevenir, diagnosticar y tratar problemas de salud mediante recursos naturales y saberes comunitarios."
+          },
+          {
+            "id": "BIO-F2-020-C",
+            "text": "Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño."
+          },
+          {
+            "id": "BIO-F2-020-D",
+            "text": "Métodos que obtienen imágenes del interior del cuerpo, como radiografía, tomografía, resonancia, ecografía, endoscopia o mamografía."
+          }
+        ],
+        "correctOptionId": "BIO-F2-020-A"
+      },
+      {
+        "id": "BIO-F2-021",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Especiación» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-021-A",
+            "text": "Antigua propuesta según la cual la vida podía surgir de manera espontánea a partir de materia no viva."
+          },
+          {
+            "id": "BIO-F2-021-B",
+            "text": "Proceso evolutivo mediante el cual se originan nuevas especies a partir de poblaciones que acumulan diferencias y aislamiento."
+          },
+          {
+            "id": "BIO-F2-021-C",
+            "text": "Hipótesis que propone que la vida o sus precursores pudieron llegar a la Tierra desde el espacio."
+          },
+          {
+            "id": "BIO-F2-021-D",
+            "text": "Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados."
+          }
+        ],
+        "correctOptionId": "BIO-F2-021-B"
+      },
+      {
+        "id": "BIO-F2-022",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Diagnóstico imagenológico» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-022-A",
+            "text": "Métodos que obtienen imágenes del interior del cuerpo, como radiografía, tomografía, resonancia, ecografía, endoscopia o mamografía."
+          },
+          {
+            "id": "BIO-F2-022-B",
+            "text": "Métodos que analizan muestras biológicas mediante técnicas como análisis de sangre, orina, coprología, biopsia o serología."
+          },
+          {
+            "id": "BIO-F2-022-C",
+            "text": "Atención inicial que se presta a una persona lesionada o enferma para proteger la vida, evitar complicaciones y favorecer su traslado o atención médica."
+          },
+          {
+            "id": "BIO-F2-022-D",
+            "text": "Atención que prioriza limpieza, control del sangrado y cobertura adecuada, evitando prácticas que aumenten la contaminación o el daño."
+          }
+        ],
+        "correctOptionId": "BIO-F2-022-A"
+      },
+      {
+        "id": "BIO-F2-023",
+        "topic": "Biología",
+        "text": "En relación con «Precámbrico», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-023-A",
+            "text": "Gran etapa geológica muy antigua asociada con los primeros procesos de formación terrestre y las formas de vida más simples."
+          },
+          {
+            "id": "BIO-F2-023-B",
+            "text": "Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados."
+          },
+          {
+            "id": "BIO-F2-023-C",
+            "text": "Era geológica posterior al Mesozoico en la que se diversificaron ampliamente mamíferos y otros grupos actuales."
+          },
+          {
+            "id": "BIO-F2-023-D",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          }
+        ],
+        "correctOptionId": "BIO-F2-023-A"
+      },
+      {
+        "id": "BIO-F2-024",
+        "topic": "Biología",
+        "text": "En relación con «Zika», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-024-A",
+            "text": "Enfermedad viral transmitida por Aedes aegypti, asociada a fiebre leve, erupción, cefalea, dolores articulares y conjuntivitis no purulenta."
+          },
+          {
+            "id": "BIO-F2-024-B",
+            "text": "El VIH ataca glóbulos blancos y debilita el sistema inmunológico; puede evolucionar a SIDA y se transmite por determinados fluidos corporales y de madre a hijo."
+          },
+          {
+            "id": "BIO-F2-024-C",
+            "text": "Conjunto de prácticas que buscan que los alimentos sean seguros para consumo mediante higiene, temperatura adecuada, cocción y prevención de contaminación cruzada."
+          },
+          {
+            "id": "BIO-F2-024-D",
+            "text": "Enfermedad respiratoria causada por SARS-CoV-2, transmitida principalmente por partículas expulsadas al hablar, cantar o toser."
+          }
+        ],
+        "correctOptionId": "BIO-F2-024-A"
+      },
+      {
+        "id": "BIO-F2-025",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Biotecnología púrpura» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-025-A",
+            "text": "Biotecnología sanitaria relacionada con prevención, diagnóstico, medicamentos, terapias y aplicaciones médicas."
+          },
+          {
+            "id": "BIO-F2-025-B",
+            "text": "Evaluación de beneficios y posibles daños sociales, ambientales, culturales y humanos antes de aplicar tecnologías de clonación."
+          },
+          {
+            "id": "BIO-F2-025-C",
+            "text": "Producción de un individuo genéticamente idéntico mediante transferencia nuclear a un óvulo enucleado y posterior implantación del embrión."
+          },
+          {
+            "id": "BIO-F2-025-D",
+            "text": "Área encargada de aspectos legales, normativos y de regulación vinculados con la biotecnología."
+          }
+        ],
+        "correctOptionId": "BIO-F2-025-D"
+      },
+      {
+        "id": "BIO-F2-026",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Duplicación cromosómica» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-026-A",
+            "text": "Genotipo híbrido para un solo rasgo o carácter, representado en el material con un ejemplo como Aa."
+          },
+          {
+            "id": "BIO-F2-026-B",
+            "text": "Alteración en la que una parte de un cromosoma se copia de manera anormal."
+          },
+          {
+            "id": "BIO-F2-026-C",
+            "text": "Estructura compacta del núcleo de células eucariotas formada por ADN e histonas y que contiene genes."
+          },
+          {
+            "id": "BIO-F2-026-D",
+            "text": "Alteración en la que un fragmento se rompe, se invierte y vuelve a insertarse en el cromosoma."
+          }
+        ],
+        "correctOptionId": "BIO-F2-026-B"
+      },
+      {
+        "id": "BIO-F2-027",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Árbol genealógico», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-027-A",
+            "text": "Representación gráfica que organiza la genealogía y muestra relaciones entre antepasados y descendientes de una persona."
+          },
+          {
+            "id": "BIO-F2-027-B",
+            "text": "Transmisión de condiciones genéticas vinculadas a los cromosomas sexuales, especialmente al cromosoma X según los ejemplos del material."
+          },
+          {
+            "id": "BIO-F2-027-C",
+            "text": "Conjunto de características observables de un organismo, como apariencia física o comportamiento."
+          },
+          {
+            "id": "BIO-F2-027-D",
+            "text": "Alteración en la que una parte de un cromosoma se rompe y se une a otro cromosoma."
+          }
+        ],
+        "correctOptionId": "BIO-F2-027-A"
+      },
+      {
+        "id": "BIO-F2-028",
+        "topic": "Biología",
+        "text": "En relación con «Síndrome de Edwards», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-028-A",
+            "text": "Triplete del ARNm que el material identifica como señal de inicio de la traducción."
+          },
+          {
+            "id": "BIO-F2-028-B",
+            "text": "Condición en varones con 47 cromosomas y constitución sexual XXY, frecuentemente asociada a baja producción de células sexuales."
+          },
+          {
+            "id": "BIO-F2-028-C",
+            "text": "Anomalía cromosómica identificada como trisomía 13 y asociada a múltiples defectos y grave retraso del desarrollo."
+          },
+          {
+            "id": "BIO-F2-028-D",
+            "text": "Anomalía cromosómica identificada como trisomía 18 y asociada a malformaciones y graves problemas de desarrollo."
+          }
+        ],
+        "correctOptionId": "BIO-F2-028-D"
+      },
+      {
+        "id": "BIO-F2-029",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Enfermedades cardiovasculares» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-029-A",
+            "text": "Enfoque que combina alimentación equilibrada, actividad física regular, evitar tabaco y alcohol, detección temprana, educación y políticas públicas de salud."
+          },
+          {
+            "id": "BIO-F2-029-B",
+            "text": "Trastornos del corazón y los vasos sanguíneos asociados a factores como colesterol alto, mala alimentación, sedentarismo, alcohol y tabaquismo."
+          },
+          {
+            "id": "BIO-F2-029-C",
+            "text": "Crecimiento descontrolado de células anormales capaces de invadir tejidos y formar tumores benignos o malignos."
+          },
+          {
+            "id": "BIO-F2-029-D",
+            "text": "Hábitos modificables como consumo de tabaco, inactividad física, dieta poco saludable y uso nocivo de alcohol que aumentan el riesgo de ENT."
+          }
+        ],
+        "correctOptionId": "BIO-F2-029-B"
+      },
+      {
+        "id": "BIO-F2-030",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Genética» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-030-A",
+            "text": "Condición genética ligada al cromosoma X caracterizada por problemas de coagulación y hemorragias frecuentes."
+          },
+          {
+            "id": "BIO-F2-030-B",
+            "text": "Genotipo híbrido para dos rasgos o caracteres, representado en el material con un ejemplo como AaBb."
+          },
+          {
+            "id": "BIO-F2-030-C",
+            "text": "Rama de la biología que estudia la herencia biológica, las variaciones y la transmisión de caracteres entre generaciones, con especial atención a los genes y al ADN."
+          },
+          {
+            "id": "BIO-F2-030-D",
+            "text": "Transmisión de condiciones genéticas vinculadas a los cromosomas sexuales, especialmente al cromosoma X según los ejemplos del material."
+          }
+        ],
+        "correctOptionId": "BIO-F2-030-C"
+      },
+      {
+        "id": "BIO-F2-031",
+        "topic": "Biología",
+        "text": "En relación con «Síndrome de Marfan», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-031-A",
+            "text": "Alteración genética que produce uno o más dedos adicionales en manos o pies."
+          },
+          {
+            "id": "BIO-F2-031-B",
+            "text": "Alteración del número cromosómico en la que existe un cromosoma extra respecto del par esperado."
+          },
+          {
+            "id": "BIO-F2-031-C",
+            "text": "Anomalía cromosómica identificada como trisomía 18 y asociada a malformaciones y graves problemas de desarrollo."
+          },
+          {
+            "id": "BIO-F2-031-D",
+            "text": "Trastorno del tejido conectivo vinculado a mutaciones del gen FBN1 y asociado a extremidades largas y riesgos cardiovasculares."
+          }
+        ],
+        "correctOptionId": "BIO-F2-031-D"
+      },
+      {
+        "id": "BIO-F2-032",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Alzheimer» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-032-A",
+            "text": "Afecciones de larga duración que dañan vías respiratorias o pulmones, como asma, EPOC e hipertensión pulmonar."
+          },
+          {
+            "id": "BIO-F2-032-B",
+            "text": "Cambios como hipertensión, sobrepeso u obesidad, hiperglucemia e hiperlipidemia que aumentan el riesgo de enfermedades no transmisibles."
+          },
+          {
+            "id": "BIO-F2-032-C",
+            "text": "Trastornos del corazón y los vasos sanguíneos asociados a factores como colesterol alto, mala alimentación, sedentarismo, alcohol y tabaquismo."
+          },
+          {
+            "id": "BIO-F2-032-D",
+            "text": "Enfermedad neurodegenerativa que deteriora progresivamente funciones cognitivas, especialmente memoria, orientación y capacidad para resolver tareas cotidianas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-032-D"
+      },
+      {
+        "id": "BIO-F2-033",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Translocación cromosómica» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-033-A",
+            "text": "Rama de la biología que estudia la herencia biológica, las variaciones y la transmisión de caracteres entre generaciones, con especial atención a los genes y al ADN."
+          },
+          {
+            "id": "BIO-F2-033-B",
+            "text": "Alteración en la que una parte de un cromosoma se rompe y se une a otro cromosoma."
+          },
+          {
+            "id": "BIO-F2-033-C",
+            "text": "Transmisión de condiciones genéticas vinculadas a los cromosomas sexuales, especialmente al cromosoma X según los ejemplos del material."
+          },
+          {
+            "id": "BIO-F2-033-D",
+            "text": "Los caracteres no antagónicos se transmiten por separado y pueden combinarse al azar en la descendencia."
+          }
+        ],
+        "correctOptionId": "BIO-F2-033-B"
+      },
+      {
+        "id": "BIO-F2-034",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Generación espontánea» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-034-A",
+            "text": "Antigua propuesta según la cual la vida podía surgir de manera espontánea a partir de materia no viva."
+          },
+          {
+            "id": "BIO-F2-034-B",
+            "text": "Explicación del origen de la vida basada en la acción de un ser creador o divino."
+          },
+          {
+            "id": "BIO-F2-034-C",
+            "text": "Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados."
+          },
+          {
+            "id": "BIO-F2-034-D",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          }
+        ],
+        "correctOptionId": "BIO-F2-034-A"
+      },
+      {
+        "id": "BIO-F2-037",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Herencia ligada al sexo» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-037-A",
+            "text": "Transmisión de condiciones genéticas vinculadas a los cromosomas sexuales, especialmente al cromosoma X según los ejemplos del material."
+          },
+          {
+            "id": "BIO-F2-037-B",
+            "text": "Cambio en la secuencia de nucleótidos del ADN que puede afectar genes, proteínas y características del organismo."
+          },
+          {
+            "id": "BIO-F2-037-C",
+            "text": "Organismo que posee dos copias idénticas de un gen específico, una heredada de cada progenitor."
+          },
+          {
+            "id": "BIO-F2-037-D",
+            "text": "Alteración en la que un fragmento se rompe, se invierte y vuelve a insertarse en el cromosoma."
+          }
+        ],
+        "correctOptionId": "BIO-F2-037-A"
+      },
+      {
+        "id": "BIO-F2-038",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Panspermia», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-038-A",
+            "text": "Hipótesis que propone que la vida o sus precursores pudieron llegar a la Tierra desde el espacio."
+          },
+          {
+            "id": "BIO-F2-038-B",
+            "text": "Teoría evolutiva que explica cambios mediante uso y desuso de órganos y herencia de caracteres adquiridos."
+          },
+          {
+            "id": "BIO-F2-038-C",
+            "text": "Era geológica caracterizada por una gran diversificación de formas de vida y por importantes cambios en los ecosistemas del planeta."
+          },
+          {
+            "id": "BIO-F2-038-D",
+            "text": "Proceso evolutivo mediante el cual se originan nuevas especies a partir de poblaciones que acumulan diferencias y aislamiento."
+          }
+        ],
+        "correctOptionId": "BIO-F2-038-A"
+      },
+      {
+        "id": "BIO-F2-039",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Inocuidad alimentaria» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-039-A",
+            "text": "El VIH ataca glóbulos blancos y debilita el sistema inmunológico; puede evolucionar a SIDA y se transmite por determinados fluidos corporales y de madre a hijo."
+          },
+          {
+            "id": "BIO-F2-039-B",
+            "text": "Enfermedad viral transmitida principalmente por Aedes aegypti y Aedes albopictus, sin vacuna ni tratamiento antiviral específico según el material."
+          },
+          {
+            "id": "BIO-F2-039-C",
+            "text": "Conjunto de prácticas que buscan que los alimentos sean seguros para consumo mediante higiene, temperatura adecuada, cocción y prevención de contaminación cruzada."
+          },
+          {
+            "id": "BIO-F2-039-D",
+            "text": "Capacidad adquirida por microorganismos para sobrevivir a medicamentos antes eficaces, favorecida por uso inadecuado o excesivo de antimicrobianos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-039-C"
+      },
+      {
+        "id": "BIO-F2-040",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Vector de clonación» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-040-A",
+            "text": "Clonación orientada a producir células o tejidos específicos para tratamiento, no a desarrollar un organismo completo."
+          },
+          {
+            "id": "BIO-F2-040-B",
+            "text": "Área relacionada con prevención y control de riesgos de guerra biológica y usos dañinos de agentes biológicos."
+          },
+          {
+            "id": "BIO-F2-040-C",
+            "text": "Instancia creada en 1997 para minimizar riesgos y prevenir impactos negativos de los OGM sobre salud humana, ambiente y diversidad biológica."
+          },
+          {
+            "id": "BIO-F2-040-D",
+            "text": "Elemento utilizado para transportar un fragmento de ADN durante un proceso de recombinación artificial, como un plásmido en una bacteria."
+          }
+        ],
+        "correctOptionId": "BIO-F2-040-D"
+      },
+      {
+        "id": "BIO-F2-041",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Comité Nacional de Bioseguridad de Bolivia», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-041-A",
+            "text": "Organismo cuyo material genético ha sido alterado mediante técnicas de ingeniería genética para modificar o incorporar características específicas."
+          },
+          {
+            "id": "BIO-F2-041-B",
+            "text": "Área encargada de aspectos legales, normativos y de regulación vinculados con la biotecnología."
+          },
+          {
+            "id": "BIO-F2-041-C",
+            "text": "Instancia creada en 1997 para minimizar riesgos y prevenir impactos negativos de los OGM sobre salud humana, ambiente y diversidad biológica."
+          },
+          {
+            "id": "BIO-F2-041-D",
+            "text": "Tecnología que permite cortar, unir e introducir fragmentos de ADN de distintas fuentes para obtener combinaciones genéticas específicas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-041-C"
+      },
+      {
+        "id": "BIO-F2-042",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Contagio indirecto» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-042-A",
+            "text": "Transmisión en la que intervienen objetos, alimentos, agua, aire, vectores u otros medios que transportan al agente infeccioso."
+          },
+          {
+            "id": "BIO-F2-042-B",
+            "text": "Enfermedad respiratoria causada por SARS-CoV-2, transmitida principalmente por partículas expulsadas al hablar, cantar o toser."
+          },
+          {
+            "id": "BIO-F2-042-C",
+            "text": "Enfermedad viral transmitida principalmente por el mosquito Aedes aegypti y que puede evolucionar a formas graves o hemorrágicas."
+          },
+          {
+            "id": "BIO-F2-042-D",
+            "text": "Capacidad adquirida por microorganismos para sobrevivir a medicamentos antes eficaces, favorecida por uso inadecuado o excesivo de antimicrobianos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-042-A"
+      },
+      {
+        "id": "BIO-F2-043",
+        "topic": "Biología",
+        "text": "En relación con «Factores de riesgo conductuales», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-043-A",
+            "text": "Afecciones de larga duración que dañan vías respiratorias o pulmones, como asma, EPOC e hipertensión pulmonar."
+          },
+          {
+            "id": "BIO-F2-043-B",
+            "text": "Trastornos del corazón y los vasos sanguíneos asociados a factores como colesterol alto, mala alimentación, sedentarismo, alcohol y tabaquismo."
+          },
+          {
+            "id": "BIO-F2-043-C",
+            "text": "Afecciones generalmente crónicas que no se transmiten por contacto ni son causadas por microorganismos y que se relacionan con factores genéticos, fisiológicos, ambientales y de comportamiento."
+          },
+          {
+            "id": "BIO-F2-043-D",
+            "text": "Hábitos modificables como consumo de tabaco, inactividad física, dieta poco saludable y uso nocivo de alcohol que aumentan el riesgo de ENT."
+          }
+        ],
+        "correctOptionId": "BIO-F2-043-D"
+      },
+      {
+        "id": "BIO-F2-044",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Biorremediación» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-044-A",
+            "text": "Área biotecnológica vinculada con alimentos y procesos de producción alimentaria."
+          },
+          {
+            "id": "BIO-F2-044-B",
+            "text": "Mezcla de material genético de dos progenitores que, durante la meiosis y el crossing-over, genera nuevas combinaciones y alta variabilidad."
+          },
+          {
+            "id": "BIO-F2-044-C",
+            "text": "Organismo cuyo material genético ha sido alterado mediante técnicas de ingeniería genética para modificar o incorporar características específicas."
+          },
+          {
+            "id": "BIO-F2-044-D",
+            "text": "Uso de microorganismos para descomponer contaminantes y eliminar toxinas, contribuyendo a recuperar ecosistemas afectados."
+          }
+        ],
+        "correctOptionId": "BIO-F2-044-D"
+      },
+      {
+        "id": "BIO-F2-045",
+        "topic": "Biología",
+        "text": "En relación con «Codones UAA, UAG y UGA», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-045-A",
+            "text": "Triplete del ARNm que el material identifica como señal de inicio de la traducción."
+          },
+          {
+            "id": "BIO-F2-045-B",
+            "text": "Procedimiento en el que se obtiene líquido amniótico para cultivar células y buscar posibles defectos genéticos, con mejores resultados en el segundo trimestre."
+          },
+          {
+            "id": "BIO-F2-045-C",
+            "text": "Condición en varones con 47 cromosomas y constitución sexual XXY, frecuentemente asociada a baja producción de células sexuales."
+          },
+          {
+            "id": "BIO-F2-045-D",
+            "text": "Tripletes del ARNm que actúan como señales de parada de la síntesis de proteínas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-045-D"
+      },
+      {
+        "id": "BIO-F2-046",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Dengue» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-046-A",
+            "text": "Enfermedad viral transmitida principalmente por el mosquito Aedes aegypti y que puede evolucionar a formas graves o hemorrágicas."
+          },
+          {
+            "id": "BIO-F2-046-B",
+            "text": "Enfermedad viral transmitida principalmente por Aedes aegypti y Aedes albopictus, sin vacuna ni tratamiento antiviral específico según el material."
+          },
+          {
+            "id": "BIO-F2-046-C",
+            "text": "Enfermedad viral transmitida por Aedes aegypti, asociada a fiebre leve, erupción, cefalea, dolores articulares y conjuntivitis no purulenta."
+          },
+          {
+            "id": "BIO-F2-046-D",
+            "text": "Infección viral respiratoria que se propaga con facilidad por tos o estornudos y puede causar fiebre, dolor muscular y malestar general."
+          }
+        ],
+        "correctOptionId": "BIO-F2-046-A"
+      },
+      {
+        "id": "BIO-F2-047",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Mutación CCR5 y resistencia al VIH» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-047-A",
+            "text": "Ejemplo en el que una mutación del gen CCR5 puede aumentar la resistencia frente a la entrada del VIH en ciertas células del sistema inmunológico."
+          },
+          {
+            "id": "BIO-F2-047-B",
+            "text": "Organización de cromosomas utilizada para identificar anomalías cromosómicas mediante observación y ordenamiento de pares homólogos."
+          },
+          {
+            "id": "BIO-F2-047-C",
+            "text": "Anomalía cromosómica identificada en el material como trisomía 21."
+          },
+          {
+            "id": "BIO-F2-047-D",
+            "text": "Alteración del número cromosómico en la que falta uno de los miembros de un par de cromosomas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-047-A"
+      },
+      {
+        "id": "BIO-F2-048",
+        "topic": "Biología",
+        "text": "En relación con «Deleción cromosómica», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-048-A",
+            "text": "Alteración en la que se pierde un fragmento de ADN de un cromosoma."
+          },
+          {
+            "id": "BIO-F2-048-B",
+            "text": "Transmisión de condiciones genéticas vinculadas a los cromosomas sexuales, especialmente al cromosoma X según los ejemplos del material."
+          },
+          {
+            "id": "BIO-F2-048-C",
+            "text": "Conjunto completo de genes que posee un organismo; corresponde a la información genética heredada de los padres."
+          },
+          {
+            "id": "BIO-F2-048-D",
+            "text": "Los caracteres no antagónicos se transmiten por separado y pueden combinarse al azar en la descendencia."
+          }
+        ],
+        "correctOptionId": "BIO-F2-048-A"
+      },
+      {
+        "id": "BIO-F2-049",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Síndrome de Klinefelter», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-049-A",
+            "text": "Anomalía cromosómica identificada como trisomía 13 y asociada a múltiples defectos y grave retraso del desarrollo."
+          },
+          {
+            "id": "BIO-F2-049-B",
+            "text": "Condición en varones con 47 cromosomas y constitución sexual XXY, frecuentemente asociada a baja producción de células sexuales."
+          },
+          {
+            "id": "BIO-F2-049-C",
+            "text": "Organización de cromosomas utilizada para identificar anomalías cromosómicas mediante observación y ordenamiento de pares homólogos."
+          },
+          {
+            "id": "BIO-F2-049-D",
+            "text": "Tripletes del ARNm que actúan como señales de parada de la síntesis de proteínas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-049-B"
+      },
+      {
+        "id": "BIO-F2-050",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Monosomía» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-050-A",
+            "text": "Anomalía cromosómica identificada como trisomía 18 y asociada a malformaciones y graves problemas de desarrollo."
+          },
+          {
+            "id": "BIO-F2-050-B",
+            "text": "Anomalía cromosómica identificada como trisomía 13 y asociada a múltiples defectos y grave retraso del desarrollo."
+          },
+          {
+            "id": "BIO-F2-050-C",
+            "text": "Alteración del número cromosómico en la que falta uno de los miembros de un par de cromosomas."
+          },
+          {
+            "id": "BIO-F2-050-D",
+            "text": "Tripletes del ARNm que actúan como señales de parada de la síntesis de proteínas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-050-C"
+      },
+      {
+        "id": "BIO-F2-051",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Tratamiento inicial de heridas» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-051-A",
+            "text": "Métodos que obtienen imágenes del interior del cuerpo, como radiografía, tomografía, resonancia, ecografía, endoscopia o mamografía."
+          },
+          {
+            "id": "BIO-F2-051-B",
+            "text": "Atención inicial que se presta a una persona lesionada o enferma para proteger la vida, evitar complicaciones y favorecer su traslado o atención médica."
+          },
+          {
+            "id": "BIO-F2-051-C",
+            "text": "Atención que prioriza limpieza, control del sangrado y cobertura adecuada, evitando prácticas que aumenten la contaminación o el daño."
+          },
+          {
+            "id": "BIO-F2-051-D",
+            "text": "Conjunto de conocimientos y prácticas ancestrales de distintas culturas para prevenir, diagnosticar y tratar problemas de salud mediante recursos naturales y saberes comunitarios."
+          }
+        ],
+        "correctOptionId": "BIO-F2-051-C"
+      },
+      {
+        "id": "BIO-F2-052",
+        "topic": "Biología",
+        "text": "En relación con «Trisomía», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-052-A",
+            "text": "Alteración del número cromosómico en la que existe un cromosoma extra respecto del par esperado."
+          },
+          {
+            "id": "BIO-F2-052-B",
+            "text": "Condición en varones con 47 cromosomas y constitución sexual XXY, frecuentemente asociada a baja producción de células sexuales."
+          },
+          {
+            "id": "BIO-F2-052-C",
+            "text": "Organización de cromosomas utilizada para identificar anomalías cromosómicas mediante observación y ordenamiento de pares homólogos."
+          },
+          {
+            "id": "BIO-F2-052-D",
+            "text": "Tripletes del ARNm que actúan como señales de parada de la síntesis de proteínas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-052-A"
+      },
+      {
+        "id": "BIO-F2-053",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Mutación» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-053-A",
+            "text": "Genotipo híbrido para dos rasgos o caracteres, representado en el material con un ejemplo como AaBb."
+          },
+          {
+            "id": "BIO-F2-053-B",
+            "text": "Conjunto completo de genes que posee un organismo; corresponde a la información genética heredada de los padres."
+          },
+          {
+            "id": "BIO-F2-053-C",
+            "text": "Conjunto completo del ADN de un organismo."
+          },
+          {
+            "id": "BIO-F2-053-D",
+            "text": "Cambio en la secuencia de nucleótidos del ADN que puede afectar genes, proteínas y características del organismo."
+          }
+        ],
+        "correctOptionId": "BIO-F2-053-D"
+      },
+      {
+        "id": "BIO-F2-054",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Prevención de ENT», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-054-A",
+            "text": "Trastornos del corazón y los vasos sanguíneos asociados a factores como colesterol alto, mala alimentación, sedentarismo, alcohol y tabaquismo."
+          },
+          {
+            "id": "BIO-F2-054-B",
+            "text": "Crecimiento descontrolado de células anormales capaces de invadir tejidos y formar tumores benignos o malignos."
+          },
+          {
+            "id": "BIO-F2-054-C",
+            "text": "Cambios como hipertensión, sobrepeso u obesidad, hiperglucemia e hiperlipidemia que aumentan el riesgo de enfermedades no transmisibles."
+          },
+          {
+            "id": "BIO-F2-054-D",
+            "text": "Enfoque que combina alimentación equilibrada, actividad física regular, evitar tabaco y alcohol, detección temprana, educación y políticas públicas de salud."
+          }
+        ],
+        "correctOptionId": "BIO-F2-054-D"
+      },
+      {
+        "id": "BIO-F2-055",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Darwinismo» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-055-A",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          },
+          {
+            "id": "BIO-F2-055-B",
+            "text": "Teoría que explica la evolución mediante selección natural, supervivencia diferencial y herencia de variaciones favorables."
+          },
+          {
+            "id": "BIO-F2-055-C",
+            "text": "Proceso ubicado por el material en una historia geológica de miles de millones de años en la que el planeta atravesó cambios físicos y químicos profundos."
+          },
+          {
+            "id": "BIO-F2-055-D",
+            "text": "Síntesis desarrollada entre 1930 y 1950 que integra selección natural con genética y sostiene que la variación heredable depende de mutación y recombinación."
+          }
+        ],
+        "correctOptionId": "BIO-F2-055-B"
+      },
+      {
+        "id": "BIO-F2-056",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Biotecnología roja» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-056-A",
+            "text": "Mezcla de material genético de dos progenitores que, durante la meiosis y el crossing-over, genera nuevas combinaciones y alta variabilidad."
+          },
+          {
+            "id": "BIO-F2-056-B",
+            "text": "Área relacionada con prevención y control de riesgos de guerra biológica y usos dañinos de agentes biológicos."
+          },
+          {
+            "id": "BIO-F2-056-C",
+            "text": "Biotecnología sanitaria relacionada con prevención, diagnóstico, medicamentos, terapias y aplicaciones médicas."
+          },
+          {
+            "id": "BIO-F2-056-D",
+            "text": "Manipulación deliberada del material genético de organismos vivos para introducir nuevos rasgos o modificar características existentes."
+          }
+        ],
+        "correctOptionId": "BIO-F2-056-C"
+      },
+      {
+        "id": "BIO-F2-057",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Contagio directo», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-057-A",
+            "text": "Enfermedad respiratoria causada por SARS-CoV-2, transmitida principalmente por partículas expulsadas al hablar, cantar o toser."
+          },
+          {
+            "id": "BIO-F2-057-B",
+            "text": "El VIH ataca glóbulos blancos y debilita el sistema inmunológico; puede evolucionar a SIDA y se transmite por determinados fluidos corporales y de madre a hijo."
+          },
+          {
+            "id": "BIO-F2-057-C",
+            "text": "Infección viral respiratoria que se propaga con facilidad por tos o estornudos y puede causar fiebre, dolor muscular y malestar general."
+          },
+          {
+            "id": "BIO-F2-057-D",
+            "text": "Transmisión de una enfermedad infecciosa mediante contacto cercano o intercambio directo de agentes entre una persona infectada y otra susceptible."
+          }
+        ],
+        "correctOptionId": "BIO-F2-057-D"
+      },
+      {
+        "id": "BIO-F2-058",
+        "topic": "Biología",
+        "text": "En relación con «Primera ley de Mendel o uniformidad», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-058-A",
+            "text": "Genotipo híbrido para dos rasgos o caracteres, representado en el material con un ejemplo como AaBb."
+          },
+          {
+            "id": "BIO-F2-058-B",
+            "text": "Rama de la biología que estudia la herencia biológica, las variaciones y la transmisión de caracteres entre generaciones, con especial atención a los genes y al ADN."
+          },
+          {
+            "id": "BIO-F2-058-C",
+            "text": "Conjunto de características observables de un organismo, como apariencia física o comportamiento."
+          },
+          {
+            "id": "BIO-F2-058-D",
+            "text": "La descendencia del cruce de dos líneas puras presenta uniformidad en genotipo y fenotipo en la primera generación filial."
+          }
+        ],
+        "correctOptionId": "BIO-F2-058-D"
+      },
+      {
+        "id": "BIO-F2-059",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «OGM», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-059-A",
+            "text": "Manipulación deliberada del material genético de organismos vivos para introducir nuevos rasgos o modificar características existentes."
+          },
+          {
+            "id": "BIO-F2-059-B",
+            "text": "Uso de microorganismos para descomponer contaminantes y eliminar toxinas, contribuyendo a recuperar ecosistemas afectados."
+          },
+          {
+            "id": "BIO-F2-059-C",
+            "text": "Organismo cuyo material genético ha sido alterado mediante técnicas de ingeniería genética para modificar o incorporar características específicas."
+          },
+          {
+            "id": "BIO-F2-059-D",
+            "text": "Elemento utilizado para transportar un fragmento de ADN durante un proceso de recombinación artificial, como un plásmido en una bacteria."
+          }
+        ],
+        "correctOptionId": "BIO-F2-059-C"
+      },
+      {
+        "id": "BIO-F2-060",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Reproducción asexual y variabilidad genética», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-060-A",
+            "text": "Biotecnología sanitaria relacionada con prevención, diagnóstico, medicamentos, terapias y aplicaciones médicas."
+          },
+          {
+            "id": "BIO-F2-060-B",
+            "text": "Proceso en el que no hay fusión de gametos y los descendientes son muy similares al progenitor, salvo pequeñas variaciones por mutaciones espontáneas."
+          },
+          {
+            "id": "BIO-F2-060-C",
+            "text": "Evaluación de beneficios y posibles daños sociales, ambientales, culturales y humanos antes de aplicar tecnologías de clonación."
+          },
+          {
+            "id": "BIO-F2-060-D",
+            "text": "Área relacionada con prevención y control de riesgos de guerra biológica y usos dañinos de agentes biológicos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-060-B"
+      },
+      {
+        "id": "BIO-F2-061",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Síndrome de Turner» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-061-A",
+            "text": "Alteración genética que produce uno o más dedos adicionales en manos o pies."
+          },
+          {
+            "id": "BIO-F2-061-B",
+            "text": "Trastorno del tejido conectivo vinculado a mutaciones del gen FBN1 y asociado a extremidades largas y riesgos cardiovasculares."
+          },
+          {
+            "id": "BIO-F2-061-C",
+            "text": "Aneuploidía que afecta a mujeres por ausencia total o parcial de un cromosoma X en el par sexual."
+          },
+          {
+            "id": "BIO-F2-061-D",
+            "text": "Procedimiento en el que se obtiene líquido amniótico para cultivar células y buscar posibles defectos genéticos, con mejores resultados en el segundo trimestre."
+          }
+        ],
+        "correctOptionId": "BIO-F2-061-C"
+      },
+      {
+        "id": "BIO-F2-062",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Enfermedades respiratorias crónicas» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-062-A",
+            "text": "Hábitos modificables como consumo de tabaco, inactividad física, dieta poco saludable y uso nocivo de alcohol que aumentan el riesgo de ENT."
+          },
+          {
+            "id": "BIO-F2-062-B",
+            "text": "Afecciones de larga duración que dañan vías respiratorias o pulmones, como asma, EPOC e hipertensión pulmonar."
+          },
+          {
+            "id": "BIO-F2-062-C",
+            "text": "Enfermedad neurodegenerativa que deteriora progresivamente funciones cognitivas, especialmente memoria, orientación y capacidad para resolver tareas cotidianas."
+          },
+          {
+            "id": "BIO-F2-062-D",
+            "text": "Crecimiento descontrolado de células anormales capaces de invadir tejidos y formar tumores benignos o malignos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-062-B"
+      },
+      {
+        "id": "BIO-F2-063",
+        "topic": "Biología",
+        "text": "En relación con «Homocigoto», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-063-A",
+            "text": "Organismo que posee dos copias idénticas de un gen específico, una heredada de cada progenitor."
+          },
+          {
+            "id": "BIO-F2-063-B",
+            "text": "Alteración en la que se pierde un fragmento de ADN de un cromosoma."
+          },
+          {
+            "id": "BIO-F2-063-C",
+            "text": "Representación gráfica que organiza la genealogía y muestra relaciones entre antepasados y descendientes de una persona."
+          },
+          {
+            "id": "BIO-F2-063-D",
+            "text": "Condición genética ligada al cromosoma X que altera la percepción de ciertos colores, como rojo y verde."
+          }
+        ],
+        "correctOptionId": "BIO-F2-063-A"
+      },
+      {
+        "id": "BIO-F2-064",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Cariotipo», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-064-A",
+            "text": "Organización de cromosomas utilizada para identificar anomalías cromosómicas mediante observación y ordenamiento de pares homólogos."
+          },
+          {
+            "id": "BIO-F2-064-B",
+            "text": "Anomalía cromosómica identificada como trisomía 18 y asociada a malformaciones y graves problemas de desarrollo."
+          },
+          {
+            "id": "BIO-F2-064-C",
+            "text": "Alteración del número cromosómico en la que existe un cromosoma extra respecto del par esperado."
+          },
+          {
+            "id": "BIO-F2-064-D",
+            "text": "Anomalía cromosómica identificada como trisomía 13 y asociada a múltiples defectos y grave retraso del desarrollo."
+          }
+        ],
+        "correctOptionId": "BIO-F2-064-A"
+      },
+      {
+        "id": "BIO-F2-065",
+        "topic": "Biología",
+        "text": "En relación con «Alelo», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-065-A",
+            "text": "Una de las variantes de un gen que puede influir en la forma en que se manifiesta una característica."
+          },
+          {
+            "id": "BIO-F2-065-B",
+            "text": "Conjunto de características observables de un organismo, como apariencia física o comportamiento."
+          },
+          {
+            "id": "BIO-F2-065-C",
+            "text": "Estructura compacta del núcleo de células eucariotas formada por ADN e histonas y que contiene genes."
+          },
+          {
+            "id": "BIO-F2-065-D",
+            "text": "Condición genética ligada al cromosoma X que altera la percepción de ciertos colores, como rojo y verde."
+          }
+        ],
+        "correctOptionId": "BIO-F2-065-A"
+      },
+      {
+        "id": "BIO-F2-066",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Síndrome de Down», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-066-A",
+            "text": "Ejemplo en el que una mutación del gen CCR5 puede aumentar la resistencia frente a la entrada del VIH en ciertas células del sistema inmunológico."
+          },
+          {
+            "id": "BIO-F2-066-B",
+            "text": "Trastorno del tejido conectivo vinculado a mutaciones del gen FBN1 y asociado a extremidades largas y riesgos cardiovasculares."
+          },
+          {
+            "id": "BIO-F2-066-C",
+            "text": "Tripletes del ARNm que actúan como señales de parada de la síntesis de proteínas."
+          },
+          {
+            "id": "BIO-F2-066-D",
+            "text": "Anomalía cromosómica identificada en el material como trisomía 21."
+          }
+        ],
+        "correctOptionId": "BIO-F2-066-D"
+      },
+      {
+        "id": "BIO-F2-067",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Genoma», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-067-A",
+            "text": "Cambio en la secuencia de nucleótidos del ADN que puede afectar genes, proteínas y características del organismo."
+          },
+          {
+            "id": "BIO-F2-067-B",
+            "text": "Unidad de información hereditaria situada en el ADN que contiene instrucciones para la síntesis de una molécula, generalmente una proteína."
+          },
+          {
+            "id": "BIO-F2-067-C",
+            "text": "Conjunto completo del ADN de un organismo."
+          },
+          {
+            "id": "BIO-F2-067-D",
+            "text": "Conjunto completo de genes que posee un organismo; corresponde a la información genética heredada de los padres."
+          }
+        ],
+        "correctOptionId": "BIO-F2-067-C"
+      },
+      {
+        "id": "BIO-F2-068",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Polidactilia» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-068-A",
+            "text": "Alteración genética que produce uno o más dedos adicionales en manos o pies."
+          },
+          {
+            "id": "BIO-F2-068-B",
+            "text": "Anomalía cromosómica identificada como trisomía 18 y asociada a malformaciones y graves problemas de desarrollo."
+          },
+          {
+            "id": "BIO-F2-068-C",
+            "text": "Alteración del número cromosómico en la que falta uno de los miembros de un par de cromosomas."
+          },
+          {
+            "id": "BIO-F2-068-D",
+            "text": "Aneuploidía que afecta a mujeres por ausencia total o parcial de un cromosoma X en el par sexual."
+          }
+        ],
+        "correctOptionId": "BIO-F2-068-A"
+      },
+      {
+        "id": "BIO-F2-069",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Diagnóstico de laboratorio», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-069-A",
+            "text": "Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño."
+          },
+          {
+            "id": "BIO-F2-069-B",
+            "text": "Conjunto de conocimientos y prácticas ancestrales de distintas culturas para prevenir, diagnosticar y tratar problemas de salud mediante recursos naturales y saberes comunitarios."
+          },
+          {
+            "id": "BIO-F2-069-C",
+            "text": "Atención que prioriza limpieza, control del sangrado y cobertura adecuada, evitando prácticas que aumenten la contaminación o el daño."
+          },
+          {
+            "id": "BIO-F2-069-D",
+            "text": "Métodos que analizan muestras biológicas mediante técnicas como análisis de sangre, orina, coprología, biopsia o serología."
+          }
+        ],
+        "correctOptionId": "BIO-F2-069-D"
+      },
+      {
+        "id": "BIO-F2-070",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Maniobra de Heimlich», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-070-A",
+            "text": "Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño."
+          },
+          {
+            "id": "BIO-F2-070-B",
+            "text": "Métodos que obtienen imágenes del interior del cuerpo, como radiografía, tomografía, resonancia, ecografía, endoscopia o mamografía."
+          },
+          {
+            "id": "BIO-F2-070-C",
+            "text": "Conjunto de conocimientos y prácticas ancestrales de distintas culturas para prevenir, diagnosticar y tratar problemas de salud mediante recursos naturales y saberes comunitarios."
+          },
+          {
+            "id": "BIO-F2-070-D",
+            "text": "Atención inicial que se presta a una persona lesionada o enferma para proteger la vida, evitar complicaciones y favorecer su traslado o atención médica."
+          }
+        ],
+        "correctOptionId": "BIO-F2-070-A"
+      },
+      {
+        "id": "BIO-F2-072",
+        "topic": "Biología",
+        "text": "En relación con «Medicina natural», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-072-A",
+            "text": "Métodos que analizan muestras biológicas mediante técnicas como análisis de sangre, orina, coprología, biopsia o serología."
+          },
+          {
+            "id": "BIO-F2-072-B",
+            "text": "Atención que prioriza limpieza, control del sangrado y cobertura adecuada, evitando prácticas que aumenten la contaminación o el daño."
+          },
+          {
+            "id": "BIO-F2-072-C",
+            "text": "Enfoque que busca estimular capacidades curativas del organismo mediante recursos naturales y terapias alternativas, sin limitarse a una cultura particular."
+          },
+          {
+            "id": "BIO-F2-072-D",
+            "text": "Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño."
+          }
+        ],
+        "correctOptionId": "BIO-F2-072-C"
+      },
+      {
+        "id": "BIO-F2-073",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Código genético», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-073-A",
+            "text": "Ejemplo en el que una mutación del gen CCR5 puede aumentar la resistencia frente a la entrada del VIH en ciertas células del sistema inmunológico."
+          },
+          {
+            "id": "BIO-F2-073-B",
+            "text": "Alteración del número cromosómico en la que falta uno de los miembros de un par de cromosomas."
+          },
+          {
+            "id": "BIO-F2-073-C",
+            "text": "Conjunto de reglas por el que los codones del ARNm determinan la secuencia de aminoácidos durante la síntesis de proteínas."
+          },
+          {
+            "id": "BIO-F2-073-D",
+            "text": "Tripletes del ARNm que actúan como señales de parada de la síntesis de proteínas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-073-C"
+      },
+      {
+        "id": "BIO-F2-075",
+        "topic": "Biología",
+        "text": "En relación con «Biotecnología verde», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-075-A",
+            "text": "Área de la biotecnología relacionada con agricultura y mejoramiento de plantas, incluida la ingeniería genética vegetal."
+          },
+          {
+            "id": "BIO-F2-075-B",
+            "text": "Uso de seres vivos o partes de ellos para desarrollar productos y procesos útiles en medicina, agricultura, industria e investigación."
+          },
+          {
+            "id": "BIO-F2-075-C",
+            "text": "Área biotecnológica vinculada con alimentos y procesos de producción alimentaria."
+          },
+          {
+            "id": "BIO-F2-075-D",
+            "text": "Biotecnología sanitaria relacionada con prevención, diagnóstico, medicamentos, terapias y aplicaciones médicas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-075-A"
+      },
+      {
+        "id": "BIO-F2-076",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Heterocigoto» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-076-A",
+            "text": "Condición genética ligada al cromosoma X que altera la percepción de ciertos colores, como rojo y verde."
+          },
+          {
+            "id": "BIO-F2-076-B",
+            "text": "Condición genética ligada al cromosoma X caracterizada por problemas de coagulación y hemorragias frecuentes."
+          },
+          {
+            "id": "BIO-F2-076-C",
+            "text": "Unidad de información hereditaria situada en el ADN que contiene instrucciones para la síntesis de una molécula, generalmente una proteína."
+          },
+          {
+            "id": "BIO-F2-076-D",
+            "text": "Organismo que posee dos alelos diferentes para un mismo gen."
+          }
+        ],
+        "correctOptionId": "BIO-F2-076-D"
+      },
+      {
+        "id": "BIO-F2-077",
+        "topic": "Biología",
+        "text": "En relación con «Deriva genética», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-077-A",
+            "text": "Gran etapa geológica muy antigua asociada con los primeros procesos de formación terrestre y las formas de vida más simples."
+          },
+          {
+            "id": "BIO-F2-077-B",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          },
+          {
+            "id": "BIO-F2-077-C",
+            "text": "Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados."
+          },
+          {
+            "id": "BIO-F2-077-D",
+            "text": "Teoría evolutiva que explica cambios mediante uso y desuso de órganos y herencia de caracteres adquiridos."
+          }
+        ],
+        "correctOptionId": "BIO-F2-077-B"
+      },
+      {
+        "id": "BIO-F2-078",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Formación del planeta Tierra» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-078-A",
+            "text": "Teoría evolutiva que explica cambios mediante uso y desuso de órganos y herencia de caracteres adquiridos."
+          },
+          {
+            "id": "BIO-F2-078-B",
+            "text": "Proceso ubicado por el material en una historia geológica de miles de millones de años en la que el planeta atravesó cambios físicos y químicos profundos."
+          },
+          {
+            "id": "BIO-F2-078-C",
+            "text": "Teoría que explica la evolución mediante selección natural, supervivencia diferencial y herencia de variaciones favorables."
+          },
+          {
+            "id": "BIO-F2-078-D",
+            "text": "Era geológica posterior al Mesozoico en la que se diversificaron ampliamente mamíferos y otros grupos actuales."
+          }
+        ],
+        "correctOptionId": "BIO-F2-078-B"
+      },
+      {
+        "id": "BIO-F2-079",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Gen» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-079-A",
+            "text": "Unidad de información hereditaria situada en el ADN que contiene instrucciones para la síntesis de una molécula, generalmente una proteína."
+          },
+          {
+            "id": "BIO-F2-079-B",
+            "text": "Estructura compacta del núcleo de células eucariotas formada por ADN e histonas y que contiene genes."
+          },
+          {
+            "id": "BIO-F2-079-C",
+            "text": "Genotipo híbrido para un solo rasgo o carácter, representado en el material con un ejemplo como Aa."
+          },
+          {
+            "id": "BIO-F2-079-D",
+            "text": "Rama de la biología que estudia la herencia biológica, las variaciones y la transmisión de caracteres entre generaciones, con especial atención a los genes y al ADN."
+          }
+        ],
+        "correctOptionId": "BIO-F2-079-A"
+      },
+      {
+        "id": "BIO-F2-080",
+        "topic": "Biología",
+        "text": "En relación con «Lamarckismo», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-080-A",
+            "text": "Hipótesis que propone que la vida o sus precursores pudieron llegar a la Tierra desde el espacio."
+          },
+          {
+            "id": "BIO-F2-080-B",
+            "text": "Teoría evolutiva que explica cambios mediante uso y desuso de órganos y herencia de caracteres adquiridos."
+          },
+          {
+            "id": "BIO-F2-080-C",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          },
+          {
+            "id": "BIO-F2-080-D",
+            "text": "Proceso por el cual los individuos mejor adaptados tienen mayor probabilidad de sobrevivir, reproducirse y dejar descendencia."
+          }
+        ],
+        "correctOptionId": "BIO-F2-080-B"
+      },
+      {
+        "id": "BIO-F2-083",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Fenotipo», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-083-A",
+            "text": "Conjunto completo de genes que posee un organismo; corresponde a la información genética heredada de los padres."
+          },
+          {
+            "id": "BIO-F2-083-B",
+            "text": "Condición genética ligada al cromosoma X que altera la percepción de ciertos colores, como rojo y verde."
+          },
+          {
+            "id": "BIO-F2-083-C",
+            "text": "Conjunto de características observables de un organismo, como apariencia física o comportamiento."
+          },
+          {
+            "id": "BIO-F2-083-D",
+            "text": "Los caracteres no antagónicos se transmiten por separado y pueden combinarse al azar en la descendencia."
+          }
+        ],
+        "correctOptionId": "BIO-F2-083-C"
+      },
+      {
+        "id": "BIO-F2-084",
+        "topic": "Biología",
+        "text": "¿Qué descripción corresponde específicamente a «Clonación terapéutica» y no a los otros conceptos del mismo tema?",
+        "options": [
+          {
+            "id": "BIO-F2-084-A",
+            "text": "Clonación orientada a producir células o tejidos específicos para tratamiento, no a desarrollar un organismo completo."
+          },
+          {
+            "id": "BIO-F2-084-B",
+            "text": "Proceso en el que no hay fusión de gametos y los descendientes son muy similares al progenitor, salvo pequeñas variaciones por mutaciones espontáneas."
+          },
+          {
+            "id": "BIO-F2-084-C",
+            "text": "Elemento utilizado para transportar un fragmento de ADN durante un proceso de recombinación artificial, como un plásmido en una bacteria."
+          },
+          {
+            "id": "BIO-F2-084-D",
+            "text": "Organismo al que se le han incorporado genes de otro organismo mediante técnicas de transferencia genética que no ocurren de esa manera en forma natural."
+          }
+        ],
+        "correctOptionId": "BIO-F2-084-A"
+      },
+      {
+        "id": "BIO-F2-085",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Teoría de los coacervados de Oparin» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-085-A",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          },
+          {
+            "id": "BIO-F2-085-B",
+            "text": "Síntesis desarrollada entre 1930 y 1950 que integra selección natural con genética y sostiene que la variación heredable depende de mutación y recombinación."
+          },
+          {
+            "id": "BIO-F2-085-C",
+            "text": "Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados."
+          },
+          {
+            "id": "BIO-F2-085-D",
+            "text": "Explicación del origen de la vida basada en la acción de un ser creador o divino."
+          }
+        ],
+        "correctOptionId": "BIO-F2-085-C"
+      },
+      {
+        "id": "BIO-F2-087",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «VIH/SIDA», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-087-A",
+            "text": "El VIH ataca glóbulos blancos y debilita el sistema inmunológico; puede evolucionar a SIDA y se transmite por determinados fluidos corporales y de madre a hijo."
+          },
+          {
+            "id": "BIO-F2-087-B",
+            "text": "Enfermedad viral transmitida principalmente por el mosquito Aedes aegypti y que puede evolucionar a formas graves o hemorrágicas."
+          },
+          {
+            "id": "BIO-F2-087-C",
+            "text": "Conjunto de prácticas que buscan que los alimentos sean seguros para consumo mediante higiene, temperatura adecuada, cocción y prevención de contaminación cruzada."
+          },
+          {
+            "id": "BIO-F2-087-D",
+            "text": "Enfermedad viral transmitida principalmente por Aedes aegypti y Aedes albopictus, sin vacuna ni tratamiento antiviral específico según el material."
+          }
+        ],
+        "correctOptionId": "BIO-F2-087-A"
+      },
+      {
+        "id": "BIO-F2-088",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Cenozoico» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-088-A",
+            "text": "Teoría que explica la evolución mediante selección natural, supervivencia diferencial y herencia de variaciones favorables."
+          },
+          {
+            "id": "BIO-F2-088-B",
+            "text": "Propuesta que vincula el origen de la vida con una evolución química gradual y la formación de estructuras precelulares llamadas coacervados."
+          },
+          {
+            "id": "BIO-F2-088-C",
+            "text": "Era geológica conocida por el predominio de grandes reptiles y por transformaciones que precedieron al desarrollo de grupos modernos."
+          },
+          {
+            "id": "BIO-F2-088-D",
+            "text": "Era geológica posterior al Mesozoico en la que se diversificaron ampliamente mamíferos y otros grupos actuales."
+          }
+        ],
+        "correctOptionId": "BIO-F2-088-D"
+      },
+      {
+        "id": "BIO-F2-089",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Ingeniería genética» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-089-A",
+            "text": "Uso de microorganismos para descomponer contaminantes y eliminar toxinas, contribuyendo a recuperar ecosistemas afectados."
+          },
+          {
+            "id": "BIO-F2-089-B",
+            "text": "Área relacionada con prevención y control de riesgos de guerra biológica y usos dañinos de agentes biológicos."
+          },
+          {
+            "id": "BIO-F2-089-C",
+            "text": "Organismo cuyo material genético ha sido alterado mediante técnicas de ingeniería genética para modificar o incorporar características específicas."
+          },
+          {
+            "id": "BIO-F2-089-D",
+            "text": "Manipulación deliberada del material genético de organismos vivos para introducir nuevos rasgos o modificar características existentes."
+          }
+        ],
+        "correctOptionId": "BIO-F2-089-D"
+      },
+      {
+        "id": "BIO-F2-090",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Medicina tradicional» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-090-A",
+            "text": "Conjunto de conocimientos y prácticas ancestrales de distintas culturas para prevenir, diagnosticar y tratar problemas de salud mediante recursos naturales y saberes comunitarios."
+          },
+          {
+            "id": "BIO-F2-090-B",
+            "text": "Enfoque que busca estimular capacidades curativas del organismo mediante recursos naturales y terapias alternativas, sin limitarse a una cultura particular."
+          },
+          {
+            "id": "BIO-F2-090-C",
+            "text": "Procedimiento de primeros auxilios empleado ante asfixia por obstrucción de la vía aérea por un cuerpo extraño."
+          },
+          {
+            "id": "BIO-F2-090-D",
+            "text": "Atención que prioriza limpieza, control del sangrado y cobertura adecuada, evitando prácticas que aumenten la contaminación o el daño."
+          }
+        ],
+        "correctOptionId": "BIO-F2-090-A"
+      },
+      {
+        "id": "BIO-F2-091",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Crossing-over» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-091-A",
+            "text": "Mezcla de material genético de dos progenitores que, durante la meiosis y el crossing-over, genera nuevas combinaciones y alta variabilidad."
+          },
+          {
+            "id": "BIO-F2-091-B",
+            "text": "Intercambio de segmentos de ADN entre cromosomas homólogos durante la meiosis que genera nuevas combinaciones genéticas."
+          },
+          {
+            "id": "BIO-F2-091-C",
+            "text": "Uso de microorganismos para descomponer contaminantes y eliminar toxinas, contribuyendo a recuperar ecosistemas afectados."
+          },
+          {
+            "id": "BIO-F2-091-D",
+            "text": "Proceso mediante el cual se crea una copia genéticamente idéntica de un organismo, célula o molécula."
+          }
+        ],
+        "correctOptionId": "BIO-F2-091-B"
+      },
+      {
+        "id": "BIO-F2-092",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Consideraciones éticas de la clonación», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-092-A",
+            "text": "Evaluación de beneficios y posibles daños sociales, ambientales, culturales y humanos antes de aplicar tecnologías de clonación."
+          },
+          {
+            "id": "BIO-F2-092-B",
+            "text": "Instancia creada en 1997 para minimizar riesgos y prevenir impactos negativos de los OGM sobre salud humana, ambiente y diversidad biológica."
+          },
+          {
+            "id": "BIO-F2-092-C",
+            "text": "Organismo cuyo material genético ha sido alterado mediante técnicas de ingeniería genética para modificar o incorporar características específicas."
+          },
+          {
+            "id": "BIO-F2-092-D",
+            "text": "Biotecnología sanitaria relacionada con prevención, diagnóstico, medicamentos, terapias y aplicaciones médicas."
+          }
+        ],
+        "correctOptionId": "BIO-F2-092-A"
+      },
+      {
+        "id": "BIO-F2-093",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Selección natural» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-093-A",
+            "text": "Teoría evolutiva que explica cambios mediante uso y desuso de órganos y herencia de caracteres adquiridos."
+          },
+          {
+            "id": "BIO-F2-093-B",
+            "text": "Proceso por el cual los individuos mejor adaptados tienen mayor probabilidad de sobrevivir, reproducirse y dejar descendencia."
+          },
+          {
+            "id": "BIO-F2-093-C",
+            "text": "Era geológica conocida por el predominio de grandes reptiles y por transformaciones que precedieron al desarrollo de grupos modernos."
+          },
+          {
+            "id": "BIO-F2-093-D",
+            "text": "Cambio azaroso de la frecuencia de alelos, especialmente importante en poblaciones pequeñas, que puede hacer que algunos alelos se pierdan o predominen."
+          }
+        ],
+        "correctOptionId": "BIO-F2-093-B"
+      },
+      {
+        "id": "BIO-F2-094",
+        "topic": "Biología",
+        "text": "En relación con «Herencia», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-094-A",
+            "text": "Condición genética ligada al cromosoma X que altera la percepción de ciertos colores, como rojo y verde."
+          },
+          {
+            "id": "BIO-F2-094-B",
+            "text": "Rama de la biología que estudia la herencia biológica, las variaciones y la transmisión de caracteres entre generaciones, con especial atención a los genes y al ADN."
+          },
+          {
+            "id": "BIO-F2-094-C",
+            "text": "Genotipo híbrido para dos rasgos o caracteres, representado en el material con un ejemplo como AaBb."
+          },
+          {
+            "id": "BIO-F2-094-D",
+            "text": "Proceso por el cual rasgos, características e información genética se transmiten de una generación a otra."
+          }
+        ],
+        "correctOptionId": "BIO-F2-094-D"
+      },
+      {
+        "id": "BIO-F2-095",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Dihíbrido» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-095-A",
+            "text": "Proceso por el cual rasgos, características e información genética se transmiten de una generación a otra."
+          },
+          {
+            "id": "BIO-F2-095-B",
+            "text": "Genotipo híbrido para dos rasgos o caracteres, representado en el material con un ejemplo como AaBb."
+          },
+          {
+            "id": "BIO-F2-095-C",
+            "text": "Transmisión de condiciones genéticas vinculadas a los cromosomas sexuales, especialmente al cromosoma X según los ejemplos del material."
+          },
+          {
+            "id": "BIO-F2-095-D",
+            "text": "Los caracteres no antagónicos se transmiten por separado y pueden combinarse al azar en la descendencia."
+          }
+        ],
+        "correctOptionId": "BIO-F2-095-B"
+      },
+      {
+        "id": "BIO-F2-096",
+        "topic": "Biología",
+        "text": "¿Cuál de las siguientes afirmaciones explica mejor «Clonación» según el material de Biología?",
+        "options": [
+          {
+            "id": "BIO-F2-096-A",
+            "text": "Proceso mediante el cual se crea una copia genéticamente idéntica de un organismo, célula o molécula."
+          },
+          {
+            "id": "BIO-F2-096-B",
+            "text": "Instancia creada en 1997 para minimizar riesgos y prevenir impactos negativos de los OGM sobre salud humana, ambiente y diversidad biológica."
+          },
+          {
+            "id": "BIO-F2-096-C",
+            "text": "Clonación orientada a producir células o tejidos específicos para tratamiento, no a desarrollar un organismo completo."
+          },
+          {
+            "id": "BIO-F2-096-D",
+            "text": "Área de la biotecnología relacionada con agricultura y mejoramiento de plantas, incluida la ingeniería genética vegetal."
+          }
+        ],
+        "correctOptionId": "BIO-F2-096-A"
+      },
+      {
+        "id": "BIO-F2-097",
+        "topic": "Biología",
+        "text": "Si un compañero te pidiera justificar qué significa o qué ocurrió en «Inversión cromosómica», ¿qué respuesta estaría respaldada por el material?",
+        "options": [
+          {
+            "id": "BIO-F2-097-A",
+            "text": "Posición específica de un cromosoma donde se encuentra un gen determinado."
+          },
+          {
+            "id": "BIO-F2-097-B",
+            "text": "Alteración en la que un fragmento se rompe, se invierte y vuelve a insertarse en el cromosoma."
+          },
+          {
+            "id": "BIO-F2-097-C",
+            "text": "Alteración en la que una parte de un cromosoma se copia de manera anormal."
+          },
+          {
+            "id": "BIO-F2-097-D",
+            "text": "Alteración en la que se pierde un fragmento de ADN de un cromosoma."
+          }
+        ],
+        "correctOptionId": "BIO-F2-097-B"
+      },
+      {
+        "id": "BIO-F2-098",
+        "topic": "Biología",
+        "text": "En relación con «Biotecnología negra», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-098-A",
+            "text": "Área biotecnológica vinculada con alimentos y procesos de producción alimentaria."
+          },
+          {
+            "id": "BIO-F2-098-B",
+            "text": "Elemento utilizado para transportar un fragmento de ADN durante un proceso de recombinación artificial, como un plásmido en una bacteria."
+          },
+          {
+            "id": "BIO-F2-098-C",
+            "text": "Área relacionada con prevención y control de riesgos de guerra biológica y usos dañinos de agentes biológicos."
+          },
+          {
+            "id": "BIO-F2-098-D",
+            "text": "Manipulación deliberada del material genético de organismos vivos para introducir nuevos rasgos o modificar características existentes."
+          }
+        ],
+        "correctOptionId": "BIO-F2-098-C"
+      },
+      {
+        "id": "BIO-F2-100",
+        "topic": "Biología",
+        "text": "En relación con «Clonación reproductiva», ¿qué interpretación coincide con lo desarrollado en el PDF?",
+        "options": [
+          {
+            "id": "BIO-F2-100-A",
+            "text": "Intercambio de segmentos de ADN entre cromosomas homólogos durante la meiosis que genera nuevas combinaciones genéticas."
+          },
+          {
+            "id": "BIO-F2-100-B",
+            "text": "Área de la biotecnología relacionada con agricultura y mejoramiento de plantas, incluida la ingeniería genética vegetal."
+          },
+          {
+            "id": "BIO-F2-100-C",
+            "text": "Producción de un individuo genéticamente idéntico mediante transferencia nuclear a un óvulo enucleado y posterior implantación del embrión."
+          },
+          {
+            "id": "BIO-F2-100-D",
+            "text": "Organismo al que se le han incorporado genes de otro organismo mediante técnicas de transferencia genética que no ocurren de esa manera en forma natural."
+          }
+        ],
+        "correctOptionId": "BIO-F2-100-C"
+      }
+    ]
+  }
+]
