@@ -1,6 +1,12 @@
 # Actualizar cuestionarios — V1.7
 
-La autorización actual cubre exactamente los 475 ejercicios de publicacion/APROBACIONES_BANCOS.json y publicacion/AUTORIZACION_V1_7.md: 345 literales y 130 adaptaciones con claves propuestas, no oficiales ni certificadas. La reutilización/publicación y la certificación docente son registros diferentes. No inventar nombres, firmas ni aprobaciones académicas.
+## Fuente oficial e integración autorizada de Lengua Sexto
+
+La integración añade 95 + 90 preguntas a las 475 existentes. La fuente oficial es `RODRIGO-dev012/aulaQuiz`, rama `main`, en este clon. Crear nuevas ramas desde `main` limpio y actualizado y conservar como base nueve bancos / 660 preguntas reales. La carpeta principal `D:\AulaQuiz` no se ha sincronizado: copiarla por encima eliminaría la integración del catálogo. Ejecutar primero `node scripts/compare-main-source.mjs D:/AulaQuiz` y reconciliar las diferencias. No regenerar este clon desde una fuente antigua ni copiar materiales de importación al despliegue.
+
+La publicación de Lengua fue autorizada expresamente el 23/11/2026 y está vinculada a IDs y hashes en `publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md` y el manifiesto. Compilar con `npm run build` y verificar con `npm run verify:production`; no existe un modo local que permita saltarse autorizaciones revocadas. Terminar la compilación antes de iniciar Playwright y mantener `dist` estable durante los recorridos. La autorización no certifica las claves preliminares. Consultar el informe de publicación y la relación de similitudes.
+
+Las autorizaciones actuales cubren los 475 ejercicios anteriores y los 185 adicionales de Lengua: 660 en total. Se conservan las evidencias originales de V1.7 y la autorización adicional de Lengua por separado. La reutilización/publicación y la certificación docente son registros diferentes. No inventar nombres, firmas ni aprobaciones académicas.
 
 Trabajar sobre el clon saneado publicacion/despliegue-v1.3 y ejecutar git pull --ff-only antes de modificarlo. Conservar respaldo de la versión publicada y mantener privados los 475 originales, las 79 apartadas y las revisiones posteriores. No copiar toda la carpeta privada al clon.
 

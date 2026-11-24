@@ -1,0 +1,4464 @@
+[
+  {
+    "id": "lengua-sexto-f1",
+    "subject": "Lenguaje",
+    "grade": "Sexto de Secundaria",
+    "title": "Lengua Castellana — Sexto de Secundaria — Formulario 1",
+    "description": "Revisión preliminar. Claves propuestas, no oficiales ni certificadas académicamente.",
+    "color": "purple",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "F1-001",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué son las variaciones regionales de la lengua?",
+        "options": [
+          {
+            "id": "F1-001-A",
+            "text": "Cambios en el uso del lenguaje según diferentes zonas geográficas"
+          },
+          {
+            "id": "F1-001-B",
+            "text": "Cambios exclusivos de la escritura científica"
+          },
+          {
+            "id": "F1-001-C",
+            "text": "Cambios que solo ocurren por la edad del hablante"
+          },
+          {
+            "id": "F1-001-D",
+            "text": "Reglas que eliminan los dialectos"
+          }
+        ],
+        "correctOptionId": "F1-001-A"
+      },
+      {
+        "id": "F1-002",
+        "topic": "Lengua Castellana",
+        "text": "Según el material, ¿qué propósito general tiene la investigación?",
+        "options": [
+          {
+            "id": "F1-002-A",
+            "text": "Comprender, resolver o transformar la realidad y producir nuevos conocimientos"
+          },
+          {
+            "id": "F1-002-B",
+            "text": "Evitar formular preguntas sobre la realidad"
+          },
+          {
+            "id": "F1-002-C",
+            "text": "Sustituir la observación por opiniones personales"
+          },
+          {
+            "id": "F1-002-D",
+            "text": "Memorizar datos sin analizarlos"
+          }
+        ],
+        "correctOptionId": "F1-002-A"
+      },
+      {
+        "id": "F1-003",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de los siguientes es un sustantivo abstracto según los ejemplos del texto?",
+        "options": [
+          {
+            "id": "F1-003-A",
+            "text": "Edificio"
+          },
+          {
+            "id": "F1-003-B",
+            "text": "Libro"
+          },
+          {
+            "id": "F1-003-C",
+            "text": "Gato"
+          },
+          {
+            "id": "F1-003-D",
+            "text": "Libertad"
+          }
+        ],
+        "correctOptionId": "F1-003-D"
+      },
+      {
+        "id": "F1-004",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es un texto científico según el material?",
+        "options": [
+          {
+            "id": "F1-004-A",
+            "text": "Una conversación informal sin fuentes"
+          },
+          {
+            "id": "F1-004-B",
+            "text": "Un escrito académico que comparte conceptos, teorías o resultados de investigaciones"
+          },
+          {
+            "id": "F1-004-C",
+            "text": "Un poema que expresa únicamente emociones"
+          },
+          {
+            "id": "F1-004-D",
+            "text": "Un relato ficticio que busca entretener"
+          }
+        ],
+        "correctOptionId": "F1-004-B"
+      },
+      {
+        "id": "F1-005",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a una oración simple?",
+        "options": [
+          {
+            "id": "F1-005-A",
+            "text": "Presenta un solo verbo conjugado y expresa una sola idea"
+          },
+          {
+            "id": "F1-005-B",
+            "text": "Está formada necesariamente por dos oraciones simples"
+          },
+          {
+            "id": "F1-005-C",
+            "text": "No contiene ningún verbo"
+          },
+          {
+            "id": "F1-005-D",
+            "text": "Presenta siempre tres sujetos"
+          }
+        ],
+        "correctOptionId": "F1-005-A"
+      },
+      {
+        "id": "F1-006",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué se utiliza principalmente la coma según el taller ortográfico?",
+        "options": [
+          {
+            "id": "F1-006-A",
+            "text": "Para hacer pausas breves en aclaraciones y enumeraciones"
+          },
+          {
+            "id": "F1-006-B",
+            "text": "Para señalar títulos académicos"
+          },
+          {
+            "id": "F1-006-C",
+            "text": "Para indicar únicamente el final de un texto"
+          },
+          {
+            "id": "F1-006-D",
+            "text": "Para reemplazar todos los verbos"
+          }
+        ],
+        "correctOptionId": "F1-006-A"
+      },
+      {
+        "id": "F1-007",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la variación contextual?",
+        "options": [
+          {
+            "id": "F1-007-A",
+            "text": "La desaparición total de una lengua"
+          },
+          {
+            "id": "F1-007-B",
+            "text": "La variación del lenguaje según el contexto en que se emplea"
+          },
+          {
+            "id": "F1-007-C",
+            "text": "La clasificación de sustantivos por género"
+          },
+          {
+            "id": "F1-007-D",
+            "text": "El cambio de idioma por migración exclusivamente"
+          }
+        ],
+        "correctOptionId": "F1-007-B"
+      },
+      {
+        "id": "F1-008",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo suelen presentarse los datos en una investigación cuantitativa?",
+        "options": [
+          {
+            "id": "F1-008-A",
+            "text": "En números, gráficos, tablas y estadísticas"
+          },
+          {
+            "id": "F1-008-B",
+            "text": "Solo en conversaciones informales"
+          },
+          {
+            "id": "F1-008-C",
+            "text": "Solo mediante relatos literarios"
+          },
+          {
+            "id": "F1-008-D",
+            "text": "Únicamente mediante dibujos sin datos"
+          }
+        ],
+        "correctOptionId": "F1-008-A"
+      },
+      {
+        "id": "F1-009",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué indican los pronombres posesivos?",
+        "options": [
+          {
+            "id": "F1-009-A",
+            "text": "Una acción mutua"
+          },
+          {
+            "id": "F1-009-B",
+            "text": "Posesión o pertenencia"
+          },
+          {
+            "id": "F1-009-C",
+            "text": "Una pregunta"
+          },
+          {
+            "id": "F1-009-D",
+            "text": "Una ubicación temporal"
+          }
+        ],
+        "correctOptionId": "F1-009-B"
+      },
+      {
+        "id": "F1-010",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué son los extranjerismos o préstamos lingüísticos según el PDF?",
+        "options": [
+          {
+            "id": "F1-010-A",
+            "text": "Palabras que desaparecen de una lengua"
+          },
+          {
+            "id": "F1-010-B",
+            "text": "Nombres propios de instituciones"
+          },
+          {
+            "id": "F1-010-C",
+            "text": "Errores de puntuación en textos científicos"
+          },
+          {
+            "id": "F1-010-D",
+            "text": "Palabras de un idioma extranjero incorporadas a la lengua de uso local"
+          }
+        ],
+        "correctOptionId": "F1-010-D"
+      },
+      {
+        "id": "F1-011",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué ejemplo usa el material para mostrar vocabulario en evolución por influencia tecnológica?",
+        "options": [
+          {
+            "id": "F1-011-A",
+            "text": "Juan y Andrea"
+          },
+          {
+            "id": "F1-011-B",
+            "text": "Mesa y silla"
+          },
+          {
+            "id": "F1-011-C",
+            "text": "Smartphone y selfie"
+          },
+          {
+            "id": "F1-011-D",
+            "text": "Ayer y mañana"
+          }
+        ],
+        "correctOptionId": "F1-011-C"
+      },
+      {
+        "id": "F1-012",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál es una característica del texto científico?",
+        "options": [
+          {
+            "id": "F1-012-A",
+            "text": "Evita toda bibliografía"
+          },
+          {
+            "id": "F1-012-B",
+            "text": "Se apoya principalmente en rumores"
+          },
+          {
+            "id": "F1-012-C",
+            "text": "Rechaza el lenguaje técnico"
+          },
+          {
+            "id": "F1-012-D",
+            "text": "Se basa en hechos y datos que pueden ser comprobados"
+          }
+        ],
+        "correctOptionId": "F1-012-D"
+      },
+      {
+        "id": "F1-013",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estos sustantivos es colectivo según el material?",
+        "options": [
+          {
+            "id": "F1-013-A",
+            "text": "Abeja"
+          },
+          {
+            "id": "F1-013-B",
+            "text": "Árbol"
+          },
+          {
+            "id": "F1-013-C",
+            "text": "Enjambre"
+          },
+          {
+            "id": "F1-013-D",
+            "text": "Alumno"
+          }
+        ],
+        "correctOptionId": "F1-013-C"
+      },
+      {
+        "id": "F1-014",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál es la finalidad principal de la investigación cualitativa?",
+        "options": [
+          {
+            "id": "F1-014-A",
+            "text": "Eliminar la interpretación de los datos"
+          },
+          {
+            "id": "F1-014-B",
+            "text": "Probar obligatoriamente una hipótesis matemática"
+          },
+          {
+            "id": "F1-014-C",
+            "text": "Convertir toda información en porcentajes"
+          },
+          {
+            "id": "F1-014-D",
+            "text": "Comprender cómo las personas experimentan el mundo"
+          }
+        ],
+        "correctOptionId": "F1-014-D"
+      },
+      {
+        "id": "F1-015",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál es la diferencia básica entre oración y frase presentada en el material?",
+        "options": [
+          {
+            "id": "F1-015-A",
+            "text": "La frase siempre tiene más verbos que la oración"
+          },
+          {
+            "id": "F1-015-B",
+            "text": "La oración tiene al menos un verbo conjugado y la frase puede no tenerlo"
+          },
+          {
+            "id": "F1-015-C",
+            "text": "No existe ninguna diferencia entre ambas"
+          },
+          {
+            "id": "F1-015-D",
+            "text": "La oración nunca expresa una idea completa"
+          }
+        ],
+        "correctOptionId": "F1-015-B"
+      },
+      {
+        "id": "F1-016",
+        "topic": "Lengua Castellana",
+        "text": "Según el material, ¿cuándo una cita textual se considera corta?",
+        "options": [
+          {
+            "id": "F1-016-A",
+            "text": "Cuando tiene exactamente 100 palabras"
+          },
+          {
+            "id": "F1-016-B",
+            "text": "Cuando ocupa más de dos páginas"
+          },
+          {
+            "id": "F1-016-C",
+            "text": "Cuando no menciona al autor"
+          },
+          {
+            "id": "F1-016-D",
+            "text": "Cuando tiene menos de 40 palabras"
+          }
+        ],
+        "correctOptionId": "F1-016-D"
+      },
+      {
+        "id": "F1-017",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué factor social hace que los jóvenes tiendan a usar más jergas y palabras nuevas?",
+        "options": [
+          {
+            "id": "F1-017-A",
+            "text": "El tamaño del papel"
+          },
+          {
+            "id": "F1-017-B",
+            "text": "La edad"
+          },
+          {
+            "id": "F1-017-C",
+            "text": "La puntuación"
+          },
+          {
+            "id": "F1-017-D",
+            "text": "La bibliografía"
+          }
+        ],
+        "correctOptionId": "F1-017-B"
+      },
+      {
+        "id": "F1-018",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de los siguientes pertenece a los métodos de investigación cuantitativos del material?",
+        "options": [
+          {
+            "id": "F1-018-A",
+            "text": "Paráfrasis constructiva"
+          },
+          {
+            "id": "F1-018-B",
+            "text": "Artículo contracto"
+          },
+          {
+            "id": "F1-018-C",
+            "text": "Método experimental"
+          },
+          {
+            "id": "F1-018-D",
+            "text": "Registro informal"
+          }
+        ],
+        "correctOptionId": "F1-018-C"
+      },
+      {
+        "id": "F1-019",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras es un adverbio de lugar según la lista del PDF?",
+        "options": [
+          {
+            "id": "F1-019-A",
+            "text": "Quizá"
+          },
+          {
+            "id": "F1-019-B",
+            "text": "Mucho"
+          },
+          {
+            "id": "F1-019-C",
+            "text": "Aquí"
+          },
+          {
+            "id": "F1-019-D",
+            "text": "Mañana"
+          }
+        ],
+        "correctOptionId": "F1-019-C"
+      },
+      {
+        "id": "F1-020",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de las siguientes palabras aparece como ejemplo de galicismo?",
+        "options": [
+          {
+            "id": "F1-020-A",
+            "text": "Ópera"
+          },
+          {
+            "id": "F1-020-B",
+            "text": "Chef"
+          },
+          {
+            "id": "F1-020-C",
+            "text": "Cóndor"
+          },
+          {
+            "id": "F1-020-D",
+            "text": "Alcalde"
+          }
+        ],
+        "correctOptionId": "F1-020-B"
+      },
+      {
+        "id": "F1-021",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la identidad lingüística?",
+        "options": [
+          {
+            "id": "F1-021-A",
+            "text": "El vínculo y pertenencia de una persona o grupo a una lengua que forma parte de su identidad cultural y social"
+          },
+          {
+            "id": "F1-021-B",
+            "text": "La obligación de usar una sola variedad de idioma"
+          },
+          {
+            "id": "F1-021-C",
+            "text": "La eliminación de las lenguas indígenas"
+          },
+          {
+            "id": "F1-021-D",
+            "text": "El uso exclusivo de lenguaje científico"
+          }
+        ],
+        "correctOptionId": "F1-021-A"
+      },
+      {
+        "id": "F1-022",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de texto científico presenta resultados de una investigación inédita tras una rigurosa revisión?",
+        "options": [
+          {
+            "id": "F1-022-A",
+            "text": "Artículo científico"
+          },
+          {
+            "id": "F1-022-B",
+            "text": "Paráfrasis"
+          },
+          {
+            "id": "F1-022-C",
+            "text": "Diario de campo"
+          },
+          {
+            "id": "F1-022-D",
+            "text": "Entrevista"
+          }
+        ],
+        "correctOptionId": "F1-022-A"
+      },
+      {
+        "id": "F1-024",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tamaño de papel señala el material para el formato APA?",
+        "options": [
+          {
+            "id": "F1-024-A",
+            "text": "Tamaño A3"
+          },
+          {
+            "id": "F1-024-B",
+            "text": "Tamaño oficio exclusivamente"
+          },
+          {
+            "id": "F1-024-C",
+            "text": "Tamaño tabloide"
+          },
+          {
+            "id": "F1-024-D",
+            "text": "Tamaño carta"
+          }
+        ],
+        "correctOptionId": "F1-024-D"
+      },
+      {
+        "id": "F1-025",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuáles son artículos determinados?",
+        "options": [
+          {
+            "id": "F1-025-A",
+            "text": "Qué, cuál, cuánto"
+          },
+          {
+            "id": "F1-025-B",
+            "text": "El, la, los, las"
+          },
+          {
+            "id": "F1-025-C",
+            "text": "Un, una, unos, unas"
+          },
+          {
+            "id": "F1-025-D",
+            "text": "Mi, tu, su, nuestro"
+          }
+        ],
+        "correctOptionId": "F1-025-B"
+      },
+      {
+        "id": "F1-026",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué busca principalmente una investigación descriptiva?",
+        "options": [
+          {
+            "id": "F1-026-A",
+            "text": "Describir características y particularidades del fenómeno estudiado"
+          },
+          {
+            "id": "F1-026-B",
+            "text": "Escribir una obra literaria"
+          },
+          {
+            "id": "F1-026-C",
+            "text": "Demostrar siempre una relación causal"
+          },
+          {
+            "id": "F1-026-D",
+            "text": "Modificar variables para producir cambios"
+          }
+        ],
+        "correctOptionId": "F1-026-A"
+      },
+      {
+        "id": "F1-027",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué expresan las conjunciones adversativas?",
+        "options": [
+          {
+            "id": "F1-027-A",
+            "text": "Finalidad"
+          },
+          {
+            "id": "F1-027-B",
+            "text": "Contraste u oposición"
+          },
+          {
+            "id": "F1-027-C",
+            "text": "Adición"
+          },
+          {
+            "id": "F1-027-D",
+            "text": "Elección"
+          }
+        ],
+        "correctOptionId": "F1-027-B"
+      },
+      {
+        "id": "F1-028",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué técnica consiste en examinar sucesos o individuos sin influir en ellos?",
+        "options": [
+          {
+            "id": "F1-028-A",
+            "text": "Observación"
+          },
+          {
+            "id": "F1-028-B",
+            "text": "Paráfrasis"
+          },
+          {
+            "id": "F1-028-C",
+            "text": "Entrevista"
+          },
+          {
+            "id": "F1-028-D",
+            "text": "Test"
+          }
+        ],
+        "correctOptionId": "F1-028-A"
+      },
+      {
+        "id": "F1-029",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué se entiende por pérdida de la identidad lingüística en el material?",
+        "options": [
+          {
+            "id": "F1-029-A",
+            "text": "El uso correcto de signos de puntuación"
+          },
+          {
+            "id": "F1-029-B",
+            "text": "La creación de nuevas palabras tecnológicas"
+          },
+          {
+            "id": "F1-029-C",
+            "text": "El aprendizaje de una segunda lengua sin abandonar la primera"
+          },
+          {
+            "id": "F1-029-D",
+            "text": "La disminución o desaparición de lenguas indígenas y minoritarias por diversos factores"
+          }
+        ],
+        "correctOptionId": "F1-029-D"
+      },
+      {
+        "id": "F1-030",
+        "topic": "Lengua Castellana",
+        "text": "En la voz activa, ¿qué hace el sujeto?",
+        "options": [
+          {
+            "id": "F1-030-A",
+            "text": "Recibe siempre la acción"
+          },
+          {
+            "id": "F1-030-B",
+            "text": "Realiza la acción expresada por el verbo"
+          },
+          {
+            "id": "F1-030-C",
+            "text": "Funciona únicamente como complemento"
+          },
+          {
+            "id": "F1-030-D",
+            "text": "Desaparece de la oración"
+          }
+        ],
+        "correctOptionId": "F1-030-B"
+      },
+      {
+        "id": "F1-031",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras es un pronombre indefinido?",
+        "options": [
+          {
+            "id": "F1-031-A",
+            "text": "Alguien"
+          },
+          {
+            "id": "F1-031-B",
+            "text": "Mío"
+          },
+          {
+            "id": "F1-031-C",
+            "text": "Yo"
+          },
+          {
+            "id": "F1-031-D",
+            "text": "Quién"
+          }
+        ],
+        "correctOptionId": "F1-031-A"
+      },
+      {
+        "id": "F1-032",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué parte de la estructura del texto científico resume brevemente el tema, metodología y resultados?",
+        "options": [
+          {
+            "id": "F1-032-A",
+            "text": "El título únicamente"
+          },
+          {
+            "id": "F1-032-B",
+            "text": "La bibliografía"
+          },
+          {
+            "id": "F1-032-C",
+            "text": "El abstract o resumen"
+          },
+          {
+            "id": "F1-032-D",
+            "text": "Los anexos"
+          }
+        ],
+        "correctOptionId": "F1-032-C"
+      },
+      {
+        "id": "F1-033",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué pregunta ayuda a reconocer un complemento circunstancial de tiempo?",
+        "options": [
+          {
+            "id": "F1-033-A",
+            "text": "¿Cuándo? + verbo"
+          },
+          {
+            "id": "F1-033-B",
+            "text": "¿Qué es lo que? + verbo"
+          },
+          {
+            "id": "F1-033-C",
+            "text": "¿Con qué? + verbo"
+          },
+          {
+            "id": "F1-033-D",
+            "text": "¿Dónde? + verbo"
+          }
+        ],
+        "correctOptionId": "F1-033-A"
+      },
+      {
+        "id": "F1-034",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué regla se aplica a las palabras esdrújulas y sobresdrújulas?",
+        "options": [
+          {
+            "id": "F1-034-A",
+            "text": "Solo se acentúan si son monosílabas"
+          },
+          {
+            "id": "F1-034-B",
+            "text": "Solo se acentúan si terminan en n"
+          },
+          {
+            "id": "F1-034-C",
+            "text": "Se acentúan todas"
+          },
+          {
+            "id": "F1-034-D",
+            "text": "Nunca se acentúan"
+          }
+        ],
+        "correctOptionId": "F1-034-C"
+      },
+      {
+        "id": "F1-035",
+        "topic": "Lengua Castellana",
+        "text": "Según el ejemplo de variación regional, ¿qué término se usa generalmente en Bolivia para automóvil?",
+        "options": [
+          {
+            "id": "F1-035-A",
+            "text": "Calimete"
+          },
+          {
+            "id": "F1-035-B",
+            "text": "Carro"
+          },
+          {
+            "id": "F1-035-C",
+            "text": "Auto"
+          },
+          {
+            "id": "F1-035-D",
+            "text": "Coche"
+          }
+        ],
+        "correctOptionId": "F1-035-C"
+      },
+      {
+        "id": "F1-036",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es un cuestionario según el apartado de técnicas e instrumentos?",
+        "options": [
+          {
+            "id": "F1-036-A",
+            "text": "Un registro exclusivo de dibujos"
+          },
+          {
+            "id": "F1-036-B",
+            "text": "Una observación sin preguntas"
+          },
+          {
+            "id": "F1-036-C",
+            "text": "Un experimento controlado"
+          },
+          {
+            "id": "F1-036-D",
+            "text": "Una serie ordenada de preguntas para recolectar datos"
+          }
+        ],
+        "correctOptionId": "F1-036-D"
+      },
+      {
+        "id": "F1-037",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué hace un adjetivo en grado comparativo?",
+        "options": [
+          {
+            "id": "F1-037-A",
+            "text": "Compara una cualidad entre dos o más elementos"
+          },
+          {
+            "id": "F1-037-B",
+            "text": "Expresa siempre posesión"
+          },
+          {
+            "id": "F1-037-C",
+            "text": "Convierte un verbo en sustantivo"
+          },
+          {
+            "id": "F1-037-D",
+            "text": "Expresa la cualidad sin comparación"
+          }
+        ],
+        "correctOptionId": "F1-037-A"
+      },
+      {
+        "id": "F1-038",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es una tesis según los tipos de textos científicos?",
+        "options": [
+          {
+            "id": "F1-038-A",
+            "text": "Una conversación informal"
+          },
+          {
+            "id": "F1-038-B",
+            "text": "Una tabla de puntuación"
+          },
+          {
+            "id": "F1-038-C",
+            "text": "Un documento académico de investigación que puede comprobar hipótesis previamente establecidas"
+          },
+          {
+            "id": "F1-038-D",
+            "text": "Una lista de palabras extranjeras"
+          }
+        ],
+        "correctOptionId": "F1-038-C"
+      },
+      {
+        "id": "F1-039",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de oración coordinada se une con nexos como y, e, ni?",
+        "options": [
+          {
+            "id": "F1-039-A",
+            "text": "Disyuntiva"
+          },
+          {
+            "id": "F1-039-B",
+            "text": "Adversativa"
+          },
+          {
+            "id": "F1-039-C",
+            "text": "Copulativa"
+          },
+          {
+            "id": "F1-039-D",
+            "text": "Explicativa"
+          }
+        ],
+        "correctOptionId": "F1-039-C"
+      },
+      {
+        "id": "F1-040",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras aparece como ejemplo de arabismo?",
+        "options": [
+          {
+            "id": "F1-040-A",
+            "text": "Cóndor"
+          },
+          {
+            "id": "F1-040-B",
+            "text": "Alcalde"
+          },
+          {
+            "id": "F1-040-C",
+            "text": "Sándwich"
+          },
+          {
+            "id": "F1-040-D",
+            "text": "Chef"
+          }
+        ],
+        "correctOptionId": "F1-040-B"
+      },
+      {
+        "id": "F1-041",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es el registro dentro de la variación lingüística?",
+        "options": [
+          {
+            "id": "F1-041-A",
+            "text": "La relación entre sujeto y verbo"
+          },
+          {
+            "id": "F1-041-B",
+            "text": "La variación del lenguaje según el contexto formal o informal"
+          },
+          {
+            "id": "F1-041-C",
+            "text": "La pérdida de una lengua por discriminación"
+          },
+          {
+            "id": "F1-041-D",
+            "text": "La lista de fuentes de un trabajo"
+          }
+        ],
+        "correctOptionId": "F1-041-B"
+      },
+      {
+        "id": "F1-042",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de datos puede recopilar una investigación cualitativa según el material?",
+        "options": [
+          {
+            "id": "F1-042-A",
+            "text": "Solo porcentajes y ecuaciones"
+          },
+          {
+            "id": "F1-042-B",
+            "text": "Solo resultados de experimentos físicos"
+          },
+          {
+            "id": "F1-042-C",
+            "text": "Entrevistas, estudios de caso y grupos focales"
+          },
+          {
+            "id": "F1-042-D",
+            "text": "Únicamente tablas estadísticas"
+          }
+        ],
+        "correctOptionId": "F1-042-C"
+      },
+      {
+        "id": "F1-043",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál es el artículo neutro presentado en el material?",
+        "options": [
+          {
+            "id": "F1-043-A",
+            "text": "Una"
+          },
+          {
+            "id": "F1-043-B",
+            "text": "Lo"
+          },
+          {
+            "id": "F1-043-C",
+            "text": "El"
+          },
+          {
+            "id": "F1-043-D",
+            "text": "Los"
+          }
+        ],
+        "correctOptionId": "F1-043-B"
+      },
+      {
+        "id": "F1-044",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuáles son los cuatro elementos importantes de una referencia APA señalados en el PDF?",
+        "options": [
+          {
+            "id": "F1-044-A",
+            "text": "Título, color, tamaño y precio"
+          },
+          {
+            "id": "F1-044-B",
+            "text": "Autor, opinión, dibujo y resumen"
+          },
+          {
+            "id": "F1-044-C",
+            "text": "Fecha, pregunta, hipótesis y experimento"
+          },
+          {
+            "id": "F1-044-D",
+            "text": "Autor, fecha de publicación, título del trabajo y fuente para su recuperación"
+          }
+        ],
+        "correctOptionId": "F1-044-D"
+      },
+      {
+        "id": "F1-046",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué técnica estructura una conversación con los sujetos de interés?",
+        "options": [
+          {
+            "id": "F1-046-A",
+            "text": "Revisión documental"
+          },
+          {
+            "id": "F1-046-B",
+            "text": "Test"
+          },
+          {
+            "id": "F1-046-C",
+            "text": "Observación"
+          },
+          {
+            "id": "F1-046-D",
+            "text": "Entrevista"
+          }
+        ],
+        "correctOptionId": "F1-046-D"
+      },
+      {
+        "id": "F1-047",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la discriminación lingüística según el material?",
+        "options": [
+          {
+            "id": "F1-047-A",
+            "text": "El trato desfavorable o injusto hacia personas o grupos por el idioma que hablan"
+          },
+          {
+            "id": "F1-047-B",
+            "text": "La creación de un neologismo"
+          },
+          {
+            "id": "F1-047-C",
+            "text": "El aprendizaje de dos idiomas"
+          },
+          {
+            "id": "F1-047-D",
+            "text": "El uso de un lenguaje formal"
+          }
+        ],
+        "correctOptionId": "F1-047-A"
+      },
+      {
+        "id": "F1-048",
+        "topic": "Lengua Castellana",
+        "text": "En una cita parafraseada, ¿qué debe incluirse dentro del texto según el material?",
+        "options": [
+          {
+            "id": "F1-048-A",
+            "text": "El apellido del autor y el año de publicación"
+          },
+          {
+            "id": "F1-048-B",
+            "text": "Únicamente el título del libro"
+          },
+          {
+            "id": "F1-048-C",
+            "text": "Solo el número de página"
+          },
+          {
+            "id": "F1-048-D",
+            "text": "El color y tamaño de la fuente"
+          }
+        ],
+        "correctOptionId": "F1-048-A"
+      },
+      {
+        "id": "F1-049",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras es una preposición incluida en la lista del material?",
+        "options": [
+          {
+            "id": "F1-049-A",
+            "text": "Aunque"
+          },
+          {
+            "id": "F1-049-B",
+            "text": "Quizá"
+          },
+          {
+            "id": "F1-049-C",
+            "text": "Muy"
+          },
+          {
+            "id": "F1-049-D",
+            "text": "Hacia"
+          }
+        ],
+        "correctOptionId": "F1-049-D"
+      },
+      {
+        "id": "F1-050",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo suele formarse la voz pasiva según el texto?",
+        "options": [
+          {
+            "id": "F1-050-A",
+            "text": "Con una preposición sin verbo"
+          },
+          {
+            "id": "F1-050-B",
+            "text": "Con una forma del verbo ser más el participio pasado"
+          },
+          {
+            "id": "F1-050-C",
+            "text": "Con un adverbio y una interjección"
+          },
+          {
+            "id": "F1-050-D",
+            "text": "Con dos sustantivos propios"
+          }
+        ],
+        "correctOptionId": "F1-050-B"
+      },
+      {
+        "id": "F1-051",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué factor de variación social puede producir diferencias de formalidad y vocabulario entre entornos urbanos y rurales?",
+        "options": [
+          {
+            "id": "F1-051-A",
+            "text": "El entorno social"
+          },
+          {
+            "id": "F1-051-B",
+            "text": "El interlineado"
+          },
+          {
+            "id": "F1-051-C",
+            "text": "La bibliografía"
+          },
+          {
+            "id": "F1-051-D",
+            "text": "La acentuación"
+          }
+        ],
+        "correctOptionId": "F1-051-A"
+      },
+      {
+        "id": "F1-052",
+        "topic": "Lengua Castellana",
+        "text": "En una investigación experimental, ¿qué variable controla o manipula el investigador?",
+        "options": [
+          {
+            "id": "F1-052-A",
+            "text": "La variable dependiente"
+          },
+          {
+            "id": "F1-052-B",
+            "text": "La referencia bibliográfica"
+          },
+          {
+            "id": "F1-052-C",
+            "text": "La variable independiente"
+          },
+          {
+            "id": "F1-052-D",
+            "text": "El sujeto gramatical"
+          }
+        ],
+        "correctOptionId": "F1-052-C"
+      },
+      {
+        "id": "F1-053",
+        "topic": "Lengua Castellana",
+        "text": "En la oración «Yo me peino», ¿qué tipo de pronombre es «me» según el cuadro del material?",
+        "options": [
+          {
+            "id": "F1-053-A",
+            "text": "Interrogativo"
+          },
+          {
+            "id": "F1-053-B",
+            "text": "Posesivo"
+          },
+          {
+            "id": "F1-053-C",
+            "text": "Reflexivo"
+          },
+          {
+            "id": "F1-053-D",
+            "text": "Demostrativo"
+          }
+        ],
+        "correctOptionId": "F1-053-C"
+      },
+      {
+        "id": "F1-054",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de texto científico resume un estudio o experimento técnico?",
+        "options": [
+          {
+            "id": "F1-054-A",
+            "text": "Interjección"
+          },
+          {
+            "id": "F1-054-B",
+            "text": "Diálogo"
+          },
+          {
+            "id": "F1-054-C",
+            "text": "Poema"
+          },
+          {
+            "id": "F1-054-D",
+            "text": "Informe técnico"
+          }
+        ],
+        "correctOptionId": "F1-054-D"
+      },
+      {
+        "id": "F1-055",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué beneficio de la sintaxis se relaciona con seleccionar el orden de presentar la información?",
+        "options": [
+          {
+            "id": "F1-055-A",
+            "text": "La pérdida lingüística"
+          },
+          {
+            "id": "F1-055-B",
+            "text": "La investigación experimental"
+          },
+          {
+            "id": "F1-055-C",
+            "text": "La cuestión de orden"
+          },
+          {
+            "id": "F1-055-D",
+            "text": "La voz pasiva"
+          }
+        ],
+        "correctOptionId": "F1-055-C"
+      },
+      {
+        "id": "F1-056",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué sirven los puntos suspensivos según el taller ortográfico?",
+        "options": [
+          {
+            "id": "F1-056-A",
+            "text": "Para indicar información incompleta o suspenso"
+          },
+          {
+            "id": "F1-056-B",
+            "text": "Para señalar únicamente nombres propios"
+          },
+          {
+            "id": "F1-056-C",
+            "text": "Para unir sujeto y verbo"
+          },
+          {
+            "id": "F1-056-D",
+            "text": "Para marcar grados académicos"
+          }
+        ],
+        "correctOptionId": "F1-056-A"
+      },
+      {
+        "id": "F1-057",
+        "topic": "Lengua Castellana",
+        "text": "Según el material, ¿qué tendencia lingüística se observa con la edad?",
+        "options": [
+          {
+            "id": "F1-057-A",
+            "text": "Las personas mayores no usan lenguaje"
+          },
+          {
+            "id": "F1-057-B",
+            "text": "La edad no influye en el lenguaje"
+          },
+          {
+            "id": "F1-057-C",
+            "text": "Los jóvenes usan más jergas y palabras nuevas"
+          },
+          {
+            "id": "F1-057-D",
+            "text": "Los jóvenes dejan de usar verbos"
+          }
+        ],
+        "correctOptionId": "F1-057-C"
+      },
+      {
+        "id": "F1-058",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué ocurre en la etapa de muestreo de una investigación cuantitativa?",
+        "options": [
+          {
+            "id": "F1-058-A",
+            "text": "Se reemplazan datos por opiniones"
+          },
+          {
+            "id": "F1-058-B",
+            "text": "Se redacta una novela"
+          },
+          {
+            "id": "F1-058-C",
+            "text": "Se determina la población objetivo y se selecciona una muestra representativa"
+          },
+          {
+            "id": "F1-058-D",
+            "text": "Se eliminan las variables"
+          }
+        ],
+        "correctOptionId": "F1-058-C"
+      },
+      {
+        "id": "F1-059",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué indican los adjetivos demostrativos?",
+        "options": [
+          {
+            "id": "F1-059-A",
+            "text": "Una cantidad exacta"
+          },
+          {
+            "id": "F1-059-B",
+            "text": "La posición del sustantivo en relación con el hablante"
+          },
+          {
+            "id": "F1-059-C",
+            "text": "Posesión"
+          },
+          {
+            "id": "F1-059-D",
+            "text": "Una multiplicación"
+          }
+        ],
+        "correctOptionId": "F1-059-B"
+      },
+      {
+        "id": "F1-060",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras aparece como ejemplo de italianismo?",
+        "options": [
+          {
+            "id": "F1-060-A",
+            "text": "Boutique"
+          },
+          {
+            "id": "F1-060-B",
+            "text": "Wi-fi"
+          },
+          {
+            "id": "F1-060-C",
+            "text": "Góndola"
+          },
+          {
+            "id": "F1-060-D",
+            "text": "Azúcar"
+          }
+        ],
+        "correctOptionId": "F1-060-C"
+      },
+      {
+        "id": "F1-061",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué combinaciones forman los artículos contractos señalados en el material?",
+        "options": [
+          {
+            "id": "F1-061-A",
+            "text": "Con + el = cel y por + el = pel"
+          },
+          {
+            "id": "F1-061-B",
+            "text": "En + el = nel y sin + el = sel"
+          },
+          {
+            "id": "F1-061-C",
+            "text": "De + el = del y a + el = al"
+          },
+          {
+            "id": "F1-061-D",
+            "text": "Para + el = paral y tras + el = tral"
+          }
+        ],
+        "correctOptionId": "F1-061-C"
+      },
+      {
+        "id": "F1-062",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál es una finalidad de la investigación experimental?",
+        "options": [
+          {
+            "id": "F1-062-A",
+            "text": "Describir únicamente sin controlar variables"
+          },
+          {
+            "id": "F1-062-B",
+            "text": "Evitar toda medición"
+          },
+          {
+            "id": "F1-062-C",
+            "text": "Conocer cambios en una variable dependiente al modificar una o varias independientes"
+          },
+          {
+            "id": "F1-062-D",
+            "text": "Sustituir datos por relatos ficticios"
+          }
+        ],
+        "correctOptionId": "F1-062-C"
+      },
+      {
+        "id": "F1-064",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué interlineado general señala el material para el formato APA?",
+        "options": [
+          {
+            "id": "F1-064-A",
+            "text": "Doble, 2.0"
+          },
+          {
+            "id": "F1-064-B",
+            "text": "Triple, 3.0"
+          },
+          {
+            "id": "F1-064-C",
+            "text": "Cuádruple, 4.0"
+          },
+          {
+            "id": "F1-064-D",
+            "text": "Sencillo, 1.0"
+          }
+        ],
+        "correctOptionId": "F1-064-A"
+      },
+      {
+        "id": "F1-065",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas expresiones es un adverbio de duda según el PDF?",
+        "options": [
+          {
+            "id": "F1-065-A",
+            "text": "Aquí"
+          },
+          {
+            "id": "F1-065-B",
+            "text": "Mucho"
+          },
+          {
+            "id": "F1-065-C",
+            "text": "Tal vez"
+          },
+          {
+            "id": "F1-065-D",
+            "text": "Siempre"
+          }
+        ],
+        "correctOptionId": "F1-065-C"
+      },
+      {
+        "id": "F1-066",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es un diario de campo?",
+        "options": [
+          {
+            "id": "F1-066-A",
+            "text": "Una prueba estandarizada de personalidad"
+          },
+          {
+            "id": "F1-066-B",
+            "text": "Un cuaderno o libreta que recoge apuntes, dibujos y observaciones del investigador"
+          },
+          {
+            "id": "F1-066-C",
+            "text": "Una lista de referencias APA"
+          },
+          {
+            "id": "F1-066-D",
+            "text": "Una oración subordinada"
+          }
+        ],
+        "correctOptionId": "F1-066-B"
+      },
+      {
+        "id": "F1-067",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la intolerancia lingüística?",
+        "options": [
+          {
+            "id": "F1-067-A",
+            "text": "La formación de un plural"
+          },
+          {
+            "id": "F1-067-B",
+            "text": "La falta de aceptación, respeto o reconocimiento hacia una lengua o sus hablantes"
+          },
+          {
+            "id": "F1-067-C",
+            "text": "El uso de dos puntos"
+          },
+          {
+            "id": "F1-067-D",
+            "text": "La traducción de un texto científico"
+          }
+        ],
+        "correctOptionId": "F1-067-B"
+      },
+      {
+        "id": "F1-068",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a la paráfrasis mecánica?",
+        "options": [
+          {
+            "id": "F1-068-A",
+            "text": "Reestructura completamente el texto"
+          },
+          {
+            "id": "F1-068-B",
+            "text": "Sustituye parte del texto por sinónimos o frases equivalentes manteniendo una estructura similar"
+          },
+          {
+            "id": "F1-068-C",
+            "text": "Copia exactamente el original"
+          },
+          {
+            "id": "F1-068-D",
+            "text": "Elimina el significado original"
+          }
+        ],
+        "correctOptionId": "F1-068-B"
+      },
+      {
+        "id": "F1-069",
+        "topic": "Lengua Castellana",
+        "text": "Según el material, ¿cómo debe concordar generalmente un sujeto colectivo como «la familia»?",
+        "options": [
+          {
+            "id": "F1-069-A",
+            "text": "Con un verbo siempre en plural"
+          },
+          {
+            "id": "F1-069-B",
+            "text": "Sin verbo"
+          },
+          {
+            "id": "F1-069-C",
+            "text": "Con una interjección"
+          },
+          {
+            "id": "F1-069-D",
+            "text": "Con un verbo en singular"
+          }
+        ],
+        "correctOptionId": "F1-069-D"
+      },
+      {
+        "id": "F1-070",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es un neologismo?",
+        "options": [
+          {
+            "id": "F1-070-A",
+            "text": "Una palabra nueva que surge por nuevas necesidades lingüísticas"
+          },
+          {
+            "id": "F1-070-B",
+            "text": "Un error de concordancia"
+          },
+          {
+            "id": "F1-070-C",
+            "text": "Un signo de puntuación"
+          },
+          {
+            "id": "F1-070-D",
+            "text": "Una palabra exclusivamente antigua"
+          }
+        ],
+        "correctOptionId": "F1-070-A"
+      },
+      {
+        "id": "F1-071",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a un verbo irregular?",
+        "options": [
+          {
+            "id": "F1-071-A",
+            "text": "Mantiene siempre su raíz sin cambios"
+          },
+          {
+            "id": "F1-071-B",
+            "text": "Cambia su raíz o terminaciones en las conjugaciones"
+          },
+          {
+            "id": "F1-071-C",
+            "text": "Solo se usa en plural"
+          },
+          {
+            "id": "F1-071-D",
+            "text": "No expresa acción ni estado"
+          }
+        ],
+        "correctOptionId": "F1-071-B"
+      },
+      {
+        "id": "F1-072",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué son los anexos o figuras en un texto científico?",
+        "options": [
+          {
+            "id": "F1-072-A",
+            "text": "El título y los autores"
+          },
+          {
+            "id": "F1-072-B",
+            "text": "Solo las opiniones del investigador"
+          },
+          {
+            "id": "F1-072-C",
+            "text": "La lista de verbos del texto"
+          },
+          {
+            "id": "F1-072-D",
+            "text": "Materiales de apoyo como gráficos, tablas, fotografías o ilustraciones"
+          }
+        ],
+        "correctOptionId": "F1-072-D"
+      },
+      {
+        "id": "F1-074",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué se usan los test según el material?",
+        "options": [
+          {
+            "id": "F1-074-A",
+            "text": "Para cambiar la voz activa en pasiva"
+          },
+          {
+            "id": "F1-074-B",
+            "text": "Para escribir bibliografías"
+          },
+          {
+            "id": "F1-074-C",
+            "text": "Para clasificar preposiciones"
+          },
+          {
+            "id": "F1-074-D",
+            "text": "Para medir de forma rápida características como personalidad, inteligencia o atención"
+          }
+        ],
+        "correctOptionId": "F1-074-D"
+      },
+      {
+        "id": "F1-075",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué ejemplo utiliza el material para mostrar que el lenguaje cambia según la situación social?",
+        "options": [
+          {
+            "id": "F1-075-A",
+            "text": "Un libro tiene páginas numeradas"
+          },
+          {
+            "id": "F1-075-B",
+            "text": "Una entrevista de trabajo no usa el mismo lenguaje que una conversación entre amigos"
+          },
+          {
+            "id": "F1-075-C",
+            "text": "Una cita larga lleva sangría"
+          },
+          {
+            "id": "F1-075-D",
+            "text": "Un experimento usa variables"
+          }
+        ],
+        "correctOptionId": "F1-075-B"
+      },
+      {
+        "id": "F1-076",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué son los métodos en una investigación?",
+        "options": [
+          {
+            "id": "F1-076-A",
+            "text": "Opiniones espontáneas sin orden"
+          },
+          {
+            "id": "F1-076-B",
+            "text": "Normas exclusivas para títulos académicos"
+          },
+          {
+            "id": "F1-076-C",
+            "text": "Pasos y procedimientos sistemáticos, racionales y objetivos que guían el estudio"
+          },
+          {
+            "id": "F1-076-D",
+            "text": "Figuras literarias de una novela"
+          }
+        ],
+        "correctOptionId": "F1-076-C"
+      },
+      {
+        "id": "F1-077",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es un modificador directo del sujeto?",
+        "options": [
+          {
+            "id": "F1-077-A",
+            "text": "Una palabra que acompaña directamente al núcleo y puede ser artículo o adjetivo"
+          },
+          {
+            "id": "F1-077-B",
+            "text": "Una frase que siempre lleva preposición"
+          },
+          {
+            "id": "F1-077-C",
+            "text": "Un signo de puntuación"
+          },
+          {
+            "id": "F1-077-D",
+            "text": "Un verbo que forma el predicado"
+          }
+        ],
+        "correctOptionId": "F1-077-A"
+      },
+      {
+        "id": "F1-078",
+        "topic": "Lengua Castellana",
+        "text": "¿Por qué se emplean citas y referencias según el material?",
+        "options": [
+          {
+            "id": "F1-078-A",
+            "text": "Para ocultar la fuente original"
+          },
+          {
+            "id": "F1-078-B",
+            "text": "Para dar crédito a las ideas de otros autores"
+          },
+          {
+            "id": "F1-078-C",
+            "text": "Para reemplazar el contenido científico por opiniones"
+          },
+          {
+            "id": "F1-078-D",
+            "text": "Para eliminar la bibliografía"
+          }
+        ],
+        "correctOptionId": "F1-078-B"
+      },
+      {
+        "id": "F1-079",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas es una interjección propia?",
+        "options": [
+          {
+            "id": "F1-079-A",
+            "text": "¡Ay!"
+          },
+          {
+            "id": "F1-079-B",
+            "text": "¡Dios mío!"
+          },
+          {
+            "id": "F1-079-C",
+            "text": "¡Por Dios!"
+          },
+          {
+            "id": "F1-079-D",
+            "text": "¡Menos mal!"
+          }
+        ],
+        "correctOptionId": "F1-079-A"
+      },
+      {
+        "id": "F1-080",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras aparece como ejemplo de anglicismo?",
+        "options": [
+          {
+            "id": "F1-080-A",
+            "text": "Soneto"
+          },
+          {
+            "id": "F1-080-B",
+            "text": "Sándwich"
+          },
+          {
+            "id": "F1-080-C",
+            "text": "Carnet"
+          },
+          {
+            "id": "F1-080-D",
+            "text": "Albahaca"
+          }
+        ],
+        "correctOptionId": "F1-080-B"
+      },
+      {
+        "id": "F1-081",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo se denomina el cambio del significado de una palabra a lo largo del tiempo?",
+        "options": [
+          {
+            "id": "F1-081-A",
+            "text": "Aposición"
+          },
+          {
+            "id": "F1-081-B",
+            "text": "Muestreo"
+          },
+          {
+            "id": "F1-081-C",
+            "text": "Concordancia nominal"
+          },
+          {
+            "id": "F1-081-D",
+            "text": "Cambio semántico"
+          }
+        ],
+        "correctOptionId": "F1-081-D"
+      },
+      {
+        "id": "F1-082",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué hace el método inductivo según el material?",
+        "options": [
+          {
+            "id": "F1-082-A",
+            "text": "Solo recopila bibliografía"
+          },
+          {
+            "id": "F1-082-B",
+            "text": "Se limita a corregir puntuación"
+          },
+          {
+            "id": "F1-082-C",
+            "text": "Parte de un experimento u observación particular y generaliza"
+          },
+          {
+            "id": "F1-082-D",
+            "text": "Parte siempre de una ley general para un caso individual"
+          }
+        ],
+        "correctOptionId": "F1-082-C"
+      },
+      {
+        "id": "F1-084",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a una monografía?",
+        "options": [
+          {
+            "id": "F1-084-A",
+            "text": "Es un trabajo extenso, completo, detallado y exhaustivo sobre un tema específico"
+          },
+          {
+            "id": "F1-084-B",
+            "text": "Es un conjunto de signos de puntuación"
+          },
+          {
+            "id": "F1-084-C",
+            "text": "Es una conversación oral sin fuentes"
+          },
+          {
+            "id": "F1-084-D",
+            "text": "Es una lista breve de sinónimos"
+          }
+        ],
+        "correctOptionId": "F1-084-A"
+      },
+      {
+        "id": "F1-085",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuáles son artículos indeterminados?",
+        "options": [
+          {
+            "id": "F1-085-A",
+            "text": "Este, esa, aquellos"
+          },
+          {
+            "id": "F1-085-B",
+            "text": "El, la, los, las"
+          },
+          {
+            "id": "F1-085-C",
+            "text": "Mi, tu, su, nuestro"
+          },
+          {
+            "id": "F1-085-D",
+            "text": "Un, una, unos, unas"
+          }
+        ],
+        "correctOptionId": "F1-085-D"
+      },
+      {
+        "id": "F1-086",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué se utiliza el punto y coma según el taller?",
+        "options": [
+          {
+            "id": "F1-086-A",
+            "text": "Para escribir nombres de instituciones"
+          },
+          {
+            "id": "F1-086-B",
+            "text": "Para formar artículos contractos"
+          },
+          {
+            "id": "F1-086-C",
+            "text": "Para indicar exclusivamente preguntas"
+          },
+          {
+            "id": "F1-086-D",
+            "text": "Para unir ciertas oraciones o ideas y marcar una pausa"
+          }
+        ],
+        "correctOptionId": "F1-086-D"
+      },
+      {
+        "id": "F1-087",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo se relaciona la comunicación con la identidad lingüística?",
+        "options": [
+          {
+            "id": "F1-087-A",
+            "text": "La comunicación elimina toda diversidad lingüística"
+          },
+          {
+            "id": "F1-087-B",
+            "text": "La identidad no tiene relación con el lenguaje"
+          },
+          {
+            "id": "F1-087-C",
+            "text": "Solo la escritura científica forma identidad"
+          },
+          {
+            "id": "F1-087-D",
+            "text": "El uso del lenguaje puede reflejar y fortalecer la identidad cultural y lingüística"
+          }
+        ],
+        "correctOptionId": "F1-087-D"
+      },
+      {
+        "id": "F1-088",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a la investigación participativa?",
+        "options": [
+          {
+            "id": "F1-088-A",
+            "text": "Se prohíbe la participación de la comunidad"
+          },
+          {
+            "id": "F1-088-B",
+            "text": "Solo interviene el investigador sin contacto con otros"
+          },
+          {
+            "id": "F1-088-C",
+            "text": "Los participantes actúan como agentes activos en la construcción del conocimiento"
+          },
+          {
+            "id": "F1-088-D",
+            "text": "Los participantes son solo receptores pasivos"
+          }
+        ],
+        "correctOptionId": "F1-088-C"
+      },
+      {
+        "id": "F1-089",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué característica permite reconocer un modificador indirecto del sujeto?",
+        "options": [
+          {
+            "id": "F1-089-A",
+            "text": "Es necesariamente un verbo"
+          },
+          {
+            "id": "F1-089-B",
+            "text": "Siempre está entre signos de interrogación"
+          },
+          {
+            "id": "F1-089-C",
+            "text": "Nunca acompaña al núcleo"
+          },
+          {
+            "id": "F1-089-D",
+            "text": "Lleva una preposición que lo une al núcleo"
+          }
+        ],
+        "correctOptionId": "F1-089-D"
+      },
+      {
+        "id": "F1-090",
+        "topic": "Lengua Castellana",
+        "text": "Según el material, ¿cómo se presenta una cita textual larga?",
+        "options": [
+          {
+            "id": "F1-090-A",
+            "text": "Solo con el título de la obra"
+          },
+          {
+            "id": "F1-090-B",
+            "text": "Sin autor ni año"
+          },
+          {
+            "id": "F1-090-C",
+            "text": "En párrafo separado, sin comillas y con sangría"
+          },
+          {
+            "id": "F1-090-D",
+            "text": "Entre comillas dentro del mismo renglón siempre"
+          }
+        ],
+        "correctOptionId": "F1-090-C"
+      },
+      {
+        "id": "F1-091",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras es un adverbio de modo según el PDF?",
+        "options": [
+          {
+            "id": "F1-091-A",
+            "text": "Cerca"
+          },
+          {
+            "id": "F1-091-B",
+            "text": "Rápidamente"
+          },
+          {
+            "id": "F1-091-C",
+            "text": "Ayer"
+          },
+          {
+            "id": "F1-091-D",
+            "text": "Tal vez"
+          }
+        ],
+        "correctOptionId": "F1-091-B"
+      },
+      {
+        "id": "F1-092",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es un estudio de caso?",
+        "options": [
+          {
+            "id": "F1-092-A",
+            "text": "Una regla de acentuación"
+          },
+          {
+            "id": "F1-092-B",
+            "text": "Un tipo de artículo determinado"
+          },
+          {
+            "id": "F1-092-C",
+            "text": "Una lista de palabras extranjeras"
+          },
+          {
+            "id": "F1-092-D",
+            "text": "El estudio de un individuo o comunidad particular desde distintas perspectivas"
+          }
+        ],
+        "correctOptionId": "F1-092-D"
+      },
+      {
+        "id": "F1-093",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo influye la educación en la variación social según el material?",
+        "options": [
+          {
+            "id": "F1-093-A",
+            "text": "Impide que el lenguaje cambie"
+          },
+          {
+            "id": "F1-093-B",
+            "text": "Puede relacionarse con vocabularios más amplios y estructuras gramaticales más complejas"
+          },
+          {
+            "id": "F1-093-C",
+            "text": "Elimina la identidad lingüística"
+          },
+          {
+            "id": "F1-093-D",
+            "text": "Solo modifica la puntuación"
+          }
+        ],
+        "correctOptionId": "F1-093-B"
+      },
+      {
+        "id": "F1-094",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es una variable en investigación?",
+        "options": [
+          {
+            "id": "F1-094-A",
+            "text": "Un signo que cierra una oración"
+          },
+          {
+            "id": "F1-094-B",
+            "text": "Una fuente bibliográfica obligatoria"
+          },
+          {
+            "id": "F1-094-C",
+            "text": "Una característica o propiedad que puede cambiar, observarse, medirse, analizarse o controlarse"
+          },
+          {
+            "id": "F1-094-D",
+            "text": "Una palabra que reemplaza al sustantivo"
+          }
+        ],
+        "correctOptionId": "F1-094-C"
+      },
+      {
+        "id": "F1-095",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué expresan las conjunciones causales?",
+        "options": [
+          {
+            "id": "F1-095-A",
+            "text": "La causa"
+          },
+          {
+            "id": "F1-095-B",
+            "text": "La adición"
+          },
+          {
+            "id": "F1-095-C",
+            "text": "La distribución"
+          },
+          {
+            "id": "F1-095-D",
+            "text": "La elección"
+          }
+        ],
+        "correctOptionId": "F1-095-A"
+      },
+      {
+        "id": "F1-096",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué apoyo puede acompañar a un texto científico según el material?",
+        "options": [
+          {
+            "id": "F1-096-A",
+            "text": "Solo emoticones"
+          },
+          {
+            "id": "F1-096-B",
+            "text": "Únicamente diálogos ficticios"
+          },
+          {
+            "id": "F1-096-C",
+            "text": "Ilustraciones, tablas, gráficos, fotografías o descripciones técnicas"
+          },
+          {
+            "id": "F1-096-D",
+            "text": "Solo interjecciones"
+          }
+        ],
+        "correctOptionId": "F1-096-C"
+      },
+      {
+        "id": "F1-097",
+        "topic": "Lengua Castellana",
+        "text": "Cuando un grado académico se usa de manera general, ¿cómo indica el material que debe escribirse?",
+        "options": [
+          {
+            "id": "F1-097-A",
+            "text": "Con minúscula"
+          },
+          {
+            "id": "F1-097-B",
+            "text": "Siempre con mayúsculas sostenidas"
+          },
+          {
+            "id": "F1-097-C",
+            "text": "Con guion obligatorio"
+          },
+          {
+            "id": "F1-097-D",
+            "text": "Entre comillas"
+          }
+        ],
+        "correctOptionId": "F1-097-A"
+      },
+      {
+        "id": "F1-098",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué indica el material sobre los monosílabos en la acentuación?",
+        "options": [
+          {
+            "id": "F1-098-A",
+            "text": "Todos llevan tilde"
+          },
+          {
+            "id": "F1-098-B",
+            "text": "Solo se acentúan los terminados en vocal"
+          },
+          {
+            "id": "F1-098-C",
+            "text": "Generalmente no se acentúan, como fue, vio y dios"
+          },
+          {
+            "id": "F1-098-D",
+            "text": "Se acentúan siempre si están en mayúscula"
+          }
+        ],
+        "correctOptionId": "F1-098-C"
+      },
+      {
+        "id": "F1-099",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de coordinada expresa elección o alternancia con o, u?",
+        "options": [
+          {
+            "id": "F1-099-A",
+            "text": "Disyuntiva"
+          },
+          {
+            "id": "F1-099-B",
+            "text": "Adversativa"
+          },
+          {
+            "id": "F1-099-C",
+            "text": "Copulativa"
+          },
+          {
+            "id": "F1-099-D",
+            "text": "Consecutiva"
+          }
+        ],
+        "correctOptionId": "F1-099-A"
+      },
+      {
+        "id": "F1-100",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras aparece como ejemplo de indigenismo?",
+        "options": [
+          {
+            "id": "F1-100-A",
+            "text": "Cóndor"
+          },
+          {
+            "id": "F1-100-B",
+            "text": "Backstage"
+          },
+          {
+            "id": "F1-100-C",
+            "text": "Chef"
+          },
+          {
+            "id": "F1-100-D",
+            "text": "Alcalde"
+          }
+        ],
+        "correctOptionId": "F1-100-A"
+      }
+    ]
+  },
+  {
+    "id": "lengua-sexto-f2",
+    "subject": "Lenguaje",
+    "grade": "Sexto de Secundaria",
+    "title": "Lengua Castellana — Sexto de Secundaria — Formulario 2",
+    "description": "Revisión preliminar. Claves propuestas, no oficiales ni certificadas académicamente.",
+    "color": "purple",
+    "shuffleQuestions": true,
+    "questions": [
+      {
+        "id": "F2-001",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué son las variaciones de la lengua?",
+        "options": [
+          {
+            "id": "F2-001-A",
+            "text": "Los diversos modos en que una misma lengua puede ser utilizada"
+          },
+          {
+            "id": "F2-001-B",
+            "text": "Errores que deben eliminarse de toda comunicación"
+          },
+          {
+            "id": "F2-001-C",
+            "text": "Normas que impiden diferencias culturales"
+          },
+          {
+            "id": "F2-001-D",
+            "text": "Cambios exclusivos de la escritura académica"
+          }
+        ],
+        "correctOptionId": "F2-001-A"
+      },
+      {
+        "id": "F2-002",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué busca comprender la investigación cuantitativa entre otros aspectos?",
+        "options": [
+          {
+            "id": "F2-002-A",
+            "text": "Únicamente historias personales"
+          },
+          {
+            "id": "F2-002-B",
+            "text": "Exclusivamente opiniones literarias"
+          },
+          {
+            "id": "F2-002-C",
+            "text": "Frecuencias, patrones y promedios"
+          },
+          {
+            "id": "F2-002-D",
+            "text": "Solo emociones individuales sin medición"
+          }
+        ],
+        "correctOptionId": "F2-002-C"
+      },
+      {
+        "id": "F2-003",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de los siguientes es un sustantivo propio según los ejemplos del material?",
+        "options": [
+          {
+            "id": "F2-003-A",
+            "text": "Perro"
+          },
+          {
+            "id": "F2-003-B",
+            "text": "Illimani"
+          },
+          {
+            "id": "F2-003-C",
+            "text": "Ciudad"
+          },
+          {
+            "id": "F2-003-D",
+            "text": "Montaña"
+          }
+        ],
+        "correctOptionId": "F2-003-B"
+      },
+      {
+        "id": "F2-004",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la ciencia según el recuadro del material?",
+        "options": [
+          {
+            "id": "F2-004-A",
+            "text": "Conocimiento obtenido mediante observación y experimentación objetiva, sistemática y razonada"
+          },
+          {
+            "id": "F2-004-B",
+            "text": "Un conjunto de reglas de puntuación"
+          },
+          {
+            "id": "F2-004-C",
+            "text": "Una colección de opiniones personales sin comprobación"
+          },
+          {
+            "id": "F2-004-D",
+            "text": "Un género literario basado en ficción"
+          }
+        ],
+        "correctOptionId": "F2-004-A"
+      },
+      {
+        "id": "F2-006",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué se usan los dos puntos según el taller ortográfico?",
+        "options": [
+          {
+            "id": "F2-006-A",
+            "text": "Para introducir o presentar información o datos"
+          },
+          {
+            "id": "F2-006-B",
+            "text": "Para indicar únicamente suspenso"
+          },
+          {
+            "id": "F2-006-C",
+            "text": "Para marcar el género de los sustantivos"
+          },
+          {
+            "id": "F2-006-D",
+            "text": "Para formar artículos contractos"
+          }
+        ],
+        "correctOptionId": "F2-006-A"
+      },
+      {
+        "id": "F2-007",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo suele ser la comunicación profesional según el material?",
+        "options": [
+          {
+            "id": "F2-007-A",
+            "text": "Respetuosa, clara, precisa, estructurada y formal"
+          },
+          {
+            "id": "F2-007-B",
+            "text": "Improvisada y sin estructura"
+          },
+          {
+            "id": "F2-007-C",
+            "text": "Exclusivamente coloquial"
+          },
+          {
+            "id": "F2-007-D",
+            "text": "Ajena al contexto comunicativo"
+          }
+        ],
+        "correctOptionId": "F2-007-A"
+      },
+      {
+        "id": "F2-008",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es una hipótesis en el diseño de una investigación cuantitativa?",
+        "options": [
+          {
+            "id": "F2-008-A",
+            "text": "Un signo de puntuación"
+          },
+          {
+            "id": "F2-008-B",
+            "text": "Una conclusión que se conoce antes de investigar"
+          },
+          {
+            "id": "F2-008-C",
+            "text": "La lista final de referencias"
+          },
+          {
+            "id": "F2-008-D",
+            "text": "Una afirmación o posible respuesta a la pregunta de investigación"
+          }
+        ],
+        "correctOptionId": "F2-008-D"
+      },
+      {
+        "id": "F2-009",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué indican los pronombres demostrativos?",
+        "options": [
+          {
+            "id": "F2-009-A",
+            "text": "Posesión"
+          },
+          {
+            "id": "F2-009-B",
+            "text": "Una acción mutua"
+          },
+          {
+            "id": "F2-009-C",
+            "text": "Distancia en el espacio o el tiempo respecto al hablante"
+          },
+          {
+            "id": "F2-009-D",
+            "text": "Una pregunta únicamente"
+          }
+        ],
+        "correctOptionId": "F2-009-C"
+      },
+      {
+        "id": "F2-010",
+        "topic": "Lengua Castellana",
+        "text": "¿De qué lengua proceden los arabismos?",
+        "options": [
+          {
+            "id": "F2-010-A",
+            "text": "Del francés"
+          },
+          {
+            "id": "F2-010-B",
+            "text": "Del árabe"
+          },
+          {
+            "id": "F2-010-C",
+            "text": "Del italiano"
+          },
+          {
+            "id": "F2-010-D",
+            "text": "Del inglés"
+          }
+        ],
+        "correctOptionId": "F2-010-B"
+      },
+      {
+        "id": "F2-011",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué efecto de la tecnología en el lenguaje menciona el material?",
+        "options": [
+          {
+            "id": "F2-011-A",
+            "text": "Ha hecho desaparecer la comunicación escrita"
+          },
+          {
+            "id": "F2-011-B",
+            "text": "Ha impedido el uso de abreviaturas"
+          },
+          {
+            "id": "F2-011-C",
+            "text": "Ha introducido nuevas palabras y alterado usos de puntuación y normas de comunicación"
+          },
+          {
+            "id": "F2-011-D",
+            "text": "Ha eliminado todos los cambios lingüísticos"
+          }
+        ],
+        "correctOptionId": "F2-011-C"
+      },
+      {
+        "id": "F2-012",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de texto científico es relativamente breve, escrito en prosa y desarrolla un tema con un punto de vista personal?",
+        "options": [
+          {
+            "id": "F2-012-A",
+            "text": "Ensayo"
+          },
+          {
+            "id": "F2-012-B",
+            "text": "Informe técnico"
+          },
+          {
+            "id": "F2-012-C",
+            "text": "Referencia bibliográfica"
+          },
+          {
+            "id": "F2-012-D",
+            "text": "Tesis"
+          }
+        ],
+        "correctOptionId": "F2-012-A"
+      },
+      {
+        "id": "F2-013",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estos es un sustantivo contable?",
+        "options": [
+          {
+            "id": "F2-013-A",
+            "text": "Libertad"
+          },
+          {
+            "id": "F2-013-B",
+            "text": "Sabiduría"
+          },
+          {
+            "id": "F2-013-C",
+            "text": "Libros"
+          },
+          {
+            "id": "F2-013-D",
+            "text": "Cariño"
+          }
+        ],
+        "correctOptionId": "F2-013-C"
+      },
+      {
+        "id": "F2-014",
+        "topic": "Lengua Castellana",
+        "text": "Según el material, ¿qué diferencia a la investigación cualitativa de la cuantitativa?",
+        "options": [
+          {
+            "id": "F2-014-A",
+            "text": "Siempre requiere probar una hipótesis estadística"
+          },
+          {
+            "id": "F2-014-B",
+            "text": "No puede usar entrevistas"
+          },
+          {
+            "id": "F2-014-C",
+            "text": "Solo utiliza gráficos numéricos"
+          },
+          {
+            "id": "F2-014-D",
+            "text": "Busca interpretar y comprender sin centrarse necesariamente en medir"
+          }
+        ],
+        "correctOptionId": "F2-014-D"
+      },
+      {
+        "id": "F2-015",
+        "topic": "Lengua Castellana",
+        "text": "¿Por qué «Lloro.» puede considerarse una oración?",
+        "options": [
+          {
+            "id": "F2-015-A",
+            "text": "Porque no tiene verbo"
+          },
+          {
+            "id": "F2-015-B",
+            "text": "Porque tiene dos proposiciones"
+          },
+          {
+            "id": "F2-015-C",
+            "text": "Porque contiene un verbo conjugado y expresa sentido"
+          },
+          {
+            "id": "F2-015-D",
+            "text": "Porque es una frase nominal"
+          }
+        ],
+        "correctOptionId": "F2-015-C"
+      },
+      {
+        "id": "F2-016",
+        "topic": "Lengua Castellana",
+        "text": "En una cita textual corta, ¿qué datos se indican al final según el material?",
+        "options": [
+          {
+            "id": "F2-016-A",
+            "text": "Solo el título del libro"
+          },
+          {
+            "id": "F2-016-B",
+            "text": "Nombre del colegio y curso"
+          },
+          {
+            "id": "F2-016-C",
+            "text": "Autor, año de publicación y número de página"
+          },
+          {
+            "id": "F2-016-D",
+            "text": "Únicamente el año"
+          }
+        ],
+        "correctOptionId": "F2-016-C"
+      },
+      {
+        "id": "F2-017",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo puede influir el nivel de educación en el uso del lenguaje?",
+        "options": [
+          {
+            "id": "F2-017-A",
+            "text": "Impide usar registros formales"
+          },
+          {
+            "id": "F2-017-B",
+            "text": "Hace innecesaria la gramática"
+          },
+          {
+            "id": "F2-017-C",
+            "text": "Puede favorecer vocabularios más amplios y estructuras más complejas"
+          },
+          {
+            "id": "F2-017-D",
+            "text": "Elimina toda variación lingüística"
+          }
+        ],
+        "correctOptionId": "F2-017-C"
+      },
+      {
+        "id": "F2-018",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué hace el método deductivo según el material?",
+        "options": [
+          {
+            "id": "F2-018-A",
+            "text": "Sirve únicamente para corregir ortografía"
+          },
+          {
+            "id": "F2-018-B",
+            "text": "Parte de observaciones o principios generales para deducir casos individuales"
+          },
+          {
+            "id": "F2-018-C",
+            "text": "Solo utiliza entrevistas abiertas"
+          },
+          {
+            "id": "F2-018-D",
+            "text": "Generaliza siempre desde un único caso sin principios generales"
+          }
+        ],
+        "correctOptionId": "F2-018-B"
+      },
+      {
+        "id": "F2-019",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras es un adverbio de tiempo?",
+        "options": [
+          {
+            "id": "F2-019-A",
+            "text": "Quizá"
+          },
+          {
+            "id": "F2-019-B",
+            "text": "Mañana"
+          },
+          {
+            "id": "F2-019-C",
+            "text": "Aquí"
+          },
+          {
+            "id": "F2-019-D",
+            "text": "Bien"
+          }
+        ],
+        "correctOptionId": "F2-019-B"
+      },
+      {
+        "id": "F2-020",
+        "topic": "Lengua Castellana",
+        "text": "¿De qué lengua proceden los galicismos?",
+        "options": [
+          {
+            "id": "F2-020-A",
+            "text": "Del francés"
+          },
+          {
+            "id": "F2-020-B",
+            "text": "Del inglés"
+          },
+          {
+            "id": "F2-020-C",
+            "text": "Del italiano"
+          },
+          {
+            "id": "F2-020-D",
+            "text": "Del árabe"
+          }
+        ],
+        "correctOptionId": "F2-020-A"
+      },
+      {
+        "id": "F2-021",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la pertenencia cultural?",
+        "options": [
+          {
+            "id": "F2-021-A",
+            "text": "La obligación de abandonar la lengua materna"
+          },
+          {
+            "id": "F2-021-B",
+            "text": "La sustitución de todos los dialectos"
+          },
+          {
+            "id": "F2-021-C",
+            "text": "Una técnica de investigación cuantitativa"
+          },
+          {
+            "id": "F2-021-D",
+            "text": "El sentimiento de identificación y conexión con una cultura particular"
+          }
+        ],
+        "correctOptionId": "F2-021-D"
+      },
+      {
+        "id": "F2-022",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a una monografía dentro de los textos científicos?",
+        "options": [
+          {
+            "id": "F2-022-A",
+            "text": "Es una pregunta cerrada de encuesta"
+          },
+          {
+            "id": "F2-022-B",
+            "text": "Es una lista breve de signos"
+          },
+          {
+            "id": "F2-022-C",
+            "text": "Es siempre una exposición oral sin texto"
+          },
+          {
+            "id": "F2-022-D",
+            "text": "Desarrolla de forma extensa y detallada un tema específico"
+          }
+        ],
+        "correctOptionId": "F2-022-D"
+      },
+      {
+        "id": "F2-023",
+        "topic": "Lengua Castellana",
+        "text": "¿Con qué pregunta se reconoce el complemento indirecto según el material?",
+        "options": [
+          {
+            "id": "F2-023-A",
+            "text": "¿Cuándo? + verbo"
+          },
+          {
+            "id": "F2-023-B",
+            "text": "¿A quién o para quién? + verbo"
+          },
+          {
+            "id": "F2-023-C",
+            "text": "¿Dónde? + verbo"
+          },
+          {
+            "id": "F2-023-D",
+            "text": "¿Qué es lo que? + verbo"
+          }
+        ],
+        "correctOptionId": "F2-023-B"
+      },
+      {
+        "id": "F2-024",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué margen general señala el material para el formato APA?",
+        "options": [
+          {
+            "id": "F2-024-A",
+            "text": "Aproximadamente 2,5 cm o 1 pulgada en cada lado"
+          },
+          {
+            "id": "F2-024-B",
+            "text": "Solo margen superior"
+          },
+          {
+            "id": "F2-024-C",
+            "text": "10 cm en cada lado"
+          },
+          {
+            "id": "F2-024-D",
+            "text": "Sin márgenes"
+          }
+        ],
+        "correctOptionId": "F2-024-A"
+      },
+      {
+        "id": "F2-025",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas opciones contiene únicamente artículos determinados?",
+        "options": [
+          {
+            "id": "F2-025-A",
+            "text": "Un, una, unos, unas"
+          },
+          {
+            "id": "F2-025-B",
+            "text": "Lo, mi, tu, su"
+          },
+          {
+            "id": "F2-025-C",
+            "text": "Este, esa, aquellos, varios"
+          },
+          {
+            "id": "F2-025-D",
+            "text": "El, la, los, las"
+          }
+        ],
+        "correctOptionId": "F2-025-D"
+      },
+      {
+        "id": "F2-026",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué aspecto NO interesa principalmente a la investigación descriptiva según el material?",
+        "options": [
+          {
+            "id": "F2-026-A",
+            "text": "Sus particularidades"
+          },
+          {
+            "id": "F2-026-B",
+            "text": "Las causas y consecuencias del fenómeno"
+          },
+          {
+            "id": "F2-026-C",
+            "text": "Sus características"
+          },
+          {
+            "id": "F2-026-D",
+            "text": "Su configuración"
+          }
+        ],
+        "correctOptionId": "F2-026-B"
+      },
+      {
+        "id": "F2-027",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué expresan las conjunciones consecutivas?",
+        "options": [
+          {
+            "id": "F2-027-A",
+            "text": "Elección"
+          },
+          {
+            "id": "F2-027-B",
+            "text": "Consecuencia"
+          },
+          {
+            "id": "F2-027-C",
+            "text": "Comparación"
+          },
+          {
+            "id": "F2-027-D",
+            "text": "Causa"
+          }
+        ],
+        "correctOptionId": "F2-027-B"
+      },
+      {
+        "id": "F2-029",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la discriminación en el contexto lingüístico?",
+        "options": [
+          {
+            "id": "F2-029-A",
+            "text": "Una variedad temporal de la lengua"
+          },
+          {
+            "id": "F2-029-B",
+            "text": "Una técnica para aprender vocabulario"
+          },
+          {
+            "id": "F2-029-C",
+            "text": "Un trato desfavorable o injusto por el idioma que habla una persona o grupo"
+          },
+          {
+            "id": "F2-029-D",
+            "text": "Una clase de adverbio"
+          }
+        ],
+        "correctOptionId": "F2-029-C"
+      },
+      {
+        "id": "F2-030",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué elemento suele aparecer en la voz pasiva?",
+        "options": [
+          {
+            "id": "F2-030-A",
+            "text": "Un artículo contracto"
+          },
+          {
+            "id": "F2-030-B",
+            "text": "El verbo ser más un participio pasado"
+          },
+          {
+            "id": "F2-030-C",
+            "text": "Una interjección propia"
+          },
+          {
+            "id": "F2-030-D",
+            "text": "Dos preposiciones seguidas"
+          }
+        ],
+        "correctOptionId": "F2-030-B"
+      },
+      {
+        "id": "F2-032",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué función cumple el título y los nombres de autores en un texto científico?",
+        "options": [
+          {
+            "id": "F2-032-A",
+            "text": "Presentar solo las referencias finales"
+          },
+          {
+            "id": "F2-032-B",
+            "text": "Mostrar únicamente anexos"
+          },
+          {
+            "id": "F2-032-C",
+            "text": "Identificar de manera directa el tema y a los responsables de la investigación"
+          },
+          {
+            "id": "F2-032-D",
+            "text": "Reemplazar el contenido o desarrollo"
+          }
+        ],
+        "correctOptionId": "F2-032-C"
+      },
+      {
+        "id": "F2-033",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué pregunta permite reconocer un complemento circunstancial de lugar?",
+        "options": [
+          {
+            "id": "F2-033-A",
+            "text": "¿Cuándo? + verbo"
+          },
+          {
+            "id": "F2-033-B",
+            "text": "¿Con qué? + verbo"
+          },
+          {
+            "id": "F2-033-C",
+            "text": "¿Dónde? + verbo"
+          },
+          {
+            "id": "F2-033-D",
+            "text": "¿Qué es lo que? + verbo"
+          }
+        ],
+        "correctOptionId": "F2-033-C"
+      },
+      {
+        "id": "F2-035",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué ejemplo muestra una variación regional de gramática y uso en Bolivia?",
+        "options": [
+          {
+            "id": "F2-035-A",
+            "text": "La escritura de Times New Roman"
+          },
+          {
+            "id": "F2-035-B",
+            "text": "La enumeración con comas"
+          },
+          {
+            "id": "F2-035-C",
+            "text": "El uso de citas APA"
+          },
+          {
+            "id": "F2-035-D",
+            "text": "El uso de «vos tenés» en lugar de «tú tienes»"
+          }
+        ],
+        "correctOptionId": "F2-035-D"
+      },
+      {
+        "id": "F2-036",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué busca normalmente una encuesta según el material?",
+        "options": [
+          {
+            "id": "F2-036-A",
+            "text": "Sustituir todo análisis por una opinión"
+          },
+          {
+            "id": "F2-036-B",
+            "text": "Corregir concordancia gramatical"
+          },
+          {
+            "id": "F2-036-C",
+            "text": "Eliminar el muestreo"
+          },
+          {
+            "id": "F2-036-D",
+            "text": "Recopilar información mediante preguntas sobre una población, grupo o muestra"
+          }
+        ],
+        "correctOptionId": "F2-036-D"
+      },
+      {
+        "id": "F2-037",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué expresa un adjetivo en grado superlativo?",
+        "options": [
+          {
+            "id": "F2-037-A",
+            "text": "La cualidad en su grado más alto posible"
+          },
+          {
+            "id": "F2-037-B",
+            "text": "Una cantidad no específica"
+          },
+          {
+            "id": "F2-037-C",
+            "text": "Una acción recíproca"
+          },
+          {
+            "id": "F2-037-D",
+            "text": "La pertenencia del sustantivo"
+          }
+        ],
+        "correctOptionId": "F2-037-A"
+      },
+      {
+        "id": "F2-038",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué sirven los informes técnicos?",
+        "options": [
+          {
+            "id": "F2-038-A",
+            "text": "Para contar exclusivamente una ficción"
+          },
+          {
+            "id": "F2-038-B",
+            "text": "Para resumir un estudio o experimento y comunicar resultados y conclusiones"
+          },
+          {
+            "id": "F2-038-C",
+            "text": "Para registrar solo emociones personales"
+          },
+          {
+            "id": "F2-038-D",
+            "text": "Para reemplazar las referencias bibliográficas"
+          }
+        ],
+        "correctOptionId": "F2-038-B"
+      },
+      {
+        "id": "F2-039",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de coordinada usa nexos como o, u?",
+        "options": [
+          {
+            "id": "F2-039-A",
+            "text": "Explicativa"
+          },
+          {
+            "id": "F2-039-B",
+            "text": "Disyuntiva"
+          },
+          {
+            "id": "F2-039-C",
+            "text": "Adversativa"
+          },
+          {
+            "id": "F2-039-D",
+            "text": "Copulativa"
+          }
+        ],
+        "correctOptionId": "F2-039-B"
+      },
+      {
+        "id": "F2-040",
+        "topic": "Lengua Castellana",
+        "text": "¿De qué lengua proceden los italianismos?",
+        "options": [
+          {
+            "id": "F2-040-A",
+            "text": "Del inglés"
+          },
+          {
+            "id": "F2-040-B",
+            "text": "Del francés"
+          },
+          {
+            "id": "F2-040-C",
+            "text": "Del árabe"
+          },
+          {
+            "id": "F2-040-D",
+            "text": "Del italiano"
+          }
+        ],
+        "correctOptionId": "F2-040-D"
+      },
+      {
+        "id": "F2-041",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es un sociolecto según el glosario?",
+        "options": [
+          {
+            "id": "F2-041-A",
+            "text": "El uso lingüístico único de un individuo"
+          },
+          {
+            "id": "F2-041-B",
+            "text": "La forma estándar de todo texto científico"
+          },
+          {
+            "id": "F2-041-C",
+            "text": "Una regla para acentuar monosílabos"
+          },
+          {
+            "id": "F2-041-D",
+            "text": "Una variedad de lengua usada por un grupo social específico"
+          }
+        ],
+        "correctOptionId": "F2-041-D"
+      },
+      {
+        "id": "F2-042",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué recursos puede usar la investigación cualitativa para recoger datos?",
+        "options": [
+          {
+            "id": "F2-042-A",
+            "text": "Únicamente gráficos circulares"
+          },
+          {
+            "id": "F2-042-B",
+            "text": "Solo ecuaciones matemáticas"
+          },
+          {
+            "id": "F2-042-C",
+            "text": "Solo pruebas de ortografía"
+          },
+          {
+            "id": "F2-042-D",
+            "text": "Entrevistas, grupos focales y estudios de caso"
+          }
+        ],
+        "correctOptionId": "F2-042-D"
+      },
+      {
+        "id": "F2-043",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué expresión representa el artículo contracto «al»?",
+        "options": [
+          {
+            "id": "F2-043-A",
+            "text": "A + el"
+          },
+          {
+            "id": "F2-043-B",
+            "text": "En + el"
+          },
+          {
+            "id": "F2-043-C",
+            "text": "De + el"
+          },
+          {
+            "id": "F2-043-D",
+            "text": "A + la"
+          }
+        ],
+        "correctOptionId": "F2-043-A"
+      },
+      {
+        "id": "F2-044",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué sirven las referencias al final de un trabajo?",
+        "options": [
+          {
+            "id": "F2-044-A",
+            "text": "Para eliminar las citas del texto"
+          },
+          {
+            "id": "F2-044-B",
+            "text": "Para sustituir las conclusiones"
+          },
+          {
+            "id": "F2-044-C",
+            "text": "Para permitir al lector localizar y consultar las fuentes originales"
+          },
+          {
+            "id": "F2-044-D",
+            "text": "Para ocultar las fuentes"
+          }
+        ],
+        "correctOptionId": "F2-044-C"
+      },
+      {
+        "id": "F2-045",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a un verbo intransitivo?",
+        "options": [
+          {
+            "id": "F2-045-A",
+            "text": "Solo aparece en voz pasiva"
+          },
+          {
+            "id": "F2-045-B",
+            "text": "No puede conjugarse"
+          },
+          {
+            "id": "F2-045-C",
+            "text": "Siempre necesita complemento directo"
+          },
+          {
+            "id": "F2-045-D",
+            "text": "No requiere complemento directo para que su significado sea completo"
+          }
+        ],
+        "correctOptionId": "F2-045-D"
+      },
+      {
+        "id": "F2-046",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de información debe registrar un diario de campo?",
+        "options": [
+          {
+            "id": "F2-046-A",
+            "text": "Únicamente citas largas"
+          },
+          {
+            "id": "F2-046-B",
+            "text": "Solo títulos académicos"
+          },
+          {
+            "id": "F2-046-C",
+            "text": "Observaciones, experiencias, análisis, reflexiones, datos y resultados"
+          },
+          {
+            "id": "F2-046-D",
+            "text": "Solo nombres propios"
+          }
+        ],
+        "correctOptionId": "F2-046-C"
+      },
+      {
+        "id": "F2-047",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué actitud social describe la intolerancia lingüística?",
+        "options": [
+          {
+            "id": "F2-047-A",
+            "text": "Interés por aprender otras lenguas"
+          },
+          {
+            "id": "F2-047-B",
+            "text": "Aplicación de una encuesta"
+          },
+          {
+            "id": "F2-047-C",
+            "text": "Uso de lenguaje técnico"
+          },
+          {
+            "id": "F2-047-D",
+            "text": "Falta de aceptación, respeto o reconocimiento hacia una lengua o sus hablantes"
+          }
+        ],
+        "correctOptionId": "F2-047-D"
+      },
+      {
+        "id": "F2-048",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a la paráfrasis constructiva?",
+        "options": [
+          {
+            "id": "F2-048-A",
+            "text": "Elimina la idea original"
+          },
+          {
+            "id": "F2-048-B",
+            "text": "Solo cambia algunas palabras por sinónimos"
+          },
+          {
+            "id": "F2-048-C",
+            "text": "Reestructura completamente el texto manteniendo el mismo mensaje"
+          },
+          {
+            "id": "F2-048-D",
+            "text": "Copia literalmente el texto"
+          }
+        ],
+        "correctOptionId": "F2-048-C"
+      },
+      {
+        "id": "F2-049",
+        "topic": "Lengua Castellana",
+        "text": "Cuando el sujeto es un pronombre indefinido como «nadie» o «alguien», ¿qué número verbal indica el material?",
+        "options": [
+          {
+            "id": "F2-049-A",
+            "text": "Dual"
+          },
+          {
+            "id": "F2-049-B",
+            "text": "Plural obligatorio"
+          },
+          {
+            "id": "F2-049-C",
+            "text": "Singular"
+          },
+          {
+            "id": "F2-049-D",
+            "text": "Sin verbo"
+          }
+        ],
+        "correctOptionId": "F2-049-C"
+      },
+      {
+        "id": "F2-050",
+        "topic": "Lengua Castellana",
+        "text": "¿Por qué surgen los neologismos según el material?",
+        "options": [
+          {
+            "id": "F2-050-A",
+            "text": "Porque toda palabra antigua debe desaparecer"
+          },
+          {
+            "id": "F2-050-B",
+            "text": "Por el uso de referencias APA"
+          },
+          {
+            "id": "F2-050-C",
+            "text": "Por nuevas necesidades lingüísticas"
+          },
+          {
+            "id": "F2-050-D",
+            "text": "Por errores de puntuación"
+          }
+        ],
+        "correctOptionId": "F2-050-C"
+      },
+      {
+        "id": "F2-051",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué hace un verbo copulativo?",
+        "options": [
+          {
+            "id": "F2-051-A",
+            "text": "Requiere necesariamente complemento directo"
+          },
+          {
+            "id": "F2-051-B",
+            "text": "Une al sujeto con un atributo"
+          },
+          {
+            "id": "F2-051-C",
+            "text": "Indica una acción mutua"
+          },
+          {
+            "id": "F2-051-D",
+            "text": "Expresa siempre un fenómeno natural"
+          }
+        ],
+        "correctOptionId": "F2-051-B"
+      },
+      {
+        "id": "F2-052",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué parte del texto científico cita libros, revistas, enciclopedias y enlaces consultados?",
+        "options": [
+          {
+            "id": "F2-052-A",
+            "text": "Abstract"
+          },
+          {
+            "id": "F2-052-B",
+            "text": "Título"
+          },
+          {
+            "id": "F2-052-C",
+            "text": "Bibliografía o referencias"
+          },
+          {
+            "id": "F2-052-D",
+            "text": "Introducción"
+          }
+        ],
+        "correctOptionId": "F2-052-C"
+      },
+      {
+        "id": "F2-053",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo se unen las oraciones yuxtapuestas?",
+        "options": [
+          {
+            "id": "F2-053-A",
+            "text": "Únicamente con y, e, ni"
+          },
+          {
+            "id": "F2-053-B",
+            "text": "Mediante signos de puntuación, sin necesidad de un nexo"
+          },
+          {
+            "id": "F2-053-C",
+            "text": "Solo mediante preposiciones"
+          },
+          {
+            "id": "F2-053-D",
+            "text": "Sin ningún signo ni pausa"
+          }
+        ],
+        "correctOptionId": "F2-053-B"
+      },
+      {
+        "id": "F2-054",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la revisión documental?",
+        "options": [
+          {
+            "id": "F2-054-A",
+            "text": "La recopilación y procesamiento de información previa sobre el objeto de estudio"
+          },
+          {
+            "id": "F2-054-B",
+            "text": "Una entrevista espontánea"
+          },
+          {
+            "id": "F2-054-C",
+            "text": "Una prueba psicométrica"
+          },
+          {
+            "id": "F2-054-D",
+            "text": "Una clase de adverbio"
+          }
+        ],
+        "correctOptionId": "F2-054-A"
+      },
+      {
+        "id": "F2-055",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué aporta la sintaxis a la organización de un texto?",
+        "options": [
+          {
+            "id": "F2-055-A",
+            "text": "Ayuda a combinar y relacionar palabras para construir oraciones claras"
+          },
+          {
+            "id": "F2-055-B",
+            "text": "Elimina la necesidad de verbos"
+          },
+          {
+            "id": "F2-055-C",
+            "text": "Convierte todas las oraciones en frases"
+          },
+          {
+            "id": "F2-055-D",
+            "text": "Impide modificar el orden de la información"
+          }
+        ],
+        "correctOptionId": "F2-055-A"
+      },
+      {
+        "id": "F2-056",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué sirven los paréntesis y corchetes según el taller ortográfico?",
+        "options": [
+          {
+            "id": "F2-056-A",
+            "text": "Para formar adverbios"
+          },
+          {
+            "id": "F2-056-B",
+            "text": "Para marcar sustantivos propios"
+          },
+          {
+            "id": "F2-056-C",
+            "text": "Para indicar exclusivamente el final del texto"
+          },
+          {
+            "id": "F2-056-D",
+            "text": "Para aportar información complementaria"
+          }
+        ],
+        "correctOptionId": "F2-056-D"
+      },
+      {
+        "id": "F2-057",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué factores pueden hacer evolucionar una identidad lingüística?",
+        "options": [
+          {
+            "id": "F2-057-A",
+            "text": "La cantidad de páginas de un texto"
+          },
+          {
+            "id": "F2-057-B",
+            "text": "Solo el tipo de papel"
+          },
+          {
+            "id": "F2-057-C",
+            "text": "Únicamente la puntuación"
+          },
+          {
+            "id": "F2-057-D",
+            "text": "Migración, globalización e interacción con otras comunidades y culturas"
+          }
+        ],
+        "correctOptionId": "F2-057-D"
+      },
+      {
+        "id": "F2-058",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo puede realizarse la captura de datos en una investigación cuantitativa?",
+        "options": [
+          {
+            "id": "F2-058-A",
+            "text": "Solo con paráfrasis"
+          },
+          {
+            "id": "F2-058-B",
+            "text": "Únicamente con poemas"
+          },
+          {
+            "id": "F2-058-C",
+            "text": "Mediante encuestas, experimentos y otros métodos"
+          },
+          {
+            "id": "F2-058-D",
+            "text": "Sin ningún instrumento"
+          }
+        ],
+        "correctOptionId": "F2-058-C"
+      },
+      {
+        "id": "F2-059",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué indican los adjetivos posesivos?",
+        "options": [
+          {
+            "id": "F2-059-A",
+            "text": "La posición respecto al hablante"
+          },
+          {
+            "id": "F2-059-B",
+            "text": "El orden"
+          },
+          {
+            "id": "F2-059-C",
+            "text": "Una cantidad exacta"
+          },
+          {
+            "id": "F2-059-D",
+            "text": "A quién pertenece el sustantivo"
+          }
+        ],
+        "correctOptionId": "F2-059-D"
+      },
+      {
+        "id": "F2-060",
+        "topic": "Lengua Castellana",
+        "text": "¿De qué lengua proceden los anglicismos?",
+        "options": [
+          {
+            "id": "F2-060-A",
+            "text": "Del inglés"
+          },
+          {
+            "id": "F2-060-B",
+            "text": "Del árabe"
+          },
+          {
+            "id": "F2-060-C",
+            "text": "Del francés"
+          },
+          {
+            "id": "F2-060-D",
+            "text": "Del italiano"
+          }
+        ],
+        "correctOptionId": "F2-060-A"
+      },
+      {
+        "id": "F2-061",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál es el artículo neutro señalado en el material?",
+        "options": [
+          {
+            "id": "F2-061-A",
+            "text": "Los"
+          },
+          {
+            "id": "F2-061-B",
+            "text": "Lo"
+          },
+          {
+            "id": "F2-061-C",
+            "text": "La"
+          },
+          {
+            "id": "F2-061-D",
+            "text": "Un"
+          }
+        ],
+        "correctOptionId": "F2-061-B"
+      },
+      {
+        "id": "F2-062",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué sirve un estudio piloto dentro del diseño experimental?",
+        "options": [
+          {
+            "id": "F2-062-A",
+            "text": "Para elegir el tipo de letra APA"
+          },
+          {
+            "id": "F2-062-B",
+            "text": "Para comprobar que el experimento mida lo que debe y esté correctamente configurado"
+          },
+          {
+            "id": "F2-062-C",
+            "text": "Para eliminar las variables"
+          },
+          {
+            "id": "F2-062-D",
+            "text": "Para redactar la bibliografía"
+          }
+        ],
+        "correctOptionId": "F2-062-B"
+      },
+      {
+        "id": "F2-063",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a las oraciones coordinadas?",
+        "options": [
+          {
+            "id": "F2-063-A",
+            "text": "Se unen solo con signos de puntuación"
+          },
+          {
+            "id": "F2-063-B",
+            "text": "Una depende necesariamente de la otra"
+          },
+          {
+            "id": "F2-063-C",
+            "text": "No contienen verbos"
+          },
+          {
+            "id": "F2-063-D",
+            "text": "Las oraciones que las forman tienen independencia sintáctica"
+          }
+        ],
+        "correctOptionId": "F2-063-D"
+      },
+      {
+        "id": "F2-065",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras es un adverbio de cantidad según el material?",
+        "options": [
+          {
+            "id": "F2-065-A",
+            "text": "Bastante"
+          },
+          {
+            "id": "F2-065-B",
+            "text": "Quizá"
+          },
+          {
+            "id": "F2-065-C",
+            "text": "Ayer"
+          },
+          {
+            "id": "F2-065-D",
+            "text": "Allí"
+          }
+        ],
+        "correctOptionId": "F2-065-A"
+      },
+      {
+        "id": "F2-066",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué caracteriza a la observación como técnica de investigación?",
+        "options": [
+          {
+            "id": "F2-066-A",
+            "text": "Usar exclusivamente documentos antiguos"
+          },
+          {
+            "id": "F2-066-B",
+            "text": "Modificar obligatoriamente la conducta observada"
+          },
+          {
+            "id": "F2-066-C",
+            "text": "Hacer solo preguntas cerradas"
+          },
+          {
+            "id": "F2-066-D",
+            "text": "Examinar sucesos o individuos sin influir en ellos para registrar información"
+          }
+        ],
+        "correctOptionId": "F2-066-D"
+      },
+      {
+        "id": "F2-067",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué proceso de pérdida lingüística menciona el material?",
+        "options": [
+          {
+            "id": "F2-067-A",
+            "text": "Los neologismos eliminan todas las lenguas"
+          },
+          {
+            "id": "F2-067-B",
+            "text": "Toda persona bilingüe pierde automáticamente su identidad"
+          },
+          {
+            "id": "F2-067-C",
+            "text": "La lengua nativa deja de enseñarse a nuevas generaciones tras una situación de subordinación"
+          },
+          {
+            "id": "F2-067-D",
+            "text": "El uso de comillas provoca desaparición lingüística"
+          }
+        ],
+        "correctOptionId": "F2-067-C"
+      },
+      {
+        "id": "F2-068",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál es un propósito de la paráfrasis?",
+        "options": [
+          {
+            "id": "F2-068-A",
+            "text": "Cambiar completamente el significado"
+          },
+          {
+            "id": "F2-068-B",
+            "text": "Eliminar toda referencia a la fuente"
+          },
+          {
+            "id": "F2-068-C",
+            "text": "Copiar palabra por palabra"
+          },
+          {
+            "id": "F2-068-D",
+            "text": "Aclarar, resumir o reinterpretar una idea sin copiar las palabras originales"
+          }
+        ],
+        "correctOptionId": "F2-068-D"
+      },
+      {
+        "id": "F2-070",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué condición define a un préstamo lingüístico en el material?",
+        "options": [
+          {
+            "id": "F2-070-A",
+            "text": "Que una palabra sea siempre inventada recientemente"
+          },
+          {
+            "id": "F2-070-B",
+            "text": "Que sea un error ortográfico"
+          },
+          {
+            "id": "F2-070-C",
+            "text": "Que aparezca solo en textos científicos"
+          },
+          {
+            "id": "F2-070-D",
+            "text": "Que una palabra de otra lengua se incorpore al uso local"
+          }
+        ],
+        "correctOptionId": "F2-070-D"
+      },
+      {
+        "id": "F2-072",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué función cumple la introducción de un texto científico?",
+        "options": [
+          {
+            "id": "F2-072-A",
+            "text": "Presentar los elementos fundamentales para comprender la investigación"
+          },
+          {
+            "id": "F2-072-B",
+            "text": "Mostrar solo tablas y gráficos"
+          },
+          {
+            "id": "F2-072-C",
+            "text": "Repetir las conclusiones"
+          },
+          {
+            "id": "F2-072-D",
+            "text": "Listar únicamente las fuentes"
+          }
+        ],
+        "correctOptionId": "F2-072-A"
+      },
+      {
+        "id": "F2-073",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de coordinada inicia una explicación con expresiones como «es decir» u «o sea»?",
+        "options": [
+          {
+            "id": "F2-073-A",
+            "text": "Disyuntiva"
+          },
+          {
+            "id": "F2-073-B",
+            "text": "Copulativa"
+          },
+          {
+            "id": "F2-073-C",
+            "text": "Explicativa"
+          },
+          {
+            "id": "F2-073-D",
+            "text": "Distributiva"
+          }
+        ],
+        "correctOptionId": "F2-073-C"
+      },
+      {
+        "id": "F2-074",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo pueden ser las entrevistas según el cuadro de técnicas?",
+        "options": [
+          {
+            "id": "F2-074-A",
+            "text": "Rígidas o estructuradas"
+          },
+          {
+            "id": "F2-074-B",
+            "text": "Únicamente experimentales"
+          },
+          {
+            "id": "F2-074-C",
+            "text": "Solo gráficas"
+          },
+          {
+            "id": "F2-074-D",
+            "text": "Solo anónimas"
+          }
+        ],
+        "correctOptionId": "F2-074-A"
+      },
+      {
+        "id": "F2-075",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué rasgos destaca el material en la comunicación profesional?",
+        "options": [
+          {
+            "id": "F2-075-A",
+            "text": "Ambigüedad, improvisación y jerga"
+          },
+          {
+            "id": "F2-075-B",
+            "text": "Silencio y ausencia de estructura"
+          },
+          {
+            "id": "F2-075-C",
+            "text": "Ficción, rima y métrica"
+          },
+          {
+            "id": "F2-075-D",
+            "text": "Respeto, claridad y precisión"
+          }
+        ],
+        "correctOptionId": "F2-075-D"
+      },
+      {
+        "id": "F2-078",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué puede omitirse normalmente en una cita parafraseada, salvo que se cite información específica?",
+        "options": [
+          {
+            "id": "F2-078-A",
+            "text": "El número de página"
+          },
+          {
+            "id": "F2-078-B",
+            "text": "El año de publicación"
+          },
+          {
+            "id": "F2-078-C",
+            "text": "La mención de la fuente"
+          },
+          {
+            "id": "F2-078-D",
+            "text": "El apellido del autor"
+          }
+        ],
+        "correctOptionId": "F2-078-A"
+      },
+      {
+        "id": "F2-079",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas expresiones es una interjección impropia según el material?",
+        "options": [
+          {
+            "id": "F2-079-A",
+            "text": "¡Menos mal!"
+          },
+          {
+            "id": "F2-079-B",
+            "text": "¡Oh!"
+          },
+          {
+            "id": "F2-079-C",
+            "text": "¡Ay!"
+          },
+          {
+            "id": "F2-079-D",
+            "text": "¡Uf!"
+          }
+        ],
+        "correctOptionId": "F2-079-A"
+      },
+      {
+        "id": "F2-080",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué son los indigenismos?",
+        "options": [
+          {
+            "id": "F2-080-A",
+            "text": "Palabras procedentes del francés"
+          },
+          {
+            "id": "F2-080-B",
+            "text": "Palabras procedentes del italiano"
+          },
+          {
+            "id": "F2-080-C",
+            "text": "Voces procedentes de lenguas indígenas de América"
+          },
+          {
+            "id": "F2-080-D",
+            "text": "Palabras procedentes del árabe"
+          }
+        ],
+        "correctOptionId": "F2-080-C"
+      },
+      {
+        "id": "F2-081",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué ejemplo de cambio gramatical o fonético menciona el material?",
+        "options": [
+          {
+            "id": "F2-081-A",
+            "text": "La sustitución de «vosotros» por «ustedes» en gran parte de América Latina"
+          },
+          {
+            "id": "F2-081-B",
+            "text": "La formación de una encuesta"
+          },
+          {
+            "id": "F2-081-C",
+            "text": "El uso de referencias APA"
+          },
+          {
+            "id": "F2-081-D",
+            "text": "El cambio de Times New Roman a Arial"
+          }
+        ],
+        "correctOptionId": "F2-081-A"
+      },
+      {
+        "id": "F2-082",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué busca la investigación descriptiva mediante observación, análisis y demostración?",
+        "options": [
+          {
+            "id": "F2-082-A",
+            "text": "Especificar propiedades, características y rasgos importantes del fenómeno"
+          },
+          {
+            "id": "F2-082-B",
+            "text": "Modificar todas las variables"
+          },
+          {
+            "id": "F2-082-C",
+            "text": "Crear palabras extranjeras"
+          },
+          {
+            "id": "F2-082-D",
+            "text": "Eliminar el análisis de datos"
+          }
+        ],
+        "correctOptionId": "F2-082-A"
+      },
+      {
+        "id": "F2-083",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué constituye el núcleo del predicado?",
+        "options": [
+          {
+            "id": "F2-083-A",
+            "text": "El artículo determinado"
+          },
+          {
+            "id": "F2-083-B",
+            "text": "El verbo principal"
+          },
+          {
+            "id": "F2-083-C",
+            "text": "El sustantivo principal del sujeto"
+          },
+          {
+            "id": "F2-083-D",
+            "text": "La aposición"
+          }
+        ],
+        "correctOptionId": "F2-083-B"
+      },
+      {
+        "id": "F2-084",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué función puede cumplir una tesis dentro del ámbito académico?",
+        "options": [
+          {
+            "id": "F2-084-A",
+            "text": "Reemplazar toda bibliografía"
+          },
+          {
+            "id": "F2-084-B",
+            "text": "Comprobar hipótesis y demostrar capacidad analítica y manejo de procedimientos de investigación"
+          },
+          {
+            "id": "F2-084-C",
+            "text": "Presentar solo una lista de palabras"
+          },
+          {
+            "id": "F2-084-D",
+            "text": "Servir únicamente como relato de ficción"
+          }
+        ],
+        "correctOptionId": "F2-084-B"
+      },
+      {
+        "id": "F2-085",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué indican los adjetivos cardinales?",
+        "options": [
+          {
+            "id": "F2-085-A",
+            "text": "Una distribución"
+          },
+          {
+            "id": "F2-085-B",
+            "text": "Una cantidad no específica"
+          },
+          {
+            "id": "F2-085-C",
+            "text": "Una cantidad exacta"
+          },
+          {
+            "id": "F2-085-D",
+            "text": "El orden o posición"
+          }
+        ],
+        "correctOptionId": "F2-085-C"
+      },
+      {
+        "id": "F2-086",
+        "topic": "Lengua Castellana",
+        "text": "¿Para qué puede utilizarse la raya según el taller ortográfico?",
+        "options": [
+          {
+            "id": "F2-086-A",
+            "text": "Para formar citas APA"
+          },
+          {
+            "id": "F2-086-B",
+            "text": "Para separar siempre sílabas"
+          },
+          {
+            "id": "F2-086-C",
+            "text": "Para aclaraciones, diálogos o comentarios"
+          },
+          {
+            "id": "F2-086-D",
+            "text": "Para marcar únicamente preguntas"
+          }
+        ],
+        "correctOptionId": "F2-086-C"
+      },
+      {
+        "id": "F2-087",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué es la autoimagen según el material?",
+        "options": [
+          {
+            "id": "F2-087-A",
+            "text": "La lista de fuentes de una investigación"
+          },
+          {
+            "id": "F2-087-B",
+            "text": "La imagen que una persona tiene de sí misma"
+          },
+          {
+            "id": "F2-087-C",
+            "text": "Un instrumento psicométrico"
+          },
+          {
+            "id": "F2-087-D",
+            "text": "Una variedad regional del idioma"
+          }
+        ],
+        "correctOptionId": "F2-087-B"
+      },
+      {
+        "id": "F2-088",
+        "topic": "Lengua Castellana",
+        "text": "¿A qué tipo de grupos se dirige especialmente el método etnográfico?",
+        "options": [
+          {
+            "id": "F2-088-A",
+            "text": "A grupos culturalmente definidos, aunque también puede analizar grupos urbanos o regionales"
+          },
+          {
+            "id": "F2-088-B",
+            "text": "Solo a objetos inanimados"
+          },
+          {
+            "id": "F2-088-C",
+            "text": "Exclusivamente a textos científicos"
+          },
+          {
+            "id": "F2-088-D",
+            "text": "Únicamente a laboratorios"
+          }
+        ],
+        "correctOptionId": "F2-088-A"
+      },
+      {
+        "id": "F2-089",
+        "topic": "Lengua Castellana",
+        "text": "¿Con qué pregunta se reconoce el complemento circunstancial de instrumento?",
+        "options": [
+          {
+            "id": "F2-089-A",
+            "text": "¿Cuándo? + verbo"
+          },
+          {
+            "id": "F2-089-B",
+            "text": "¿A quién? + verbo"
+          },
+          {
+            "id": "F2-089-C",
+            "text": "¿Dónde? + verbo"
+          },
+          {
+            "id": "F2-089-D",
+            "text": "¿Con qué? + verbo"
+          }
+        ],
+        "correctOptionId": "F2-089-D"
+      },
+      {
+        "id": "F2-090",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuáles son los cuatro elementos básicos de una referencia indicados en el material?",
+        "options": [
+          {
+            "id": "F2-090-A",
+            "text": "Sujeto, verbo, adjetivo y adverbio"
+          },
+          {
+            "id": "F2-090-B",
+            "text": "Pregunta, variable, hipótesis y muestra"
+          },
+          {
+            "id": "F2-090-C",
+            "text": "Portada, color, dibujo y firma"
+          },
+          {
+            "id": "F2-090-D",
+            "text": "Autor, fecha, título y fuente"
+          }
+        ],
+        "correctOptionId": "F2-090-D"
+      },
+      {
+        "id": "F2-091",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras es un adverbio de afirmación según la lista del PDF?",
+        "options": [
+          {
+            "id": "F2-091-A",
+            "text": "Quizá"
+          },
+          {
+            "id": "F2-091-B",
+            "text": "Ciertamente"
+          },
+          {
+            "id": "F2-091-C",
+            "text": "Lejos"
+          },
+          {
+            "id": "F2-091-D",
+            "text": "Nunca"
+          }
+        ],
+        "correctOptionId": "F2-091-B"
+      },
+      {
+        "id": "F2-092",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué puede implicar un estudio de caso según el material?",
+        "options": [
+          {
+            "id": "F2-092-A",
+            "text": "Trabajo de campo, diagnósticos, entrevistas y encuestas"
+          },
+          {
+            "id": "F2-092-B",
+            "text": "Solo reglas de acentuación"
+          },
+          {
+            "id": "F2-092-C",
+            "text": "Únicamente referencias bibliográficas"
+          },
+          {
+            "id": "F2-092-D",
+            "text": "Exclusivamente signos de puntuación"
+          }
+        ],
+        "correctOptionId": "F2-092-A"
+      },
+      {
+        "id": "F2-093",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué diferencia de uso lingüístico por edad menciona el texto?",
+        "options": [
+          {
+            "id": "F2-093-A",
+            "text": "Los jóvenes solo usan lenguaje formal"
+          },
+          {
+            "id": "F2-093-B",
+            "text": "Los jóvenes tienden a usar más jergas y palabras nuevas que las personas mayores"
+          },
+          {
+            "id": "F2-093-C",
+            "text": "La edad nunca influye en la lengua"
+          },
+          {
+            "id": "F2-093-D",
+            "text": "Las personas mayores usan únicamente neologismos tecnológicos"
+          }
+        ],
+        "correctOptionId": "F2-093-B"
+      },
+      {
+        "id": "F2-094",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estos grupos corresponde a métodos de investigación cualitativa del material?",
+        "options": [
+          {
+            "id": "F2-094-A",
+            "text": "Experimental, inductivo y deductivo únicamente"
+          },
+          {
+            "id": "F2-094-B",
+            "text": "Coma, punto y raya"
+          },
+          {
+            "id": "F2-094-C",
+            "text": "Artículo, pronombre y verbo"
+          },
+          {
+            "id": "F2-094-D",
+            "text": "Etnográfico, investigación acción e investigación participativa"
+          }
+        ],
+        "correctOptionId": "F2-094-D"
+      },
+      {
+        "id": "F2-095",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué expresan las conjunciones condicionales como «si» o «con tal que»?",
+        "options": [
+          {
+            "id": "F2-095-A",
+            "text": "Condición"
+          },
+          {
+            "id": "F2-095-B",
+            "text": "Consecuencia"
+          },
+          {
+            "id": "F2-095-C",
+            "text": "Comparación"
+          },
+          {
+            "id": "F2-095-D",
+            "text": "Adición"
+          }
+        ],
+        "correctOptionId": "F2-095-A"
+      },
+      {
+        "id": "F2-096",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué se presenta en los resultados o conclusiones de un texto científico?",
+        "options": [
+          {
+            "id": "F2-096-A",
+            "text": "Únicamente la portada"
+          },
+          {
+            "id": "F2-096-B",
+            "text": "Solo una lista de interjecciones"
+          },
+          {
+            "id": "F2-096-C",
+            "text": "Solo el nombre de los autores"
+          },
+          {
+            "id": "F2-096-D",
+            "text": "Los datos, resultados experimentales o elementos necesarios para cerrar el texto"
+          }
+        ],
+        "correctOptionId": "F2-096-D"
+      },
+      {
+        "id": "F2-097",
+        "topic": "Lengua Castellana",
+        "text": "¿Cómo se escriben los nombres de instituciones según el material?",
+        "options": [
+          {
+            "id": "F2-097-A",
+            "text": "Siempre todo en minúsculas"
+          },
+          {
+            "id": "F2-097-B",
+            "text": "Sin distinguir palabras importantes"
+          },
+          {
+            "id": "F2-097-C",
+            "text": "Con mayúscula inicial en las palabras importantes, salvo artículos, preposiciones o conjunciones cuando corresponda"
+          },
+          {
+            "id": "F2-097-D",
+            "text": "Siempre todo en mayúsculas sostenidas"
+          }
+        ],
+        "correctOptionId": "F2-097-C"
+      },
+      {
+        "id": "F2-099",
+        "topic": "Lengua Castellana",
+        "text": "¿Qué tipo de coordinada expresa distribución con estructuras como «ya… ya»?",
+        "options": [
+          {
+            "id": "F2-099-A",
+            "text": "Distributiva"
+          },
+          {
+            "id": "F2-099-B",
+            "text": "Adversativa"
+          },
+          {
+            "id": "F2-099-C",
+            "text": "Explicativa"
+          },
+          {
+            "id": "F2-099-D",
+            "text": "Copulativa"
+          }
+        ],
+        "correctOptionId": "F2-099-A"
+      },
+      {
+        "id": "F2-100",
+        "topic": "Lengua Castellana",
+        "text": "¿Cuál de estas palabras aparece como ejemplo de indigenismo en el material?",
+        "options": [
+          {
+            "id": "F2-100-A",
+            "text": "Boutique"
+          },
+          {
+            "id": "F2-100-B",
+            "text": "Papa"
+          },
+          {
+            "id": "F2-100-C",
+            "text": "Backstage"
+          },
+          {
+            "id": "F2-100-D",
+            "text": "Ajedrez"
+          }
+        ],
+        "correctOptionId": "F2-100-B"
+      }
+    ]
+  }
+]

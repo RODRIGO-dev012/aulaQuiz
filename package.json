@@ -4,6 +4,7 @@
   "version": "1.7.0",
   "type": "module",
   "scripts": {
+    "build:local": "npm run build",
     "dev": "vite --host 0.0.0.0",
     "build": "tsc -b && node scripts/verify-production-content.mjs --source-only && vite build && node scripts/verify-production-content.mjs",
     "preview": "vite preview --host 0.0.0.0",

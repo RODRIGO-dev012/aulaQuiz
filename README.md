@@ -1,8 +1,14 @@
 # AulaQuiz V1.7
 
+Versión integrada: **660 preguntas reales / 9 bancos** (475 existentes + Lengua Castellana Sexto F1: 95 y F2: 90). Se conservan aparte las 25 demostraciones. Ver `INFORME_PUBLICACION_LENGUA_SEXTO.md`, `INFORME_INTEGRACION_LENGUA_SEXTO.md` y `publicacion/REVISION_SIMILITUD_LENGUA_SEXTO.md`. Las claves nuevas proceden de revisión preliminar, no de certificación docente.
+
+La publicación de los 185 ejercicios adicionales fue autorizada expresamente el 23/11/2026. El alcance, IDs, hashes y límites están registrados en `publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md` y `APROBACIONES_BANCOS.json`. `npm run build` y `npm run verify:production` exigen esa autorización exacta; no certifican académicamente las claves. `build:local` es un alias del mismo control de producción.
+
+La **fuente oficial** es el repositorio Git `RODRIGO-dev012/aulaQuiz`, rama `main`, en el clon `D:\AulaQuiz\publicacion\despliegue-v1.3`. Crear futuras ramas desde `main` actualizado, revisar sus diffs y conservar los nueve bancos y 660 preguntas como base. La carpeta `D:\AulaQuiz` conserva una copia anterior: no copiar su `src`, configuración ni verificadores encima de este clon. Antes de usar archivos de esa carpeta, ejecutar `node scripts/compare-main-source.mjs D:/AulaQuiz`: código 1 significa divergencias que deben reconciliarse. El comprobador solo lee archivos. No sincronizar carpetas completas ni materiales privados.
+
 [Abrir AulaQuiz](https://rodrigo-dev012.github.io/aulaQuiz/) · [Repositorio](https://github.com/RODRIGO-dev012/aulaQuiz)
 
-Siete cuestionarios de práctica con **475 preguntas**: Química Orgánica 100, Física 100, Matemáticas 100 y Ciencias Sociales N.º 1–4: 30, 48, 51 y 46. Las claves son **propuestas, no oficiales ni certificadas**. Hay 345 ejercicios literales y 130 adaptaciones identificadas en pantalla como material de estudio. Las cuatro demostraciones / 25 preguntas se muestran por separado.
+La versión publicada antes de esta integración contiene siete cuestionarios de práctica con **475 preguntas**: Química Orgánica 100, Física 100, Matemáticas 100 y Ciencias Sociales N.º 1–4: 30, 48, 51 y 46. Las claves son **propuestas, no oficiales ni certificadas**. Hay 345 ejercicios literales y 130 adaptaciones identificadas en pantalla como material de estudio. Las cuatro demostraciones / 25 preguntas se muestran por separado.
 
 V1.7 conserva las 381 preguntas V1.5 con sus IDs, textos, alternativas y claves sin cambios, y añade 94 adaptaciones. Los siete IDs de banco permanecen. Los perfiles, resultados históricos y el aprendizaje de preguntas idénticas se conservan en el navegador; una adaptación tiene ID propio y no hereda dominio del original.
 
@@ -29,7 +35,7 @@ Las pruebas históricas conservan fixtures de sus versiones. El catálogo de pro
 
 ## Publicar actualizaciones
 
-Trabajar en el clon saneado publicacion/despliegue-v1.3. Antes de cambiarlo, ejecutar git pull --ff-only; revisar los cambios y el alcance exacto autorizado en publicacion/APROBACIONES_BANCOS.json y publicacion/AUTORIZACION_V1_7.md. No basta actualizar un hash: la autorización vincula versión, IDs y contenido propuesto sin inventar certificación docente.
+Trabajar en el clon saneado publicacion/despliegue-v1.3. Antes de cambiarlo, verificar que Git esté limpio y actualizar `main` con `git pull --ff-only`; crear una rama para el cambio y revisar el diff completo. Revisar el alcance exacto autorizado en publicacion/APROBACIONES_BANCOS.json, publicacion/AUTORIZACION_V1_7.md y publicacion/AUTORIZACION_LENGUA_SEXTO_V1_7.md. No basta actualizar un hash: la autorización vincula versión, IDs y contenido propuesto sin inventar certificación docente. Compilar antes de arrancar Playwright y no regenerar `dist` durante las pruebas.
 
 Después de validar, commit y push normal a main ejecutan GitHub Actions. Solo se despliega si validate aprueba y se mantienen las variables AULAQUIZ_PAGES_APPROVED=true y AULAQUIZ_AUTO_DEPLOY=true. Los pull requests validan sin publicar. No usar force push ni desactivar controles para solucionar fallos. Verificar Actions y la URL real después de publicar.
 

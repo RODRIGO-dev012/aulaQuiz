@@ -17,6 +17,7 @@ tokens*
 .aws/
 # Academic source content is private until separately authorized.
 importaciones/
+materiales-importacion/
 revisiones/
 src/data/local-review-banks.json
 tests-academic/
