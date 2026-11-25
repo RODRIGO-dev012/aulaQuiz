@@ -1,5 +1,7 @@
 # Plan autorizado de publicación — Biología Sexto
 
+**Completado el 25/11/2026.** Código publicado `d287de9`, integración fast-forward y push normal; Actions `45513733173` aprobó validación y despliegue. Se aprobaron 211 unitarias, 230 casos de navegador local y 100 públicos. Punto de recuperación: `820fb12e4517a3b38b85d1c578be258d7e420376`. Ver [informe final](INFORME_PUBLICACION_BIOLOGIA_SEXTO.md). Los pasos siguientes quedan como registro del procedimiento utilizado.
+
 El propietario autorizó publicar el banco definitivo de **172 preguntas**, después de excluir las cuatro indicadas, únicamente si todas las validaciones son satisfactorias y no aparecen nuevos bloqueos. No hace falta reiterar esa autorización; su alcance y hashes constan en `publicacion/AUTORIZACION_BIOLOGIA_SEXTO_V1_7.md`.
 
 1. Conservar las 660 anteriores y retirar 28 preguntas de Biología del banco estudiantil. Mantener registros y motivos fuera del artefacto, sin inventar reemplazos ni cambiar claves.

@@ -33,7 +33,7 @@ Las pruebas de navegador de Biología se incorporan a la suite normal de regresi
 
 ## Estado y documentos relacionados
 
-Unitarias: 211 aprobadas. Typecheck y compilación normal: aprobados. El cierre de navegador, Actions y producción se registra en [RESULTADO_PRUEBAS_BIOLOGIA.md](RESULTADO_PRUEBAS_BIOLOGIA.md) e [INFORME_PUBLICACION_BIOLOGIA_SEXTO.md](INFORME_PUBLICACION_BIOLOGIA_SEXTO.md); no se presume un despliegue antes de observarlo.
+Unitarias: 211 aprobadas. Typecheck y compilación normal: aprobados. Navegador local: 230 casos aprobados. Código publicado: `d287de9d5327cc96a70de6565daaa2c57cd16955`; GitHub Actions [45513733173](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/45513733173) completado correctamente en validación y despliegue. El cierre de las pruebas públicas y sus incidencias se registra en [RESULTADO_PRUEBAS_BIOLOGIA.md](RESULTADO_PRUEBAS_BIOLOGIA.md) e [INFORME_PUBLICACION_BIOLOGIA_SEXTO.md](INFORME_PUBLICACION_BIOLOGIA_SEXTO.md).
 
 La fuente oficial para futuras actualizaciones sigue siendo GitHub `main` en este clon. No copiar automáticamente la carpeta principal ni otras versiones sobre este código. Crear ramas desde main actualizado y preservar los once bancos, sus IDs, autorizaciones y compatibilidad de progreso. Las revisiones académicas siguen siendo preliminares, sin cotejo exhaustivo con el PDF no entregado.
 

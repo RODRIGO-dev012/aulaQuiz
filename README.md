@@ -1,6 +1,8 @@
 # AulaQuiz V1.7
 
-Versión definitiva de Biología: **832 preguntas reales / 11 bancos / 6 materias**, con las 660 anteriores intactas y Biología Sexto F1: 86 / F2: 86. Se conservan 28 exclusiones de Biología y 15 de Lengua. La compilación normal contiene los once bancos. Publicación autorizada bajo condición de validar todo; ver [informe de publicación](INFORME_PUBLICACION_BIOLOGIA_SEXTO.md), [integración](INFORME_INTEGRACION_BIOLOGIA_SEXTO.md), [pruebas](RESULTADO_PRUEBAS_BIOLOGIA.md) y [plan](PLAN_PUBLICACION_BIOLOGIA.md). Claves preliminares, no oficiales ni certificadas.
+Versión publicada de Biología: **832 preguntas reales / 11 bancos / 6 materias**, con las 660 anteriores intactas y Biología Sexto F1: 86 / F2: 86. Se conservan 28 exclusiones de Biología y 15 de Lengua. Código publicado `d287de9`; [Actions 45513733173](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/45513733173) aprobó validación y despliegue. Ver [informe de publicación](INFORME_PUBLICACION_BIOLOGIA_SEXTO.md), [integración](INFORME_INTEGRACION_BIOLOGIA_SEXTO.md), [pruebas](RESULTADO_PRUEBAS_BIOLOGIA.md) y [plan](PLAN_PUBLICACION_BIOLOGIA.md). Claves preliminares, no oficiales ni certificadas.
+
+Validación terminada el 25/11/2026: **211 unitarias, 230 casos de navegador local y 100 públicos aprobados**. Los once bancos se recorrieron completos en cinco resoluciones; se verificaron puntuaciones, progreso anterior y ausencia de errores de consola/HTTP en los casos ejecutados. El cierre posterior es exclusivamente documental y conserva el mismo código desplegado.
 
 Publicación de Lengua completada y verificada: [Actions 45302082709](https://github.com/RODRIGO-dev012/aulaQuiz/actions/runs/45302082709), `validate` y `deploy` aprobados. Código publicado `7d227db`; 191 pruebas unitarias y 30 recorridos headless sobre la URL pública aprobados. Ver [informe de publicación](INFORME_PUBLICACION_LENGUA_SEXTO.md) para resultados, recuperación y límites.
 
